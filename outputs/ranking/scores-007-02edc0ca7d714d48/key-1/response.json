@@ -1,0 +1,354 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "x-gemini-service-tier": "standard",
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Sun, 08 Nov 2026 10:23:05 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=130800",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    }
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"assessments\": [\n    {\n      \"candidate_id\": \"W008-C004\",\n      \"hook\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E043-B0056\",\n          \"E043-B0057\",\n          \"E043-B0058\",\n          \"E043-B0059\"\n        ],\n        \"reason\": \"Opens immediately with Alexander towering over the cowering Rupert, delivering a crushing accusation of treason that Rupert desperately denies.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E043-B0083\",\n          \"E043-B0085\",\n          \"E043-B0086\",\n          \"E043-B0087\"\n        ],\n        \"reason\": \"Lord Sterling's frantic church escape is instantly thwarted by a constable blocking the threshold, cutting on Sterling's frozen panic before his capture or confession.\"\n      },\n      \"clarity\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E043-B0057\",\n          \"E043-B0064\",\n          \"E043-B0070\",\n          \"E043-B0072\",\n          \"E043-B0078\",\n          \"E043-B0086\"\n        ],\n        \"reason\": \"The Crown Official's legal proclamation clearly explains the usurpation and false death confirmation, smoothly framing Rupert's deflecting betrayal toward Sterling.\"\n      },\n      \"escalation\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E043-B0065\",\n          \"E043-B0072\",\n          \"E043-B0076\",\n          \"E043-B0078\",\n          \"E043-B0080\"\n        ],\n        \"reason\": \"Every beat advances the exposure: from personal accusation to legal invalidation of the title, to Rupert ratting out his co-conspirator, to Sterling's botched escape.\"\n      },\n      \"hook_summary\": \"Alexander towers over Rupert and furiously accuses him of selling his soldiers to the enemy.\",\n      \"cliffhanger_question\": \"Will Lord Sterling surrender to the waiting constable or attempt a desperate bid to evade arrest and implicate Rupert further?\",\n      \"why_it_works\": \"It delivers a complete, high-stakes courtroom-style exposure in a ruined cathedral that culminates in a thrilling trap at the exit.\",\n      \"concerns\": [\n        \"Catherine's brief appearance in a bridal veil is barely contextualized within this specific cut.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W009-C003\",\n      \"hook\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E043-B0056\",\n          \"E043-B0057\",\n          \"E043-B0058\",\n          \"E043-B0059\"\n        ],\n        \"reason\": \"Launches straight into high drama with a low-angle confrontation where Alexander accuses the fallen Rupert of selling his men to the enemy.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E043-B0083\",\n          \"E043-B0085\",\n          \"E043-B0086\",\n          \"E043-B0087\"\n        ],\n        \"reason\": \"Cuts on the exact moment Sterling opens the church doors only to find an armed police constable waiting for him, leaving his immediate fate hanging.\"\n      },\n      \"clarity\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E043-B0057\",\n          \"E043-B0064\",\n          \"E043-B0068\",\n          \"E043-B0072\",\n          \"E043-B0078\",\n          \"E043-B0086\"\n        ],\n        \"reason\": \"The spoken exposition from Alexander and the Crown Official effortlessly explains the whole backstory of stolen identity and faked death without requiring prior context.\"\n      },\n      \"escalation\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E043-B0064\",\n          \"E043-B0072\",\n          \"E043-B0077\",\n          \"E043-B0080\",\n          \"E043-B0085\"\n        ],\n        \"reason\": \"Tension tightens consistently from Rupert's public humiliation to his betrayal of Sterling, culminating in a dynamic physical chase and blockade.\"\n      },\n      \"hook_summary\": \"Alexander towers over Rupert and furiously accuses him of selling his soldiers to the enemy.\",\n      \"cliffhanger_question\": \"Will Lord Sterling be arrested on the spot, and will he drag Rupert down with him?\",\n      \"why_it_works\": \"The narrative momentum never stalls, shifting cleanly from a verbal reckoning to an official legal downfall and an intercepted escape.\",\n      \"concerns\": [\n        \"Viewers unfamiliar with the serial may wonder why Catherine is dressed as a bride in the background.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W008-C005\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\n          \"E044-B0017\",\n          \"E044-B0018\"\n        ],\n        \"reason\": \"Catherine walking away from Rupert toward Alexander weeping about thinking he died provides emotional melodrama, but lacks visceral sudden impact.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 2,\n        \"evidence_ids\": [\n          \"E044-B0049\",\n          \"E044-B0050\",\n          \"E044-B0053\",\n          \"E044-B0054\"\n        ],\n        \"reason\": \"Catherine gasping 'Her?!' as Alexander approaches the chained Juliana establishes jealousy and surprise, but the candidate ends abruptly on a partial boundary frame.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E044-B0018\",\n          \"E044-B0026\",\n          \"E044-B0035\",\n          \"E044-B0037\",\n          \"E044-B0041\"\n        ],\n        \"reason\": \"The romantic betrayal and social ambition dynamic between Alexander and Catherine is completely clear, though Juliana's shackled presence at the door is unexplained.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E044-B0028\",\n          \"E044-B0030\",\n          \"E044-B0037\",\n          \"E044-B0041\",\n          \"E044-B0050\"\n        ],\n        \"reason\": \"Dialogue progresses steadily from Catherine's romantic pleading to Alexander's harsh rejection and physical departure toward another woman.\"\n      },\n      \"hook_summary\": \"A tearful bride approaches Alexander, lamenting that she believed he was dead.\",\n      \"cliffhanger_question\": \"Why is Juliana chained at the cathedral entrance, and how will Alexander defend her against Catherine's outrage?\",\n      \"why_it_works\": \"The cold dismantling of Catherine's opportunism provides sharp, satisfying relationship drama.\",\n      \"concerns\": [\n        \"The final reaction shot suffers from a partial boundary cut that clips the tail end of Catherine's shock.\",\n        \"Juliana appearing in chains with no prior explanation in this excerpt may confuse cold viewers.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W009-C004\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\n          \"E044-B0017\",\n          \"E044-B0018\"\n        ],\n        \"reason\": \"Catherine stepping in her wedding dress toward Alexander crying that she thought he died offers clear romantic tension, but acts as routine melodrama.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E044-B0049\",\n          \"E044-B0050\",\n          \"E044-B0053\",\n          \"E044-B0054\"\n        ],\n        \"reason\": \"Unlike the truncated variant, this cut holds Catherine's incredulous gasp 'Her?!' cleanly as Alexander walks away to claim the shackled Juliana, posing a sharp rivalry dilemma.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E044-B0018\",\n          \"E044-B0026\",\n          \"E044-B0035\",\n          \"E044-B0041\"\n        ],\n        \"reason\": \"The dialogue makes the past engagement and Catherine's opportunistic status clear, though Juliana's background and imprisonment lack setup.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E044-B0029\",\n          \"E044-B0030\",\n          \"E044-B0037\",\n          \"E044-B0041\",\n          \"E044-B0051\"\n        ],\n        \"reason\": \"Moves purposefully from tender appeal to cold spurning, culminating in Alexander completely walking out on Catherine to choose Juliana.\"\n      },\n      \"hook_summary\": \"A tearful bride approaches Alexander, lamenting that she believed he was dead.\",\n      \"cliffhanger_question\": \"Who is the chained woman at the cathedral door, and what will Alexander do to overturn Catherine's claims?\",\n      \"why_it_works\": \"The emotional turning point is clear and lands on an effective dramatic twist when Alexander rejects the aristocratic bride for a prisoner.\",\n      \"concerns\": [\n        \"Pacing in the first twenty seconds relies heavily on static, repetitive tearful pleading.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W008-C006\",\n      \"hook\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E045-B0057\",\n          \"E045-B0058\",\n          \"E045-B0059\",\n          \"E045-B0060\"\n        ],\n        \"reason\": \"Cathedral doors violently slam open with an echoing thud as an armed party and a priest burst in shouting 'No one will bow yet!'.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E045-B0067\",\n          \"E045-B0070\",\n          \"E045-B0071\",\n          \"E045-B0073\",\n          \"E045-B0074\"\n        ],\n        \"reason\": \"Juliana is stripped of her duchess title by the High Priest while an armed officer draws a sword, ending on Catherine's vindictive smile as Juliana panics.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E045-B0064\",\n          \"E045-B0066\",\n          \"E045-B0068\",\n          \"E045-B0070\"\n        ],\n        \"reason\": \"The High Priest explicitly reads the legal invalidation of Juliana's marriage, making the sudden crisis immediately understandable despite lack of prologue.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E045-B0060\",\n          \"E045-B0064\",\n          \"E045-B0067\",\n          \"E045-B0070\",\n          \"E045-B0073\"\n        ],\n        \"reason\": \"The sequence ramps up pressure through the progressive reading of royal charges and the draw of steel against Alexander and Juliana.\"\n      },\n      \"hook_summary\": \"Cathedral doors are violently breached by a High Priest and an armed officer ordering the congregation not to bow.\",\n      \"cliffhanger_question\": \"Can Alexander protect Juliana from being seized after the Church and Crown declare their marriage null and void?\",\n      \"why_it_works\": \"It is lean, urgent, and kicks off with an energetic door-bursting intrusion that directly threatens the leads.\",\n      \"concerns\": [\n        \"Without seeing Alexander declare Juliana his wife right before, the intrusion loses the contrast of shattering their brief victory.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W009-C005\",\n      \"hook\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E045-B0044\",\n          \"E045-B0045\"\n        ],\n        \"reason\": \"Alexander delivers a booming, confrontational proclamation about those who hurt his mother and wife, immediately hooking interest in the courtroom-style drama.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E045-B0067\",\n          \"E045-B0070\",\n          \"E045-B0071\",\n          \"E045-B0073\",\n          \"E045-B0074\"\n        ],\n        \"reason\": \"Cuts on the High Priest invalidating the marriage while Catherine smirks in triumph and an officer draws a sword on the terrified Juliana.\"\n      },\n      \"clarity\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E045-B0045\",\n          \"E045-B0053\",\n          \"E045-B0064\",\n          \"E045-B0070\"\n        ],\n        \"reason\": \"Setting up Alexander's public marriage proclamation makes the High Priest's subsequent arrival and declaration of illegality completely crystal clear.\"\n      },\n      \"escalation\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E045-B0053\",\n          \"E045-B0057\",\n          \"E045-B0064\",\n          \"E045-B0067\",\n          \"E045-B0073\"\n        ],\n        \"reason\": \"Features a flawless emotional arc: peak romantic triumph and vindication instantly flipped on its head by an armed royal annulment.\"\n      },\n      \"hook_summary\": \"Alexander loudly condemns those who harmed his mother and his wife before the congregation.\",\n      \"cliffhanger_question\": \"How will Alexander defend Juliana now that the Crown officer has drawn his sword and the Church has annulled their union?\",\n      \"why_it_works\": \"The reversal is extraordinarily effective because the viewer experiences Alexander's grand proclamation right before the High Priest tears it apart.\",\n      \"concerns\": [\n        \"At nearly 60 seconds, it demands sustained viewer attention through two distinct narrative movements.\"\n      ]\n    }\n  ]\n}",
+            "thought_signature": "EqEtCp4tAWkUfRPgGZYRsPt0hoZBtk0rzSFd7jpEWIoGvj-PMRyp2LK5k2kovsldbuaDuShNaJsJVzrwaVswv3v-xTy5M5u6y-3BVeid5gbWD5pBzjilPdOLSFdAIwU00uzcXMLLfhaxxddBIZqVW1-nPunX3AkjVxrqq3zVsalx12Aivg1BPJx_LzxWPne1OQojYzkAqox07TKP4Yy4te9wUTN1n0azu_MjSS0Jhh_UrBM1WKeVIyf2hiiOeBVzjLxdZqzf7TYLs1noDrxkQUG4wwZyQ1GxUhrAT1u1Y3OQG6PCB0Hrdrkyk_ikv9i8S_BeXd99B-P6iSDbmDVsu0A_5fD8aYJrHWYsDKUqvCJNwuMmnwTXVwf71cQmFhShpVKag7i3a16NjUSBVeixH7mK8FlzJt4TS3kvHZzDkiY8N1K49MUBTWGlCW0XlCl5jLxGFQ8SZisE2VrurCd9X-xqVwPmYZ-dsXHsiqix_VSckgpkttIoSMRrLFsrCJRvJnrKI9P9Z2g-zMs4eQVxrBAfWpRSzOt0NxaE7D41OAZJySzE4OYi_oHmPEXqZoBAdgTrgw6vs00dXtWqenD1GgYxrngUntwU1Ee0-W1kGsW5I2viMo_RS9rYJ-3BEzVI7lbSNODqRRRo4nhEgVwCYdMKjZyWJQPFjBTW4m8p6cQFaJuIDYp4h03Ao_VVg-5YsK9yuyRCIaMkXdINP-dnPX4cdbBvp0nNRbu4RGZwWliMWxeVovG1ZmsmHMeGt7Mvf9tHxRT7f6xU-PGMWeyaIO8GtQDfP736Gfiush_HYalNRgL4wPdU1q8QZzRuUHJwMoVsRnOFxpM9UlpIEdyXurg9JDf_tYM2YZ4qUJx6UV16WUPdosYfQ7oKk3MEzwu1YzZZVYL3PzYtw8FZrahoUXrUsw6lue9nKDEWdxYlr3mDECC6wrqD6MKuxe8JRTcMSZ_TINe4KBo0pqE9ft5AHT-qK1F50VeMdPeZL6GQ2H2kRRtTcHvt1Tuy8D-OBff39AQBM2RNBTD81QulNCQ1ZdVJG_2ew-SyZR4rA4pv8fr4klnIIuGQQslQH0n-F9dEbMQpoFDhohKw-1K92dwbqreVSHqA7SCJYduJL4fH9NFLDjZg3FEZM2YYzXDajHeZlIqaMRJJAUI9SFzXV_RVJLdkI76UDgdVxuzIysbMyc5B6jB3lYOADV0rm8s8z-GcAKiekqlukWvPD3GQJFozKSSzFfr_UhUkha7NmgPLZQrUtEjJ-GB4hj2wP2NDij27t7A6RmKgJl5vVptkGQkbI3paYanlkasajpdqP9WGzmsTj0T-NGY6UBQv7gG7pNaTkgDxUcwJasbFN4-WGn1cYuWgKe7_r79c5vk9WoWAEX2yhk1TiIpRfpndodlLeLSx7UecIFSOH9uABIRFYHEr9Jaq5bib9DSLaGiIs7IQj6-CjpQ5ayLCVCL-m-mRMdhtCtyU4nQ0SQcmXuI1tF3BiI6KaXjw43vBBZcDhjVz-O1iKJg9JosBJutELmBGWkXhJIogYbeL1sk6LUL1KJBR_aFefMmyeyq-FqGyIDEYzy8ZGNnhMAlZc0a6Mer_sfuFjhA2oPBvMYSy7YKDDud2a84iCyEy6AQQUGDA3JP58xBl6XNgv4ir-9lWRW1FGL-UkR5kIwWzzHYpXPzyKi8wAMYXY79kdvyRRHwXdzaDQpG_QIeTspz79J7AIrO1sPe4iAEM8w8ewCzNQD6zeZB_iNRNNQOKF0bl9kIoegEjLLLftMs79rk0x0Ga7mG7axOvjvydBZBxML7QDIzzfTPalWkYDJjhTQzOZSYTn9EBfnfgkANxGXF83eQrIzMeBPX7RMlEmzwJu9qURDDDCbWxTHeWcLguTK8mMw4Y9gRUFolYoaXamIj4CdwyqVWJ5TKIE3NVDrKc96ow8Ef8PkfV-o9xGh99KuWNNSReaVszykA2TkVExoejVjIF5ZNpXBuqS9sC0dpmbkknv5IOoJOsiwQvMa19rRIp9f-494LSxZy1nTk7DLCMmpWMLJyFw8S5q-COqzEe8kP_FOBVyTGCWOBg0acI5NiTabCMUFcObkfzjgeyaaUJAI1Hx8hn2S8j4d2Dbjsc1q_GicSX73gnWcLE4Rx5ceQ1X1-kIBvPgE28uNCoagFdOWeaSStvPxwMBffAp9TXmNciEs5VfTyC-59xC202aqlH_K9la1rTot5-CUJHNdLQ-wJfRRfFLgyfqFA5Lyud9gYgjcMel79bC5nyydICv1sMoOXmITRgP6VHI9i5i0gYb9AybFIu20FGnDcqeIC-MR8Xjg2QqkfOJr0P43GavccTjc3d9RdpnQgvO41Ftdbkd6stBSJC1Of8IRRNsaw5qRH84deZ5MWrFU1sy3o5oANOURmfMYlUReOGAnh-kmtj-IAYho0IJGfvyIuCUwOoI5dQxzo7FoUEter0f4Vg54n-0VaqstFbaqEtaOy0QHVn-be2d3CP7Ua9vEJODYZ6F_CKKP0Rb7XZu83rumuZrYMaN5zqW2u1UWrb7OoRAF0RLcCBI7bS7QfKi_n-4Fz7MLFZCH2ypGVI3_MfKqAMS0GBnK3QMUAM8ZwyzvEgO-qWEqffVmdSRx_FGrac8XW_2nBFcAqHEq7o5kRhBo0JHzii0C0qREL_nMspXUMdzVzry9SZDrsrDoSOJN_A2uPszc53GHz1otzSMsVkOKcPVxc9b_csqhWwG30d0-_TR3zDxexq9pCS5fDgYBEtG7SFB1IwC5-qMkqLmrKKMOPywMKiorsnTbXtFp-63yk6sevsSnoKsowvdCwyeeN9amrQvmIKETrfoPsbufoUJbpc6i69iWJ27iDdPTvXM7leAtPXc8bz_NNl0JVNsKMybNriHN9F6gdxPxLLkr69RuqBJH69PWT8yYjW9K4Cay8d5WKzrSBz63b012EVzp4VPdlfXnS8lUUyebEFT2aqqGonDtNUxpjOwYjiFjrsbfsT1-VklXTIDKnxzwQ46dMa3KiyX1czJbrfWG1NN95AFaOEzlpXxOFw8V7T260RB9bxGmo_pkg9rKqL3csDxXPuaVW3DKLxKLWDkDCLHprzB8wimVvsK3dNVyS6v9_O1lg2PUchB7Gt03XumV4ZSn7VvFh4JMyh6_v5Qy8AWBbfJlFI44opMiQNtD18W89MbqUv6aOCdDNe2A1KReVI0VlLqO0FKO37-cUIufdTT0IHErh-7L8V_pnkzXP4T4MJaoEIfVXEK2mLq5VZe-DwvWj85MU2Q_b_QAzTmAtqTLNfyNtmh_TzIMJrayFam5712vHKa6JKx0gbm1sVciDKNFPSqiuhJ8KQ6arqUfemeLdFW0_o_8L74_2mY82b0DonTOJB9zLOsCMgvHT-X-aqXbdhG73NToUgWGPbGT0Xt4tTzQM6dKRAMHu7LQoBv0EaR4dn_Bzi_4OgTr8yWkz8Oh1UcG5BWAsNzznuFjcAZuosVuszk7mU2xoe1562KFR-cTTMPb_BnDm2oOnV0hurC8F950fFEZlxI5l0Rrkry6CGtEQLCBGjo5_K8zSJfEkuySDQVxaOUrCLvRF9N6crGQRwkB1KIV6BFzv_H8Yh0JmKshs2gE-HpwEPz21NWJGWQjTaQUeOCi6uDUxJDxL1_oWMgn0WwzWwV9JWg2JOOZoEkleu__LjT1gfHSm3ez8VCpD4vvhQ60ppvmWcT2ynGa4LLnK2W8PMaM_YQeNn8O-A00gzUtI59cgppyFbnst9huzI_CqhJdqRE_FWDB0-JA2NciXV5zoBlCmjbKTyGGufsQ_iSum_PxtFUKbvZBV1ZjUYwqZeruoIHGUdpl0wJWfik555tnjSuPoG0w88JhKcEHnOILTzJ0Cew-NopY-hlHnhcAIZtg8xm14Nn_70aAyvZbpwk99x6SjPl3tSNtp6qjsUW-6TbJDWoQSDQD2qrOSS3qYMjNohz3MYgzZKoHXvrAX7z73_aWNiq5drKcWigntU1cXueyWJcUg8-bVhE6TCx1SvBttjeedApqklsjrz15j5_jh1EGTXa6oH3GvWpcz5VPGUZAXSMjeNSCkErxcv7pSd1Rr5G_J16UqB-7M9JP5CzygeCrsNefEqCqsvL27pbmmNO89JvHY910wvZwGJG2uv1QxRtBhKgZyOmFXnQ_dGvKMLngDaA5-ri3Y28yTl8NrEoUzokHheFkTqV4JwIoKbEIFDvlYEamxdSPVPz-1m-RoQYF5bo_UNltgj1zU8w8wYALtT0ixHHQO4u68YC4relKmuDcA46HgABessm-yKq2Q8BK0NSqQD7kSz6wWGAixAIf-DBY7EQS0t1oUN9GgKrrbBk5yZ4SwRFNdQIm3w5vFsYafm61F8JKnRz1agnPE34bqsp4M0MOg1dmgqfm8I_i1wKhwRR3D4ARktCWqcfJu7gPPZwgkWYS5S5Hb-cximczFiBVjp_6vsmt4Yoy5keVHOaqNgSdzHY0IQHln0a4LAQbjBxo8cY8LInYuGFFV_ZGhzVkkZapmfY_2PogHXnc6o6vrBIGZ-lekBk73jYbtGcQvDbMbfiNQWgbuGmzwMIh85B8YFSDXR9huO0eos7Yy2dGpB5lDyekpv2x-v8JS9dwmBfe75CACJO0f8Gt_HOLpu8jYTciIP2yc6qevzhqo4-MknI453i6v--BaAkLhCh6m8ykUu3vfRYJmRtArD4qtJwDgTQcbZdPfDFv6hY8jW8QjDSRDIuo9vF-MFIYOhomh1O2Kvu-EwVtfwP9TWYKW51JNgZwadibwLrzjO_Zms1ouRFLiky51g5n8eXfFhcupKSkMSAwI1gh-SrEo8ce0cr2YJ63MdZ3qscboUsq5xY_qemkIO_Blciyctv9QRIWCzYDbws-IdMoahnwESdqu_ZHZC7Oq8yz3zxJufm3O8-UyWgpSEeBRtfLX8IY7DJNcr5biPWktvZT1GTdkwnFyXk1OeMF3a6LWgt4JHxx5pmneBN0JFFnuWKFEUND83x-Y0lMdYJqjm0nP7zvENTGiR7c3m32U2W3s7aewuPg8NwhiZtBmAuKq6Re9Iosd_HrrE7DKeJZUHq8_UGrRwL53frhOztegKwj1mETtp9FLP7DSyUtQrhcf9X9li2lbXOI5NHzLU14-kI2kTOAWAXH_3hqsqLYvauevRETUDmMuSZ4Dyz4GerNIQWLh5phLtHVhaACZIV17VMjXiYgaT8fFWNEGN_rMyci4P2Y0tXc1VLHZOExFOnLsns2p0pUuV2n53CzEYthNBEHoU53j5fOmAFGUeBjB26LWqezlmmF0bwV0YUwTYcDcUch-KN4QCa3K5_1kWeiMzYc2o1UM4woXzE9X1EQhagnlzLMEILTVRcHszjbJCrZZOwf1askrTrEDuYCs8gZwPY96lrRo-1Lhm9YaFsBSZm6IU_01KJW9MaL24PYEsa-0mW0EbwROwCZmQzSmrSrit-b47LTkk8yrEc7HbdCvfaq-SWRXsJdmB7H_hV8aEZLEc-gH87yRDr0GgbDhaFmbaaSgxG8ux1gvXWthuhl12FPTNNpaCYQZ-Iwd6KGvh-6c3lfLC8hrpWLYCIZmdf_rIPjfjG9PTLraAVsNltkK-VuOZK5-OgJ8J_H7k78y6dWoj5yVR-TzCYXSluB0WhFCTNodRrv1teUP9-HcoFo7PQzay6nkrQpGZxWzzwU3-RQrZwpObR3KPsbsI4761WOg0A8AHb5noOkg6xzZ4Y7FL7YnDmW9ipK_LfcGZcZHQG4Us_fB5rdjTuct6YHNqMuZLKWkmtKbmvq63463W0oJwCZ5J6fioXR6bkOIGjnJJQrLTkPIxPmeZN6y944l3FWKU957fsRRwFLq6IfPw2qnvuFUfOdcNBW3EP1DCCmACgFR8QzwAEc-zyJUFXimtxAXcetGS3Ucj1F4WSdJ7YnWxQ-VONopWSh_wTbO4POpuyEcEM5BAoX6r0_IVyIwWeSPGF8VN0h-e7RHu-oEm-IIrihEcfGHWb2JxZfOjC9no_6jJdp-AvA68ngJdqhoK0sP66DFHyl0-Kcuv1Rs83iaG5ZbWrmo0PLgliRq7MeJRa48lBY_ygWHhMEal320605-nyx7wHLZAY9Ulu-FXRWYyIjiW1veyjiJUWUGAUAKHlnQe5iwo2RPSeLssmDq6na_GN0rL7G1jNUJxM8ZIDj4CNNhW0gLKlqD2R3zrifoaoMnbmGJUwD8LZmIhVStuqBEdFUGRgYN14mEoGT2GUsYxFettJe8sxvIx2EyWwiJ2OrDh3QLMrHNhfkg1O94-dYNEMECYiySAzix2Z42t1NZsVh3Fmn2cX1SreS1wiSGVb2ztd-5yXC6Z24QhlIYHlvI2jQQ0BbWwfPpbU_KdVlU_7Nc0uGV2y9sAYx1mKYt7wOWVt7-6p2L8QAOpFkS3JlNy91197Qk0G4rPoqj9fxied9d3tVP4Z782V-1gCiMw2cGYRdopEXOfi-vDnVNSq1HbZFKDnxKdFRTxaM7bmdoIDFzSS_PU-0-YD9aM6z5bN3m4_v9m7piAV2xiSV-kAU20Cu4XJ1ca0y5K9wHwEb58kqHXcUCkxtDvAeTWuM-V1zWKn_uK39cHIKrbkRsSLQo4U2f1IrFmXB64qiWIjKFWHgwGgij-M5SOjjIMyDFXcguofO_x_1vcdUKifX8UBPvFwnp-LD1Qu5ILZJQ5qvTRTtdvIjDRVxju3uBD1rDIQ5d-iXFPjHQDRDOcgycBadjR_ucVqgbSlII1q169kWeZFOQeYJWe1klSm1b_pCPSEAbx7Q81z9muBSj2NT9Fxo_PUJF5ChoYljG8sJO77D5H0p6mrJrTX_kQwJ8-z6OWkNRvdTUGDwPX8KSM102I2YcbS3zBCm_SX2GjXq-cmBmH-Aa69asEiM5ZlestGxTu8c3W9DakHVljtE5Uphrei6Bf1dUJCfDlD4uckEde20UcH5XmVYbRn3zm4ToPl53y9yTlp-kuOH19r9GTHn30DNvlE9vTKP2KmxPYFqplI5esKlezH2yJ3Su4efnJzB-nN_0XpFLVKK0z1j8sStACSndPq9jWJqZO97aWCZG1l82M3o3rpqLubjRP3oDjgsLF9-HIBwbWRmu2izWPlfr-e0FobCv_ogr7ZEQkxU7QdqHOKtY3GQz7o9RIlELbn2uaqujfZgydIpcu5Zo3MJvuDSQJG58jtw_DUAnkYRDKIXfOR5WoBxysZj4GnY2BEnm7LKsed4PGECm2QYb4zefT7UFN5Issmiq1PJJQEyJ09dB1iWOOMczK3VLdpvFBC3BXrBxVwjBGa3ml1rrmZkcv9zcSQDq2wgBRnTaG5-ifPK7lF0dKyuLB9R9Ztfs2QlKQzOYkAstoGP4gnQaA4eIOWZzyNJT4vvqICWgMuk_mfmNPrBaeUWMTqN19tQpCPRkDCGdNSMyZzR29yMxm_spOzM_ah3w5ub8GKaKvt4h3F5XYUV4hAr6F-8JHWQYbUbTKD24-CtzUJZSb5mNx-9DAC4uX_p1mO9IJPKNlf8VpVeMXzAneRLlnJ3iXs2YDjr8a4SBMe5298NvWmdsITQfO0D8WwzwDAKm5L6Ko3m6JBFDJ-NSWgnhnoKMNdrsG2p8rlyr5xYYajzvsdDy-CP1m9egSj-Wfd2NeQjLUeRVM-eJefdVA515lX3gWC32TxiV3nV8wVCTWIx9K7o4EcZibD6iqnwMNDqQMXjU26L-hrm4cE-An"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "index": 0
+    }
+  ],
+  "model_version": "gemini-3.8-flash",
+  "response_id": "CE3wauCxAbCSz7sPz56Y8Q4",
+  "usage_metadata": {
+    "candidates_token_count": 3810,
+    "prompt_token_count": 17051,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 17051
+      }
+    ],
+    "thoughts_token_count": 1616,
+    "total_token_count": 22477
+  },
+  "automatic_function_calling_history": [],
+  "parsed": {
+    "assessments": [
+      {
+        "candidate_id": "W008-C004",
+        "hook": {
+          "score": 4,
+          "evidence_ids": [
+            "E043-B0056",
+            "E043-B0057",
+            "E043-B0058",
+            "E043-B0059"
+          ],
+          "reason": "Opens immediately with Alexander towering over the cowering Rupert, delivering a crushing accusation of treason that Rupert desperately denies."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E043-B0083",
+            "E043-B0085",
+            "E043-B0086",
+            "E043-B0087"
+          ],
+          "reason": "Lord Sterling's frantic church escape is instantly thwarted by a constable blocking the threshold, cutting on Sterling's frozen panic before his capture or confession."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E043-B0057",
+            "E043-B0064",
+            "E043-B0070",
+            "E043-B0072",
+            "E043-B0078",
+            "E043-B0086"
+          ],
+          "reason": "The Crown Official's legal proclamation clearly explains the usurpation and false death confirmation, smoothly framing Rupert's deflecting betrayal toward Sterling."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E043-B0065",
+            "E043-B0072",
+            "E043-B0076",
+            "E043-B0078",
+            "E043-B0080"
+          ],
+          "reason": "Every beat advances the exposure: from personal accusation to legal invalidation of the title, to Rupert ratting out his co-conspirator, to Sterling's botched escape."
+        },
+        "hook_summary": "Alexander towers over Rupert and furiously accuses him of selling his soldiers to the enemy.",
+        "cliffhanger_question": "Will Lord Sterling surrender to the waiting constable or attempt a desperate bid to evade arrest and implicate Rupert further?",
+        "why_it_works": "It delivers a complete, high-stakes courtroom-style exposure in a ruined cathedral that culminates in a thrilling trap at the exit.",
+        "concerns": [
+          "Catherine's brief appearance in a bridal veil is barely contextualized within this specific cut."
+        ]
+      },
+      {
+        "candidate_id": "W009-C003",
+        "hook": {
+          "score": 4,
+          "evidence_ids": [
+            "E043-B0056",
+            "E043-B0057",
+            "E043-B0058",
+            "E043-B0059"
+          ],
+          "reason": "Launches straight into high drama with a low-angle confrontation where Alexander accuses the fallen Rupert of selling his men to the enemy."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E043-B0083",
+            "E043-B0085",
+            "E043-B0086",
+            "E043-B0087"
+          ],
+          "reason": "Cuts on the exact moment Sterling opens the church doors only to find an armed police constable waiting for him, leaving his immediate fate hanging."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E043-B0057",
+            "E043-B0064",
+            "E043-B0068",
+            "E043-B0072",
+            "E043-B0078",
+            "E043-B0086"
+          ],
+          "reason": "The spoken exposition from Alexander and the Crown Official effortlessly explains the whole backstory of stolen identity and faked death without requiring prior context."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E043-B0064",
+            "E043-B0072",
+            "E043-B0077",
+            "E043-B0080",
+            "E043-B0085"
+          ],
+          "reason": "Tension tightens consistently from Rupert's public humiliation to his betrayal of Sterling, culminating in a dynamic physical chase and blockade."
+        },
+        "hook_summary": "Alexander towers over Rupert and furiously accuses him of selling his soldiers to the enemy.",
+        "cliffhanger_question": "Will Lord Sterling be arrested on the spot, and will he drag Rupert down with him?",
+        "why_it_works": "The narrative momentum never stalls, shifting cleanly from a verbal reckoning to an official legal downfall and an intercepted escape.",
+        "concerns": [
+          "Viewers unfamiliar with the serial may wonder why Catherine is dressed as a bride in the background."
+        ]
+      },
+      {
+        "candidate_id": "W008-C005",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E044-B0017",
+            "E044-B0018"
+          ],
+          "reason": "Catherine walking away from Rupert toward Alexander weeping about thinking he died provides emotional melodrama, but lacks visceral sudden impact."
+        },
+        "cliffhanger": {
+          "score": 2,
+          "evidence_ids": [
+            "E044-B0049",
+            "E044-B0050",
+            "E044-B0053",
+            "E044-B0054"
+          ],
+          "reason": "Catherine gasping 'Her?!' as Alexander approaches the chained Juliana establishes jealousy and surprise, but the candidate ends abruptly on a partial boundary frame."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E044-B0018",
+            "E044-B0026",
+            "E044-B0035",
+            "E044-B0037",
+            "E044-B0041"
+          ],
+          "reason": "The romantic betrayal and social ambition dynamic between Alexander and Catherine is completely clear, though Juliana's shackled presence at the door is unexplained."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E044-B0028",
+            "E044-B0030",
+            "E044-B0037",
+            "E044-B0041",
+            "E044-B0050"
+          ],
+          "reason": "Dialogue progresses steadily from Catherine's romantic pleading to Alexander's harsh rejection and physical departure toward another woman."
+        },
+        "hook_summary": "A tearful bride approaches Alexander, lamenting that she believed he was dead.",
+        "cliffhanger_question": "Why is Juliana chained at the cathedral entrance, and how will Alexander defend her against Catherine's outrage?",
+        "why_it_works": "The cold dismantling of Catherine's opportunism provides sharp, satisfying relationship drama.",
+        "concerns": [
+          "The final reaction shot suffers from a partial boundary cut that clips the tail end of Catherine's shock.",
+          "Juliana appearing in chains with no prior explanation in this excerpt may confuse cold viewers."
+        ]
+      },
+      {
+        "candidate_id": "W009-C004",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E044-B0017",
+            "E044-B0018"
+          ],
+          "reason": "Catherine stepping in her wedding dress toward Alexander crying that she thought he died offers clear romantic tension, but acts as routine melodrama."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E044-B0049",
+            "E044-B0050",
+            "E044-B0053",
+            "E044-B0054"
+          ],
+          "reason": "Unlike the truncated variant, this cut holds Catherine's incredulous gasp 'Her?!' cleanly as Alexander walks away to claim the shackled Juliana, posing a sharp rivalry dilemma."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E044-B0018",
+            "E044-B0026",
+            "E044-B0035",
+            "E044-B0041"
+          ],
+          "reason": "The dialogue makes the past engagement and Catherine's opportunistic status clear, though Juliana's background and imprisonment lack setup."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E044-B0029",
+            "E044-B0030",
+            "E044-B0037",
+            "E044-B0041",
+            "E044-B0051"
+          ],
+          "reason": "Moves purposefully from tender appeal to cold spurning, culminating in Alexander completely walking out on Catherine to choose Juliana."
+        },
+        "hook_summary": "A tearful bride approaches Alexander, lamenting that she believed he was dead.",
+        "cliffhanger_question": "Who is the chained woman at the cathedral door, and what will Alexander do to overturn Catherine's claims?",
+        "why_it_works": "The emotional turning point is clear and lands on an effective dramatic twist when Alexander rejects the aristocratic bride for a prisoner.",
+        "concerns": [
+          "Pacing in the first twenty seconds relies heavily on static, repetitive tearful pleading."
+        ]
+      },
+      {
+        "candidate_id": "W008-C006",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E045-B0057",
+            "E045-B0058",
+            "E045-B0059",
+            "E045-B0060"
+          ],
+          "reason": "Cathedral doors violently slam open with an echoing thud as an armed party and a priest burst in shouting 'No one will bow yet!'."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E045-B0067",
+            "E045-B0070",
+            "E045-B0071",
+            "E045-B0073",
+            "E045-B0074"
+          ],
+          "reason": "Juliana is stripped of her duchess title by the High Priest while an armed officer draws a sword, ending on Catherine's vindictive smile as Juliana panics."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E045-B0064",
+            "E045-B0066",
+            "E045-B0068",
+            "E045-B0070"
+          ],
+          "reason": "The High Priest explicitly reads the legal invalidation of Juliana's marriage, making the sudden crisis immediately understandable despite lack of prologue."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E045-B0060",
+            "E045-B0064",
+            "E045-B0067",
+            "E045-B0070",
+            "E045-B0073"
+          ],
+          "reason": "The sequence ramps up pressure through the progressive reading of royal charges and the draw of steel against Alexander and Juliana."
+        },
+        "hook_summary": "Cathedral doors are violently breached by a High Priest and an armed officer ordering the congregation not to bow.",
+        "cliffhanger_question": "Can Alexander protect Juliana from being seized after the Church and Crown declare their marriage null and void?",
+        "why_it_works": "It is lean, urgent, and kicks off with an energetic door-bursting intrusion that directly threatens the leads.",
+        "concerns": [
+          "Without seeing Alexander declare Juliana his wife right before, the intrusion loses the contrast of shattering their brief victory."
+        ]
+      },
+      {
+        "candidate_id": "W009-C005",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E045-B0044",
+            "E045-B0045"
+          ],
+          "reason": "Alexander delivers a booming, confrontational proclamation about those who hurt his mother and wife, immediately hooking interest in the courtroom-style drama."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E045-B0067",
+            "E045-B0070",
+            "E045-B0071",
+            "E045-B0073",
+            "E045-B0074"
+          ],
+          "reason": "Cuts on the High Priest invalidating the marriage while Catherine smirks in triumph and an officer draws a sword on the terrified Juliana."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E045-B0045",
+            "E045-B0053",
+            "E045-B0064",
+            "E045-B0070"
+          ],
+          "reason": "Setting up Alexander's public marriage proclamation makes the High Priest's subsequent arrival and declaration of illegality completely crystal clear."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E045-B0053",
+            "E045-B0057",
+            "E045-B0064",
+            "E045-B0067",
+            "E045-B0073"
+          ],
+          "reason": "Features a flawless emotional arc: peak romantic triumph and vindication instantly flipped on its head by an armed royal annulment."
+        },
+        "hook_summary": "Alexander loudly condemns those who harmed his mother and his wife before the congregation.",
+        "cliffhanger_question": "How will Alexander defend Juliana now that the Crown officer has drawn his sword and the Church has annulled their union?",
+        "why_it_works": "The reversal is extraordinarily effective because the viewer experiences Alexander's grand proclamation right before the High Priest tears it apart.",
+        "concerns": [
+          "At nearly 60 seconds, it demands sustained viewer attention through two distinct narrative movements."
+        ]
+      }
+    ]
+  }
+}

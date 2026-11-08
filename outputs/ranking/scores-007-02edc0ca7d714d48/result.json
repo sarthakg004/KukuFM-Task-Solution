@@ -1,0 +1,337 @@
+{
+  "data": {
+    "assessments": [
+      {
+        "candidate_id": "W008-C004",
+        "hook": {
+          "score": 4,
+          "evidence_ids": [
+            "E043-B0056",
+            "E043-B0057",
+            "E043-B0058",
+            "E043-B0059"
+          ],
+          "reason": "Opens immediately with Alexander towering over the cowering Rupert, delivering a crushing accusation of treason that Rupert desperately denies."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E043-B0083",
+            "E043-B0085",
+            "E043-B0086",
+            "E043-B0087"
+          ],
+          "reason": "Lord Sterling's frantic church escape is instantly thwarted by a constable blocking the threshold, cutting on Sterling's frozen panic before his capture or confession."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E043-B0057",
+            "E043-B0064",
+            "E043-B0070",
+            "E043-B0072",
+            "E043-B0078",
+            "E043-B0086"
+          ],
+          "reason": "The Crown Official's legal proclamation clearly explains the usurpation and false death confirmation, smoothly framing Rupert's deflecting betrayal toward Sterling."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E043-B0065",
+            "E043-B0072",
+            "E043-B0076",
+            "E043-B0078",
+            "E043-B0080"
+          ],
+          "reason": "Every beat advances the exposure: from personal accusation to legal invalidation of the title, to Rupert ratting out his co-conspirator, to Sterling's botched escape."
+        },
+        "hook_summary": "Alexander towers over Rupert and furiously accuses him of selling his soldiers to the enemy.",
+        "cliffhanger_question": "Will Lord Sterling surrender to the waiting constable or attempt a desperate bid to evade arrest and implicate Rupert further?",
+        "why_it_works": "It delivers a complete, high-stakes courtroom-style exposure in a ruined cathedral that culminates in a thrilling trap at the exit.",
+        "concerns": [
+          "Catherine's brief appearance in a bridal veil is barely contextualized within this specific cut."
+        ]
+      },
+      {
+        "candidate_id": "W009-C003",
+        "hook": {
+          "score": 4,
+          "evidence_ids": [
+            "E043-B0056",
+            "E043-B0057",
+            "E043-B0058",
+            "E043-B0059"
+          ],
+          "reason": "Launches straight into high drama with a low-angle confrontation where Alexander accuses the fallen Rupert of selling his men to the enemy."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E043-B0083",
+            "E043-B0085",
+            "E043-B0086",
+            "E043-B0087"
+          ],
+          "reason": "Cuts on the exact moment Sterling opens the church doors only to find an armed police constable waiting for him, leaving his immediate fate hanging."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E043-B0057",
+            "E043-B0064",
+            "E043-B0068",
+            "E043-B0072",
+            "E043-B0078",
+            "E043-B0086"
+          ],
+          "reason": "The spoken exposition from Alexander and the Crown Official effortlessly explains the whole backstory of stolen identity and faked death without requiring prior context."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E043-B0064",
+            "E043-B0072",
+            "E043-B0077",
+            "E043-B0080",
+            "E043-B0085"
+          ],
+          "reason": "Tension tightens consistently from Rupert's public humiliation to his betrayal of Sterling, culminating in a dynamic physical chase and blockade."
+        },
+        "hook_summary": "Alexander towers over Rupert and furiously accuses him of selling his soldiers to the enemy.",
+        "cliffhanger_question": "Will Lord Sterling be arrested on the spot, and will he drag Rupert down with him?",
+        "why_it_works": "The narrative momentum never stalls, shifting cleanly from a verbal reckoning to an official legal downfall and an intercepted escape.",
+        "concerns": [
+          "Viewers unfamiliar with the serial may wonder why Catherine is dressed as a bride in the background."
+        ]
+      },
+      {
+        "candidate_id": "W008-C005",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E044-B0017",
+            "E044-B0018"
+          ],
+          "reason": "Catherine walking away from Rupert toward Alexander weeping about thinking he died provides emotional melodrama, but lacks visceral sudden impact."
+        },
+        "cliffhanger": {
+          "score": 2,
+          "evidence_ids": [
+            "E044-B0049",
+            "E044-B0050",
+            "E044-B0053",
+            "E044-B0054"
+          ],
+          "reason": "Catherine gasping 'Her?!' as Alexander approaches the chained Juliana establishes jealousy and surprise, but the candidate ends abruptly on a partial boundary frame."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E044-B0018",
+            "E044-B0026",
+            "E044-B0035",
+            "E044-B0037",
+            "E044-B0041"
+          ],
+          "reason": "The romantic betrayal and social ambition dynamic between Alexander and Catherine is completely clear, though Juliana's shackled presence at the door is unexplained."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E044-B0028",
+            "E044-B0030",
+            "E044-B0037",
+            "E044-B0041",
+            "E044-B0050"
+          ],
+          "reason": "Dialogue progresses steadily from Catherine's romantic pleading to Alexander's harsh rejection and physical departure toward another woman."
+        },
+        "hook_summary": "A tearful bride approaches Alexander, lamenting that she believed he was dead.",
+        "cliffhanger_question": "Why is Juliana chained at the cathedral entrance, and how will Alexander defend her against Catherine's outrage?",
+        "why_it_works": "The cold dismantling of Catherine's opportunism provides sharp, satisfying relationship drama.",
+        "concerns": [
+          "The final reaction shot suffers from a partial boundary cut that clips the tail end of Catherine's shock.",
+          "Juliana appearing in chains with no prior explanation in this excerpt may confuse cold viewers."
+        ]
+      },
+      {
+        "candidate_id": "W009-C004",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E044-B0017",
+            "E044-B0018"
+          ],
+          "reason": "Catherine stepping in her wedding dress toward Alexander crying that she thought he died offers clear romantic tension, but acts as routine melodrama."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E044-B0049",
+            "E044-B0050",
+            "E044-B0053",
+            "E044-B0054"
+          ],
+          "reason": "Unlike the truncated variant, this cut holds Catherine's incredulous gasp 'Her?!' cleanly as Alexander walks away to claim the shackled Juliana, posing a sharp rivalry dilemma."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E044-B0018",
+            "E044-B0026",
+            "E044-B0035",
+            "E044-B0041"
+          ],
+          "reason": "The dialogue makes the past engagement and Catherine's opportunistic status clear, though Juliana's background and imprisonment lack setup."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E044-B0029",
+            "E044-B0030",
+            "E044-B0037",
+            "E044-B0041",
+            "E044-B0051"
+          ],
+          "reason": "Moves purposefully from tender appeal to cold spurning, culminating in Alexander completely walking out on Catherine to choose Juliana."
+        },
+        "hook_summary": "A tearful bride approaches Alexander, lamenting that she believed he was dead.",
+        "cliffhanger_question": "Who is the chained woman at the cathedral door, and what will Alexander do to overturn Catherine's claims?",
+        "why_it_works": "The emotional turning point is clear and lands on an effective dramatic twist when Alexander rejects the aristocratic bride for a prisoner.",
+        "concerns": [
+          "Pacing in the first twenty seconds relies heavily on static, repetitive tearful pleading."
+        ]
+      },
+      {
+        "candidate_id": "W008-C006",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E045-B0057",
+            "E045-B0058",
+            "E045-B0059",
+            "E045-B0060"
+          ],
+          "reason": "Cathedral doors violently slam open with an echoing thud as an armed party and a priest burst in shouting 'No one will bow yet!'."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E045-B0067",
+            "E045-B0070",
+            "E045-B0071",
+            "E045-B0073",
+            "E045-B0074"
+          ],
+          "reason": "Juliana is stripped of her duchess title by the High Priest while an armed officer draws a sword, ending on Catherine's vindictive smile as Juliana panics."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E045-B0064",
+            "E045-B0066",
+            "E045-B0068",
+            "E045-B0070"
+          ],
+          "reason": "The High Priest explicitly reads the legal invalidation of Juliana's marriage, making the sudden crisis immediately understandable despite lack of prologue."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E045-B0060",
+            "E045-B0064",
+            "E045-B0067",
+            "E045-B0070",
+            "E045-B0073"
+          ],
+          "reason": "The sequence ramps up pressure through the progressive reading of royal charges and the draw of steel against Alexander and Juliana."
+        },
+        "hook_summary": "Cathedral doors are violently breached by a High Priest and an armed officer ordering the congregation not to bow.",
+        "cliffhanger_question": "Can Alexander protect Juliana from being seized after the Church and Crown declare their marriage null and void?",
+        "why_it_works": "It is lean, urgent, and kicks off with an energetic door-bursting intrusion that directly threatens the leads.",
+        "concerns": [
+          "Without seeing Alexander declare Juliana his wife right before, the intrusion loses the contrast of shattering their brief victory."
+        ]
+      },
+      {
+        "candidate_id": "W009-C005",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E045-B0044",
+            "E045-B0045"
+          ],
+          "reason": "Alexander delivers a booming, confrontational proclamation about those who hurt his mother and wife, immediately hooking interest in the courtroom-style drama."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E045-B0067",
+            "E045-B0070",
+            "E045-B0071",
+            "E045-B0073",
+            "E045-B0074"
+          ],
+          "reason": "Cuts on the High Priest invalidating the marriage while Catherine smirks in triumph and an officer draws a sword on the terrified Juliana."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E045-B0045",
+            "E045-B0053",
+            "E045-B0064",
+            "E045-B0070"
+          ],
+          "reason": "Setting up Alexander's public marriage proclamation makes the High Priest's subsequent arrival and declaration of illegality completely crystal clear."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E045-B0053",
+            "E045-B0057",
+            "E045-B0064",
+            "E045-B0067",
+            "E045-B0073"
+          ],
+          "reason": "Features a flawless emotional arc: peak romantic triumph and vindication instantly flipped on its head by an armed royal annulment."
+        },
+        "hook_summary": "Alexander loudly condemns those who harmed his mother and his wife before the congregation.",
+        "cliffhanger_question": "How will Alexander defend Juliana now that the Crown officer has drawn his sword and the Church has annulled their union?",
+        "why_it_works": "The reversal is extraordinarily effective because the viewer experiences Alexander's grand proclamation right before the High Priest tears it apart.",
+        "concerns": [
+          "At nearly 60 seconds, it demands sustained viewer attention through two distinct narrative movements."
+        ]
+      }
+    ]
+  },
+  "model_used": "gemini-3.7-flash",
+  "key_name": "GEMINI_API_KEY2",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 3810,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 17051,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 17051
+      }
+    ],
+    "thoughts_token_count": 1616,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 22477,
+    "traffic_type": null
+  },
+  "attempts": [
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY2",
+      "attempt": 1,
+      "status": "success"
+    }
+  ],
+  "output_directory": "outputs/ranking/scores-007-02edc0ca7d714d48/key-1"
+}

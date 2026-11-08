@@ -1,0 +1,236 @@
+{
+  "assessments": [
+    {
+      "candidate_id": "W005-C002",
+      "hook": {
+        "score": 2,
+        "evidence_ids": ["E026-B0030", "E026-B0031"],
+        "reason": "The Dowager Duchess immediately questions why a noble-spirited girl works as a common maid, delivering an intriguing opening line but within a quiet bedroom dialogue setting."
+      },
+      "cliffhanger": {
+        "score": 3,
+        "evidence_ids": ["E026-B0049", "E026-B0051"],
+        "reason": "The Duchess grips Juliana's hand frantically demanding where she got the signet ring, cutting to black on an unresolved, urgent identity inquiry."
+      },
+      "clarity": {
+        "score": 3,
+        "evidence_ids": ["E026-B0031", "E026-B0033", "E026-B0034", "E026-B0049"],
+        "reason": "The dynamic between the bedridden Duchess and the proud, disowned maid is immediately understandable, centering clearly around the recognized signet ring."
+      },
+      "escalation": {
+        "score": 3,
+        "evidence_ids": ["E026-B0034", "E026-B0037", "E026-B0046", "E026-B0049"],
+        "reason": "The scene steadily builds from a calm conversation to shock upon sighting the ring, culminating in physical restraint and frantic demands."
+      },
+      "hook_summary": "A bedridden duchess questions why a woman of noble spirit is serving as a common maid.",
+      "cliffhanger_question": "How will Juliana explain how she obtained the noble signet ring?",
+      "why_it_works": "The progression hinges on a clear visual reveal of the signet ring that instantly turns a somber bedside conversation into an urgent mystery.",
+      "concerns": [
+        "The opening seconds are relatively restrained and talk-heavy for a short-form acquisition promo."
+      ]
+    },
+    {
+      "candidate_id": "W006-C001",
+      "hook": {
+        "score": 1,
+        "evidence_ids": ["E026-B0030", "E026-B0031"],
+        "reason": "The first two seconds consist of a static silent shot before the spoken question begins, giving little reason to stop scrolling."
+      },
+      "cliffhanger": {
+        "score": 3,
+        "evidence_ids": ["E026-B0049", "E026-B0051"],
+        "reason": "The cut lands right as the Duchess desperately demands the origin of the signet ring while clutching Juliana's hand."
+      },
+      "clarity": {
+        "score": 3,
+        "evidence_ids": ["E026-B0031", "E026-B0033", "E026-B0034", "E026-B0049"],
+        "reason": "Juliana's disgraced background and the Duchess's unexpected recognition of her ring are easily followed without external context."
+      },
+      "escalation": {
+        "score": 3,
+        "evidence_ids": ["E026-B0035", "E026-B0037", "E026-B0044", "E026-B0049"],
+        "reason": "Tension ramps cleanly from the visual sighting of the ring to the elder woman's physical agitation and emotional interrogation."
+      },
+      "hook_summary": "A prolonged silent look precedes an elderly duchess questioning a maid about her noble bearing.",
+      "cliffhanger_question": "What is the Duchess's connection to the ring and what will Juliana reveal?",
+      "why_it_works": "The discovery of a hidden aristocratic relic effectively pivots a servant drama into a high-stakes identity puzzle.",
+      "concerns": [
+        "The two-second delay before dialogue starts softens the initial scroll-stopping punch."
+      ]
+    },
+    {
+      "candidate_id": "W005-C003",
+      "hook": {
+        "score": 2,
+        "evidence_ids": ["E027-B0001", "E027-B0002"],
+        "reason": "Starts on a tight close-up of trembling hands clutching a ring and a breathless remark, establishing curiosity without explosive conflict."
+      },
+      "cliffhanger": {
+        "score": 4,
+        "evidence_ids": ["E027-B0025", "E027-B0026", "E027-B0028"],
+        "reason": "Just as the Duchess asks for the name of the husband carrying her lost son's ring, guards and hostile nobles violently kick the door open."
+      },
+      "clarity": {
+        "score": 4,
+        "evidence_ids": ["E027-B0006", "E027-B0012", "E027-B0016", "E027-B0028"],
+        "reason": "The dialogue economically conveys that Juliana's husband gave her a crest ring belonging to the Duchess's presumed-lost son, interrupted by arriving antagonists."
+      },
+      "escalation": {
+        "score": 4,
+        "evidence_ids": ["E027-B0006", "E027-B0012", "E027-B0016", "E027-B0025", "E027-B0028"],
+        "reason": "Each exchange deepens the revelation of her husband's true identity until external danger crashes into the room at peak narrative tension."
+      },
+      "hook_summary": "An elderly duchess clutches a maid's hand, scrutinizing a worn ring.",
+      "cliffhanger_question": "Will Juliana identify her husband as the lost heir before the armed intruders take control of the room?",
+      "why_it_works": "The cut layers a major genealogical discovery with an immediate physical breach, maximizing narrative momentum and personal stakes.",
+      "concerns": [
+        "The dialogue requires viewers to actively listen through several historical exposition points."
+      ]
+    },
+    {
+      "candidate_id": "W005-C004",
+      "hook": {
+        "score": 3,
+        "evidence_ids": ["E027-B0065", "E027-B0066", "E027-B0068"],
+        "reason": "Juliana raises a vial declaring it is an antidote, immediately met with an aggressive sneer demanding to know what it treats."
+      },
+      "cliffhanger": {
+        "score": 3,
+        "evidence_ids": ["E027-B0090", "E027-B0091", "E027-B0092", "E027-B0095"],
+        "reason": "Juliana is framed for administering poison and forcibly seized by an armed guard as terror strikes her face."
+      },
+      "clarity": {
+        "score": 4,
+        "evidence_ids": ["E027-B0066", "E027-B0077", "E027-B0081", "E027-B0088", "E027-B0091"],
+        "reason": "The frame-up is crystal clear: Juliana's claim of an antidote is deliberately inverted by hostile nobles into an admission of poisoning."
+      },
+      "escalation": {
+        "score": 4,
+        "evidence_ids": ["E027-B0073", "E027-B0081", "E027-B0086", "E027-B0090", "E027-B0093"],
+        "reason": "The scene tightens like a vice from an initial accusation to weaponized false confession, confiscation of evidence, and sudden physical arrest."
+      },
+      "hook_summary": "A maid holds up a mysterious vial and announces she has an antidote.",
+      "cliffhanger_question": "Can Juliana escape the fabricated charge of poisoning before she is locked away?",
+      "why_it_works": "A fast, punchy start leads directly into an airtight trap where the protagonist's honest defense is maliciously twisted against her.",
+      "concerns": [
+        "The ending cut is a standardized capture beat rather than a surprising new revelation."
+      ]
+    },
+    {
+      "candidate_id": "W006-C002",
+      "hook": {
+        "score": 2,
+        "evidence_ids": ["E027-B0061", "E027-B0062"],
+        "reason": "A nobleman delivers a threatening line about finding an unauthorized maid by the bed, which establishes tension but lacks sudden visual punch."
+      },
+      "cliffhanger": {
+        "score": 3,
+        "evidence_ids": ["E027-B0090", "E027-B0091", "E027-B0092", "E027-B0095"],
+        "reason": "Ends on the guard roughly dragging Juliana away after the aristocrats construct a false case of poisoning against her."
+      },
+      "clarity": {
+        "score": 4,
+        "evidence_ids": ["E027-B0062", "E027-B0066", "E027-B0081", "E027-B0090"],
+        "reason": "The premise and rapid framing of the maid for attempted murder are totally transparent and self-contained."
+      },
+      "escalation": {
+        "score": 3,
+        "evidence_ids": ["E027-B0063", "E027-B0073", "E027-B0081", "E027-B0086", "E027-B0092"],
+        "reason": "Good progression across the entire scene, although the slower opening monologue slightly dampens the initial drive compared to tighter cuts."
+      },
+      "hook_summary": "A nobleman confronts a maid discovered alone in a restricted bedroom with an unauthorized substance.",
+      "cliffhanger_question": "Will Juliana be executed under the fabricated charge of poisoning the Duchess?",
+      "why_it_works": "The confrontation provides a full dramatic arc showing how corrupt aristocrats engineer a trap to eliminate an inconvenient witness.",
+      "concerns": [
+        "The opening ten seconds drag before Juliana's antidote declaration accelerates the scene."
+      ]
+    },
+    {
+      "candidate_id": "W005-C005",
+      "hook": {
+        "score": 2,
+        "evidence_ids": ["E028-B0072", "E028-B0073"],
+        "reason": "Catherine smiles wickedly from a book and names Lady Juliana Ashcroft, creating an intriguing identity reveal but lacking dynamic action."
+      },
+      "cliffhanger": {
+        "score": 3,
+        "evidence_ids": ["E028-B0090", "E028-B0094", "E028-B0095", "E028-B0096"],
+        "reason": "Catherine threatens that Juliana's seized book will send her to the gallows as guards drag her away into the south tower cells."
+      },
+      "clarity": {
+        "score": 3,
+        "evidence_ids": ["E028-B0073", "E028-B0077", "E028-B0079", "E028-B0087", "E028-B0090"],
+        "reason": "Catherine explicitly spells out Juliana's fallen status and husband before ordering her imprisoned on fabricated charges."
+      },
+      "escalation": {
+        "score": 3,
+        "evidence_ids": ["E028-B0077", "E028-B0082", "E028-B0087", "E028-B0090", "E028-B0095"],
+        "reason": "Moves steadily from verbal mockery to physical retaliation, book confiscation, and an explicit death sentence threat."
+      },
+      "hook_summary": "A villainous woman recognizes a maid's true noble identity and mocks her fall from grace.",
+      "cliffhanger_question": "Will Juliana face execution at the gallows after her mother's herbarium is used against her?",
+      "why_it_works": "The villain's personal animosity and the weaponization of the mother's book give the heroine's imprisonment personal and emotional weight.",
+      "concerns": [
+        "Relies heavily on extended antagonistic monologue during the middle stretch."
+      ]
+    },
+    {
+      "candidate_id": "W006-C003",
+      "hook": {
+        "score": 2,
+        "evidence_ids": ["E028-B0072", "E028-B0073"],
+        "reason": "Opens with Catherine smiling malevolently and declaring Juliana's full noble name, offering identification intrigue without kinetic urgency."
+      },
+      "cliffhanger": {
+        "score": 3,
+        "evidence_ids": ["E028-B0090", "E028-B0094", "E028-B0095", "E028-B0096"],
+        "reason": "Ends on Catherine promising the gallows while holding Juliana's precious book as Juliana is dragged away in terror."
+      },
+      "clarity": {
+        "score": 3,
+        "evidence_ids": ["E028-B0073", "E028-B0077", "E028-B0079", "E028-B0087", "E028-B0090"],
+        "reason": "Juliana's past as an exiled noble married to a veteran and the threat of execution by magistrate are outlined cleanly."
+      },
+      "escalation": {
+        "score": 3,
+        "evidence_ids": ["E028-B0077", "E028-B0082", "E028-B0087", "E028-B0090", "E028-B0095"],
+        "reason": "Taunting escalation turns into an actionable dungeon order and capital threat over her mother's herbarium."
+      },
+      "hook_summary": "A haughty noblewoman discovers the true identity of her maid and gloats over her ruin.",
+      "cliffhanger_question": "How will Juliana save herself from the gallows with her mother's botanical book taken as evidence?",
+      "why_it_works": "Vivid villainy and the immediate threat of capital punishment create high emotional investment in Juliana's fate.",
+      "concerns": [
+        "The extended villain monologue risks feeling formulaic before the physical struggle begins."
+      ]
+    },
+    {
+      "candidate_id": "W005-C006",
+      "hook": {
+        "score": 2,
+        "evidence_ids": ["E030-B0030", "E030-B0031"],
+        "reason": "The line 'We use the law to destroy her' sets up a clear ruthless conspiracy, though visually it is just men conversing in a study."
+      },
+      "cliffhanger": {
+        "score": 2,
+        "evidence_ids": ["E030-B0045", "E030-B0047", "E030-B0049"],
+        "reason": "The cut ends on an instruction to buy a jury and frame the trial for witchcraft; while high in theoretical stakes, it is purely future planning rather than an ongoing crisis."
+      },
+      "clarity": {
+        "score": 3,
+        "evidence_ids": ["E030-B0031", "E030-B0035", "E030-B0039", "E030-B0043", "E030-B0049"],
+        "reason": "The dialogue plainly details the conspirators' strategy to twist medicinal herbs into capital witchcraft charges."
+      },
+      "escalation": {
+        "score": 2,
+        "evidence_ids": ["E030-B0035", "E030-B0039", "E030-B0043", "E030-B0049"],
+        "reason": "The pacing remains static throughout, showing characters pacing a desk and laying out hypothetical legal maneuvers without scene-level pressure."
+      },
+      "hook_summary": "An elder nobleman declares behind closed doors that they will use the legal system to destroy an enemy.",
+      "cliffhanger_question": "Will the corrupt nobles successfully execute their plan to have the maid hanged for witchcraft?",
+      "why_it_works": "The candid depiction of aristocratic corruption and deliberate judicial framing sets a sinister backdrop for the wider story.",
+      "concerns": [
+        "The footage is entirely composed of static talking heads plotting in an office, lacking visceral physical stakes or direct conflict."
+      ]
+    }
+  ]
+}

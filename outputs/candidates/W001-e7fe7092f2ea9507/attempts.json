@@ -1,0 +1,9 @@
+[
+  {
+    "model": "gemini-3.7-flash",
+    "key_name": "GEMINI_API_KEY4",
+    "attempt": 1,
+    "status_code": 503,
+    "reason": "Service temporarily overloaded or unavailable"
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "candidates": [
+    {
+      "title": "The Duchess Recognizes the Ring",
+      "segments": [
+        {
+          "start_id": "E026-B0030",
+          "end_id": "E026-B0051"
+        }
+      ],
+      "hook": "In E026-B0031 at 01:13.80 (2.0s in), the bedridden Duchess questions Juliana: 'Then tell me... why is a girl of such noble spirit working as a common maid?'",
+      "cliffhanger": "In E026-B0049/E026-B0051, the Duchess frantically grips Juliana's hand around the signet ring, demanding to know where she got it before the scene cuts to black.",
+      "standalone_context": "A bedridden duchess realizes her nurse is no ordinary servant; when Juliana rests her hand, the elder woman spots a distinctive family signet ring and reacts in shock.",
+      "why_it_works": "The intimate mystery of a noble girl working as a servant explodes when an heirloom ring triggers an urgent, unanswered family interrogation.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "Framed for the Poisoning",
+      "segments": [
+        {
+          "start_id": "E027-B0061",
+          "end_id": "E027-B0095"
+        }
+      ],
+      "hook": "In E027-B0062 at 01:38.80 (1.0s in), the Blond Nobleman corners Juliana with the cold accusation: 'And now we find an unknown maid alone beside her bed...'",
+      "cliffhanger": "In E027-B0091/E027-B0095, the nobleman commands guards to seize Juliana after framing her antidote as poison, dragging her backward into darkness.",
+      "standalone_context": "Aristocrats enter a sickroom and deliberately manipulate a maid's explanation of giving an antidote into a confession of poisoning the Duchess.",
+      "why_it_works": "A life-saving act is ruthlessly twisted into high treason before the protagonist is dragged off to the dungeons.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "Lady Juliana Ashcroft Unmasked",
+      "segments": [
+        {
+          "start_id": "E028-B0072",
+          "end_id": "E028-B0096"
+        }
+      ],
+      "hook": "In E028-B0073 at 01:38.20 (0.8s in), Catherine raises her eyes from a confiscated ledger with a predatory smile, pronouncing: 'Lady Juliana Ashcroft.'",
+      "cliffhanger": "In E028-B0094/E028-B0096, Catherine vows to present the botanical book to the magistrate to send Juliana to the gallows as guards haul her away.",
+      "standalone_context": "Catherine discovers that a captured maid is actually a disgraced aristocrat and declares she will use her mother's herbal book to hang her.",
+      "why_it_works": "Juliana's secret identity is exposed by her bitter rival, setting up an immediate death sentence using her own mother's legacy.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "The Witchcraft Accusation",
+      "segments": [
+        {
+          "start_id": "E029-B0019",
+          "end_id": "E029-B0051"
+        }
+      ],
+      "hook": "In E029-B0020 at 00:31.90 (0.0s in), Catherine flips through Juliana's botanical book and threatens: 'The magistrate will call it witchcraft.'",
+      "cliffhanger": "In E029-B0048/E029-B0051, Catherine scoffs at the idea that Juliana's penniless veteran husband could stop them as the dungeon doors slam shut.",
+      "standalone_context": "An arrogant noblewoman informs a captive that her medical remedy book will be branded as witchcraft before the magistrate so she will hang.",
+      "why_it_works": "The clip establishes the lethal trap facing Juliana while challenging whether her absent husband has any power to save her.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "The Witchcraft Conspiracy",
+      "segments": [
+        {
+          "start_id": "E030-B0042",
+          "end_id": "E030-B0067"
+        }
+      ],
+      "hook": "In E030-B0043 at 01:25.80 (0.2s in), the Elder Nobleman settles the debate in the study by declaring: 'Then call it witchcraft.'",
+      "cliffhanger": "In E030-B0067 at 02:17.50, the Elder Nobleman chillingly concludes: 'Tomorrow, she stops being a prisoner. She becomes a witch.'",
+      "standalone_context": "Three conspiring nobles plot to eliminate an inconvenient female prisoner by fabricating witchcraft charges and buying the jury.",
+      "why_it_works": "The cold, clinical fabrication of a capital crime against an unseen victim reveals the full scale of corruption Juliana is up against.",
+      "concerns": "Juliana herself does not appear on screen in this excerpt, though the conspiratorial stakes are explicitly detailed."
+    },
+    {
+      "title": "Face to Face With the Branding Iron",
+      "segments": [
+        {
+          "start_id": "E032-B0090",
+          "end_id": "E032-B0117"
+        }
+      ],
+      "hook": "In E032-B0091 at 01:59.60 (0.1s in), Catherine brandishes a red-hot branding iron like a weapon, shrieking frantically: 'Silence! Silence!'",
+      "cliffhanger": "In E032-B0116/E032-B0117, Catherine plunges the glowing branding rod directly toward Juliana's face, stopping millimeters from her eye before a hard cut to black.",
+      "standalone_context": "A chained prisoner shames her wealthy tormentor for needing to intimidate a bound woman, driving the noblewoman into a violent frenzy.",
+      "why_it_works": "Moral victory triggers unhinged physical retaliation, ending at the exact second a glowing branding iron threatens to blind the heroine.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "Defiance Before the Gavel",
+      "segments": [
+        {
+          "start_id": "E034-B0088",
+          "end_id": "E034-B0116"
+        }
+      ],
+      "hook": "In E034-B0089 at 02:19.60 (0.4s in), the prosecutor smirks at the prisoner's dock: 'Even now, she refuses to repent.'",
+      "cliffhanger": "In E034-B0114/E034-B0116, the Judge stands tall and raises his hand to pronounce Juliana's final sentence for witchcraft as the courtroom falls dead silent.",
+      "standalone_context": "On trial for witchcraft, Lady Juliana publicly refuses the judge's demand to renounce her healing, defending medicine against fearful rulers.",
+      "why_it_works": "High courtroom drama pits an unbroken woman against an authoritarian court, freezing just as her sentence of execution is delivered.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "The Traitors of Ashwood",
+      "segments": [
+        {
+          "start_id": "E035-B0046",
+          "end_id": "E035-B0072"
+        }
+      ],
+      "hook": "In E035-B0046/E035-B0047 at 01:41.50 (0.3s in), Alexander crushes a tactical map in his fist and announces: 'My men were slaughtered.'",
+      "cliffhanger": "In E035-B0070/E035-B0071, Alexander reveals that the traitors who ordered the slaughter of his men are the very rulers governing Ashwood today.",
+      "standalone_context": "A scarred veteran explains to his mother that the military ambush presumed to have killed him was deliberate treason ordered by the current rulers.",
+      "why_it_works": "A soldier's tragic survival narrative transforms into an explosive revelation of high-level political treason.",
+      "concerns": "The scene relies entirely on dialogue exposition recounting a past battlefield ambush rather than present physical action."
+    }
+  ]
+}

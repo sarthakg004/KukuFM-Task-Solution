@@ -1,0 +1,88 @@
+{
+  "candidates": [
+    {
+      "title": "The Dead Duke's Vow",
+      "segments": [
+        {
+          "start_id": "E036-B0097",
+          "end_id": "E036-B0121"
+        }
+      ],
+      "hook": "At E036-B0098 (02:36.80), Alexander seethes with fury, stating: 'They are marrying in two days... and killing my wife afterward.' The explicit death deadline and familial betrayal instantly grab attention.",
+      "cliffhanger": "At E036-B0119 to E036-B0121, Alexander declares that 'their dead Duke is coming home' as music swells and cuts to black, leaving unanswered whether he can cross the blizzard in time to stop the wedding and save his wife.",
+      "standalone_context": "The dialogue directly establishes that Alexander's enemies stole his title and home, are staging a wedding in forty-eight hours, and plan to execute his imprisoned wife immediately upon its conclusion.",
+      "why_it_works": "The clip establishes an urgent countdown, clarifies Alexander's personal stakes, and ends on a chilling promise of retribution.",
+      "concerns": "The setting is entirely inside a secluded cabin without immediate physical action, relying on vocal intensity and dramatic score."
+    },
+    {
+      "title": "Cathedral Breach",
+      "segments": [
+        {
+          "start_id": "E041-B0033",
+          "end_id": "E041-B0053"
+        }
+      ],
+      "hook": "At E041-B0034 (00:58.00), a woman in chains boldly challenges the congregation: 'You needed an entire chapel to feel powerful over one chained woman?'",
+      "cliffhanger": "At E041-B0048 to E041-B0053, a massive explosion obliterates the cathedral entrance, and armed silhouettes appear in the smoke while Juliana looks back in awe, leaving unanswered who has breached the cathedral.",
+      "standalone_context": "Juliana is displayed in chains as a trophy prisoner before an aristocratic wedding, but before the nuptials conclude, an unknown armed force detonates the church entrance.",
+      "why_it_works": "A sharp verbal confrontation transitions into high-budget explosive spectacle, creating an unresolved rescue hook.",
+      "concerns": "Alexander is not explicitly shown by face before the cut to black, only hinted at as an advancing silhouette."
+    },
+    {
+      "title": "The Rightful Duke Returns",
+      "segments": [
+        {
+          "start_id": "E042-B0009",
+          "end_id": "E042-B0037"
+        }
+      ],
+      "hook": "At E042-B0010 (00:18.00), Rupert rushes down the altar steps screaming: 'Guards! Arrest this imposter!' kicking off high-stakes confrontation within the first second.",
+      "cliffhanger": "At E042-B0036 and E042-B0037, Alexander rests his hand on his sabre and warns Rupert, 'And now, Rupert... we settle what you stole,' leaving Rupert's fate unresolved as the scene ends.",
+      "standalone_context": "Rupert commands royal guards to seize a scarred newcomer, but the guards refuse because they recognize him. His mother steps forward to proclaim him Alexander Ashburn, the true Duke.",
+      "why_it_works": "The promo delivers a public unmasking where the guards switch sides and the true heir corners his usurper.",
+      "concerns": "Runs 59.90 seconds, right at the maximum allowable duration ceiling."
+    },
+    {
+      "title": "Treason in the Cathedral",
+      "segments": [
+        {
+          "start_id": "E043-B0056",
+          "end_id": "E043-B0087"
+        }
+      ],
+      "hook": "At E043-B0057 (01:09.00), Alexander towers over Rupert and roars: 'You sold my men to the enemy,' establishing an accusation of military betrayal within 0.2 seconds.",
+      "cliffhanger": "At E043-B0085 to E043-B0087, Lord Sterling pulls open the church exit only to be cornered by a Police Constable asking 'Going somewhere, Lord Sterling?' before cutting on Sterling's terrified face.",
+      "standalone_context": "Official War Office documents reveal Rupert and Sterling leaked military intelligence to steal Alexander's ducal title; Rupert points the finger at Sterling, who tries to flee and gets caught at the door.",
+      "why_it_works": "Clear documentary proof turns the villains against one another, ending with a tense thwarted escape.",
+      "concerns": "Contains multiple quick cuts of document reading that require the viewer to pay attention to spoken names."
+    },
+    {
+      "title": "A Duke's Rejection",
+      "segments": [
+        {
+          "start_id": "E044-B0017",
+          "end_id": "E044-B0054"
+        }
+      ],
+      "hook": "At E044-B0018 (00:25.20), Catherine gathers her bridal gown and cries out in tears: 'Alexander... I thought you had died,' launching the interpersonal drama in under one second.",
+      "cliffhanger": "At E044-B0050 to E044-B0054, Alexander turns his back on Catherine and walks down the aisle toward a woman standing in heavy iron chains, leaving Catherine gasping 'Her?!'",
+      "standalone_context": "A noblewoman dressed in bridal silk tries to reclaim her former lover, claiming she was supposed to be Duchess, but he rejects her vanity to walk toward an imprisoned woman.",
+      "why_it_works": "The sharp emotional reversal of a wealthy bride being discarded for a shackled prisoner delivers compelling romantic intrigue.",
+      "concerns": "Focuses heavily on romantic history and dialogue rather than physical combat."
+    },
+    {
+      "title": "The Invalid Union",
+      "segments": [
+        {
+          "start_id": "E045-B0057",
+          "end_id": "E045-B0074"
+        }
+      ],
+      "hook": "At E045-B0057 to E045-B0060 (01:26.50–01:28.40), the cathedral doors slam open violently and a High Priest booms down the aisle: 'No one will bow yet!'",
+      "cliffhanger": "At E045-B0070 to E045-B0074, the High Priest rules Juliana is not the lawful wife, prompting Juliana to gasp in panic while Catherine breaks into a vindictive smirk.",
+      "standalone_context": "Alexander has just publicly proclaimed Juliana as Duchess, but the High Priest halts the assembly with royal documents proving the marriage lacked Crown authorization.",
+      "why_it_works": "Just as the heroes believe they have won, an institutional authority revokes their victory, re-opening the central conflict.",
+      "concerns": "Assumes the viewer understands that Alexander and Juliana had previously wed in secret."
+    }
+  ]
+}

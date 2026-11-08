@@ -1,0 +1,233 @@
+{
+  "window_id": "W005",
+  "episodes": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "requested_model": "gemini-3.7-flash",
+  "model_used": "gemini-3.7-flash",
+  "key_name": "GEMINI_API_KEY3",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 1551,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 43862,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 43862
+      }
+    ],
+    "thoughts_token_count": 19742,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 65155,
+    "traffic_type": null
+  },
+  "attempts": [
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY3",
+      "attempt": 1,
+      "status": "success"
+    }
+  ],
+  "output_directory": "outputs/candidates/W005-7b5b3b60295edb8e",
+  "candidates": [
+    {
+      "title": "Arsenic Diagnosis and the Turning Latch",
+      "segments": [
+        {
+          "start_id": "E023-B0039",
+          "end_id": "E023-B0067"
+        }
+      ],
+      "hook": "At E023-B0040 (0.5s into the clip), Lady Juliana looks up with deadly seriousness and states: 'Someone is poisoning her.' This immediately introduces an active assassination plot.",
+      "cliffhanger": "Ends on E023-B0067 as the brass door latch slowly turns and the bedroom door cracks open, leaving Juliana trapped beside the convulsing Duchess with an incomplete antidote.",
+      "standalone_context": "The dialogue directly establishes that a bedridden matriarch is dying of arsenic poisoning, and Juliana is attempting an emergency charcoal remedy when an unknown intruder arrives at the door.",
+      "why_it_works": "An urgent medical mystery turns into a high-stakes stealth thriller the moment footsteps echo and the door begins to open.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E023-B0039",
+          "end_id": "E023-B0067",
+          "episode": 23,
+          "start": "01:18.50",
+          "end": "02:11.50",
+          "start_seconds": 78.5,
+          "end_seconds": 131.5,
+          "duration_seconds": 53.0,
+          "start_text": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence.",
+          "end_text": "Close-up on the brass door lever as it slowly rotates downward, and the heavy door cracks open inward into the room—cutting to an intense, heart-stopping cliffhanger."
+        }
+      ],
+      "duration_seconds": 53.0,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "The Disguised Maid's Signet Ring",
+      "segments": [
+        {
+          "start_id": "E026-B0031",
+          "end_id": "E026-B0051"
+        }
+      ],
+      "hook": "At E026-B0031 (0.0s), the Dowager Duchess directly challenges Juliana from her bed: 'Then tell me... why is a girl of such noble spirit working as a common maid?'",
+      "cliffhanger": "Ends on E026-B0051 as the Duchess clamps both hands onto Juliana's hand, frantically demanding where she got the family signet ring before Juliana can answer.",
+      "standalone_context": "The dialogue reveals Juliana is a cast-out noblewoman surviving in servant's attire whose distinctive ring sparks immediate recognition and shock in the ailing Duchess.",
+      "why_it_works": "The clip smoothly builds from an intimate confession of exile to an electrifying heirloom discovery.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E026-B0031",
+          "end_id": "E026-B0051",
+          "episode": 26,
+          "start": "01:13.80",
+          "end": "02:00.88",
+          "start_seconds": 73.8,
+          "end_seconds": 120.88,
+          "duration_seconds": 47.08,
+          "start_text": "\"Then tell me... why is a girl of such noble spirit working as a common maid?\"",
+          "end_text": "Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black."
+        }
+      ],
+      "duration_seconds": 47.08,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "The Ashbourne Crest and the Armed Intrusion",
+      "segments": [
+        {
+          "start_id": "E027-B0001",
+          "end_id": "E027-B0029"
+        }
+      ],
+      "hook": "At E027-B0002 (1.3s in), the Duchess clutches Juliana's hand and demands: 'This ring... Look at me, girl. Who gave this to you?'",
+      "cliffhanger": "Ends on E027-B0029 as the Duchess asks 'What is your husband's name?' right as the bedroom doors burst open to reveal hostile aristocrats and an armed royal guard.",
+      "standalone_context": "Juliana explains her humble soldier husband gave her the ring, only for the Duchess to identify it as the Ashbourne crest worn by her lost noble son, cut short by an armed raid.",
+      "why_it_works": "A massive revelation regarding her husband's secret aristocratic heritage is cut off at the climax by an armed raid.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E027-B0001",
+          "end_id": "E027-B0029",
+          "episode": 27,
+          "start": "00:00.00",
+          "end": "00:51.50",
+          "start_seconds": 0.0,
+          "end_seconds": 51.5,
+          "duration_seconds": 51.5,
+          "start_text": "Tight close-up of the Dowager Duchess's aged, trembling hands clutching Juliana's hand, examining the worn metal band on her finger.",
+          "end_text": "Wide shot framing the open doorway as the aristocrats step into the dimly lit hallway."
+        }
+      ],
+      "duration_seconds": 51.5,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "Framed for Poisoning the Matriarch",
+      "segments": [
+        {
+          "start_id": "E027-B0065",
+          "end_id": "E027-B0095"
+        }
+      ],
+      "hook": "At E027-B0066 (0.5s in), Juliana holds up a dark glass vial to the entering nobles and firmly proclaims: 'It is an antidote.'",
+      "cliffhanger": "Ends on E027-B0095 as an armed guard twists Juliana around and drags her toward the cells while she stares in horror at the aristocrats framing her for attempted murder.",
+      "standalone_context": "Juliana attempts to warn the family that someone is poisoning the Duchess, but the corrupt nobles deliberately invert her confession to accuse her of administering the poison.",
+      "why_it_works": "A fast-paced confrontation turns an act of mercy into a terrifying legal trap in under forty-five seconds.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E027-B0065",
+          "end_id": "E027-B0095",
+          "episode": 27,
+          "start": "01:47.80",
+          "end": "02:30.50",
+          "start_seconds": 107.8,
+          "end_seconds": 150.5,
+          "duration_seconds": 42.7,
+          "start_text": "Medium close-up of Juliana raising the small bottle high for them to see.",
+          "end_text": "Extreme close-up of Juliana's wide, terrified eyes as she realizes the deadly trap closing around her, cutting abruptly to black."
+        }
+      ],
+      "duration_seconds": 42.7,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "Identity Unmasked Before the Gallows",
+      "segments": [
+        {
+          "start_id": "E028-B0072",
+          "end_id": "E028-B0096"
+        }
+      ],
+      "hook": "At E028-B0073 (0.8s in), Catherine looks up from the captured ledger with a malicious grin and declares: 'Lady Juliana Ashcroft.'",
+      "cliffhanger": "Ends on E028-B0096 as Catherine waves the herbal ledger and promises to send Juliana to the gallows before the magistrate while guards drag Juliana into the corridor.",
+      "standalone_context": "The antagonist exposes the captured maid as a fallen noblewoman married to a penniless veteran, sentencing her to the castle's wet cells under accusation of murder.",
+      "why_it_works": "Condenses a dramatic identity unmasking, personal humiliation, and a sentence of death into a single relentless exchange.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E028-B0072",
+          "end_id": "E028-B0096",
+          "episode": 28,
+          "start": "01:37.40",
+          "end": "02:18.50",
+          "start_seconds": 97.4,
+          "end_seconds": 138.5,
+          "duration_seconds": 41.1,
+          "start_text": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face.",
+          "end_text": "Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into the dark hallway, cutting sharply to black."
+        }
+      ],
+      "duration_seconds": 41.1,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "The Aristocratic Witchcraft Conspiracy",
+      "segments": [
+        {
+          "start_id": "E030-B0030",
+          "end_id": "E030-B0049"
+        }
+      ],
+      "hook": "At E030-B0031 (0.6s in), the Elder Nobleman paces behind his desk and coldly declares: 'We use the law to destroy her.'",
+      "cliffhanger": "Ends on E030-B0049 as the Elder Nobleman gives the order: 'Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.'",
+      "standalone_context": "Three wealthy conspirators scheme in a private study to twist an imprisoned healer's herbal remedies into a capital charge of witchcraft so the legal system will execute her.",
+      "why_it_works": "A chilling villain conspiracy establishes insurmountable legal danger for the imprisoned protagonist before her trial even begins.",
+      "concerns": "Juliana does not appear on screen in this excerpt, though the entire plot centers on manufacturing her death sentence.",
+      "resolved_segments": [
+        {
+          "start_id": "E030-B0030",
+          "end_id": "E030-B0049",
+          "episode": 30,
+          "start": "00:58.80",
+          "end": "01:41.80",
+          "start_seconds": 58.8,
+          "end_seconds": 101.8,
+          "duration_seconds": 43.0,
+          "start_text": "Side profile close-up of the Elder Nobleman speaking with icy confidence.",
+          "end_text": "\"Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.\""
+        }
+      ],
+      "duration_seconds": 43.0,
+      "valid": true,
+      "issues": []
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "window_id": "W009",
+  "episodes": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "requested_model": "gemini-3.7-flash",
+  "model_used": "gemini-3.7-flash",
+  "key_name": "GEMINI_API_KEY1",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 1371,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 34426,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 34426
+      }
+    ],
+    "thoughts_token_count": 10483,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 46280,
+    "traffic_type": null
+  },
+  "attempts": [
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY1",
+      "attempt": 1,
+      "status": "success"
+    }
+  ],
+  "output_directory": "outputs/candidates/W009-367dc718ed2994e2",
+  "candidates": [
+    {
+      "title": "Cathedral Breached",
+      "segments": [
+        {
+          "start_id": "E041-B0026",
+          "end_id": "E041-B0053"
+        }
+      ],
+      "hook": "At E041-B0026 (00:41.00), Catherine projects derisively to the cathedral, 'Lady Juliana Ashcroft. Look around,' publicly parading a chained captive before high society.",
+      "cliffhanger": "At E041-B0053, silhouetted armed figures emerge through the pulverized cathedral doors while Juliana's face fills with breathless awe, leaving unresolved who stormed the wedding and whether she will be rescued.",
+      "standalone_context": "A cruel bride pauses her lavish nuptials to publicly humiliate a woman brought in chains, only for a massive detonation to demolish the church entrance as armed forces invade.",
+      "why_it_works": "The sharp tonal pivot from aristocratic cruelty to explosive violence instantly hooks scrolling viewers and sets up an epic rescue.",
+      "concerns": "The identities of the armed invaders remain obscured by smoke at the cut.",
+      "resolved_segments": [
+        {
+          "start_id": "E041-B0026",
+          "end_id": "E041-B0053",
+          "episode": 41,
+          "start": "00:41.00",
+          "end": "01:36.09",
+          "start_seconds": 41.0,
+          "end_seconds": 96.09,
+          "duration_seconds": 55.09,
+          "start_text": "\"Lady Juliana Ashcroft. Look around.\"",
+          "end_text": "Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger."
+        }
+      ],
+      "duration_seconds": 55.09,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "The True Duke Returns",
+      "segments": [
+        {
+          "start_id": "E042-B0009",
+          "end_id": "E042-B0036"
+        }
+      ],
+      "hook": "At E042-B0009 and E042-B0010 (00:18.00), Rupert charges down the altar steps screaming frantically, 'Guards! Arrest this imposter!'",
+      "cliffhanger": "At E042-B0036, Alexander rests his hand on his sabre and warns the trembling Rupert, 'And now, Rupert... we settle what you stole,' leaving Rupert cornered and awaiting retribution.",
+      "standalone_context": "A frantic usurper attempts to arrest an intruder, but his royal guards refuse to obey because the newcomer is the presumed-dead rightful Duke, recognized and confirmed by his own mother.",
+      "why_it_works": "The guards' immediate refusal to obey Rupert's command creates instant dramatic reversal, building momentum to an emotional maternal reunion and a promise of vengeance.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E042-B0009",
+          "end_id": "E042-B0036",
+          "episode": 42,
+          "start": "00:17.90",
+          "end": "01:17.80",
+          "start_seconds": 17.9,
+          "end_seconds": 77.8,
+          "duration_seconds": 59.9,
+          "start_text": "Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander.",
+          "end_text": "Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution."
+        }
+      ],
+      "duration_seconds": 59.9,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "Treason in the Chapel",
+      "segments": [
+        {
+          "start_id": "E043-B0056",
+          "end_id": "E043-B0087"
+        }
+      ],
+      "hook": "At E043-B0056 and E043-B0057 (01:09.00), Alexander towers over Rupert and roars accusations across the hall: 'You sold my men to the enemy.'",
+      "cliffhanger": "At E043-B0087, Lord Sterling throws open the chapel side exit only to be trapped by a police constable asking, 'Going somewhere, Lord Sterling?', cutting to black on his terrified face.",
+      "standalone_context": "Alexander confronts Rupert with Crown military intelligence proving Rupert and Sterling committed wartime treason to steal his ducal title, causing Rupert to betray Sterling, who tries to flee.",
+      "why_it_works": "Shocking battlefield betrayal and official documentation force the conspirators against each other, ending on a thrilling intercepted escape.",
+      "concerns": "Lord Sterling is not extensively introduced before his panicked flight, though his complicity is immediately clear.",
+      "resolved_segments": [
+        {
+          "start_id": "E043-B0056",
+          "end_id": "E043-B0087",
+          "episode": 43,
+          "start": "01:08.80",
+          "end": "01:54.96",
+          "start_seconds": 68.8,
+          "end_seconds": 114.96000000000001,
+          "duration_seconds": 46.16,
+          "start_text": "Low-angle shot on Alexander towering over the fallen Rupert.",
+          "end_text": "Extreme close-up on Lord Sterling's face frozen in pure terror, his jaw agape as his escape is completely cut off, holding until fade to black."
+        }
+      ],
+      "duration_seconds": 46.16,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "The Duke's Choice",
+      "segments": [
+        {
+          "start_id": "E044-B0017",
+          "end_id": "E044-B0053"
+        }
+      ],
+      "hook": "At E044-B0017 and E044-B0018 (00:25.20), Catherine abandons Rupert and rushes toward Alexander in her bridal gown, weeping, 'Alexander... I thought you had died.'",
+      "cliffhanger": "At E044-B0053, Alexander bypasses the aristocratic bride and strides straight to the chained Juliana at the door, leaving Catherine gasping in horrified disbelief: 'Her?!'",
+      "standalone_context": "The bride tries to salvage her position by claiming enduring love for the returning Duke, but he coldly rejects her superficial loyalty and walks toward a captive woman standing in chains.",
+      "why_it_works": "A scathing romantic rejection subverts expectations when the Duke ignores the glamorous bride in favor of a chained outcast.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E044-B0017",
+          "end_id": "E044-B0053",
+          "episode": 44,
+          "start": "00:24.40",
+          "end": "01:10.50",
+          "start_seconds": 24.4,
+          "end_seconds": 70.5,
+          "duration_seconds": 46.1,
+          "start_text": "Wide shot as Catherine gathers her heavy train and steps away from Rupert, walking toward Alexander who stands watching her stoically.",
+          "end_text": "Extreme close-up on Catherine's horrified, bewildered expression as she realizes who Alexander chose."
+        }
+      ],
+      "duration_seconds": 46.1,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "Unlawful Duchess",
+      "segments": [
+        {
+          "start_id": "E045-B0044",
+          "end_id": "E045-B0073"
+        }
+      ],
+      "hook": "At E045-B0044 and E045-B0045 (01:02.60), Alexander condemns Catherine before the congregation: 'You hurt the two women who mattered most to me: my mother, and my wife.'",
+      "cliffhanger": "At E045-B0073, the High Priest rules that Juliana is not Alexander's lawful wife for lack of a Crown license, leaving Juliana in terror while Catherine flashes a venomous smile.",
+      "standalone_context": "Alexander stuns high society by presenting Juliana as his lawful Duchess, but the High Priest storms in with armed officers and revokes the union's legal standing on the spot.",
+      "why_it_works": "A soaring public vindication is suddenly sabotaged by ecclesiastical law, instantly shifting the advantage back to the villain.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E045-B0044",
+          "end_id": "E045-B0073",
+          "episode": 45,
+          "start": "01:02.50",
+          "end": "02:01.75",
+          "start_seconds": 62.5,
+          "end_seconds": 121.75,
+          "duration_seconds": 59.25,
+          "start_text": "Medium close-up of Alexander turning slightly toward the gathered congregation as his voice rings across the cathedral.",
+          "end_text": "Slow push-in close-up on Catherine beneath her veil, her initial despair morphing into a cold, venomous, triumphant smile as the episode cuts."
+        }
+      ],
+      "duration_seconds": 59.25,
+      "valid": true,
+      "issues": []
+    }
+  ]
+}

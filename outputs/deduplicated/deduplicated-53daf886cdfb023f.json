@@ -1,0 +1,1780 @@
+{
+  "model": "gemini-3.7-flash",
+  "source_report": "outputs/candidates/batch-8ba5d660f8edecfb.json",
+  "overlap_threshold": 0.8,
+  "selection_rule": "First occurrence; alternative cuts retained, no ranking",
+  "summary": {
+    "input_candidates": 51,
+    "unique_candidates": 35,
+    "duplicates": 16,
+    "invalid_candidates": 0
+  },
+  "candidates": [
+    {
+      "title": "The Altar Proposal",
+      "segments": [
+        {
+          "start_id": "E003-B0070",
+          "end_id": "E003-B0116"
+        }
+      ],
+      "hook": "At E003-B0070 (01:24.00), an armed royal guard charges the Bearded Stranger, who immediately blocks the strike and drops him to the stone floor with a devastating punch, prompting Gerald to panic at E003-B0074.",
+      "cliffhanger": "At E003-B0116 (02:20.50), the Bearded Stranger sinks onto one knee before the stunned congregation and says, 'Lady Juliana... accept my hand,' cutting away before she responds.",
+      "standalone_context": "Viewers can see that Juliana has been abandoned and mistreated by her noble family at her own wedding, only for an imposing, scarred stranger to fight off the guards and offer her a ring.",
+      "why_it_works": "The clip hooks instantly with high-impact physical action before shifting into a tense public rebuke and culminating in an unexpected marriage proposal.",
+      "concerns": "The stranger's background and identity remain unknown to the viewer, though his protective motives are immediately clear.",
+      "resolved_segments": [
+        {
+          "start_id": "E003-B0070",
+          "end_id": "E003-B0116",
+          "episode": 3,
+          "start": "01:24.00",
+          "end": "02:20.30",
+          "start_seconds": 84.0,
+          "end_seconds": 140.3,
+          "duration_seconds": 56.3,
+          "start_text": "Medium action shot as the guard charges toward The Bearded Stranger.",
+          "end_text": "\"Lady Juliana... accept my hand.\""
+        }
+      ],
+      "duration_seconds": 56.3,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W001-C001",
+      "source_window": "W001"
+    },
+    {
+      "title": "Defending the Mother's Legacy",
+      "segments": [
+        {
+          "start_id": "E005-B0023",
+          "end_id": "E005-B0058"
+        }
+      ],
+      "hook": "At E005-B0023 and E005-B0024 (00:41.50–00:44.20), Lady Ashcroft aggressively advances and barks 'Enough sentiment,' demanding Juliana surrender her family ledger.",
+      "cliffhanger": "At E005-B0058 (01:40.80), the Mysterious Bearded Man confronts Gerald on the cathedral steps with the deadly warning 'Choose your next words carefully,' cutting on Gerald's wavering smirk.",
+      "standalone_context": "Juliana has been cast out by her aristocratic family, who violently throw her deceased mother's keepsake into the mud, while her new husband steps in to defend her dignity.",
+      "why_it_works": "A callous family desecrates a bride's only maternal heirloom, creating sharp emotional stakes that flip into tension when her formidable new spouse issues a lethal threat.",
+      "concerns": "The exact contents and significance of the ledger are not detailed within this excerpt.",
+      "resolved_segments": [
+        {
+          "start_id": "E005-B0023",
+          "end_id": "E005-B0058",
+          "episode": 5,
+          "start": "00:41.50",
+          "end": "01:40.80",
+          "start_seconds": 41.5,
+          "end_seconds": 100.8,
+          "duration_seconds": 59.3,
+          "start_text": "Medium close-up of Lady Ashcroft, resplendent in navy velvet and jewels, stepping forward with a smirk of malicious authority.",
+          "end_text": "\"Choose your next words carefully.\""
+        }
+      ],
+      "duration_seconds": 59.3,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W001-C002",
+      "source_window": "W001"
+    },
+    {
+      "title": "The Cottage Standoff",
+      "segments": [
+        {
+          "start_id": "E007-B0025",
+          "end_id": "E007-B0044"
+        }
+      ],
+      "hook": "At E007-B0026 (00:51.50), Gerald sneers 'You chose that scarred beggar over a life of comfort,' instantly establishing their bitter romantic rivalry.",
+      "cliffhanger": "At E007-B0043 and E007-B0044 (01:28.50), the towering husband traps Gerald in a silent glare while the accompanying woman panics with 'Gerald, don't let him frighten you,' cutting before Gerald flees or retaliates.",
+      "standalone_context": "Gerald arrives at Juliana's rural cottage to demean her reduced social standing, but finds himself cornered when her imposing husband returns from the woods.",
+      "why_it_works": "Gerald's boastful threats to make Juliana's husband disappear backfire instantly when the husband silently looms over him in an unresolved confrontation.",
+      "concerns": "The identity and relationship of the aristocratic woman holding the parasol is not explained in this excerpt.",
+      "resolved_segments": [
+        {
+          "start_id": "E007-B0025",
+          "end_id": "E007-B0044",
+          "episode": 7,
+          "start": "00:50.80",
+          "end": "01:28.50",
+          "start_seconds": 50.8,
+          "end_seconds": 88.5,
+          "duration_seconds": 37.7,
+          "start_text": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard.",
+          "end_text": "\"Gerald, don't let him frighten you.\""
+        }
+      ],
+      "duration_seconds": 37.7,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W001-C003",
+      "source_window": "W001"
+    },
+    {
+      "title": "The Planted Theft Accusation",
+      "segments": [
+        {
+          "start_id": "E011-B0062",
+          "end_id": "E011-B0085"
+        }
+      ],
+      "hook": "At E011-B0063 (01:12.10), less than a second into the clip, Juliana furiously shouts: \"You planted this accusation because you cannot bear that I am happy without you!\"",
+      "cliffhanger": "At E011-B0085, the Constable pulls Gerald's gold pocket watch directly from Alexander's coat lining, leaving Gerald laughing in triumph and Alexander framed as a thief.",
+      "standalone_context": "An arrogant wealthy rival named Gerald has brought a constable into Juliana and Alexander's rustic cottage under the pretext of searching for stolen property. Alexander holds back from striking Gerald to protect his wife, only for the search to uncover the allegedly stolen watch inside his own coat.",
+      "why_it_works": "The clip immediately frames the search as a malicious setup, escalates through Gerald's taunts and Alexander's suppressed rage, and delivers a devastating punch when the planted evidence is revealed.",
+      "concerns": "Alexander's internal thoughts are conveyed through voiceover, though his physical restraint and clenched fists communicate the stakes visually as well.",
+      "resolved_segments": [
+        {
+          "start_id": "E011-B0062",
+          "end_id": "E011-B0085",
+          "episode": 11,
+          "start": "01:11.50",
+          "end": "01:52.75",
+          "start_seconds": 71.5,
+          "end_seconds": 112.75,
+          "duration_seconds": 41.25,
+          "start_text": "Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage.",
+          "end_text": "Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame."
+        }
+      ],
+      "duration_seconds": 41.25,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W002-C001",
+      "source_window": "W002"
+    },
+    {
+      "title": "The Blackthorn Ultimatum",
+      "segments": [
+        {
+          "start_id": "E012-B0031",
+          "end_id": "E012-B0055"
+        }
+      ],
+      "hook": "At E012-B0032 (00:44.00), Clarissa turns to Juliana with a cruel, predatory smile and delivers the chilling line: \"I want to see you crawl, sister.\"",
+      "cliffhanger": "At E012-B0054, Juliana accepts the sadistic challenge and demands, \"Tell me where the garden is,\" leaving unresolved whether she can survive digging barehanded through razor-sharp frozen briars to save Alexander from execution.",
+      "standalone_context": "To spare Alexander from being hanged for theft, Clarissa offers Juliana an ultimatum: crawl barehanded into frozen blackthorn briars with thorns sharp as steel to recover a lost emerald signet ring before the magistrate arrives. Despite Alexander's desperate pleas to stop, Juliana chooses to sacrifice herself.",
+      "why_it_works": "A chilling opening hook leads into an extreme, sadistic dilemma that culminates in Juliana's courageous decision to endure physical agony to save her husband's life.",
+      "concerns": "The prompt action moves to an unseen location mentioned only in dialogue, requiring viewers to accept the premise of the blackthorn garden before seeing it.",
+      "resolved_segments": [
+        {
+          "start_id": "E012-B0031",
+          "end_id": "E012-B0055",
+          "episode": 12,
+          "start": "00:43.70",
+          "end": "01:27.21",
+          "start_seconds": 43.7,
+          "end_seconds": 87.21000000000001,
+          "duration_seconds": 43.51,
+          "start_text": "Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana.",
+          "end_text": "Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance."
+        }
+      ],
+      "duration_seconds": 43.51,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W002-C002",
+      "source_window": "W002"
+    },
+    {
+      "title": "Defending the Medicinal Garden",
+      "segments": [
+        {
+          "start_id": "E015-B0030",
+          "end_id": "E015-B0055"
+        }
+      ],
+      "hook": "At E015-B0031 (00:44.80), a sneering thug steps into Juliana's face snarling \"Get out of the way!\", and when she refuses, violently shoves her down onto the wet stone path.",
+      "cliffhanger": "At E015-B0053, Alexander steps between the fallen Juliana and the three intruders, prompting the lead thug to raise his club and challenge: \"What? You want to fight us, veteran?\" with a violent clash suspended in midair.",
+      "standalone_context": "Vandals have invaded Juliana's home to tear up her medicinal herbs. When Juliana tries to protect them with her already bandaged hands, she is shoved to the ground and mocked, prompting her husband Alexander to charge out of the shadows to defend her against three armed men.",
+      "why_it_works": "Physical violence starts immediately, raises emotional stakes around Juliana's injured hands, and peaks when her protective husband arrives to face down multiple armed thugs.",
+      "concerns": "Juliana's hands are already bandaged from the events of earlier episodes, which first-time viewers must infer as pre-existing injuries.",
+      "resolved_segments": [
+        {
+          "start_id": "E015-B0030",
+          "end_id": "E015-B0055",
+          "episode": 15,
+          "start": "00:44.20",
+          "end": "01:26.00",
+          "start_seconds": 44.2,
+          "end_seconds": 86.0,
+          "duration_seconds": 41.8,
+          "start_text": "Tight close-up of the Thug with Cap stepping aggressively into Juliana's personal space, snarling with venom.",
+          "end_text": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut."
+        }
+      ],
+      "duration_seconds": 41.8,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W002-C003",
+      "source_window": "W002"
+    },
+    {
+      "title": "Rumors of the Duke",
+      "segments": [
+        {
+          "start_id": "E009-B0068",
+          "end_id": "E009-B0089"
+        }
+      ],
+      "hook": "At E009-B0069 (01:26.60), the Blond Nobleman curtly demands \"What is it?\", prompting his nervous groom to announce: \"There is a rumor going around, my Lord.\"",
+      "cliffhanger": "At E009-B0088, the Blond Nobleman is left alone before his roaring fireplace, whispering \"Impossible\" in mounting panic as his eyes widen at the dread that the late Duke may still be alive.",
+      "standalone_context": "In a lavish manor study, a nobleman learns from his servant that a scarred war veteran has been seen who closely resembles the deceased Duke. Despite trying to dismiss the report as tavern gossip, the nobleman is privately terrified that his presumed-dead rival has returned.",
+      "why_it_works": "The scene establishes an ominous shift in the story's scale, connecting Alexander's humble cottage existence to an aristocratic conspiracy of stolen identity.",
+      "concerns": "This scene takes place away from the primary cottage setting and relies entirely on dialogue to reveal the secret identity rather than physical action.",
+      "resolved_segments": [
+        {
+          "start_id": "E009-B0068",
+          "end_id": "E009-B0089",
+          "episode": 9,
+          "start": "01:26.50",
+          "end": "01:55.50",
+          "start_seconds": 86.5,
+          "end_seconds": 115.5,
+          "duration_seconds": 29.0,
+          "start_text": "Medium shot framing the Blond Nobleman in the foreground as The Former Groom halts respectfully behind his chair.",
+          "end_text": "Extreme close-up macro shot of the Blond Nobleman's eye, the flickering fireplace flames dancing across his widening iris as dark dread paralyzes him, holding until the screen cuts to black."
+        }
+      ],
+      "duration_seconds": 29.0,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W002-C005",
+      "source_window": "W002"
+    },
+    {
+      "title": "The Stolen Watch Accusation",
+      "segments": [
+        {
+          "start_id": "E011-B0015",
+          "end_id": "E011-B0047"
+        }
+      ],
+      "hook": "At E011-B0015 (00:16.80), Gerald points an accusatory finger and immediately snarls, 'Your husband stole my gold pocket watch!' launching the scene into instant conflict within the first second.",
+      "cliffhanger": "At E011-B0047 (00:53.60), Alexander unexpectedly grants permission for the raid ('Search it. Let them.'), leaving Juliana terrified and the audience wondering what the Constable will uncover inside their home.",
+      "standalone_context": "An arrogant wealthy gentleman named Gerald arrives with an armed Constable to accuse Juliana's humble husband Alexander of theft, demanding to search their home over Juliana's fierce protests.",
+      "why_it_works": "A direct criminal accusation instantly hooks the viewer, escalating through intense family defiance until the husband shockingly consents to the search.",
+      "concerns": "The pacing slows slightly during the middle procedural back-and-forth between Juliana and the Constable.",
+      "resolved_segments": [
+        {
+          "start_id": "E011-B0015",
+          "end_id": "E011-B0047",
+          "episode": 11,
+          "start": "00:16.80",
+          "end": "00:53.60",
+          "start_seconds": 16.8,
+          "end_seconds": 53.6,
+          "duration_seconds": 36.8,
+          "start_text": "Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger.",
+          "end_text": "\"Let them.\""
+        }
+      ],
+      "duration_seconds": 36.8,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W003-C001",
+      "source_window": "W003"
+    },
+    {
+      "title": "Alexander Disarms and Interrogates",
+      "segments": [
+        {
+          "start_id": "E016-B0012",
+          "end_id": "E016-B0042"
+        }
+      ],
+      "hook": "At E016-B0013 (00:14.40), an armed thug charges screaming with a raised weapon, which Alexander intercepts by catching the descending club mid-air with his bare hand.",
+      "cliffhanger": "At E016-B0042 (00:48.80), Alexander hoists the gasping thug off the ground against the wall and roars 'Who?!', cutting out right before the thug reveals who hired them.",
+      "standalone_context": "A trained veteran effortlessly neutralizes three armed thugs who invaded his garden, pinning their leader by the throat to extract the identity of who ordered the attack.",
+      "why_it_works": "Incredible immediate action gives way to an intense interrogation that cuts at the exact climax of an unanswered mystery.",
+      "concerns": "The rapid combat cuts require the viewer to orient quickly to who is attacking whom.",
+      "resolved_segments": [
+        {
+          "start_id": "E016-B0012",
+          "end_id": "E016-B0042",
+          "episode": 16,
+          "start": "00:14.30",
+          "end": "00:49.60",
+          "start_seconds": 14.3,
+          "end_seconds": 49.6,
+          "duration_seconds": 35.3,
+          "start_text": "Medium action shot as the Thug with Cap lunges forward with his weapon raised high.",
+          "end_text": "\"Who?!\""
+        }
+      ],
+      "duration_seconds": 35.3,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W003-C004",
+      "source_window": "W003"
+    },
+    {
+      "title": "Trapped in the Cottage Inferno",
+      "segments": [
+        {
+          "start_id": "E018-B0001",
+          "end_id": "E018-B0026"
+        }
+      ],
+      "hook": "At E018-B0001 (00:00.00), bright orange flames lick under a bedroom door as smoke pours in, waking Juliana coughing and screaming in terror within three seconds.",
+      "cliffhanger": "At E018-B0025 (00:39.50), Alexander guides Juliana into the hallway only to find the exit completely engulfed in a wall of fire ('We cannot get through!'), cutting as burning beams crash around them.",
+      "standalone_context": "Juliana awakes to find her cottage engulfed in a deadly night fire; Alexander rescues her from the bedroom only to discover their only escape route is blocked by roaring flames.",
+      "why_it_works": "Sensory disaster stakes hook the scrolling audience instantly and build to a life-or-death survival cliffhanger.",
+      "concerns": "Viewers do not learn who set the blaze within this specific excerpt.",
+      "resolved_segments": [
+        {
+          "start_id": "E018-B0001",
+          "end_id": "E018-B0026",
+          "episode": 18,
+          "start": "00:00.00",
+          "end": "00:43.50",
+          "start_seconds": 0.0,
+          "end_seconds": 43.5,
+          "duration_seconds": 43.5,
+          "start_text": "Low-angle shot on the wooden floor as bright orange flames crackle beneath the closed bedroom door, thick smoke billowing through the crevices.",
+          "end_text": "\"Then we go another way.\""
+        }
+      ],
+      "duration_seconds": 43.5,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W003-C005",
+      "source_window": "W003"
+    },
+    {
+      "title": "The Presumed-Dead Duke",
+      "segments": [
+        {
+          "start_id": "E019-B0027",
+          "end_id": "E019-B0049"
+        }
+      ],
+      "hook": "At E019-B0028 (00:44.30), a shadowy operative emerges from the misty woods, bows low, and addresses the ragged, scarred protagonist as 'Your Grace', delivering an immediate status-reversal shock.",
+      "cliffhanger": "At E019-B0050 (01:25.90), Alexander vows that once they secure proof, 'Ashburg will remember who it belongs to', leaving viewers eager to see how the presumed-dead duke will reclaim his birthright and save his imprisoned mother.",
+      "standalone_context": "Alexander, living in rustic poverty, meets a clandestine informant in the woods who confirms his true identity as a Duke whose title was stolen by Rupert while his mother is held captive.",
+      "why_it_works": "A startling identity reveal hooks the viewer right away, delivering rich exposition on stolen power that culminates in a chilling promise of aristocratic vengeance.",
+      "concerns": "This promo is dialogue-heavy and relies on the viewer appreciating identity-reversal microdrama tropes rather than physical action.",
+      "resolved_segments": [
+        {
+          "start_id": "E019-B0027",
+          "end_id": "E019-B0049",
+          "episode": 19,
+          "start": "00:43.00",
+          "end": "01:29.50",
+          "start_seconds": 43.0,
+          "end_seconds": 89.5,
+          "duration_seconds": 46.5,
+          "start_text": "A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference.",
+          "end_text": "Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog."
+        }
+      ],
+      "duration_seconds": 46.5,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W003-C006",
+      "source_window": "W003"
+    },
+    {
+      "title": "A Wasting of the Lungs",
+      "segments": [
+        {
+          "start_id": "E020-B0007",
+          "end_id": "E020-B0027"
+        }
+      ],
+      "hook": "In E020-B0007 and E020-B0008, Rupert strides across an opulent drawing room adjusting his leather gloves and boldly boasts, 'The estate is practically ours.'",
+      "cliffhanger": "In E020-B0027, Rupert coldly promises that the ailing Dowager Duchess will not survive the winter because he has 'ensured her quiet comfort,' leaving unanswered what lethal means he is using to eliminate her.",
+      "standalone_context": "Inside a lavish manor, Rupert and Catherine plot to seize the ducal title upon Alexander's presumed death and discuss how the lingering Dowager Duchess will soon be dead.",
+      "why_it_works": "Cold aristocratic ambition exposes an active murder plot against an elderly duchess, establishing clear antagonists and high mortal stakes.",
+      "concerns": "The excerpt focuses entirely on the villains' scheming without showing the protagonists.",
+      "resolved_segments": [
+        {
+          "start_id": "E020-B0007",
+          "end_id": "E020-B0027",
+          "episode": 20,
+          "start": "00:09.60",
+          "end": "00:42.40",
+          "start_seconds": 9.6,
+          "end_seconds": 42.4,
+          "duration_seconds": 32.8,
+          "start_text": "Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph.",
+          "end_text": "\"Not through the winter. I've ensured her quiet comfort.\""
+        }
+      ],
+      "duration_seconds": 32.8,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W004-C004",
+      "source_window": "W004"
+    },
+    {
+      "title": "The Healer's Calling",
+      "segments": [
+        {
+          "start_id": "E021-B0004",
+          "end_id": "E021-B0025"
+        }
+      ],
+      "hook": "In E021-B0004 and E021-B0005, a frantic village girl violently slams open the barn doors, sobbing that her seven-year-old brother Toby is dying.",
+      "cliffhanger": "In E021-B0025, Lady Juliana pulls the girl from her knees, grabs her mother's medicinal ledger, and declares 'We go now,' rushing out into the rain with Toby's survival hanging in the balance.",
+      "standalone_context": "Juliana is sheltering in a bare barn after losing her home, but refuses to let her own misfortune stop her when a village girl reveals her suffocating younger brother was turned away by wealthy physicians.",
+      "why_it_works": "Establishes Juliana's moral strength and herbalist skills through an urgent, emotionally charged plea to save a child's life.",
+      "concerns": "The child's physical distress is described second-hand by his sister rather than seen directly in this scene.",
+      "resolved_segments": [
+        {
+          "start_id": "E021-B0004",
+          "end_id": "E021-B0025",
+          "episode": 21,
+          "start": "00:03.60",
+          "end": "00:40.40",
+          "start_seconds": 3.6,
+          "end_seconds": 40.4,
+          "duration_seconds": 36.8,
+          "start_text": "Wide shot framing the open doorway against the overcast daylight as Prudence, a young village girl in an apron, rushes inside, frantic and weeping.",
+          "end_text": "\"Stand up. Sinking to your knees will not save him. Let me grab my ledger. We go now.\""
+        }
+      ],
+      "duration_seconds": 36.8,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W004-C005",
+      "source_window": "W004"
+    },
+    {
+      "title": "The Arsenic Antidote",
+      "segments": [
+        {
+          "start_id": "E023-B0039",
+          "end_id": "E023-B0067"
+        }
+      ],
+      "hook": "In E023-B0039 and E023-B0040, Juliana looks squarely at Prudence beside the bed of a dying noblewoman and declares with deadly certainty, 'Someone is poisoning her.'",
+      "cliffhanger": "In E023-B0067, as Juliana frantically crushes antidote ingredients for the spasming Duchess, heavy footsteps approach outside and the brass door lever slowly rotates downward as the bedroom door cracks open.",
+      "standalone_context": "Juliana identifies that a bedridden duchess is being systematically poisoned with arsenic and scrambles to concoct a charcoal counter-agent before an approaching intruder discovers her in the room.",
+      "why_it_works": "A chilling medical revelation accelerates into a high-stakes race against time that collides with an imminent confrontation at the door.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E023-B0039",
+          "end_id": "E023-B0067",
+          "episode": 23,
+          "start": "01:18.50",
+          "end": "02:11.50",
+          "start_seconds": 78.5,
+          "end_seconds": 131.5,
+          "duration_seconds": 53.0,
+          "start_text": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence.",
+          "end_text": "Close-up on the brass door lever as it slowly rotates downward, and the heavy door cracks open inward into the room—cutting to an intense, heart-stopping cliffhanger."
+        }
+      ],
+      "duration_seconds": 53.0,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W004-C006",
+      "source_window": "W004"
+    },
+    {
+      "title": "A Secret Infiltration Revealed",
+      "segments": [
+        {
+          "start_id": "E025-B0031",
+          "end_id": "E025-B0053"
+        }
+      ],
+      "hook": "In E025-B0031 and E025-B0032, Alexander corners Juliana on a misty woodland path, fiercely demanding to know why she sneaked inside Ashburg Manor.",
+      "cliffhanger": "In E025-B0053, Juliana reveals that the Dowager Duchess is being murdered with arsenic, causing Alexander's scarred hand to clench into a trembling fist of lethal fury.",
+      "standalone_context": "Alexander confronts Juliana about entering Ashburg Manor, only to learn that she examined the dying Dowager Duchess and discovered the woman is being slowly murdered with poison.",
+      "why_it_works": "A tense domestic confrontation pivots into a shocking revelation that triggers Alexander's dangerous protective anger.",
+      "concerns": "The clip cuts on Alexander's visceral reaction before showing what specific action he plans to take.",
+      "resolved_segments": [
+        {
+          "start_id": "E025-B0031",
+          "end_id": "E025-B0053",
+          "episode": 25,
+          "start": "00:46.80",
+          "end": "01:30.20",
+          "start_seconds": 46.8,
+          "end_seconds": 90.2,
+          "duration_seconds": 43.4,
+          "start_text": "Medium two-shot of Alexander leaning down toward her against the dim forest backdrop.",
+          "end_text": "Close-up on Alexander's fist clenching tightly in fury."
+        }
+      ],
+      "duration_seconds": 43.4,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W004-C007",
+      "source_window": "W004"
+    },
+    {
+      "title": "The Disguised Maid's Signet Ring",
+      "segments": [
+        {
+          "start_id": "E026-B0031",
+          "end_id": "E026-B0051"
+        }
+      ],
+      "hook": "At E026-B0031 (0.0s), the Dowager Duchess directly challenges Juliana from her bed: 'Then tell me... why is a girl of such noble spirit working as a common maid?'",
+      "cliffhanger": "Ends on E026-B0051 as the Duchess clamps both hands onto Juliana's hand, frantically demanding where she got the family signet ring before Juliana can answer.",
+      "standalone_context": "The dialogue reveals Juliana is a cast-out noblewoman surviving in servant's attire whose distinctive ring sparks immediate recognition and shock in the ailing Duchess.",
+      "why_it_works": "The clip smoothly builds from an intimate confession of exile to an electrifying heirloom discovery.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E026-B0031",
+          "end_id": "E026-B0051",
+          "episode": 26,
+          "start": "01:13.80",
+          "end": "02:00.88",
+          "start_seconds": 73.8,
+          "end_seconds": 120.88,
+          "duration_seconds": 47.08,
+          "start_text": "\"Then tell me... why is a girl of such noble spirit working as a common maid?\"",
+          "end_text": "Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black."
+        }
+      ],
+      "duration_seconds": 47.08,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W005-C002",
+      "source_window": "W005"
+    },
+    {
+      "title": "The Ashbourne Crest and the Armed Intrusion",
+      "segments": [
+        {
+          "start_id": "E027-B0001",
+          "end_id": "E027-B0029"
+        }
+      ],
+      "hook": "At E027-B0002 (1.3s in), the Duchess clutches Juliana's hand and demands: 'This ring... Look at me, girl. Who gave this to you?'",
+      "cliffhanger": "Ends on E027-B0029 as the Duchess asks 'What is your husband's name?' right as the bedroom doors burst open to reveal hostile aristocrats and an armed royal guard.",
+      "standalone_context": "Juliana explains her humble soldier husband gave her the ring, only for the Duchess to identify it as the Ashbourne crest worn by her lost noble son, cut short by an armed raid.",
+      "why_it_works": "A massive revelation regarding her husband's secret aristocratic heritage is cut off at the climax by an armed raid.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E027-B0001",
+          "end_id": "E027-B0029",
+          "episode": 27,
+          "start": "00:00.00",
+          "end": "00:51.50",
+          "start_seconds": 0.0,
+          "end_seconds": 51.5,
+          "duration_seconds": 51.5,
+          "start_text": "Tight close-up of the Dowager Duchess's aged, trembling hands clutching Juliana's hand, examining the worn metal band on her finger.",
+          "end_text": "Wide shot framing the open doorway as the aristocrats step into the dimly lit hallway."
+        }
+      ],
+      "duration_seconds": 51.5,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W005-C003",
+      "source_window": "W005"
+    },
+    {
+      "title": "Framed for Poisoning the Matriarch",
+      "segments": [
+        {
+          "start_id": "E027-B0065",
+          "end_id": "E027-B0095"
+        }
+      ],
+      "hook": "At E027-B0066 (0.5s in), Juliana holds up a dark glass vial to the entering nobles and firmly proclaims: 'It is an antidote.'",
+      "cliffhanger": "Ends on E027-B0095 as an armed guard twists Juliana around and drags her toward the cells while she stares in horror at the aristocrats framing her for attempted murder.",
+      "standalone_context": "Juliana attempts to warn the family that someone is poisoning the Duchess, but the corrupt nobles deliberately invert her confession to accuse her of administering the poison.",
+      "why_it_works": "A fast-paced confrontation turns an act of mercy into a terrifying legal trap in under forty-five seconds.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E027-B0065",
+          "end_id": "E027-B0095",
+          "episode": 27,
+          "start": "01:47.80",
+          "end": "02:30.50",
+          "start_seconds": 107.8,
+          "end_seconds": 150.5,
+          "duration_seconds": 42.7,
+          "start_text": "Medium close-up of Juliana raising the small bottle high for them to see.",
+          "end_text": "Extreme close-up of Juliana's wide, terrified eyes as she realizes the deadly trap closing around her, cutting abruptly to black."
+        }
+      ],
+      "duration_seconds": 42.7,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W005-C004",
+      "source_window": "W005"
+    },
+    {
+      "title": "Identity Unmasked Before the Gallows",
+      "segments": [
+        {
+          "start_id": "E028-B0072",
+          "end_id": "E028-B0096"
+        }
+      ],
+      "hook": "At E028-B0073 (0.8s in), Catherine looks up from the captured ledger with a malicious grin and declares: 'Lady Juliana Ashcroft.'",
+      "cliffhanger": "Ends on E028-B0096 as Catherine waves the herbal ledger and promises to send Juliana to the gallows before the magistrate while guards drag Juliana into the corridor.",
+      "standalone_context": "The antagonist exposes the captured maid as a fallen noblewoman married to a penniless veteran, sentencing her to the castle's wet cells under accusation of murder.",
+      "why_it_works": "Condenses a dramatic identity unmasking, personal humiliation, and a sentence of death into a single relentless exchange.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E028-B0072",
+          "end_id": "E028-B0096",
+          "episode": 28,
+          "start": "01:37.40",
+          "end": "02:18.50",
+          "start_seconds": 97.4,
+          "end_seconds": 138.5,
+          "duration_seconds": 41.1,
+          "start_text": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face.",
+          "end_text": "Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into the dark hallway, cutting sharply to black."
+        }
+      ],
+      "duration_seconds": 41.1,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W005-C005",
+      "source_window": "W005"
+    },
+    {
+      "title": "The Aristocratic Witchcraft Conspiracy",
+      "segments": [
+        {
+          "start_id": "E030-B0030",
+          "end_id": "E030-B0049"
+        }
+      ],
+      "hook": "At E030-B0031 (0.6s in), the Elder Nobleman paces behind his desk and coldly declares: 'We use the law to destroy her.'",
+      "cliffhanger": "Ends on E030-B0049 as the Elder Nobleman gives the order: 'Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.'",
+      "standalone_context": "Three wealthy conspirators scheme in a private study to twist an imprisoned healer's herbal remedies into a capital charge of witchcraft so the legal system will execute her.",
+      "why_it_works": "A chilling villain conspiracy establishes insurmountable legal danger for the imprisoned protagonist before her trial even begins.",
+      "concerns": "Juliana does not appear on screen in this excerpt, though the entire plot centers on manufacturing her death sentence.",
+      "resolved_segments": [
+        {
+          "start_id": "E030-B0030",
+          "end_id": "E030-B0049",
+          "episode": 30,
+          "start": "00:58.80",
+          "end": "01:41.80",
+          "start_seconds": 58.8,
+          "end_seconds": 101.8,
+          "duration_seconds": 43.0,
+          "start_text": "Side profile close-up of the Elder Nobleman speaking with icy confidence.",
+          "end_text": "\"Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.\""
+        }
+      ],
+      "duration_seconds": 43.0,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W005-C006",
+      "source_window": "W005"
+    },
+    {
+      "title": "The Witchcraft Accusation",
+      "segments": [
+        {
+          "start_id": "E029-B0019",
+          "end_id": "E029-B0051"
+        }
+      ],
+      "hook": "In E029-B0020 at 00:31.90 (0.0s in), Catherine flips through Juliana's botanical book and threatens: 'The magistrate will call it witchcraft.'",
+      "cliffhanger": "In E029-B0048/E029-B0051, Catherine scoffs at the idea that Juliana's penniless veteran husband could stop them as the dungeon doors slam shut.",
+      "standalone_context": "An arrogant noblewoman informs a captive that her medical remedy book will be branded as witchcraft before the magistrate so she will hang.",
+      "why_it_works": "The clip establishes the lethal trap facing Juliana while challenging whether her absent husband has any power to save her.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E029-B0019",
+          "end_id": "E029-B0051",
+          "episode": 29,
+          "start": "00:31.90",
+          "end": "01:23.00",
+          "start_seconds": 31.9,
+          "end_seconds": 83.0,
+          "duration_seconds": 51.1,
+          "start_text": "Overhead close-up of Catherine's gloved fingers flipping through the herbarium's delicate, hand-drawn floral remedies and annotations.",
+          "end_text": "Wide shot tracking behind the guards as they march Juliana down the vaulted, puddle-strewn corridor toward the heavy iron cell door."
+        }
+      ],
+      "duration_seconds": 51.1,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W006-C004",
+      "source_window": "W006"
+    },
+    {
+      "title": "The Witchcraft Conspiracy",
+      "segments": [
+        {
+          "start_id": "E030-B0042",
+          "end_id": "E030-B0067"
+        }
+      ],
+      "hook": "In E030-B0043 at 01:25.80 (0.2s in), the Elder Nobleman settles the debate in the study by declaring: 'Then call it witchcraft.'",
+      "cliffhanger": "In E030-B0067 at 02:17.50, the Elder Nobleman chillingly concludes: 'Tomorrow, she stops being a prisoner. She becomes a witch.'",
+      "standalone_context": "Three conspiring nobles plot to eliminate an inconvenient female prisoner by fabricating witchcraft charges and buying the jury.",
+      "why_it_works": "The cold, clinical fabrication of a capital crime against an unseen victim reveals the full scale of corruption Juliana is up against.",
+      "concerns": "Juliana herself does not appear on screen in this excerpt, though the conspiratorial stakes are explicitly detailed.",
+      "resolved_segments": [
+        {
+          "start_id": "E030-B0042",
+          "end_id": "E030-B0067",
+          "episode": 30,
+          "start": "01:25.60",
+          "end": "02:23.50",
+          "start_seconds": 85.6,
+          "end_seconds": 143.5,
+          "duration_seconds": 57.9,
+          "start_text": "Tight close-up of the Elder Nobleman's face illuminated by warm firelight.",
+          "end_text": "\"Tomorrow, she stops being a prisoner. She becomes a witch.\""
+        }
+      ],
+      "duration_seconds": 57.9,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W006-C005",
+      "source_window": "W006"
+    },
+    {
+      "title": "Face to Face With the Branding Iron",
+      "segments": [
+        {
+          "start_id": "E032-B0090",
+          "end_id": "E032-B0117"
+        }
+      ],
+      "hook": "In E032-B0091 at 01:59.60 (0.1s in), Catherine brandishes a red-hot branding iron like a weapon, shrieking frantically: 'Silence! Silence!'",
+      "cliffhanger": "In E032-B0116/E032-B0117, Catherine plunges the glowing branding rod directly toward Juliana's face, stopping millimeters from her eye before a hard cut to black.",
+      "standalone_context": "A chained prisoner shames her wealthy tormentor for needing to intimidate a bound woman, driving the noblewoman into a violent frenzy.",
+      "why_it_works": "Moral victory triggers unhinged physical retaliation, ending at the exact second a glowing branding iron threatens to blind the heroine.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E032-B0090",
+          "end_id": "E032-B0117",
+          "episode": 32,
+          "start": "01:59.50",
+          "end": "02:34.38",
+          "start_seconds": 119.5,
+          "end_seconds": 154.38,
+          "duration_seconds": 34.88,
+          "start_text": "Medium shot of Catherine snapping entirely, raising the branding poker like a weapon and screaming.",
+          "end_text": "Extreme close-up of Juliana's wide, unblinking blue eye. The intense, fiery orange glow of the iron poker radiates inches from her cornea, holding on the heart-stopping cliffhanger as the frame cuts to black."
+        }
+      ],
+      "duration_seconds": 34.88,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W006-C006",
+      "source_window": "W006"
+    },
+    {
+      "title": "Defiance Before the Gavel",
+      "segments": [
+        {
+          "start_id": "E034-B0088",
+          "end_id": "E034-B0116"
+        }
+      ],
+      "hook": "In E034-B0089 at 02:19.60 (0.4s in), the prosecutor smirks at the prisoner's dock: 'Even now, she refuses to repent.'",
+      "cliffhanger": "In E034-B0114/E034-B0116, the Judge stands tall and raises his hand to pronounce Juliana's final sentence for witchcraft as the courtroom falls dead silent.",
+      "standalone_context": "On trial for witchcraft, Lady Juliana publicly refuses the judge's demand to renounce her healing, defending medicine against fearful rulers.",
+      "why_it_works": "High courtroom drama pits an unbroken woman against an authoritarian court, freezing just as her sentence of execution is delivered.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E034-B0088",
+          "end_id": "E034-B0116",
+          "episode": 34,
+          "start": "02:19.20",
+          "end": "03:10.00",
+          "start_seconds": 139.2,
+          "end_seconds": 190.0,
+          "duration_seconds": 50.8,
+          "start_text": "Medium close-up of the Lord smiling cynically as he turns back toward the magistrate.",
+          "end_text": "The Judge extends his raised hand high in judgment over Lady Juliana as the scene holds on her standing still and unbroken before fading to black."
+        }
+      ],
+      "duration_seconds": 50.8,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W006-C007",
+      "source_window": "W006"
+    },
+    {
+      "title": "The Traitors of Ashwood",
+      "segments": [
+        {
+          "start_id": "E035-B0046",
+          "end_id": "E035-B0072"
+        }
+      ],
+      "hook": "In E035-B0046/E035-B0047 at 01:41.50 (0.3s in), Alexander crushes a tactical map in his fist and announces: 'My men were slaughtered.'",
+      "cliffhanger": "In E035-B0070/E035-B0071, Alexander reveals that the traitors who ordered the slaughter of his men are the very rulers governing Ashwood today.",
+      "standalone_context": "A scarred veteran explains to his mother that the military ambush presumed to have killed him was deliberate treason ordered by the current rulers.",
+      "why_it_works": "A soldier's tragic survival narrative transforms into an explosive revelation of high-level political treason.",
+      "concerns": "The scene relies entirely on dialogue exposition recounting a past battlefield ambush rather than present physical action.",
+      "resolved_segments": [
+        {
+          "start_id": "E035-B0046",
+          "end_id": "E035-B0072",
+          "episode": 35,
+          "start": "01:41.20",
+          "end": "02:37.50",
+          "start_seconds": 101.2,
+          "end_seconds": 157.5,
+          "duration_seconds": 56.3,
+          "start_text": "Close-up on Alexander's scarred hand clenching into a fist, furiously crumbling the parchment map beneath his knuckles.",
+          "end_text": "A sudden, ominous orchestral crescendo swells dramatically into silence."
+        }
+      ],
+      "duration_seconds": 56.3,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W006-C008",
+      "source_window": "W006"
+    },
+    {
+      "title": "The Burning Ledger",
+      "segments": [
+        {
+          "start_id": "E031-B0068",
+          "end_id": "E031-B0087"
+        }
+      ],
+      "hook": "At E031-B0069 (02:04.20, 0.20s in), Juliana defies her captor with the scathing line, 'If you were truly powerful, Catherine, you wouldn't need me to bow.' This immediately establishes high-status conflict between prisoner and aristocrat.",
+      "cliffhanger": "At E031-B0087 (02:40.00), Catherine swings the glowing iron poker toward Juliana's face, stopping inches away with the ember reflected in Juliana's pupil before cutting to black. The unresolved question is whether Catherine will blind or disfigure Juliana with the scalding brand.",
+      "standalone_context": "Lady Juliana is chained to a subterranean wall while an opulent noblewoman named Catherine torments her with a red-hot iron. Catherine uses the botanical book left by Juliana's deceased mother as psychological leverage before escalating into physical violence.",
+      "why_it_works": "A sharp verbal challenge provokes Catherine into incinerating Juliana's most precious heirloom and culminates in a terrifying physical threat inches from her eye.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E031-B0068",
+          "end_id": "E031-B0087",
+          "episode": 31,
+          "start": "02:04.00",
+          "end": "02:40.00",
+          "start_seconds": 124.0,
+          "end_seconds": 160.0,
+          "duration_seconds": 36.0,
+          "start_text": "Low-angle medium shot of Juliana, her voice ringing clearly through the subterranean chamber.",
+          "end_text": "Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the terrifying cliffhanger before an abrupt cut."
+        }
+      ],
+      "duration_seconds": 36.0,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W007-C001",
+      "source_window": "W007"
+    },
+    {
+      "title": "Writing the Testimony",
+      "segments": [
+        {
+          "start_id": "E033-B0069",
+          "end_id": "E033-B0092"
+        }
+      ],
+      "hook": "At E033-B0070 (01:54.00, 0.20s in), the Lord paces and points accusingly, declaring, 'You saw a woman draw a circle of herbs.' This instantly hooks the viewer with a formal legal accusation.",
+      "cliffhanger": "At E033-B0092 (02:36.20), the Lord delivers his final ultimatum after the maid sobs that Juliana saved her brother: 'And now... you will save your brother.' The unresolved question is whether the maid will commit perjury to frame Juliana for witchcraft to protect her brother.",
+      "standalone_context": "A calculating nobleman interrogates a weeping servant maid in his study, systematically twisting her account of Juliana saving her brother with medicinal herbs into manufactured proof of witchcraft, coercing her to testify falsely before a magistrate.",
+      "why_it_works": "The scene builds methodical psychological pressure as an aristocrat perverts an act of medical mercy into a capital crime through extortion.",
+      "concerns": "The specific earlier context that the brother faces imprisonment in the county gaol is implied rather than explicitly stated within this excerpt.",
+      "resolved_segments": [
+        {
+          "start_id": "E033-B0069",
+          "end_id": "E033-B0092",
+          "episode": 33,
+          "start": "01:53.80",
+          "end": "02:36.00",
+          "start_seconds": 113.8,
+          "end_seconds": 156.0,
+          "duration_seconds": 42.2,
+          "start_text": "Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision.",
+          "end_text": "\"And now... you will save your brother.\""
+        }
+      ],
+      "duration_seconds": 42.2,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W007-C002",
+      "source_window": "W007"
+    },
+    {
+      "title": "Condemned to Die",
+      "segments": [
+        {
+          "start_id": "E036-B0065",
+          "end_id": "E036-B0100"
+        }
+      ],
+      "hook": "At E036-B0066 (01:45.90, 0.10s in), Alexander's mother clutches his arms and cries out, 'Rupert and Catherine accused her of poisoning me!' This provides an immediate shock reveal of treason and false accusation.",
+      "cliffhanger": "At E036-B0100 (02:43.00), Alexander's realization hardens into lethal fury as he states, 'They are marrying in two days... and killing my wife afterward.' The unresolved question is how Alexander can stop the wedding and save his wife from execution within forty-eight hours.",
+      "standalone_context": "A scarred man named Alexander learns from his mother that the usurpers Rupert and Catherine framed his wife Juliana for poisoning and witchcraft, securing a death sentence that will be carried out immediately after their upcoming wedding in two days.",
+      "why_it_works": "A cascade of alarming discoveries creates an urgent, forty-eight-hour ticking clock for a presumed-dead protagonist to rescue his condemned wife.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E036-B0065",
+          "end_id": "E036-B0100",
+          "episode": 36,
+          "start": "01:45.80",
+          "end": "02:43.00",
+          "start_seconds": 105.8,
+          "end_seconds": 163.0,
+          "duration_seconds": 57.2,
+          "start_text": "Medium close-up as his mother clutches Alexander's forearms with desperate, pleading hands.",
+          "end_text": "\"...and killing my wife afterward.\""
+        }
+      ],
+      "duration_seconds": 57.2,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W007-C004",
+      "source_window": "W007"
+    },
+    {
+      "title": "Reclaiming the Ducal House",
+      "segments": [
+        {
+          "start_id": "E039-B0038",
+          "end_id": "E039-B0059"
+        }
+      ],
+      "hook": "At E039-B0040 (01:02.00, 0.80s in), Alexander inspects the combat scar on his freshly groomed face in the mirror and declares, 'Enough hiding. They buried Alexander Ashwin three years ago.' This immediately establishes a high-stakes return from the dead.",
+      "cliffhanger": "At E039-B0058 (01:38.41), Alexander strides forward through the deep snow and makes his resolute vow, 'And I am bringing my wife home,' before the screen cuts to black. The unresolved question is whether Alexander's assault force will secure the chapel in time to disrupt the ceremony and rescue his captive wife.",
+      "standalone_context": "A battle-scarred nobleman who has lived in hiding for three years discards his rugged guise, dons his gold-embroidered ducal regalia, commands his waiting soldiers to secure the chapel, and marches off to reclaim his ancestral title and rescue his wife.",
+      "why_it_works": "An inspiring visual and narrative transformation turns a brooding survivor into an authoritative Duke launching an armed campaign to rescue his wife.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E039-B0038",
+          "end_id": "E039-B0059",
+          "episode": 39,
+          "start": "01:01.20",
+          "end": "01:38.41",
+          "start_seconds": 61.2,
+          "end_seconds": 98.41,
+          "duration_seconds": 37.21,
+          "start_text": "Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features.",
+          "end_text": "Alexander's eyes burn with furious determination as the screen cuts sharply to black."
+        }
+      ],
+      "duration_seconds": 37.21,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W007-C005",
+      "source_window": "W007"
+    },
+    {
+      "title": "The Dead Duke's Vow",
+      "segments": [
+        {
+          "start_id": "E036-B0097",
+          "end_id": "E036-B0121"
+        }
+      ],
+      "hook": "At E036-B0098 (02:36.80), Alexander seethes with fury, stating: 'They are marrying in two days... and killing my wife afterward.' The explicit death deadline and familial betrayal instantly grab attention.",
+      "cliffhanger": "At E036-B0119 to E036-B0121, Alexander declares that 'their dead Duke is coming home' as music swells and cuts to black, leaving unanswered whether he can cross the blizzard in time to stop the wedding and save his wife.",
+      "standalone_context": "The dialogue directly establishes that Alexander's enemies stole his title and home, are staging a wedding in forty-eight hours, and plan to execute his imprisoned wife immediately upon its conclusion.",
+      "why_it_works": "The clip establishes an urgent countdown, clarifies Alexander's personal stakes, and ends on a chilling promise of retribution.",
+      "concerns": "The setting is entirely inside a secluded cabin without immediate physical action, relying on vocal intensity and dramatic score.",
+      "resolved_segments": [
+        {
+          "start_id": "E036-B0097",
+          "end_id": "E036-B0121",
+          "episode": 36,
+          "start": "02:36.50",
+          "end": "03:20.75",
+          "start_seconds": 156.5,
+          "end_seconds": 200.75,
+          "duration_seconds": 44.25,
+          "start_text": "Profile shot of Alexander as dark realization settles over his face, turning to a grim, predatory glare.",
+          "end_text": "A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into silence."
+        }
+      ],
+      "duration_seconds": 44.25,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W008-C001",
+      "source_window": "W008"
+    },
+    {
+      "title": "Cathedral Breach",
+      "segments": [
+        {
+          "start_id": "E041-B0033",
+          "end_id": "E041-B0053"
+        }
+      ],
+      "hook": "At E041-B0034 (00:58.00), a woman in chains boldly challenges the congregation: 'You needed an entire chapel to feel powerful over one chained woman?'",
+      "cliffhanger": "At E041-B0048 to E041-B0053, a massive explosion obliterates the cathedral entrance, and armed silhouettes appear in the smoke while Juliana looks back in awe, leaving unanswered who has breached the cathedral.",
+      "standalone_context": "Juliana is displayed in chains as a trophy prisoner before an aristocratic wedding, but before the nuptials conclude, an unknown armed force detonates the church entrance.",
+      "why_it_works": "A sharp verbal confrontation transitions into high-budget explosive spectacle, creating an unresolved rescue hook.",
+      "concerns": "Alexander is not explicitly shown by face before the cut to black, only hinted at as an advancing silhouette.",
+      "resolved_segments": [
+        {
+          "start_id": "E041-B0033",
+          "end_id": "E041-B0053",
+          "episode": 41,
+          "start": "00:57.80",
+          "end": "01:36.09",
+          "start_seconds": 57.8,
+          "end_seconds": 96.09,
+          "duration_seconds": 38.29,
+          "start_text": "Tight close-up on Juliana's bruised, unshaken face.",
+          "end_text": "Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger."
+        }
+      ],
+      "duration_seconds": 38.29,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W008-C002",
+      "source_window": "W008"
+    },
+    {
+      "title": "The Rightful Duke Returns",
+      "segments": [
+        {
+          "start_id": "E042-B0009",
+          "end_id": "E042-B0037"
+        }
+      ],
+      "hook": "At E042-B0010 (00:18.00), Rupert rushes down the altar steps screaming: 'Guards! Arrest this imposter!' kicking off high-stakes confrontation within the first second.",
+      "cliffhanger": "At E042-B0036 and E042-B0037, Alexander rests his hand on his sabre and warns Rupert, 'And now, Rupert... we settle what you stole,' leaving Rupert's fate unresolved as the scene ends.",
+      "standalone_context": "Rupert commands royal guards to seize a scarred newcomer, but the guards refuse because they recognize him. His mother steps forward to proclaim him Alexander Ashburn, the true Duke.",
+      "why_it_works": "The promo delivers a public unmasking where the guards switch sides and the true heir corners his usurper.",
+      "concerns": "Runs 59.90 seconds, right at the maximum allowable duration ceiling.",
+      "resolved_segments": [
+        {
+          "start_id": "E042-B0009",
+          "end_id": "E042-B0037",
+          "episode": 42,
+          "start": "00:17.90",
+          "end": "01:17.50",
+          "start_seconds": 17.9,
+          "end_seconds": 77.5,
+          "duration_seconds": 59.6,
+          "start_text": "Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander.",
+          "end_text": "\"And now, Rupert... we settle what you stole.\""
+        }
+      ],
+      "duration_seconds": 59.6,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W008-C003",
+      "source_window": "W008"
+    },
+    {
+      "title": "Treason in the Cathedral",
+      "segments": [
+        {
+          "start_id": "E043-B0056",
+          "end_id": "E043-B0087"
+        }
+      ],
+      "hook": "At E043-B0057 (01:09.00), Alexander towers over Rupert and roars: 'You sold my men to the enemy,' establishing an accusation of military betrayal within 0.2 seconds.",
+      "cliffhanger": "At E043-B0085 to E043-B0087, Lord Sterling pulls open the church exit only to be cornered by a Police Constable asking 'Going somewhere, Lord Sterling?' before cutting on Sterling's terrified face.",
+      "standalone_context": "Official War Office documents reveal Rupert and Sterling leaked military intelligence to steal Alexander's ducal title; Rupert points the finger at Sterling, who tries to flee and gets caught at the door.",
+      "why_it_works": "Clear documentary proof turns the villains against one another, ending with a tense thwarted escape.",
+      "concerns": "Contains multiple quick cuts of document reading that require the viewer to pay attention to spoken names.",
+      "resolved_segments": [
+        {
+          "start_id": "E043-B0056",
+          "end_id": "E043-B0087",
+          "episode": 43,
+          "start": "01:08.80",
+          "end": "01:54.96",
+          "start_seconds": 68.8,
+          "end_seconds": 114.96000000000001,
+          "duration_seconds": 46.16,
+          "start_text": "Low-angle shot on Alexander towering over the fallen Rupert.",
+          "end_text": "Extreme close-up on Lord Sterling's face frozen in pure terror, his jaw agape as his escape is completely cut off, holding until fade to black."
+        }
+      ],
+      "duration_seconds": 46.16,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W008-C004",
+      "source_window": "W008"
+    },
+    {
+      "title": "A Duke's Rejection",
+      "segments": [
+        {
+          "start_id": "E044-B0017",
+          "end_id": "E044-B0054"
+        }
+      ],
+      "hook": "At E044-B0018 (00:25.20), Catherine gathers her bridal gown and cries out in tears: 'Alexander... I thought you had died,' launching the interpersonal drama in under one second.",
+      "cliffhanger": "At E044-B0050 to E044-B0054, Alexander turns his back on Catherine and walks down the aisle toward a woman standing in heavy iron chains, leaving Catherine gasping 'Her?!'",
+      "standalone_context": "A noblewoman dressed in bridal silk tries to reclaim her former lover, claiming she was supposed to be Duchess, but he rejects her vanity to walk toward an imprisoned woman.",
+      "why_it_works": "The sharp emotional reversal of a wealthy bride being discarded for a shackled prisoner delivers compelling romantic intrigue.",
+      "concerns": "Focuses heavily on romantic history and dialogue rather than physical combat.",
+      "resolved_segments": [
+        {
+          "start_id": "E044-B0017",
+          "end_id": "E044-B0054",
+          "episode": 44,
+          "start": "00:24.40",
+          "end": "01:10.40",
+          "start_seconds": 24.4,
+          "end_seconds": 70.4,
+          "duration_seconds": 46.0,
+          "start_text": "Wide shot as Catherine gathers her heavy train and steps away from Rupert, walking toward Alexander who stands watching her stoically.",
+          "end_text": "\"Her?!\""
+        }
+      ],
+      "duration_seconds": 46.0,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W008-C005",
+      "source_window": "W008"
+    },
+    {
+      "title": "The Invalid Union",
+      "segments": [
+        {
+          "start_id": "E045-B0057",
+          "end_id": "E045-B0074"
+        }
+      ],
+      "hook": "At E045-B0057 to E045-B0060 (01:26.50–01:28.40), the cathedral doors slam open violently and a High Priest booms down the aisle: 'No one will bow yet!'",
+      "cliffhanger": "At E045-B0070 to E045-B0074, the High Priest rules Juliana is not the lawful wife, prompting Juliana to gasp in panic while Catherine breaks into a vindictive smirk.",
+      "standalone_context": "Alexander has just publicly proclaimed Juliana as Duchess, but the High Priest halts the assembly with royal documents proving the marriage lacked Crown authorization.",
+      "why_it_works": "Just as the heroes believe they have won, an institutional authority revokes their victory, re-opening the central conflict.",
+      "concerns": "Assumes the viewer understands that Alexander and Juliana had previously wed in secret.",
+      "resolved_segments": [
+        {
+          "start_id": "E045-B0057",
+          "end_id": "E045-B0074",
+          "episode": 45,
+          "start": "01:26.50",
+          "end": "02:01.75",
+          "start_seconds": 86.5,
+          "end_seconds": 121.75,
+          "duration_seconds": 35.25,
+          "start_text": "Wide tracking shot down the cathedral aisle as the massive wooden entrance doors slam open, framed by blinding daylight and mist.",
+          "end_text": "Catherine raises her chin, a vindictive smirk spreading across her lips as she realizes her rival's claim has just been torn to pieces."
+        }
+      ],
+      "duration_seconds": 35.25,
+      "valid": true,
+      "issues": [],
+      "candidate_id": "W008-C006",
+      "source_window": "W008"
+    }
+  ],
+  "duplicates": [
+    {
+      "kept_candidate_id": "W001-C003",
+      "overlap_score": 1.0,
+      "match_type": "exact",
+      "candidate": {
+        "title": "Confronting the Arrogant Suitor",
+        "segments": [
+          {
+            "start_id": "E007-B0025",
+            "end_id": "E007-B0044"
+          }
+        ],
+        "hook": "At E007-B0026 (00:51.50), Gerald sneers disdainfully at Juliana: \"You chose that scarred beggar over a life of comfort.\"",
+        "cliffhanger": "At E007-B0044, after Gerald threatens to make Juliana's husband disappear, the scarred veteran silently steps forward to tower over him, leaving Gerald frozen in wide-eyed terror as his companion urges him not to be frightened.",
+        "standalone_context": "An aristocratic man named Gerald confronts Juliana outside her modest woodland home, mocking her choice to leave comfort for a scarred soldier. When Gerald threatens to make her husband vanish, the imposing husband arrives silently with a load of timber and corners him.",
+        "why_it_works": "A sharp verbal clash over Juliana's rejected aristocratic suitor flips instantly into physical tension when the very man Gerald threatened looms over him.",
+        "concerns": "The cut stops just before Gerald retreats, prioritizing the menacing standoff over showing the villain's immediate departure.",
+        "resolved_segments": [
+          {
+            "start_id": "E007-B0025",
+            "end_id": "E007-B0044",
+            "episode": 7,
+            "start": "00:50.80",
+            "end": "01:28.50",
+            "start_seconds": 50.8,
+            "end_seconds": 88.5,
+            "duration_seconds": 37.7,
+            "start_text": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard.",
+            "end_text": "\"Gerald, don't let him frighten you.\""
+          }
+        ],
+        "duration_seconds": 37.7,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W002-C004",
+        "source_window": "W002"
+      }
+    },
+    {
+      "kept_candidate_id": "W002-C002",
+      "overlap_score": 1.0,
+      "match_type": "exact",
+      "candidate": {
+        "title": "Clarissa's Blackthorn Ultimatum",
+        "segments": [
+          {
+            "start_id": "E012-B0031",
+            "end_id": "E012-B0055"
+          }
+        ],
+        "hook": "At E012-B0032 (00:44.00), Clarissa turns directly to Juliana and purrs, 'I want to see you crawl, sister,' delivering a vicious personal threat within the first half-second.",
+        "cliffhanger": "At E012-B0054 (01:24.70), Juliana defies Alexander's desperate pleas and demands, 'Tell me where the garden is,' leaving unresolved whether she can survive retrieving the ring from razor-sharp thorns before her husband is hanged.",
+        "standalone_context": "Clarissa offers her sister Juliana a sadistic deal: retrieve a lost signet ring from frozen, steel-sharp briars with her bare hands, or watch her arrested husband hang from the gallows.",
+        "why_it_works": "The sadistic opening hook establishes horrific personal stakes that peak when Juliana bravely accepts the mutilating trial to save her husband's life.",
+        "concerns": "Viewers do not see the specific theft charge that put Alexander in handcuffs, though Clarissa's ultimatum explains the stakes clearly.",
+        "resolved_segments": [
+          {
+            "start_id": "E012-B0031",
+            "end_id": "E012-B0055",
+            "episode": 12,
+            "start": "00:43.70",
+            "end": "01:27.21",
+            "start_seconds": 43.7,
+            "end_seconds": 87.21000000000001,
+            "duration_seconds": 43.51,
+            "start_text": "Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana.",
+            "end_text": "Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance."
+          }
+        ],
+        "duration_seconds": 43.51,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W003-C002",
+        "source_window": "W003"
+      }
+    },
+    {
+      "kept_candidate_id": "W002-C003",
+      "overlap_score": 1.0,
+      "match_type": "exact",
+      "candidate": {
+        "title": "Ambush in the Herbal Garden",
+        "segments": [
+          {
+            "start_id": "E015-B0030",
+            "end_id": "E015-B0054"
+          }
+        ],
+        "hook": "At E015-B0031 (00:44.80), an aggressive thug corners Juliana snarling 'Get out of the way!' before violently shoving her down onto the stone path within the opening two seconds.",
+        "cliffhanger": "At E015-B0053 (01:19.00), Alexander steps between the thugs and the fallen Juliana, prompting the lead thug to raise his club and challenge him ('What? You want to fight us, veteran?'), abruptly cutting as physical combat is about to erupt.",
+        "standalone_context": "Violent thugs trample Juliana's medicinal garden and shove her to the ground, prompting her scarred husband Alexander to rush out into the night to confront the armed trespassers.",
+        "why_it_works": "Visceral physical aggression immediately grabs scrolling viewers, escalating into high protective tension that cuts on the verge of a brutal brawl.",
+        "concerns": "The clip cuts right before any combat blows are traded.",
+        "resolved_segments": [
+          {
+            "start_id": "E015-B0030",
+            "end_id": "E015-B0054",
+            "episode": 15,
+            "start": "00:44.20",
+            "end": "01:26.00",
+            "start_seconds": 44.2,
+            "end_seconds": 86.0,
+            "duration_seconds": 41.8,
+            "start_text": "Tight close-up of the Thug with Cap stepping aggressively into Juliana's personal space, snarling with venom.",
+            "end_text": "Close-up of Juliana looking up with wide, anxious eyes, breath hitching in suspense as violence hangs on a knife's edge."
+          }
+        ],
+        "duration_seconds": 41.8,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W003-C003",
+        "source_window": "W003"
+      }
+    },
+    {
+      "kept_candidate_id": "W003-C004",
+      "overlap_score": 1.0,
+      "match_type": "overlap",
+      "candidate": {
+        "title": "Garden Ambush and Interrogation",
+        "segments": [
+          {
+            "start_id": "E016-B0012",
+            "end_id": "E016-B0047"
+          }
+        ],
+        "hook": "In E016-B0012 and E016-B0014, an armed thug lunges forward and swings a heavy club at full force, only for Alexander to catch the weapon mid-air in his bare hand with chilling ease.",
+        "cliffhanger": "In E016-B0047, following the thug's desperate confession that Gerald Harrington paid them to destroy the garden, Alexander throws the ringleader aside as the attackers flee, leaving unanswered why Harrington targeted Juliana and how Alexander will retaliate.",
+        "standalone_context": "Alexander defends Juliana against three armed attackers in a trampled garden, effortlessly incapacitating them before choking the leader against a wall to force a confession of who paid them.",
+        "why_it_works": "A burst of effortless physical dominance transitions immediately into a tense interrogation that exposes a personal betrayal.",
+        "concerns": "A new viewer will not know Gerald Harrington's specific history with Juliana without prior context.",
+        "resolved_segments": [
+          {
+            "start_id": "E016-B0012",
+            "end_id": "E016-B0047",
+            "episode": 16,
+            "start": "00:14.30",
+            "end": "00:59.00",
+            "start_seconds": 14.3,
+            "end_seconds": 59.0,
+            "duration_seconds": 44.7,
+            "start_text": "Medium action shot as the Thug with Cap lunges forward with his weapon raised high.",
+            "end_text": "Medium wide shot as Alexander releases the thug, sending him tumbling into the ruined flowerbeds."
+          }
+        ],
+        "duration_seconds": 44.7,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W004-C001",
+        "source_window": "W004"
+      }
+    },
+    {
+      "kept_candidate_id": "W003-C005",
+      "overlap_score": 0.8621,
+      "match_type": "overlap",
+      "candidate": {
+        "title": "Trapped in the Inferno",
+        "segments": [
+          {
+            "start_id": "E018-B0005",
+            "end_id": "E018-B0029"
+          }
+        ],
+        "hook": "In E018-B0005 and E018-B0006, Juliana bolts upright in bed seeing bright orange flames licking beneath her bedroom door and screams Alexander's name in terror.",
+        "cliffhanger": "In E018-B0029, with their main doorway engulfed in wall-high flames, Alexander pulls Juliana through collapsing corridors as burning rafters crash down around them, leaving their escape in extreme jeopardy.",
+        "standalone_context": "Juliana awakens trapped inside a burning cottage, prompting Alexander to batter down the bedroom door and guide her through smoke-filled halls where their primary escape route has already been incinerated.",
+        "why_it_works": "Visceral life-or-death danger forces two characters into an immediate race for survival against a rapidly collapsing building.",
+        "concerns": "The excerpt cuts before revealing whether the characters successfully escape the burning building.",
+        "resolved_segments": [
+          {
+            "start_id": "E018-B0005",
+            "end_id": "E018-B0029",
+            "episode": 18,
+            "start": "00:06.00",
+            "end": "00:52.50",
+            "start_seconds": 6.0,
+            "end_seconds": 52.5,
+            "duration_seconds": 46.5,
+            "start_text": "Juliana bolts upright in bed, tossing off the woolen quilt as she sees the orange glow under the door.",
+            "end_text": "Medium tracking shot focusing on Juliana's wide, soot-streaked eyes as they navigate through falling embers."
+          }
+        ],
+        "duration_seconds": 46.5,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W004-C002",
+        "source_window": "W004"
+      }
+    },
+    {
+      "kept_candidate_id": "W003-C006",
+      "overlap_score": 1.0,
+      "match_type": "overlap",
+      "candidate": {
+        "title": "The Usurped Duke",
+        "segments": [
+          {
+            "start_id": "E019-B0027",
+            "end_id": "E019-B0050"
+          }
+        ],
+        "hook": "In E019-B0027 and E019-B0028, a cloaked operative emerges from the foggy forest, bows low in formal deference, and urgently addresses Alexander as 'Your Grace.'",
+        "cliffhanger": "In E019-B0050, when asked what will happen once they have proof, Alexander grimly vows that 'Ashburg will remember who it belongs to,' cutting out before revealing how he will reclaim his birthright.",
+        "standalone_context": "A secret meeting in the woods reveals Alexander is actually a presumed-dead duke whose ancestral estate has been seized by Rupert while his mother is held captive under armed watch.",
+        "why_it_works": "A startling identity reveal establishes high political stakes and sets up a focused quest to overthrow the usurpers.",
+        "concerns": "The scene relies entirely on exposition delivered by an operative rather than kinetic action.",
+        "resolved_segments": [
+          {
+            "start_id": "E019-B0027",
+            "end_id": "E019-B0050",
+            "episode": 19,
+            "start": "00:43.00",
+            "end": "01:28.90",
+            "start_seconds": 43.0,
+            "end_seconds": 88.9,
+            "duration_seconds": 45.9,
+            "start_text": "A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference.",
+            "end_text": "\"Then Ashburg will remember who it belongs to.\""
+          }
+        ],
+        "duration_seconds": 45.9,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W004-C003",
+        "source_window": "W004"
+      }
+    },
+    {
+      "kept_candidate_id": "W004-C006",
+      "overlap_score": 1.0,
+      "match_type": "exact",
+      "candidate": {
+        "title": "Arsenic Diagnosis and the Turning Latch",
+        "segments": [
+          {
+            "start_id": "E023-B0039",
+            "end_id": "E023-B0067"
+          }
+        ],
+        "hook": "At E023-B0040 (0.5s into the clip), Lady Juliana looks up with deadly seriousness and states: 'Someone is poisoning her.' This immediately introduces an active assassination plot.",
+        "cliffhanger": "Ends on E023-B0067 as the brass door latch slowly turns and the bedroom door cracks open, leaving Juliana trapped beside the convulsing Duchess with an incomplete antidote.",
+        "standalone_context": "The dialogue directly establishes that a bedridden matriarch is dying of arsenic poisoning, and Juliana is attempting an emergency charcoal remedy when an unknown intruder arrives at the door.",
+        "why_it_works": "An urgent medical mystery turns into a high-stakes stealth thriller the moment footsteps echo and the door begins to open.",
+        "concerns": "None identified.",
+        "resolved_segments": [
+          {
+            "start_id": "E023-B0039",
+            "end_id": "E023-B0067",
+            "episode": 23,
+            "start": "01:18.50",
+            "end": "02:11.50",
+            "start_seconds": 78.5,
+            "end_seconds": 131.5,
+            "duration_seconds": 53.0,
+            "start_text": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence.",
+            "end_text": "Close-up on the brass door lever as it slowly rotates downward, and the heavy door cracks open inward into the room—cutting to an intense, heart-stopping cliffhanger."
+          }
+        ],
+        "duration_seconds": 53.0,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W005-C001",
+        "source_window": "W005"
+      }
+    },
+    {
+      "kept_candidate_id": "W005-C002",
+      "overlap_score": 1.0,
+      "match_type": "overlap",
+      "candidate": {
+        "title": "The Duchess Recognizes the Ring",
+        "segments": [
+          {
+            "start_id": "E026-B0030",
+            "end_id": "E026-B0051"
+          }
+        ],
+        "hook": "In E026-B0031 at 01:13.80 (2.0s in), the bedridden Duchess questions Juliana: 'Then tell me... why is a girl of such noble spirit working as a common maid?'",
+        "cliffhanger": "In E026-B0049/E026-B0051, the Duchess frantically grips Juliana's hand around the signet ring, demanding to know where she got it before the scene cuts to black.",
+        "standalone_context": "A bedridden duchess realizes her nurse is no ordinary servant; when Juliana rests her hand, the elder woman spots a distinctive family signet ring and reacts in shock.",
+        "why_it_works": "The intimate mystery of a noble girl working as a servant explodes when an heirloom ring triggers an urgent, unanswered family interrogation.",
+        "concerns": "None identified.",
+        "resolved_segments": [
+          {
+            "start_id": "E026-B0030",
+            "end_id": "E026-B0051",
+            "episode": 26,
+            "start": "01:11.80",
+            "end": "02:00.88",
+            "start_seconds": 71.8,
+            "end_seconds": 120.88,
+            "duration_seconds": 49.08,
+            "start_text": "Medium shot of the Dowager Duchess looking intently at Juliana from her pillows, studying her bearing.",
+            "end_text": "Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliffhanger chord swells, cutting sharply to black."
+          }
+        ],
+        "duration_seconds": 49.08,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W006-C001",
+        "source_window": "W006"
+      }
+    },
+    {
+      "kept_candidate_id": "W005-C004",
+      "overlap_score": 1.0,
+      "match_type": "overlap",
+      "candidate": {
+        "title": "Framed for the Poisoning",
+        "segments": [
+          {
+            "start_id": "E027-B0061",
+            "end_id": "E027-B0095"
+          }
+        ],
+        "hook": "In E027-B0062 at 01:38.80 (1.0s in), the Blond Nobleman corners Juliana with the cold accusation: 'And now we find an unknown maid alone beside her bed...'",
+        "cliffhanger": "In E027-B0091/E027-B0095, the nobleman commands guards to seize Juliana after framing her antidote as poison, dragging her backward into darkness.",
+        "standalone_context": "Aristocrats enter a sickroom and deliberately manipulate a maid's explanation of giving an antidote into a confession of poisoning the Duchess.",
+        "why_it_works": "A life-saving act is ruthlessly twisted into high treason before the protagonist is dragged off to the dungeons.",
+        "concerns": "None identified.",
+        "resolved_segments": [
+          {
+            "start_id": "E027-B0061",
+            "end_id": "E027-B0095",
+            "episode": 27,
+            "start": "01:37.80",
+            "end": "02:30.50",
+            "start_seconds": 97.8,
+            "end_seconds": 150.5,
+            "duration_seconds": 52.7,
+            "start_text": "Medium shot of the Blond Nobleman turning slowly back toward Juliana, building his trap.",
+            "end_text": "Extreme close-up of Juliana's wide, terrified eyes as she realizes the deadly trap closing around her, cutting abruptly to black."
+          }
+        ],
+        "duration_seconds": 52.7,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W006-C002",
+        "source_window": "W006"
+      }
+    },
+    {
+      "kept_candidate_id": "W005-C005",
+      "overlap_score": 1.0,
+      "match_type": "exact",
+      "candidate": {
+        "title": "Lady Juliana Ashcroft Unmasked",
+        "segments": [
+          {
+            "start_id": "E028-B0072",
+            "end_id": "E028-B0096"
+          }
+        ],
+        "hook": "In E028-B0073 at 01:38.20 (0.8s in), Catherine raises her eyes from a confiscated ledger with a predatory smile, pronouncing: 'Lady Juliana Ashcroft.'",
+        "cliffhanger": "In E028-B0094/E028-B0096, Catherine vows to present the botanical book to the magistrate to send Juliana to the gallows as guards haul her away.",
+        "standalone_context": "Catherine discovers that a captured maid is actually a disgraced aristocrat and declares she will use her mother's herbal book to hang her.",
+        "why_it_works": "Juliana's secret identity is exposed by her bitter rival, setting up an immediate death sentence using her own mother's legacy.",
+        "concerns": "None identified.",
+        "resolved_segments": [
+          {
+            "start_id": "E028-B0072",
+            "end_id": "E028-B0096",
+            "episode": 28,
+            "start": "01:37.40",
+            "end": "02:18.50",
+            "start_seconds": 97.4,
+            "end_seconds": 138.5,
+            "duration_seconds": 41.1,
+            "start_text": "Close-up of Catherine raising her gaze slowly from the book, a wicked, triumphant grin spreading across her face.",
+            "end_text": "Extreme close-up of Juliana's wide, trembling eyes as the guard wrenches her backward into the dark hallway, cutting sharply to black."
+          }
+        ],
+        "duration_seconds": 41.1,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W006-C003",
+        "source_window": "W006"
+      }
+    },
+    {
+      "kept_candidate_id": "W006-C007",
+      "overlap_score": 1.0,
+      "match_type": "overlap",
+      "candidate": {
+        "title": "The Witchcraft Verdict",
+        "segments": [
+          {
+            "start_id": "E034-B0090",
+            "end_id": "E034-B0116"
+          }
+        ],
+        "hook": "At E034-B0091 (02:22.40, 0.20s in), the Judge holds his hand over the law book and commands, 'Lady Juliana, if you wish to save yourself, renounce these practices.' This immediately establishes life-or-death judicial stakes.",
+        "cliffhanger": "At E034-B0114 to E034-B0116 (03:10.00), the Judge rises, bellows Juliana's name, and raises his hand to pronounce the final sentence as heavy silence descends before fading to black. The unresolved question is whether the Judge will sentence Juliana to death for witchcraft.",
+        "standalone_context": "Lady Juliana stands shackled in the prisoner's dock during a public trial accused of unlawful healing and witchcraft. She is given an opportunity by the magistrate to save her life by renouncing her medical remedies, but proudly chooses conviction over recanting.",
+        "why_it_works": "Juliana's uncompromising moral stand forces the magistrate to gavel down the court and raise his hand to pronounce her ultimate sentence.",
+        "concerns": "None identified.",
+        "resolved_segments": [
+          {
+            "start_id": "E034-B0090",
+            "end_id": "E034-B0116",
+            "episode": 34,
+            "start": "02:22.20",
+            "end": "03:10.00",
+            "start_seconds": 142.2,
+            "end_seconds": 190.0,
+            "duration_seconds": 47.8,
+            "start_text": "Low-angle medium shot of the Judge holding his hand over the open law book.",
+            "end_text": "The Judge extends his raised hand high in judgment over Lady Juliana as the scene holds on her standing still and unbroken before fading to black."
+          }
+        ],
+        "duration_seconds": 47.8,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W007-C003",
+        "source_window": "W007"
+      }
+    },
+    {
+      "kept_candidate_id": "W008-C002",
+      "overlap_score": 1.0,
+      "match_type": "overlap",
+      "candidate": {
+        "title": "Cathedral Breached",
+        "segments": [
+          {
+            "start_id": "E041-B0026",
+            "end_id": "E041-B0053"
+          }
+        ],
+        "hook": "At E041-B0026 (00:41.00), Catherine projects derisively to the cathedral, 'Lady Juliana Ashcroft. Look around,' publicly parading a chained captive before high society.",
+        "cliffhanger": "At E041-B0053, silhouetted armed figures emerge through the pulverized cathedral doors while Juliana's face fills with breathless awe, leaving unresolved who stormed the wedding and whether she will be rescued.",
+        "standalone_context": "A cruel bride pauses her lavish nuptials to publicly humiliate a woman brought in chains, only for a massive detonation to demolish the church entrance as armed forces invade.",
+        "why_it_works": "The sharp tonal pivot from aristocratic cruelty to explosive violence instantly hooks scrolling viewers and sets up an epic rescue.",
+        "concerns": "The identities of the armed invaders remain obscured by smoke at the cut.",
+        "resolved_segments": [
+          {
+            "start_id": "E041-B0026",
+            "end_id": "E041-B0053",
+            "episode": 41,
+            "start": "00:41.00",
+            "end": "01:36.09",
+            "start_seconds": 41.0,
+            "end_seconds": 96.09,
+            "duration_seconds": 55.09,
+            "start_text": "\"Lady Juliana Ashcroft. Look around.\"",
+            "end_text": "Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger."
+          }
+        ],
+        "duration_seconds": 55.09,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W009-C001",
+        "source_window": "W009"
+      }
+    },
+    {
+      "kept_candidate_id": "W008-C003",
+      "overlap_score": 1.0,
+      "match_type": "overlap",
+      "candidate": {
+        "title": "The True Duke Returns",
+        "segments": [
+          {
+            "start_id": "E042-B0009",
+            "end_id": "E042-B0036"
+          }
+        ],
+        "hook": "At E042-B0009 and E042-B0010 (00:18.00), Rupert charges down the altar steps screaming frantically, 'Guards! Arrest this imposter!'",
+        "cliffhanger": "At E042-B0036, Alexander rests his hand on his sabre and warns the trembling Rupert, 'And now, Rupert... we settle what you stole,' leaving Rupert cornered and awaiting retribution.",
+        "standalone_context": "A frantic usurper attempts to arrest an intruder, but his royal guards refuse to obey because the newcomer is the presumed-dead rightful Duke, recognized and confirmed by his own mother.",
+        "why_it_works": "The guards' immediate refusal to obey Rupert's command creates instant dramatic reversal, building momentum to an emotional maternal reunion and a promise of vengeance.",
+        "concerns": "None identified.",
+        "resolved_segments": [
+          {
+            "start_id": "E042-B0009",
+            "end_id": "E042-B0036",
+            "episode": 42,
+            "start": "00:17.90",
+            "end": "01:17.80",
+            "start_seconds": 17.9,
+            "end_seconds": 77.8,
+            "duration_seconds": 59.9,
+            "start_text": "Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander.",
+            "end_text": "Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution."
+          }
+        ],
+        "duration_seconds": 59.9,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W009-C002",
+        "source_window": "W009"
+      }
+    },
+    {
+      "kept_candidate_id": "W008-C004",
+      "overlap_score": 1.0,
+      "match_type": "exact",
+      "candidate": {
+        "title": "Treason in the Chapel",
+        "segments": [
+          {
+            "start_id": "E043-B0056",
+            "end_id": "E043-B0087"
+          }
+        ],
+        "hook": "At E043-B0056 and E043-B0057 (01:09.00), Alexander towers over Rupert and roars accusations across the hall: 'You sold my men to the enemy.'",
+        "cliffhanger": "At E043-B0087, Lord Sterling throws open the chapel side exit only to be trapped by a police constable asking, 'Going somewhere, Lord Sterling?', cutting to black on his terrified face.",
+        "standalone_context": "Alexander confronts Rupert with Crown military intelligence proving Rupert and Sterling committed wartime treason to steal his ducal title, causing Rupert to betray Sterling, who tries to flee.",
+        "why_it_works": "Shocking battlefield betrayal and official documentation force the conspirators against each other, ending on a thrilling intercepted escape.",
+        "concerns": "Lord Sterling is not extensively introduced before his panicked flight, though his complicity is immediately clear.",
+        "resolved_segments": [
+          {
+            "start_id": "E043-B0056",
+            "end_id": "E043-B0087",
+            "episode": 43,
+            "start": "01:08.80",
+            "end": "01:54.96",
+            "start_seconds": 68.8,
+            "end_seconds": 114.96000000000001,
+            "duration_seconds": 46.16,
+            "start_text": "Low-angle shot on Alexander towering over the fallen Rupert.",
+            "end_text": "Extreme close-up on Lord Sterling's face frozen in pure terror, his jaw agape as his escape is completely cut off, holding until fade to black."
+          }
+        ],
+        "duration_seconds": 46.16,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W009-C003",
+        "source_window": "W009"
+      }
+    },
+    {
+      "kept_candidate_id": "W008-C005",
+      "overlap_score": 1.0,
+      "match_type": "overlap",
+      "candidate": {
+        "title": "The Duke's Choice",
+        "segments": [
+          {
+            "start_id": "E044-B0017",
+            "end_id": "E044-B0053"
+          }
+        ],
+        "hook": "At E044-B0017 and E044-B0018 (00:25.20), Catherine abandons Rupert and rushes toward Alexander in her bridal gown, weeping, 'Alexander... I thought you had died.'",
+        "cliffhanger": "At E044-B0053, Alexander bypasses the aristocratic bride and strides straight to the chained Juliana at the door, leaving Catherine gasping in horrified disbelief: 'Her?!'",
+        "standalone_context": "The bride tries to salvage her position by claiming enduring love for the returning Duke, but he coldly rejects her superficial loyalty and walks toward a captive woman standing in chains.",
+        "why_it_works": "A scathing romantic rejection subverts expectations when the Duke ignores the glamorous bride in favor of a chained outcast.",
+        "concerns": "None identified.",
+        "resolved_segments": [
+          {
+            "start_id": "E044-B0017",
+            "end_id": "E044-B0053",
+            "episode": 44,
+            "start": "00:24.40",
+            "end": "01:10.50",
+            "start_seconds": 24.4,
+            "end_seconds": 70.5,
+            "duration_seconds": 46.1,
+            "start_text": "Wide shot as Catherine gathers her heavy train and steps away from Rupert, walking toward Alexander who stands watching her stoically.",
+            "end_text": "Extreme close-up on Catherine's horrified, bewildered expression as she realizes who Alexander chose."
+          }
+        ],
+        "duration_seconds": 46.1,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W009-C004",
+        "source_window": "W009"
+      }
+    },
+    {
+      "kept_candidate_id": "W008-C006",
+      "overlap_score": 1.0,
+      "match_type": "overlap",
+      "candidate": {
+        "title": "Unlawful Duchess",
+        "segments": [
+          {
+            "start_id": "E045-B0044",
+            "end_id": "E045-B0073"
+          }
+        ],
+        "hook": "At E045-B0044 and E045-B0045 (01:02.60), Alexander condemns Catherine before the congregation: 'You hurt the two women who mattered most to me: my mother, and my wife.'",
+        "cliffhanger": "At E045-B0073, the High Priest rules that Juliana is not Alexander's lawful wife for lack of a Crown license, leaving Juliana in terror while Catherine flashes a venomous smile.",
+        "standalone_context": "Alexander stuns high society by presenting Juliana as his lawful Duchess, but the High Priest storms in with armed officers and revokes the union's legal standing on the spot.",
+        "why_it_works": "A soaring public vindication is suddenly sabotaged by ecclesiastical law, instantly shifting the advantage back to the villain.",
+        "concerns": "None identified.",
+        "resolved_segments": [
+          {
+            "start_id": "E045-B0044",
+            "end_id": "E045-B0073",
+            "episode": 45,
+            "start": "01:02.50",
+            "end": "02:01.75",
+            "start_seconds": 62.5,
+            "end_seconds": 121.75,
+            "duration_seconds": 59.25,
+            "start_text": "Medium close-up of Alexander turning slightly toward the gathered congregation as his voice rings across the cathedral.",
+            "end_text": "Slow push-in close-up on Catherine beneath her veil, her initial despair morphing into a cold, venomous, triumphant smile as the episode cuts."
+          }
+        ],
+        "duration_seconds": 59.25,
+        "valid": true,
+        "issues": [],
+        "candidate_id": "W009-C005",
+        "source_window": "W009"
+      }
+    }
+  ],
+  "invalid_candidates": []
+}

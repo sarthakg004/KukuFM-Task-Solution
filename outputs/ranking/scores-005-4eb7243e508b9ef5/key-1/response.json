@@ -1,0 +1,424 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "x-gemini-service-tier": "standard",
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Sun, 08 Nov 2026 10:15:52 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=300532",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    }
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"assessments\": [\n    {\n      \"candidate_id\": \"W006-C004\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\n          \"E029-B0019\",\n          \"E029-B0020\"\n        ],\n        \"reason\": \"Catherine turns through floral remedies while speaking of a dead woman's hand, creating eerie tension but lacking immediate kinetic impact.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 1,\n        \"evidence_ids\": [\n          \"E029-B0049\",\n          \"E029-B0050\",\n          \"E029-B0051\"\n        ],\n        \"reason\": \"The scene resolves into a routine prison transfer as the guard tells Juliana to move along and marches her to an iron cell.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E029-B0022\",\n          \"E029-B0030\",\n          \"E029-B0036\",\n          \"E029-B0048\"\n        ],\n        \"reason\": \"The framing of Juliana for witchcraft and Catherine's motive regarding the Duchess and social rank are readily understandable.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E029-B0024\",\n          \"E029-B0030\",\n          \"E029-B0036\",\n          \"E029-B0044\"\n        ],\n        \"reason\": \"The dialogue escalates effectively from planting evidence to threats of hanging and defiance regarding Juliana's husband.\"\n      },\n      \"hook_summary\": \"Catherine flips through an herbarium while musing about strange mixtures written in a dead woman's hand.\",\n      \"cliffhanger_question\": \"No concrete question remains beyond whether Juliana will stay locked in her cell.\",\n      \"why_it_works\": \"It delivers clean character antagonism and clarifies the high-stakes threat of execution facing Juliana.\",\n      \"concerns\": [\n        \"Ending on a guard marching Juliana down a hallway dissipates the dramatic energy built by the confrontation.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W006-C005\",\n      \"hook\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E030-B0042\",\n          \"E030-B0043\"\n        ],\n        \"reason\": \"Opens directly on a tight firelit close-up with the blunt, conspiratorial directive to frame someone for witchcraft.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 2,\n        \"evidence_ids\": [\n          \"E030-B0066\",\n          \"E030-B0067\"\n        ],\n        \"reason\": \"The Elder Nobleman delivers a chilling declaration about tomorrow's trial, framing an upcoming event without interrupting immediate action.\"\n      },\n      \"clarity\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E030-B0045\",\n          \"E030-B0049\",\n          \"E030-B0057\",\n          \"E030-B0065\"\n        ],\n        \"reason\": \"Every component of the conspiracy—the manufactured charges, buying the jury, drafting the warrant—is articulated with total clarity.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E030-B0045\",\n          \"E030-B0049\",\n          \"E030-B0057\",\n          \"E030-B0065\"\n        ],\n        \"reason\": \"The villains methodically resolve potential complications one by one, building a sense of an inescapable legal trap.\"\n      },\n      \"hook_summary\": \"The Elder Nobleman orders his conspirators to charge their target with capital witchcraft.\",\n      \"cliffhanger_question\": \"Will Juliana be convicted and executed when dragged before the magistrate tomorrow?\",\n      \"why_it_works\": \"The ruthless efficiency of the villains planning a judicial murder provides immense narrative propulsion.\",\n      \"concerns\": [\n        \"The excerpt is entirely static dialogue around a desk with no visual physical conflict.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W006-C006\",\n      \"hook\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E032-B0090\",\n          \"E032-B0091\"\n        ],\n        \"reason\": \"Starts in media res with Catherine screaming hysterically and raising a branding poker like a weapon.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E032-B0115\",\n          \"E032-B0116\",\n          \"E032-B0117\"\n        ],\n        \"reason\": \"Catherine plunges the glowing hot poker toward Juliana's face, freezing millimeters from her open eye right before the cut to black.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E032-B0096\",\n          \"E032-B0100\",\n          \"E032-B0103\",\n          \"E032-B0114\"\n        ],\n        \"reason\": \"The physical dynamic of an unhinged noblewoman torturing a chained, defiant prisoner is instantly clear.\"\n      },\n      \"escalation\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E032-B0096\",\n          \"E032-B0103\",\n          \"E032-B0109\",\n          \"E032-B0112\"\n        ],\n        \"reason\": \"Juliana's taunts systematically dismantle Catherine's ego, directly causing Catherine's rage to boil over into an attempted blinding.\"\n      },\n      \"hook_summary\": \"Catherine screams furiously while waving a branding iron over an imprisoned Juliana.\",\n      \"cliffhanger_question\": \"Will Catherine burn out Juliana's eye with the searing poker?\",\n      \"why_it_works\": \"The psychological reversal between captor and prisoner drives intense momentum straight into a lethal physical cliffhanger.\",\n      \"concerns\": [\n        \"The dialogue borders on melodrama before the physical strike occurs.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W006-C007\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\n          \"E034-B0088\",\n          \"E034-B0089\"\n        ],\n        \"reason\": \"A nobleman sneers that the prisoner refuses to repent, establishing trial conflict without immediate visual urgency.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E034-B0113\",\n          \"E034-B0114\",\n          \"E034-B0115\",\n          \"E034-B0116\"\n        ],\n        \"reason\": \"The Judge rises solemnly, addresses Juliana, and raises his hand to pronounce the final sentence, stopping right before the verdict.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E034-B0091\",\n          \"E034-B0100\",\n          \"E034-B0106\",\n          \"E034-B0114\"\n        ],\n        \"reason\": \"The courtroom stakes, the choice between recanting or being condemned for witchcraft, and the consequences are easily grasped.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E034-B0094\",\n          \"E034-B0102\",\n          \"E034-B0106\",\n          \"E034-B0108\",\n          \"E034-B0112\"\n        ],\n        \"reason\": \"Tension builds smoothly through warnings, Juliana's defiance, Prudence's weeping, and the gavel smash leading to judgment.\"\n      },\n      \"hook_summary\": \"A smug lord observes that the accused woman still refuses to repent before the court.\",\n      \"cliffhanger_question\": \"What judgment will the magistrate pronounce against Lady Juliana?\",\n      \"why_it_works\": \"The formal courtroom ceremony creates solemnity and makes Juliana's stubborn integrity feel momentous.\",\n      \"concerns\": [\n        \"The opening line is somewhat detached compared to the direct judicial ultimatum that follows.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W007-C003\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\n          \"E034-B0090\",\n          \"E034-B0091\"\n        ],\n        \"reason\": \"The Judge sternly instructs Lady Juliana to renounce her practices to save herself, presenting a serious ultimatum in a formal manner.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E034-B0113\",\n          \"E034-B0114\",\n          \"E034-B0115\",\n          \"E034-B0116\"\n        ],\n        \"reason\": \"The Judge stands tall and raises his hand in judgment over Lady Juliana, holding right before pronouncing sentence.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E034-B0091\",\n          \"E034-B0100\",\n          \"E034-B0106\",\n          \"E034-B0114\"\n        ],\n        \"reason\": \"The scene immediately establishes the courtroom trial, the witchcraft accusation, and Juliana's unyielding stance.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E034-B0094\",\n          \"E034-B0102\",\n          \"E034-B0106\",\n          \"E034-B0108\",\n          \"E034-B0112\"\n        ],\n        \"reason\": \"A steady progression of warnings culminates in Juliana's defiant speech, triggering a violent gavel strike and immediate sentencing.\"\n      },\n      \"hook_summary\": \"The magistrate demands that Lady Juliana renounce her healing practices if she wishes to save her life.\",\n      \"cliffhanger_question\": \"Will the judge sentence Lady Juliana to death for witchcraft?\",\n      \"why_it_works\": \"Cutting directly to the Judge's ultimatum sharpens the narrative stakes faster than starting on the observing lord.\",\n      \"concerns\": [\n        \"The cut stops on a formal pronouncement gesture rather than an unexpected turn of events.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W006-C008\",\n      \"hook\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E035-B0046\",\n          \"E035-B0047\"\n        ],\n        \"reason\": \"Alexander's scarred fist crushes a map while he bitterly states that his men were slaughtered, delivering a strong emotional and visual hook.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 1,\n        \"evidence_ids\": [\n          \"E035-B0070\",\n          \"E035-B0071\",\n          \"E035-B0072\"\n        ],\n        \"reason\": \"Ends on an expositional reveal followed by a seven-second silent gasp and musical swell, with no active unresolved conflict.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E035-B0047\",\n          \"E035-B0050\",\n          \"E035-B0059\",\n          \"E035-B0070\"\n        ],\n        \"reason\": \"The narrative of Alexander's military betrayal, presumed death, and discovery of corruption in Ashwood is easy to follow.\"\n      },\n      \"escalation\": {\n        \"score\": 2,\n        \"evidence_ids\": [\n          \"E035-B0050\",\n          \"E035-B0055\",\n          \"E035-B0064\",\n          \"E035-B0070\"\n        ],\n        \"reason\": \"The conversation consists almost entirely of expositional Q&A about past events rather than escalating present stakes.\"\n      },\n      \"hook_summary\": \"Alexander crushes a map in fury as he recounts the slaughter of his soldiers.\",\n      \"cliffhanger_question\": \"No concrete question remains beyond learning which specific rulers of Ashwood betrayed Alexander.\",\n      \"why_it_works\": \"Alexander's intense performance and scarred appearance establish a compelling backstory of military betrayal.\",\n      \"concerns\": [\n        \"The promo relies entirely on dialogue recounting past events and lingers for several seconds on a reaction shot at the end.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W007-C001\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\n          \"E031-B0068\",\n          \"E031-B0069\"\n        ],\n        \"reason\": \"Juliana delivers a defiant line challenging Catherine's power, establishing prisoner defiance with steady vocal delivery.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E031-B0085\",\n          \"E031-B0086\",\n          \"E031-B0087\"\n        ],\n        \"reason\": \"Catherine thrusts the glowing iron tip directly toward Juliana's face, ending on an extreme macro shot of the ember reflected in her eye.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E031-B0069\",\n          \"E031-B0075\",\n          \"E031-B0080\",\n          \"E031-B0084\"\n        ],\n        \"reason\": \"The emotional stakes of destroying Juliana's mother's work and the physical threat of torture in a dungeon are completely transparent.\"\n      },\n      \"escalation\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E031-B0071\",\n          \"E031-B0075\",\n          \"E031-B0080\",\n          \"E031-B0085\"\n        ],\n        \"reason\": \"The emotional torture of scorching the botanical book breaks Juliana down, which Catherine immediately escalates into an attempted facial branding.\"\n      },\n      \"hook_summary\": \"A chained Juliana tells Catherine that true power would not require forcing others to bow.\",\n      \"cliffhanger_question\": \"Will Catherine sear the hot branding iron into Juliana's eye?\",\n      \"why_it_works\": \"The destruction of the cherished book builds authentic emotional anguish before pivoting to imminent bodily terror.\",\n      \"concerns\": [\n        \"The opening lines are dialogue-heavy before the physical violence begins.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W007-C002\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\n          \"E033-B0069\",\n          \"E033-B0070\"\n        ],\n        \"reason\": \"The Lord paces while coldly dictating what the maid saw, establishing an ominous legal frame-up through dialogue.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\n          \"E033-B0088\",\n          \"E033-B0091\",\n          \"E033-B0092\"\n        ],\n        \"reason\": \"The Lord delivers a ruthless ultimatum, leaving the maid trapped between committing perjury and risking her brother's life.\"\n      },\n      \"clarity\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E033-B0070\",\n          \"E033-B0075\",\n          \"E033-B0077\",\n          \"E033-B0092\"\n        ],\n        \"reason\": \"The dynamic is exceptionally clear: a powerful lord coerces a terrified servant into fabricating witchcraft charges against her benefactor.\"\n      },\n      \"escalation\": {\n        \"score\": 4,\n        \"evidence_ids\": [\n          \"E033-B0075\",\n          \"E033-B0079\",\n          \"E033-B0083\",\n          \"E033-B0088\",\n          \"E033-B0092\"\n        ],\n        \"reason\": \"The Lord methodically increases psychological leverage from defining witchcraft to requiring court testimony to threatening her brother.\"\n      },\n      \"hook_summary\": \"The Lord calmly dictates fabricated details of herbal witchcraft to a sobbing maid.\",\n      \"cliffhanger_question\": \"Will the maid commit perjury and condemn Juliana to save her brother Toby?\",\n      \"why_it_works\": \"The moral dilemma is agonizing and personal, with every line tightening the trap around an innocent witness.\",\n      \"concerns\": [\n        \"The visual setup is quiet and dialogue-heavy, relying entirely on psychological coercion.\"\n      ]\n    }\n  ]\n}",
+            "thought_signature": "EsyNAQrIjQEBaRR9ExRAyjwSWAVfFnW_O0ag0xp1hnfcDKrxoTXVkKSdWjCc0EV3XAoVWpVMf3CAKtWEqNqSV0HMF9IPqIJykXEro0M2C2s-gcclIlpYsxtqRtwShK7AJUiENCcdtDdbiRk_ha3SQg03VVcAbjZjgZjpxd8epm5n_4YCwEK0ah3HvloVbIFW9Pr7aNq8WU9esL6UhuvhKE9EvsKyJW3Z04mRohGSh-DdLxETxK1rh5RPRhKeQMc96EpVNRuopuQViMB27H1o4EsHNXaVjVOWL3upaNavy-AToPKCRzq4fBGAS4DVFHvQMIX62IuhHW4aLc73csmn8q3-yE8s1nDUhSifp7evF5etV2bDKerXZlrQyaBHFLwiFM4qbc_FKJoRvHRvxgNt4CHatURKdimbGX4BLxs3mzeTpthVyEmncwOkcRRfOFU1-bHM8UpLQ64nlha8uffMgqlRS8agq2KWgxhWXvEv6ZtncCzJjvi3-FJwfNQbpeGvOqamIe7MrEuMS22KLQL6b9m7aBVIhn86grlKBjXlcxsGbEEF-mK7tltCmawMLUFKE21ZfXXVFrBBSOK00lDX_1Ih5CgDtpkNEBAQrluIP0_RuixSO7kFJIwe0yPtCEFQWqRqzCw2um5yJ6ChV50_F4VcbBZdze8Cth8JQKG5Czl4eLxaUQqBGKE2FVRf4ofMyfAXS5yYC6xo5_qB1ax9WErgwaid_4HfO2upPdY5JbRXEBHOSCNrWFFlPiBkSGHILoLSOAfzisMcxLpiKpwxyRpHBtLqSEoGS1ljKB7EBazKbSTYXJ3cWmpsTSS2FZiMnugjmNYf9FmykanJkJWhaqlwzAcEiTMNag4Ixupt9UobGXjIt0B5htNCXvkGy4y90JLfJwuaT0aXzjMesvZHmsG2jAn1uC4nodrjfKD0jNucPRpGGqmxlvqNlDCr9ADfrpZ0QHSprZrETL-AbfKTgswgyat_6bhhtAww-V1iPPeMw92ZTeg2yuZQwTXvVh0Z9j4id104FUrhF6tUex7j0is6U65W6k01CzZBma3vfjJRQ6AUtugXMPgVY8hEbmOw4GZKB0tmeee-YNn_UlczJGS66LAUFg6hEKkSJrekkB8b0nIGo6sQsH6SLGQmuY_rqU0voQrgPitDXmUzfXJRD779Y4MSzVWZa2H9q7cLa44Vyqp-suESQFyxAA0bNgP706EYv5i00wjK2BQ84zPyvF3Hjh6t2fGjAAXiGsRQfXLUw5RvX4OWkNAt_RSO5omRFPHc2SGmG7iCA9EDuVR9tKMSsqGuvajFqKyjCOt_d-4_7DrkRBby9SLHf2pAcyAtHgnP-6-8_bFmhhbtW67aRCkY1hKPj-k7RGCFBVfO47cCbs_yvbb6euCMi13smMZdjYVptdYiOzgsd4qJWrBGzjlVbGiP2suWQuYIRhYlk5Ww5bLHKwbJZ1J7DZNBXdbkPUvHXR9KPjNQiUfBH18YZaedz80ml5WFoxgTiViXHpbx9n_4jxGSVUxHWJKx7i_QVdlY4SP_98uJcoxLAvCZGBfr-fcAg7DzbI2ROOHC-18iti-MDejd5Tt88Mq_cwBR7bZmO9_Fsr6KEIBXlKPA4AyumK2UDwWEYvZJKLfwTIZnzSqs7k08wS03CP2tZCbAEkG_Czf7raIzlzqzQqMxrA7-rkzHpPkYOd2SdUr9eEU-RQtT77oWum84lir4NT88eLN62pPTJ6vXV8_KM6MukPU-lRCyY3rCn5_VSvbce1XIuKwOjHteB5jIk5RAh1olgbYpZteGfZg56IPVmNJXsXiuv69Ulz3Or84QtV6Lb6z6yVLOwVE9J65RaDhpPLmDAVT6u84CL2jHwgq05CkDIzgB23h_2q1dukQJIkKF4NgIYTVy7brb43iHM4yRR-q4ID7wxB_WF_OMlXC_bNjAFLDBuNF6vkmvEAFICU3OHOnAouEUnokcdnv5NAGZkj7sogQwoBSlOXaqIAoyQcUb2GQ5NLNa9xxUvWnAscct0GigUx_T6cDNkvmyw4QDGS-mIeeZQB7WQk8l4cDKqjccLj8IieyCHESuivUHYpaIq_HoaSP8_1fNh4Y_M0MtouD4coUtUfJH8aLSyJ8eKQYRye-xn-Y_BTXFt2189yjcZP4fgPHukCL6tysiG2do7kf7MT-NxLQbo10mfP2pP8yiLjGDyp0wI93sqxmDE9Iud95cib_8d02cuLffUZbl-xH2QmxLr40uowSydlhBY_uJaHST8ACjbcnGV9mS4WyLeOzfzVKy0Bs2loh8kB98_DjZP_u7xtOtccglyjfdDQlL_rb6ZalcTMGKLxEQ8WxyGap96qmMe_ZC6psOlf_AfXz0w5LEFbD8ukPolBMtHyfzkO3SNNHmI6PlA9WPg2jFpKUyfk5kBYlDafH0IlFcvWrR0p8o-rNDdkv2tPQ_G4UotnPPhloKTa8CRQxtfvgisq5wdf9raFExhWB0VOhZMzwWfaI8WemCYFLjGyHERKP59XFQT1QjJBl_lylxsphJJLJadTQXZpuG0dTtpMkS9dKNeXIpW3ulf4H_yVXsIATwr7eNfOQHjfkCjIAE18Wf_2BkRyvQ8YW9BXEI0ZZM6-bb6WbuRX1IYueaX-FWugzs367cigGWBWyNEYJ3UHoZtrk5d8DPlG5fUv5ANGf-tPDSrcNUVsdd0bitsqjUEHsQvJ_UcF0XB9BBv_9fjtCjqxUrkyifyPtQj_VvBO6xazwyBoIeZIVF1B1GRUii7EuI43sqrzUiNDoJCi88OcbqU3Q0sD4m9fgd0D9-wH67zMWObvjochSsi9lee8dJs68Y2H6sqjEEaM_mFArIt-xp6L_B8L4SN2WyjK4tkIuASh8utcP1Wk51PeKq9fz-UyK7vxqbiDRtv5KtapZL68eYNKANL7I2b3cFPak6oKYFojkBobymG0DQlh9emd3X3Y7pXEGScO0vwAKL8HYzKaN-cK_Ohrc1bmKN_t95ls_kbzfGedupTpfpK7LytGcbVbMIzP9MqEjMul5DpeNSQg2_b2FbFps5unHYeDv5Ym4o_I-CRtEijpLLc-mTidKEggttTTuBIb5FSCAmOA60DMU2KU5-Ez1Ug6Dezr73edtw5G7SclaBhd1Z3R5TN9374I3bX3fWkQC5WLrApOgJWoQkz_-_sr62HZ9ERjObV6tgMnd_8Cdi80btcer9YD0s6k6UEAXM7mkEIyyj6H4606Y8X6rtQnbH5Su1Ru9ltOGb2cbBt5fFBk7UV9PeP3-pZhMRAITvh-3WHmDB67dd3OybDrSq8xwHQ8L9KUhn3Fdkyt3w3Sl8shGqxxnEaxBRLdSrUVI_UFxrcEhbYIDl8vf_fRo9HGnkzRjiHdivdeHMYEn81TPImTDA-lIyv0agGbVI_SogRUoa9WmtK_c-k0p1LAePGUBlD0SO63KY2JpgKWMDbGsFqECbbYw_-tBFB0IM-Nt6eDKOFVq3GvYOx29yU8GTBrxOazsjh8w575lNNmRxWuYOF6EgNargB_d5xYbodEJhJXFacOZAzcaTDHF3feWF8Fl-pi3p8BLWq6uXoCRS5ni3DyKWnsbyc5RrCSO5AnUdsD7dfCHAuM_A4txGk_Csb5jo_i3fJidL0rtaUTlrg3Z1Y0Af1_HMOgEmN1OuN-rzQ78PqaGrn2r5Ya4Ak7MvN1t-jkIjQEMoveFfZd3yBomrH9opEYZIWjn0vk_jMX68gv24lyIxbXMoRWCE7x2YcpInPgi15XRG6fAaZ4DJJXLNvvCy-vJI24nxWn8PfHzw-vd02aWugXyjiDGkYVEt4PNBxv8LcX7I1FForzKZbPi8xusUrAIpJSM-Em-hfAt6uOQnxsxokcAaA3rCd0APYETlMabtyoRFrfIVYgo5GVxfkVKCeGab5T-tvaahmL5L6WmCN_xOqVyiWrtOidM660X4RIa7a2j8ecOJyr78jXi-UTAHkb8IC1cN87tOA_HeGFJ2oFFyOqkOdeO_8LoYLZRjM5eLm0xe7PWfn8mVosAhJ8nSlYr0O6VCDUbeqyCnAwM_bUk7-cIpXHtnP3rkVLDpFVryJmUl1fFx2UAAc_-podlBZ3uDumRYPfYdBHN4_jvs7cTpFVhCIk59KrcntIp5vQOC_GyGex6WKA2jehkQYdtOgy-NnPevPe47mj6-XU17aH4YHU3YrNfX-txmeLPtaNF-js93h38UyKgRra0ePKijpPqxBDONQywzzgkde7X3AefdGLoew3wraUwieTx0uhDgorNNjhLIFO88wc1UO5ooZi8xCSlW3FythF7kgAzTamsHosEDzSoZFkFu6aDMa1TDjJekfqVgnqzoKvrhYdmienZGoo8A-Cq1VDccwTSN0lPq8hAA03lOQrnWZDtc8fJwI4OapMcakhcVdg9tyh7Q10Jn0dH9G4hmHAJgoYorSqXeZHns9VqKtEeqaNqPwFFqnkn1Crbw8lMiIB-7mW8Wn-p406b0dSJLj5A6Fg_bLmeOApEm7HW8SNujTMkUnDAMK_QW7IOYqAkrL6ynGmJ5ixkm0-9j_yyqx5-0iCF0BFcDe5sDALh4Yih3x3xaGKLY4BFTK4wjF8645TU-Nk5J8w86TrHjD55kiQuTpnp3JtXgltWardbgrAdf6lS4UMCMUgP4dL5UyxIOau_BgzWzS12G-5uIyFOJCt_9MtgIEgoyJ-Ltck88SDwRtSqjVmDh58Wv2AW9a-75-2rUBQPMwq2qENv-fJWn2y2tfaxbC3gKLzGtX8U5aGTnz2BQ8ZZ6md2SXWeXOwB9xSuButoTlC7Aebcx4B8s4SYAOt84SRyosAohf1l751m_fFuBj_WG1w_oY7n0LBPHsKz5oowtAkQJ3sp3U9Z0NZKypDTFUzRmeIFRFYjVTCFVG_260Ls-9u80HUyYywtjZHkc3OBGSINCLRdRvdFyUlyQcHMKz0pxbe0jsJa5glupDmkPgttPiitp7g5FpJGIRbZ9uMUECAQXluoNBOcuI582nHOpQ_VMdzLcW_YM_7FMRznCF_cN-0Iz0ScoYPOdkFQnKc2qyn1HWtYUp933YZgF7UAUX2Z1w0c6sScH8mAeEKYqCq2-VLy1uZos2zQWMnkmUaOIzv1__I2LyL9Pk9erlrP5lIHYcmbUjr1yeXZ4fVSDCweKDrsGmK_2y5BHqJlCMmaygjOqfOKRImL8FoirPS8RYCU93YoSIqB7qgO8QWlxjAINkExdFoObhKdaOrxLQp4Jg2byfMzD8WqB6H-NNGxlLTFsV4DH2BKbyg1WNXmo-96neSB0zkFDDc3szD71ITBa8keuuk-h4c6WpbuhSDXZH6vObDGUKNsgYRWQ8X0_v4Cry_mz9miGUWXax52lgF6UfMEeD3ta8QLbUBlbm3XxMxoNBHyhYk9w0iGXTyKZ5ZBa20lA-rqISbPEf_t3kRVwhJqdc_oI7ybqgaTxLpetSHMRwSR8S5Sk3-NVfUNmnuLZF59VW6gfyRvQYaWCwJW2in5jotKwccbpVlsF_GnQcOn1lvzZwCpzu4Dzwa66R6WBgT1ohuHp68LTOBYms4pC2R8rliPIAXR2DrW34TelUwbmsRoIF1vKUS6LxvhM_v4KH4dQ68QXOCsCTLjSbfqjH1nMlgRTBjnncN2gcNDCJijK5XRZT6LScu3SG1Xznd9_IcFISVsX-2l6HJnIAxmhV9WNsS1qipxjOH7XLeYat_GppHcNPYRXUgZim2uMVNC2Hr3gkrxEk8pagRFEEWh9iCTAAJJE3f5b0VXPoZrMNbn57-wKnZrzIUeYT3YTRau6oCxm-f49opXa8Imz8PLRhG18XQ14o4A7TCD7Ikj1Q93aA20rzxyNFdH5L0DiG86y5kZ_dkntITYwhdWv682ZhmesZcVey1H9DrD0xn8h_oX2a6S6tAZw9QEep3UPPHaul-DmiX5EGJjL7FpKalcJgAQSHbokS0U8aIMU9bKc-V4xhq9BX5Uk1ogPpYCMv3uzbwW4E5_4H27PAzUE2eD9wsad2ro5-eFnsANlozQtfNp_Z9_h-E5L5xu4_aH6lDAb3R00HfCKfRbN_MzXcE3Z9B3enBnKI1JhsCzoGZ2IF0GXGZ1Ft_jA1TnBAnXQgFz9xguqwthbNcuAlIDwN6h6oSug-DxRyFyUcATrQC65fhG5TjeD9YdzX2kpwRi8ckTmGIDap_-i-xCLqzQPKqq8MPSxFhOHIsm_4Mm8-RE-tMcXdDZ6886sN5IRtN-Nv99Av-G5MYbYk4bJsbk9BrNRSgyQDPQGm1tOWteGouz7AGRyRXfDQTjUdG6XzeN74x_CQyLLjXEPHZmnM7WqWGR48Op_rfGvB9n2Oko0mCXSTLaguwJFbSTBgIbqIreGm757X0v2LgfZ_ZOBMiCTJudEk_3W3K5O8dtlgEvalRHKxPKItff-xkcYbnGqZ_jbkBjZWsVGFM9K88ZpASC58CQIvMxtxHp79UrA7kF0Fd3Zt9hHEjdAAbe3ZM0-XyXHxM8g2MK-RtyKSObFv9uwlnKyo8sMeA_2OhynBj-JeSEhoTcOq-bZXkZB-3MwngHJbmCwG-6ImuMn9_fAL_5kbfasD0aSnD2tfTozhZP2pxCAF-mqixG3vZnyvBjL3GG1NcgtA60kVRFsqdsaHSfXm_spbj0cr6yYon6QUIMoeZWZ4jwTgf_dAZnpeixcmiz95xSrBp9aDotLe7agG4JDkltbdbg8Oxexu8tQFxYhpOned2EZZMLQ_tXqYqmOlyQAX0GuJbIrUmlSRm5l_6Vgp9zFNogGv5Stm3MHGXVLbiJPmx61ZzRsXhW5bogO1JIm07pcqIRboE0tDlf8T38798m5Lzo2fWUkCXBPpIt0PIBMyzHg1B32Mw03nRCORyzrOJyTq92vGyV5nKq5A9cS00mFVQfz6YAvn9f0uAJwtsrvXz5KFv8cYQj_XUp0kzznY11KdL-U4h0QCKAaeSu_-TE2SFfzpcozORKNXqqFzZrGETXz1yuZpl0nFgZOB2IE2eNqjyaGCd23NUjHxGRf_pvnl3QbcrhcRkBE3w5k_LlzX_Az2M3oiTeyT7Rifzmi0agrbr727SHTWaYNN4BVIeF8TOOIn9kAHgc1X72CRSHQ3LHvCnqEDU4Za28s2-v9yqw9EvqE1VXijnsbYcpwdOfIKMJC_LPqhw326Pu_aGQu_bbulbdMPie-I9F4RBpa-aahDkx49u1jd-7oONBrboFE4Rh6uljuwmx1qINRaMxGkT6J2EsSvf8FDNc4iuDur7s1Hu9abRY0tVVJbgc9k8VwjyC7m72TM9gFdyRFluf6LQmkom2oxxZ8HXXIbFI8yIi3ZvvQUXJ3tSvLzyeQCjcocqaC4kbZ0AIJkN2jNAtiV6YhPlxIQRQAr3zm7pgo77zJKYLJBuv8XXcU2CnaBIz48EErgF7alsjmzMPNjg-rjmjnYKTI6pMzvvwHZ2MJ5He-p1YXvD4JT9welXAz2NPBjpAuFan23phiNWz3CAJ-tS7fQlRcgA01XjVpHk-Pl3dcPgUW3O99Qh_ASmJU1lOs0tY12fCTD4MhVmh0Ttf7SUCYAD0ISjVJt4UGgP0zyCSszrwCFZzKhOkNyMo6VS0jPZaiSMcwCmMdQnTwuZY9tt_kRfyMqUyjGnNKorW44fD61-l010ptry_1LiFwtY7kHhZvIJOr2LqXErm5HGccVpPrpi5yYpxByRBZGqbMoXZJ4tm2NXMZMjnwxKyuCl7Gk-RrShtCTYnn6ly9yACzwqftIDv-ydJ4AXGAGFFoa9cp44c88AqgIDz4jdqmTRD8VnStc6lUzuakKeEse7BCcjuKOEnIIqUZ2jDPceO3ftkRGGU4BRaNZnyeyoUV0KokDFDeRszmPSNQ46U56T4TwDItGTDdGIEAZOmT56uFTu_bsWfKA-LxYOM20gzvuvT_0M2MvfLPP9GbwB8yszXklzlMtlpx55m7MOJyXN8t0aGpWXKugKtHPAk34cy0WwZ3bYHdL92JUzuLvQ00eZaTPzsR6ZdY7yYfti46c-e5rk2R857xL6fLuNHqTtHvRcvCtI1EPwtAsblE_mRDqmhcQ_3zZ1dTJnceqR3SsFGL_2fePKhwJtxX2ll4TFfXBQfVKTTFyRu51Yth8AzMJ2Da8OfPw9dQjaw9e1-u0ymzWa_U1ALlcOw5VR41e6cDDZfFLn5Q1slWnVB-7K6RM4acWoi94P9sdq7xi0FG1PKuWVStUXHppHuSK685dMT_YLXs0we2HE14dGL86tIGMqa2AJXBKXTBA5bEs_NHLxc7wZyYWIEonLYFrkYVE2xl5QVVDUsTCcZg9NGBGyZobx_Sv34PuAYjjVT1djm1_AP6i6wBy760qFbgzYt-17h0yMu5HXhZ3OZKS4F6x_F2zZPeuuoKlvnhx0_fZxrUOAnjXrgRHsCTfgn5KkKpLAknC6J5M0DTqtmvMLcsSczgg0_SqOgkkY3BwYvO3717Ar6jraRIeEUHoYBipk7tTUTlWK8P_2JG12BRZdK6oN_R98i-Z6NfHZWvDhuShOEvpkhKDK6k4Kc2H4BHlT7J1SnXSbTU_SWm1oYsYyzsLIx_8r_Zt50nA2iQ_UHR4OW0v12FvnuF1o3vD63XIaJ20EGL9KxUT6ex0P20PL3r7h4DgqvDjnsqQQ-SfX2JHuytxivZazk9wZK4EjMGp0Ez0AQt12eHx5RkLEmY6qTj_M2-C5-JXZqOjj5xYoEyeXNPpWj-nVSVPZ9AIb-Bm6Sxj36HXgXSK0YLrsnMQtaxt4gb9z_DKj95vpuptb26TiHgUKAfAUMk_6szA_4DYoPEtCnTToj0snL1y_ol-x5SEen7yy4i-t5xVOqWleQp5g9DFLBvdQxhHekKXmRPEytzLiwxHXM5V-QJwskRfv4mskIeAurVTSUvVRKhPSvuZlLhIdcL1gArgbPJPs1VekX8INpD7RXo4Cn7sv_pL-tHPGSB3Fbm47UDAZ9M61mRBDJC56xnOtI9cIoMcrTQ9eHmAPW_PrmsRbkkpVM7HoMG_nkKR66p8keewaG_qzBIFccGDXi5Cn6tmdN8sgRGSzK7nY-xx_33dD8T4msuY1HJrPbUFxnafV06ogtJXuiZwAl6L-NWzlWLroUD5biY-U4p3JcqTPX27eupsikdzr5U6avxFB-ouVW6S7BLb_dHguIGNtAZ0zZtpPvQ1sbOuqLz0teh9LKVSSIiFjPRnQFsY0TGaStCrrsTkKUNllh3Klr3GG0cMw6Gh-BlWhiWUAXxd7SKvodc0SxRnlwKV0kBXxwGbw7u0MkAw6-McFKgsdqE8HFB6M3xo2mewmykCCstSqLGswlKNV3aPJT2hnWT83HpvLJt8N14dSswbtraYy9pR8OQFseEHX2StjBZsER9PztZ-1H30rKJfKGQXEhJ8DwANkglCQZEy6sN-BgW1Ds0FJxXXdStxi1T_KOW9XokUn_QINdIjt8mjrc4W_c5syYY2HMNwahmIzvB2NfWaW6xFt-F7UXk78nxCnIqU6mDkD9tIp8YqTgJT2fSa-zz0SQuErIJVKk1y9xydT-aXnuQBeM4RS_tbVPzUemi156KUBCM-aw1O-ZaPmUoSZHEVhz11g6TWSLETSkf3xXwDg-YT7FUySBV9WqPciZqOnNeeOIm3LCFJYzvSThvEmRmbvE_4okuCSuC25w6JwepsuetUVtZ2EESv5McAyj8I9agu3Kw2LEPmzriy1w36UA_BocNp8j8MisXCYsEtc-Xv89lj0iD6lOLwoAbYEKUKrtPfGp7rhXzqnpKPi-E87W9no_a-M_Cad-Fu6D5nUmp9FqgRUCZ5uwNQMzZkHx2eGntvv0zs9N_4lMmSXlePBCh1pj1m-h0e_xFNPBjjXVppOhnv4H_N5uFhI6_3xs_QXCcBpj0oSPQnZBRb_3Mer4EqveUVOk5DfVsojyqitQhPYq9iJG_eDcAnZgb9LX2s_H1s25uZjCwqUYefSEf8shVBYW4qaSSCMgt2b4MyLUJyGknxJkWrCl2e9a_RqRnAKBX_5csex50sOvfZJpnytSED5B-SdcN0mqEbrfNlPmWHjDtCj4c0n-V7eiSv25dm0sPjHd6uNC9G-N2La-rSVmR1p7F4ng77ZBojmAADSihNIBW6Quwate6nn5wTqGO5oor8JnVLhVG9NNH8Q-B_aBlmbCC3BmSvTBM0FnoHo-AoeWqidiHqDe01c7E4ebUms4LIg5jUzZ4S4lHAIkamoIzC8huyN0CwWunyDyhmy4CcliRcmNY3lpYM3o9Oc6ni_8NpoZOWnY4mL40fQgzwdPC-Iig06fmjpnpv-6jDwRgd6BBxb129SDVrMR1lXmEJOV6LmjEt1W918Lek3r2cxzSjtONv6jO5g63STpn_hjejt7YXwOpOkVYUPSbVvcD6h4fSaFEkQBZKyqRLAhSEWRgyLfcPNEhYh6AFSq26yJOXCBD9Tf-NNFg40ZEI6Pq7EZ79trBkVnX90VYGfISuuEjhYQGqkEcR-7FJu3zWRk2rlbK2scUpO1feUNharm7GaoC_SjZQRvwTzTEE2IzMfQ7bDlJ3FYZcU0IwLF7bniQilczoVS-N0xP0pKmUNgZcrWSpmQVsH4MH734K0QCKEfauvROUkr433oArUxVU62nejXCYnkWmwbfyDT07WpJlastxjQm4MCPVU7QH79VDhcjqPZuXKSBnDiMFwQh1vExkEnX36S5ubuDhRiTGiUndVtQfvYt6oSAo0NwciO0TfD8UeM4Vqh78Co7eNDUp7Hjgqls3WAgJU8JbkHMaYnoZv4Uqbe6piYKRLMr7_CZe2GvT1FtVQbbknqTjoNwhmrJg5jf5Rqp6y7ddrYXIxQe9cmmC2yyUrq2Fy1UGLjG1dWNPNQ9FcnRbYdlDay1VrDkJ2kRWxkHbo91PqWCHPDhPWaiDAlQ8_Pj2x2eYRrgreME2EAJUqy-WTgyuDkxR9LsSIMbxRIs9gVnXT9zHl11CFlTrMSrFMmXH3XHV_FaOiT8dB_AQQ3GUfcnlBLsemGO9QQgjMEKIUliDYEpVkl7NngUgA6nxM6gQnJkWvCroTVvxlk4GOCj2gIs2xQljFSijG7PIw52KrUDvUF_QjQj_2VAndOpeOUfkutqc2ZJuEAFhVNsJE4ke2ihIOPNSy-peNw93b2lRcAvpTgDW1LPb0VipvLoDTvHMdFlcstatxyKEGb7sI6iile64l3LyO72Y-lGNH0cokuOLc-Wk3FKYrawsjoBHwpMBhVN9dFXiE8C5oe9XRfWeIXeJYkK5TTy_yqczAD-bKXijVjgTRfM9DyQZsTZlOz7zx7RMo8CsjfcoGGoZfn6wCYxLXbQ41xcWbKc68UswQWOe2fMwEPUi4Y1k8qZT1M9rg_arZ7UIlfbpbCkQPO0t9ylSrbY6sgbJRAammx1pwexpRmUBO171RbHIHO-G_eitIu5QSkD1wybQBGhQOcJnImKI3bzgxvifbEXfNjX0BE0o2hD1YSMbzP6Bn7pXt6r4zyqBlO2IHbMbQ-s1EkdzflyfNUxBnaTXUzCIgR-myh1dykxuKDxwiCKl-9iF-gp84SO0MR57MYUE9xULpqO91EzKkBMoYI0QBfRsBCPqHG2ogSyrWeXYk_GEfQ0XA2YdCDJfnz9pgv_-TPQ7gofZFWuCbuUZq6a9doq5vqO51oAZ26zSj9Mr_AXleh1cpI3hHeQJTYFFeewO21z-_tUWZNndtm8xIMhc0Rn1P4vb8cJD1xY940u6ambqCx45P-kSRq4pM7TGhXf6P-2zZqSFtuYHNZHqRy3f-bMiaTlZiT187zvazfln-W67jve5vK95DOGFkeH0qXS0DEPERT7TKTlAmij27yX3GHmP50w4rabjy5Pgu2U9LDfOm7_AV8gIZFT-7nwFZqEmN5UCo2PKy0zIKV_2sRha9aSFEu6aVjxkcNlqDCr4fPsifRi8risHF3r-EfmsAZxoozUNHqllx_dKWF4piK-baRhEeq8Rqv1nVbmiDk1frFxRAcWmxmOl4YCM118sG7RIcGwiXcMgsQArgIRuv9p8qrTx1zBYRS3Ak6pAsVSienyfIhsW9-cjrsAtmoNj_nZtPF2aqkLAROoBz5Q3mELvaff_FKqY3NsEQTP9tRo0UWkX6mnDBHVx6EecQP2HmR4EwGioGRbSwSK93mL6Cn0pHPKcy4dTWxXC29ONEYyttHQWXs-EAOkiGtX2RUpQ14b2kMPdd2bk1sKRTn3eWfFMV9GISK-H5gmFQRckeek2I4svgcgW-_-kYzikn0iA7Plac7YpzGSaGWTAwGcqz5ywdgoyvjsgLjrAoLn1ChY_ek3dVr0KSQ0d2AuqmYrmhlG9_jVzFkCWLwMbXOFkaHPi0mzDgLHFRSu3l8lb5jWlwN9-kD8Ntn9e_Otmsu3Dl50mFx2DVobWDaflU1siW7CvUp1_jxHGJqTi0AvJ55Us7sYBqtJo-WIRox2CeOtsDk-6YVAgjZHBD7ZnaK4p4wmQUnNk3d1eFS2yzixkU1IdkOKH3hVGm9cDcK_-GhXEE27OsjvzWoc7TPTSdp1UZwVGuC0eazHhXniunqXPP2xkPMkZ2QBc0BBR_6cfDriaoutnXGutvuLPJQ3vhgMk6aybDKUTIsi1hBuWEywYJOM97fkl0KVqa9HR3T4QhmVTjxW8UIcBE9rn5dX9OkVYh7fm1hPo2T872SFUhN3rqRAeYUcZ8GgJibKCYGf-s4bYsOXb5peab6ZLjR-mAF3hgvmTN3cv2FQG5EcncVmDTJhMV2CmCl4V5YaK5oivz6HlmaflH8NRyLeb3Sy1tFsh0Hgvzy_2RfvbmXH4dtE8smnX82spC62ey1MptP-YIoLRVSa4L9i4n-uvuPiCucP0HalN0cby_eZoBmGgA-nas-lXC1WZ3lxCfgiKaKs4RUDwTBX4ozV4ahJMi4SOaI0PeH-BaUzoQeHBBPxtn8J56i-e3EsGmnAQwfYCRvUtAoF9e5LSy2fVQPE0i8LfZ27aG4_dPYMbih-lxBc-L1zKOwKMv5AdRq3T0QJCUStfUmKhIhytjzcfUM85mI7ieycak1-jX0XvyrefUogiFgH0IqnXNbPxmqQKWQXfupa-HD1bYl-ksbCH5LHSMrZeWkpihRa4766mXsB2Vsck6YRuUnzYzlPShfjEsFWESEZVxQLnNIQOKUhz4bAuaViA-gxP-MgpuCCF9pC5ZLJ_K2AhQKL3fZexdhTtCNSHGHIxEYDh149nhxcQGtjoNZN5lWPn0KVjxkcz5__aW27mAG6bQCcmkB5SOAsLl8PQf0r6Bl3jogw6brkna5u5S7g5W2EzBzKa-PDIoyFtmrevJGO3cSck_lQDP6pS5mcy7ZOyrC2_B2hSg4tbZ3CJ3LYUFeMSnSDmGSzwNETg5ZMx0RhhrRZ6aNanEEe2yJT8clKfz7cFSrw_xC4aYsE6dooQyI4YlRVV5wgo8JxU7RJ1k2CgIC1aexC3TrtwtyT7jMcaAcx2fokvJJJYzv3a4lOyToaS4NJMg2Mf3Tb4kpJdzBzN4TXMMXkDQ2bK8llmBpbqU4fl-lGTtGoaFJdfGK5QmvaXYvJChKuiqcz4a27UuDtWyNFZojc0idmRWnChqtMYlCbnl6n_Q5P-hk9H6cn7ZWCfSHICyxcB9WY2AO02vGcFWSevJKmxJ4wUhWtrhsGopmLP_MO6V0OM4vbgxDU5I2bqTT0w_Jsp2qJNWJjUjMthgui5uY49qpShgQEEiODqSWPOP2xp2x2f6EkMGa6Snh__af-h5w8jeOTXf2q65oMf9x7cfXQx9nIKh2mNFRXYbgEimU1hLie7yJB_Tuksh56_Dh84KUo5qln7PKJ7S_sTfn2FTdp0YtD-JCgRz1xo1TBX86wg5ZNW7hmzKWC3HzpMLdcOUBW4x3sRP1p6ngjmavb8FwFo5Z5PETua0qT8WJkzfrGIwKHDF4es8YAk2ZSeAA9vwgXJO_IKDDTIBu3Pz6Nsu7coJaoYN85ONfh2JpuFlu175kURcdEG5HA3IAyEES7mZD3-4hTSApHqr_8mz2Y6yXPnX_uPXj6LnGdSHuoduU5vUHu4MylozJZvE0fHMsR5Rg3cJOHMxDDNNqXAiV7Bv74QPNGXSiSWcDLEuOZ6ja-kfE-NouwgBPUngUvAy53cX2Spqcm3qNUrxXfQZBtjKUebbIjiPIk5Bgzm4mIhiwKbEK6SVh5GK_Cll2w-VPxXY-q5BaePoXg1L1MrByfiwLmeunKrS2xjvY3C48JxBNSXsA3GCyNAVp8Wx0UiENNwMvYO43eSrqBSv8e0TXwAKGuJ5EGuMYni2iF9sdVujNqGnPxepTSdS5kIkLufRPeCXFFWplxajohQl2lirDgVjHXcHEdGkYe0hu78caL_LQlez-9AO1ttBWsyctV4aR8zF7rB4hURVftw5XlTAPwvqyTlYbgm0t66rS5TMZIn_VDHtPVLq7TiQDRHRiAe2-nF_jWzVcDXnieZrZpnn-kulpNcBa_0l9h8ENugsQcoMAHfHDAUe-nzErghfh1U9DWLqZx8Abb-ozfcWW88MySJDTQBDgwRwT4Jdqf69Hn9TJUD7X0rRtw3AZOuBXV8-wiJZkxu4MrFh4Dxm-KkRdtQ-qiqInKIlP0QRaLhsZ6tbuUiMWD2fNdMqOVCjftXiAue-WiAgga889mb5uWamxY7Gn1MbgXdB5GZi7fHCv-ccV28GgZCKJeu7_rpqY0LRxuo2R4l0UnIUhgGOYtf0ge0RVnP0mqbt0ot0PdffCVZ_YJtBxF9FdRj98uOHSUfRGnPCaIxpwn8lXU09ZSKIf9s2MyuaF2w5y82h5b7uPiKfbEV7SSDGU40HLQtnSrTNPbVVm5UdfsMGH6OlHOO7ZQbLucqd-26ZDRYVbPG-X42pCeF_XcXVbEveMLecGAg9p9YsH-xC7iastCTjHbgmMFC88A1oVfFPG9AP82qG0jFAI4U4E8wemVWvwiHBvDdxcAhW5hF-fQThTkk2-XB4WN3TEi6iVE0i9BVtRR3H2C21LMkbAOy-Gf4NfCH3SRzbeqqeO-Uz_CVdFEqo_zkhesoE_2lHskhnlRJLx-eXluw0oqYD_q185kINATcNRIdyJQZJNnlGyJBGvVD8qk79nqjRR26fx8JVX37gr0WiqP4DBisX1TvDvyIMo1i2zywGO98jEIeegs5v2P1Atl7DsTg_nG9xrIsKKZ6Mrj5PW9pMwQQeb3weVLW9Svxr9kzjoUVW3Wv5ftrVWjd1nmtPEjm3euqypyPIuyNye_50T_ey2d-0CwA9elrXWBQm_4SWikw6ZjQqdyfFq3p9EsB-S4dwwzdjaQQXj3FtitLKqErnrmMUGsdwyz21ncPbG63_En1Py9wP2Do__evCJ_RWhervfvof4ziMhDx12fJzTDBA-ghsoFEJD0kx10c-RRdOU0XTqPfWORYVYyf0KLoqqFrEZV8LDA0smJ4pe2Hk48NaQ2kzfgcS4fZfZ2o4U5j3OWgl0zDGbww-8fG4c0NwO8HGJ2KOEPcl6l6lkuJ2f1eyjbvtnHbPWNLED2LDjHaFb5JRakTw0SXs5ogoGBJsE_wXvwp-UZxQluZ2KPelkluDUo-hmwy20Rt54v-9hslXDC5Pn3DoQBgCl8Spva38Q9gTaOtzhHJ0lVuJULsU_RxqvHT2hfCooIVDo6wvFbhhEJR2qFv-9cv7XCQgBeNgREOWFgG0nNVjyWdXaxDbUSFg_rkd_V5BH7Ets4KnZraaJIWJY0zV04usD-vw6g_EDtSC108jFh7loUKRX7XsI8VkCB8YHqBS4b5kTlcilNNQbzSSovcX4DWoTGIPljsCWqy5jCqvRDH5IOLzBKkas8GttwGGv_MG2rLW6CsfhdOhYt_h38zYkTs8Yph5L1jbeRlVoRUZzHTJ9MnhyVNDFyDabKRB1vr_1rfWLV_AKCdgSxNELPCuLXColVbTlgxaH9gF39pnnOSE0MlU4ZQOQlRC9A3VtPvaX884b9zQqR_pUYlD5HnVNxxVS8_m1O2LJtOJWRoqj1IQYy5fsxGeEH8EB2hK-3tPOdj16EvXxIT9vnQc_dmIOOpBYObtvIunpOFMQJhxcqX5nBUuFTY0kLCrfREqieN6yHt5v-yxY6kXLH45qHn9l1WwwEf-D7is266FTJz-ush6_z_wLduGzidFBv7bHIuDtUYIKd63ZTEFh9D3Z38jc8B4UOUG6Fxn85I8740YgJfP9cEr6LwU47whrh64c7pjqNfow0vebnDRF5Zl_c1dWwCTOp5FI_8Vib14xfEoDwiWd1XeC86-izviKq39GAGcZbFR05jFND1V07h-VnCd6NHg30iirMMWZLKGNhDpkgOqRY0mOZ__StjzPnh5sdy6baBpA6y3FDo55DyH-2pErUnWbSvME6zthcq2Vhg0weDJ1Z_ypCWQp7CKvAHoU39qTmAnpFEg5FP6wmKO-HKFI2yEs_fqYzJr_VNInSfqtqrkm8ktfe3vZNK0jrUevynMrdhavBN5gxXelOFkLQmnRT7H6tZQRFOhbetH5Pf3bMx3ICtdriuCbPshfp5dH8pBG7Fmf46nCHnMNE_w4f_AVWROsCWTlfy-fFkZZektQ2Z0ztoKdInfV7bxBIyy8ez4uUZnGw4lHTsemdgdYzZN4i7MRCU4gQ_q4ysiFtWTtCi1bCxAsJ5LoAIpdbS-KyDfMv8jqkYFsN9k_cOIkhC8rJJlXwWaK8TLqA2M9lnxCP0dN5WbYHYJWS998y7PESIZeciRZBf2OjZRBiFdZOW8m_D0EPaguoCzbsb2X9sFzY1EbsIDFRLltgrm1W7SQHHyuylI4-epqmss3nbBOzmsyy3geRrLItI2RZbuMGJVXgntxn5kiSCS8q_rUpHBgFWKTmN4V78OZC6GWDolS9O-JQ4qRvBdRnM_f-qACsgB2py-szi_KmT8FHqOHgZB13La28ZGU2zBBUd_aJk31nmZggm_T90G8Ip8MCrcVCRRuI5wrrHqYLXE2PbAWs1dKolVrfIYHSefoqjEGtRw0yG67x-18l9XZ_tNa5B8xvLFiXAu9YaBGw99fLOaDDQQ3PrD_ocQW-My83ARlFy1HQD-6saDxMlDq_r65RBYcgOX4a0KOT4xfC4s7ncHTYSj-p7n-KhCh3e0PWCkw9PblDEr8DRm2WY2BqgbexWGZKgtaCqucc2BeGeEgoNo20gNq5GbUPGQNBiiOzPmARmJFVP7jFgNzR7mGVsmOBMwLxYnFobmqn687gJsgUdT2Fxn5sekfT0_E1EB1FrMKGAy9C8OFptZlcUf2XWsCacD1U-M2lC326wJdRB0XlN7eQRzHSCpOLYeP8XCLF0cR2XDBjstE5_WBPdh5zGrA-75K-nBkyM57CesiY0P1gn3rfqebtfyg5CX-w_Yi-RRBUbkucRclMD5EzHVvHviwUSVG5yowHynNO-SI1VTx6AFt5853zsfY3NSuTqBmQ5__OURYh_5ETiBZEDRXGUdufJMGHQC2r4N4zf8ZnF8DotIoDVwtSbSMfvpTEkvqDWGcZiDqSIe6Lf_hWLky6cbxrqvvEpebF3s_kdKq0tkwUcuf-H_iGhYo3SmjHIwnipTc1Q8Smqv61TZZrXceeSBX1rf0UC0kaygXH2T8QieEkvyS4laz9IX9dQp7NjTnamgnYw67VAmCnxwzCPhsuJsmL9VWA0kDolP3vo7mvW-8VLF2mtPRoWNL0KWTx7PMmd4MyveldoeTz4U6_b6LIrCr7tXJq1JMdETSJeymeODTGmJELIyA5ZcBek4uMj7hr7mi5JsilN-RLAtpnuBdavH8JOACj0TVq2c8WOdUkm27AX0PYA7wIuqGrDZXC3X0xddHQyArImTLGN0hb-y3mnJ_bEi8qJwns_IMOwtMBlNjvdK0S2HQPTHd9tYWObbsrlSBEktQgc-aL79Z_7if_OGJRgQliRHV6-b_BUiVQmEI-ibDMZwbLX0NEeeDvL2RaLYkATwTt-_p-Byzs8ic7lvne2-QYzuFPCWxboz5YS1Z_XiFHwnj0JX0Zb-5mBYMGKo4kstcv0aOw4zo4zkMcG44h0DKY5N1tzNOZrFeCUbn-I0uEUuV2St8rRDUz-nG25xqjr43RpvxJPdqxIG9GfaoIziUBs5gndGuQveXRfeqtTa4CqOrVSjsUzPQynCgE9bdFEukP-DU0IBVDNkd96FECx_Uh_F4tMycg_BqmI7zIwLbETAwC6QGli_7sZSb6tyMuWobjUIAg5buQIIJ2XWT9fzZFxmbnM7GwZ_-p9u2qp1_kY4AAxDiMJe8Mvk6xPL4i-fqS04Y3tr1ZgLknhtuIccI1qYDaBjUQidxHe9txOJty5NhPUIUlmv3ZWd1qcOGiNAvFJkWtCjcaDsxC2jbFL4jj8wsPhkvX86qW3PAeVnl09TkcM1nynOMso65srOqY2GbyFfzZ6PwFQLso4XHxupTexp9vfP15JzBwM3La4odwZT0-pUBmztwyIxeHTluooGa4tpqI0ucKV9whi9IrEBB_0ZlUGebFERfU5NYWX300O7w5EQjwFRdthqvNp_OEYCLuoNZXavHMX-GSY0xMaUyVlmF_If9jhFJ-CdTY2VODY2m7bKJQKbtz8HLqs7XnSostUUF9JkGEUwylYjxOuDjQu0PcypkvLA1__yO4Cgsn5kCjjb3VZ-zumSuueGLOhDFXZ99SaNyu2gK2eIhdRd2snVcscKR6L-XG7khQZiCVLC3bzvp40ZclDnVvwWE1Y9cVBVTrFYlx3bRC-3Qbjj5_A0ah4jtOT8coIp6Mk4n36AYMBiK1FbBBCrwGIljMf3xZXteqLjkXIhzlT8mAbu4R4eKtGfcwbon4S1tp5JCKL6BxTULBI0Bi0KNNtLcBT2SdkGM3WJd9Mu_TtAlNl9zBn7OS1HtyzBq-5FeSONGp80x0x_92WZETn0kSeut06AEw-FYQZy3NEKYv-x_bm6WDLHTM0cCDXLQkilLL0EJ9dUEONxTmI0WEaz5ZNPqwAWoX0aB4rCo-fB_MMLSOAJrVd8VLfoapIubHJ1LNDjuq_5iuGFYNRGlJZHHG3gKDBJeK2ML0Q8bZxCXiSQs8Hve72duCsMjL2om7ILp8EwawM04tQiK9r3YPoQnh6J_n-z1RY8jqwcHTS4XwUi2_rCyQ-tY4GNvncIl1rBZpAW_C2smR6IgrMuZzGFT2xTHsd8QQRtwJ8PK-VCLqcTvEPgdrdQrlNCmFwdWbwANyVLFQJFZVoP0eWGhtkA2TYsqafsScl-OiNzABRIPuliSrjavtquDUa60QxssIHcPqSfoNQmWLptfDvoju-E9YRD3L1eSPOqCyCuscrlDlaf74pk670Ow7LMDHvu5823TrBh_EHOlHfODJYG1vpspH9qP6a6CHmtgDzIMV0mD0oV0JXd6Wc2H9t2Wk9iBFfCvpxSQhtr0Hri0RyKlSracf_ma72rUNuR8TS-8h7TxJhoBRvEq7VX9h6m7nN5S1pdyQuSib5Qyx5qqwPiT_cpuN3Ei7FUpv4s_KfJeiy2dqjiUelbxNCu99vwSo5TJglBYL0geQdKQ6uuNknB7KRCK-gOh_c_kZWV0M1WEwt3meymQbMZm4C6py6UsSlt3kL6f2JdUDlbEXkFmY2qtG3GVaaz9x_O5ya6FZOgvuLK2KnmuVOKEuQ9r6S7fvMoi-ACQvSPZVzsTcB1yRfsKtr1wOwqHcFUwfqcsynMeZZ2P3lRbj4vcsNoYK47qdgNffmbG5EY6Y3fqk5CUBjAE7BbabSAVospbmgA38zY17eHw4Gbt88iaLxWHUg4l9S1AsGYX_U6plZdtfAuG-nj4suO6vQ6bzgjzU2PhGv5v7ozRb00riedcZ8s8vIQN5OFlnG4yXlK7t5DCMxvrkofx1OHl5IkfzYRB2DM_KuHYwr3fPELBs2qceEdj6kTlmqLOcfejtO1WQ3EQBR_49ptDODc9vaGHDqiuqyWMsrgwXFGoT16cfASBP2bohmeQUabRG_YBunh1uub4hkB0ZE0UnakwJ0ImhyxJ7mOcfJ4JvP7LY9ulTUcq21QIpaCp7N4x84GgiAZ6THwiyqZaTW6AXUVH4Ok-tBCUoptIK0ALvIf6Z8QZO6uKJ-mTlyBllm5Vg9kZZ570tT8qUs15uvk50Grf7I1fUX0Dvi_bLV0f76dGRGmCE7g6zkXTopA3kDgy9UyFtO_lLavelJrI9XoB-E3VgXoNqQWbRZYD1hkpzRccG_yg6gVQYyXewQnkCdOhYyCwaDaXMx1OoIXBDKyn8L2Nbg53cCOsL_PJqqRfRLLNtFZImHJ45MjaG_AoHsbMTFhugQ3RItcJgxRX-DX2Tb8oqPeHwVPI7Fbt-cSTfQxRPC6-X1JjVULZhaYPcCwrJ405g2btaQ6GIuh31JZ6GxkIaaDhVWpuizEO1YY4U-J8Uf4uabKuvHBvaZtBMGdh8TES6haOYMs8HTelPj1giOS21f2XMQpD6RP0ZSGdK3XTDghCfOE7WHvLpk5OKVX4ZtBHVNbgHSmp_j4EZsPf3GjTchw7Nr_DAr53U84OxCPHpF7OoDWjva5BQhRr0qhoFRL5y4KapKhBlJ1fLRAp2UwXZeYAWh9-t5KwurZabIa-igIIBr85NvQeoupldYLvALLXwbv5Oa7xC7Hz4oSO8_peQFVkjx6_t2rJKVs9pAgY4HyM4w4QGm9L6VCSlE7p-EAbv8mMGIOiZTLml-RsZZIxJ6EdgBEZhdVQc_9D33vMC9mbpzWztWQUILyCyuPUaC4-uS8ebGg7rrLJY7ruMNoug0bsJnXwcXf88ZAFxvpBIsV4SihvzG2ydpZ-gnGMzbwn4vut8rASbxnPXONXJR5n-7-W5-e7ZgOHIwkmfV4GUf9n0UhdAfGqqHWpdNBTfeKkSkiC_68fThKxklcOM1t4vAcWbbqkY3lPnte1mP5xnzPJhZQvb4WsZjfzcRKuj-mcdlCzSa6pG3ykT-8IW7R3yRGPcTNPF8rhsPHaW78MI8u7ssdA1llDYPZXL_Kol5a2sHnTJTbcMBvrYgNyliInps_iS0jklCnvKuSsHGw1qM2oG4Aj6i_lLGhWX8S_8Jka-PpkOCkAhyBDEglTJar_dCk40XTQVZTleFd3RtsqLi1aq5JFFxDMVxMeioZckKqYesB6b7VurS89CDV8Dm0kR6uzNVzsmV42pqm7iOC9CbztJoAIhjES8bavCIZ2itjrQGv4ory0pqBdfh3_KsjJcrAnE8cnbALGiHshSzqljGdNPDMM6zuG0Qg2Rvs8l6gXkkwwUa16wXOdsEvusFsIrX31KtOOwSnSYZGit8zzfeXRe2Qw4CZk_oPCZSe23EZz-65f9cKTAt7MCZlCIfOZZhNdB5XYXw-GuLBw4O3lGz-olSkAzAhK7R_CyDKQKJQ-2tLgBIl7AInRaoT9gKLaoMejlklUNTjj0lW556ZVUqTL5nulwtM1MB1HEdO7lTH3UIScEQZtY9ZHLvsLHRRzVQQCOI_WKtiyKiIu8JR3UhlhnTih8da0jq3bktMDRbGhAfQy4I2DABIF9vUokBZCMe5sqdO__s3RI8o8FEE0oXvgFPiTCP9TJfxpkBLX1DSYOfir6F9meY7roJVmbPYrNEWKA8iPmqOse9RVh-ZvM3E69Iek348UvHzx1vHhI9UNHrBkDAsqTSf7veOyb4amq2LY2bvyFdHn9fykHqzgKHYlqPKDGe_812n3B5Q_gtw4YSDr76qh_PJdPku_Z9odr3C8wgdjEhrmR8WdhbWZbUzWKLU6pdcsRK8QI00NXVtCvK51Eg4xay0f_9jaOPNOsh99yG-0J1EOEXzgdRQr2loUzp9-cI4M04eALbumk_SqECPdAdw-dWdV-Tl5DXntfp-B0jYPy6V92d3qXvps6ihzDhKtINtIybs3RJA-7dKOyc9oUu2S4nhfqoApMW3onBOKmiSgQijAdOtjxP_k1r6y46ZAKySB7Q74ikFreIQUJsYNJ1ReaJ9kPBsFtocpbIrAAwwYvUr4FKvNuR3IXW9mlS8UDOVX2Bh40Oq-EKVe6NEIGMN-iD7PzkPHyMBuLqbjNM2d1-Ez-CRRkWcIEOpSifajaNyrmV-aXA93_ldTOwadDfOpIXSKF_hv46LCbse3dyRr6orT_QGgIC6Y3tRR3YVdoFCnS9AU4PUHdT48PWAcy3qs5pADBqTE5x8jY87jOwGYmE3h2h6v2zUGJFkByjxthrT3u8DgYOElQEZpVlhdK-71zAPKDBssHPRR0t4OP-KUoOdCbtxR9pF0rRxgDLqt6GfldfNu1YHTvah8JPFwPIwSjgZSn5jg7y3bboWM-45q-GRq9cRYpQGe_XTtXrmy_raN1TWXh5otp0BSJ1DNisu83T5nJjLv6liz6CVNifAi30AycJNpeUT5Om5ZlLL49nrltgGQZbQMPs85GVVhYaPkQAXYZ714eEZMPuH8ZLDjb5NjKHABhhvcItxge7e14puVknjDVa82NY8coToSUYAV2SVUGI5Ibn6KVCy89XnMeqgEdPP08pulY5t-oR1iC_1xz-pDMzYopwJpE0XeLFCJjxSleBZf7WSyVRM2RTMPbxJuHmc73CafHkZUvHXdMGyOtc44G5vh7qlOGXcoqECtO65vA3ynqc_8y5TEg64BS5aIRVaiYEB03bBGKqgAfbsOK_Ytww8MUI_lWp1fKdbI5TbpDyl9wM4C_8ZLBbYyxstIxx3xxHw-wwqxrvrHXYsE20Hx4yZl6kOqPc4gKWRfv5jk75FrhPpSsWXC7z-eyzXyN00UE_fDW5SR0Jt_Tsd1V9JHQ0A9wETjrqb0zPBCG7t87LlW6XSeybdwfEkALwPwZF0njC-Ryd8YVDuD6A3SZC5F5qh1rUb7iY1SsXznno3gMxTLVCHqKkEspdo14drbVgOuHwAXc5bvcKBIKcZoDluHDgNOoxI8sm2H25Ug9YYv37UbgSi6gnMXkLFFxnOXLyevM_NZnV3qfZWjgGz5A2nxm2dLM74G3sF__ELA6M-x8v5MqttpmXP-Df9N2fMi-GRnGqHN0QJyBvZi8osIZpilCmUtXEX6GPMxhgngCecvAghPgPd8367dD5nKbTEptCwXrdJdt0JUtJP-qedeU_4oe3PvjjAtsawZEdyRyMn2EUYVC-ZNslqKA8XpLnYBPIGdqZq4ar11sAOPsD-JFQhuWQAQavrRGRETyrLxexxocqLyYEck7q9pGcRyFCpFCvkUWM6nDg-TfksScz-a25Qn47Z24KsLPrEvRiWxfA-5t9IugxjTRRe5eFwpjhTLOdXE0S3iSGALwYH7OudVq4OCcHX-HoV3creRzlEi2ZPKiZGY9LWfzD7azpl7sst1GlHpwRwVmGhtD_doGEvLfqvBrrdcdHvsbO4SW0V4AJJcH6AqdkObArcqsEE6ADD4_q4ycrw8TOO1YCrRnCK1niX6yqWDybw-TZ2HcECLnUQPGF-28k-Gj0IOy_69CMmpFFeVXw_oak-HeIqoxtWseRC57BYPDUNi8hEZenvUkomAKAi4CINlwR6bGIqqU8H-Cu8PauTyPXXeGeQKnKH00ePxSPa4MPA7LDvbFCyu3AmUqCYJFNMIHcSCLWjnjSgqXzS0XMd4tnQEklgaX7HHMhEN1ct6_w6tFI_16FDN52uCD3m-AmcVqubEAUOHONijdn2ADZstqVFq_p7-PVu6PvjzFUuF506FPmlXcziqXa96HhL8Z_rN_yXy1atv5U2S0m83d6GEFkzEpyghVmcp4-md_2chFLpsEFmDCdTOQ7RZugJWuWuxoYh5zhDGlK8uzeXXp31Oz3kJLc3FJT494qP8KcmQgG6CsskZBnGZXjT5rPN5tF8sj8hwKyURxoXJ18Hc4MCPIGCt3diweA4_B3d-irmZgYkwlOywrZ7-R4zBEMqy1F-6icXPjeR35Pu5ewE3TSaAEFiVNWUlyVHuJoL35S4afmd6JPvucBBcj2Wvspj_S8RBv3GBeO8GMRiZNcT1V8qcRG5QKSjsHG7Vp0wavGIfaB-XH_ohFiUee4K4e03KXAepe7-intL3rcH73Y0hq6bd7ag_uVyi13f2EbD5i5qEatH_hOGEWac8tl5KwBtxu6ITNAsmr6xU="
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "index": 0
+    }
+  ],
+  "model_version": "gemini-3.8-flash",
+  "response_id": "rErwau2tG_-Hz7sPgv3e6Ac",
+  "usage_metadata": {
+    "candidates_token_count": 4373,
+    "prompt_token_count": 19229,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 19229
+      }
+    ],
+    "thoughts_token_count": 6520,
+    "total_token_count": 30122
+  },
+  "automatic_function_calling_history": [],
+  "parsed": {
+    "assessments": [
+      {
+        "candidate_id": "W006-C004",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E029-B0019",
+            "E029-B0020"
+          ],
+          "reason": "Catherine turns through floral remedies while speaking of a dead woman's hand, creating eerie tension but lacking immediate kinetic impact."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E029-B0049",
+            "E029-B0050",
+            "E029-B0051"
+          ],
+          "reason": "The scene resolves into a routine prison transfer as the guard tells Juliana to move along and marches her to an iron cell."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E029-B0022",
+            "E029-B0030",
+            "E029-B0036",
+            "E029-B0048"
+          ],
+          "reason": "The framing of Juliana for witchcraft and Catherine's motive regarding the Duchess and social rank are readily understandable."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E029-B0024",
+            "E029-B0030",
+            "E029-B0036",
+            "E029-B0044"
+          ],
+          "reason": "The dialogue escalates effectively from planting evidence to threats of hanging and defiance regarding Juliana's husband."
+        },
+        "hook_summary": "Catherine flips through an herbarium while musing about strange mixtures written in a dead woman's hand.",
+        "cliffhanger_question": "No concrete question remains beyond whether Juliana will stay locked in her cell.",
+        "why_it_works": "It delivers clean character antagonism and clarifies the high-stakes threat of execution facing Juliana.",
+        "concerns": [
+          "Ending on a guard marching Juliana down a hallway dissipates the dramatic energy built by the confrontation."
+        ]
+      },
+      {
+        "candidate_id": "W006-C005",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E030-B0042",
+            "E030-B0043"
+          ],
+          "reason": "Opens directly on a tight firelit close-up with the blunt, conspiratorial directive to frame someone for witchcraft."
+        },
+        "cliffhanger": {
+          "score": 2,
+          "evidence_ids": [
+            "E030-B0066",
+            "E030-B0067"
+          ],
+          "reason": "The Elder Nobleman delivers a chilling declaration about tomorrow's trial, framing an upcoming event without interrupting immediate action."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E030-B0045",
+            "E030-B0049",
+            "E030-B0057",
+            "E030-B0065"
+          ],
+          "reason": "Every component of the conspiracy—the manufactured charges, buying the jury, drafting the warrant—is articulated with total clarity."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E030-B0045",
+            "E030-B0049",
+            "E030-B0057",
+            "E030-B0065"
+          ],
+          "reason": "The villains methodically resolve potential complications one by one, building a sense of an inescapable legal trap."
+        },
+        "hook_summary": "The Elder Nobleman orders his conspirators to charge their target with capital witchcraft.",
+        "cliffhanger_question": "Will Juliana be convicted and executed when dragged before the magistrate tomorrow?",
+        "why_it_works": "The ruthless efficiency of the villains planning a judicial murder provides immense narrative propulsion.",
+        "concerns": [
+          "The excerpt is entirely static dialogue around a desk with no visual physical conflict."
+        ]
+      },
+      {
+        "candidate_id": "W006-C006",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E032-B0090",
+            "E032-B0091"
+          ],
+          "reason": "Starts in media res with Catherine screaming hysterically and raising a branding poker like a weapon."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E032-B0115",
+            "E032-B0116",
+            "E032-B0117"
+          ],
+          "reason": "Catherine plunges the glowing hot poker toward Juliana's face, freezing millimeters from her open eye right before the cut to black."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E032-B0096",
+            "E032-B0100",
+            "E032-B0103",
+            "E032-B0114"
+          ],
+          "reason": "The physical dynamic of an unhinged noblewoman torturing a chained, defiant prisoner is instantly clear."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E032-B0096",
+            "E032-B0103",
+            "E032-B0109",
+            "E032-B0112"
+          ],
+          "reason": "Juliana's taunts systematically dismantle Catherine's ego, directly causing Catherine's rage to boil over into an attempted blinding."
+        },
+        "hook_summary": "Catherine screams furiously while waving a branding iron over an imprisoned Juliana.",
+        "cliffhanger_question": "Will Catherine burn out Juliana's eye with the searing poker?",
+        "why_it_works": "The psychological reversal between captor and prisoner drives intense momentum straight into a lethal physical cliffhanger.",
+        "concerns": [
+          "The dialogue borders on melodrama before the physical strike occurs."
+        ]
+      },
+      {
+        "candidate_id": "W006-C007",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E034-B0088",
+            "E034-B0089"
+          ],
+          "reason": "A nobleman sneers that the prisoner refuses to repent, establishing trial conflict without immediate visual urgency."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E034-B0113",
+            "E034-B0114",
+            "E034-B0115",
+            "E034-B0116"
+          ],
+          "reason": "The Judge rises solemnly, addresses Juliana, and raises his hand to pronounce the final sentence, stopping right before the verdict."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E034-B0091",
+            "E034-B0100",
+            "E034-B0106",
+            "E034-B0114"
+          ],
+          "reason": "The courtroom stakes, the choice between recanting or being condemned for witchcraft, and the consequences are easily grasped."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E034-B0094",
+            "E034-B0102",
+            "E034-B0106",
+            "E034-B0108",
+            "E034-B0112"
+          ],
+          "reason": "Tension builds smoothly through warnings, Juliana's defiance, Prudence's weeping, and the gavel smash leading to judgment."
+        },
+        "hook_summary": "A smug lord observes that the accused woman still refuses to repent before the court.",
+        "cliffhanger_question": "What judgment will the magistrate pronounce against Lady Juliana?",
+        "why_it_works": "The formal courtroom ceremony creates solemnity and makes Juliana's stubborn integrity feel momentous.",
+        "concerns": [
+          "The opening line is somewhat detached compared to the direct judicial ultimatum that follows."
+        ]
+      },
+      {
+        "candidate_id": "W007-C003",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E034-B0090",
+            "E034-B0091"
+          ],
+          "reason": "The Judge sternly instructs Lady Juliana to renounce her practices to save herself, presenting a serious ultimatum in a formal manner."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E034-B0113",
+            "E034-B0114",
+            "E034-B0115",
+            "E034-B0116"
+          ],
+          "reason": "The Judge stands tall and raises his hand in judgment over Lady Juliana, holding right before pronouncing sentence."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E034-B0091",
+            "E034-B0100",
+            "E034-B0106",
+            "E034-B0114"
+          ],
+          "reason": "The scene immediately establishes the courtroom trial, the witchcraft accusation, and Juliana's unyielding stance."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E034-B0094",
+            "E034-B0102",
+            "E034-B0106",
+            "E034-B0108",
+            "E034-B0112"
+          ],
+          "reason": "A steady progression of warnings culminates in Juliana's defiant speech, triggering a violent gavel strike and immediate sentencing."
+        },
+        "hook_summary": "The magistrate demands that Lady Juliana renounce her healing practices if she wishes to save her life.",
+        "cliffhanger_question": "Will the judge sentence Lady Juliana to death for witchcraft?",
+        "why_it_works": "Cutting directly to the Judge's ultimatum sharpens the narrative stakes faster than starting on the observing lord.",
+        "concerns": [
+          "The cut stops on a formal pronouncement gesture rather than an unexpected turn of events."
+        ]
+      },
+      {
+        "candidate_id": "W006-C008",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E035-B0046",
+            "E035-B0047"
+          ],
+          "reason": "Alexander's scarred fist crushes a map while he bitterly states that his men were slaughtered, delivering a strong emotional and visual hook."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E035-B0070",
+            "E035-B0071",
+            "E035-B0072"
+          ],
+          "reason": "Ends on an expositional reveal followed by a seven-second silent gasp and musical swell, with no active unresolved conflict."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E035-B0047",
+            "E035-B0050",
+            "E035-B0059",
+            "E035-B0070"
+          ],
+          "reason": "The narrative of Alexander's military betrayal, presumed death, and discovery of corruption in Ashwood is easy to follow."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E035-B0050",
+            "E035-B0055",
+            "E035-B0064",
+            "E035-B0070"
+          ],
+          "reason": "The conversation consists almost entirely of expositional Q&A about past events rather than escalating present stakes."
+        },
+        "hook_summary": "Alexander crushes a map in fury as he recounts the slaughter of his soldiers.",
+        "cliffhanger_question": "No concrete question remains beyond learning which specific rulers of Ashwood betrayed Alexander.",
+        "why_it_works": "Alexander's intense performance and scarred appearance establish a compelling backstory of military betrayal.",
+        "concerns": [
+          "The promo relies entirely on dialogue recounting past events and lingers for several seconds on a reaction shot at the end."
+        ]
+      },
+      {
+        "candidate_id": "W007-C001",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E031-B0068",
+            "E031-B0069"
+          ],
+          "reason": "Juliana delivers a defiant line challenging Catherine's power, establishing prisoner defiance with steady vocal delivery."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E031-B0085",
+            "E031-B0086",
+            "E031-B0087"
+          ],
+          "reason": "Catherine thrusts the glowing iron tip directly toward Juliana's face, ending on an extreme macro shot of the ember reflected in her eye."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E031-B0069",
+            "E031-B0075",
+            "E031-B0080",
+            "E031-B0084"
+          ],
+          "reason": "The emotional stakes of destroying Juliana's mother's work and the physical threat of torture in a dungeon are completely transparent."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E031-B0071",
+            "E031-B0075",
+            "E031-B0080",
+            "E031-B0085"
+          ],
+          "reason": "The emotional torture of scorching the botanical book breaks Juliana down, which Catherine immediately escalates into an attempted facial branding."
+        },
+        "hook_summary": "A chained Juliana tells Catherine that true power would not require forcing others to bow.",
+        "cliffhanger_question": "Will Catherine sear the hot branding iron into Juliana's eye?",
+        "why_it_works": "The destruction of the cherished book builds authentic emotional anguish before pivoting to imminent bodily terror.",
+        "concerns": [
+          "The opening lines are dialogue-heavy before the physical violence begins."
+        ]
+      },
+      {
+        "candidate_id": "W007-C002",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E033-B0069",
+            "E033-B0070"
+          ],
+          "reason": "The Lord paces while coldly dictating what the maid saw, establishing an ominous legal frame-up through dialogue."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E033-B0088",
+            "E033-B0091",
+            "E033-B0092"
+          ],
+          "reason": "The Lord delivers a ruthless ultimatum, leaving the maid trapped between committing perjury and risking her brother's life."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E033-B0070",
+            "E033-B0075",
+            "E033-B0077",
+            "E033-B0092"
+          ],
+          "reason": "The dynamic is exceptionally clear: a powerful lord coerces a terrified servant into fabricating witchcraft charges against her benefactor."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E033-B0075",
+            "E033-B0079",
+            "E033-B0083",
+            "E033-B0088",
+            "E033-B0092"
+          ],
+          "reason": "The Lord methodically increases psychological leverage from defining witchcraft to requiring court testimony to threatening her brother."
+        },
+        "hook_summary": "The Lord calmly dictates fabricated details of herbal witchcraft to a sobbing maid.",
+        "cliffhanger_question": "Will the maid commit perjury and condemn Juliana to save her brother Toby?",
+        "why_it_works": "The moral dilemma is agonizing and personal, with every line tightening the trap around an innocent witness.",
+        "concerns": [
+          "The visual setup is quiet and dialogue-heavy, relying entirely on psychological coercion."
+        ]
+      }
+    ]
+  }
+}

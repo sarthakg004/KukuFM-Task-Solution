@@ -1,0 +1,140 @@
+{
+  "window_id": "W001",
+  "episodes": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "requested_model": "gemini-3.7-flash",
+  "model_used": "gemini-3.7-flash",
+  "key_name": "GEMINI_API_KEY6",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 916,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 45498,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 45498
+      }
+    ],
+    "thoughts_token_count": 17389,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 63803,
+    "traffic_type": null
+  },
+  "attempts": [
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY6",
+      "attempt": 1,
+      "status": "success"
+    }
+  ],
+  "output_directory": "outputs/candidates/W001-ab8258892e6a768a",
+  "candidates": [
+    {
+      "title": "The Altar Proposal",
+      "segments": [
+        {
+          "start_id": "E003-B0070",
+          "end_id": "E003-B0116"
+        }
+      ],
+      "hook": "At E003-B0070 (01:24.00), an armed royal guard charges the Bearded Stranger, who immediately blocks the strike and drops him to the stone floor with a devastating punch, prompting Gerald to panic at E003-B0074.",
+      "cliffhanger": "At E003-B0116 (02:20.50), the Bearded Stranger sinks onto one knee before the stunned congregation and says, 'Lady Juliana... accept my hand,' cutting away before she responds.",
+      "standalone_context": "Viewers can see that Juliana has been abandoned and mistreated by her noble family at her own wedding, only for an imposing, scarred stranger to fight off the guards and offer her a ring.",
+      "why_it_works": "The clip hooks instantly with high-impact physical action before shifting into a tense public rebuke and culminating in an unexpected marriage proposal.",
+      "concerns": "The stranger's background and identity remain unknown to the viewer, though his protective motives are immediately clear.",
+      "resolved_segments": [
+        {
+          "start_id": "E003-B0070",
+          "end_id": "E003-B0116",
+          "episode": 3,
+          "start": "01:24.00",
+          "end": "02:20.30",
+          "start_seconds": 84.0,
+          "end_seconds": 140.3,
+          "duration_seconds": 56.3,
+          "start_text": "Medium action shot as the guard charges toward The Bearded Stranger.",
+          "end_text": "\"Lady Juliana... accept my hand.\""
+        }
+      ],
+      "duration_seconds": 56.3,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "Defending the Mother's Legacy",
+      "segments": [
+        {
+          "start_id": "E005-B0023",
+          "end_id": "E005-B0058"
+        }
+      ],
+      "hook": "At E005-B0023 and E005-B0024 (00:41.50–00:44.20), Lady Ashcroft aggressively advances and barks 'Enough sentiment,' demanding Juliana surrender her family ledger.",
+      "cliffhanger": "At E005-B0058 (01:40.80), the Mysterious Bearded Man confronts Gerald on the cathedral steps with the deadly warning 'Choose your next words carefully,' cutting on Gerald's wavering smirk.",
+      "standalone_context": "Juliana has been cast out by her aristocratic family, who violently throw her deceased mother's keepsake into the mud, while her new husband steps in to defend her dignity.",
+      "why_it_works": "A callous family desecrates a bride's only maternal heirloom, creating sharp emotional stakes that flip into tension when her formidable new spouse issues a lethal threat.",
+      "concerns": "The exact contents and significance of the ledger are not detailed within this excerpt.",
+      "resolved_segments": [
+        {
+          "start_id": "E005-B0023",
+          "end_id": "E005-B0058",
+          "episode": 5,
+          "start": "00:41.50",
+          "end": "01:40.80",
+          "start_seconds": 41.5,
+          "end_seconds": 100.8,
+          "duration_seconds": 59.3,
+          "start_text": "Medium close-up of Lady Ashcroft, resplendent in navy velvet and jewels, stepping forward with a smirk of malicious authority.",
+          "end_text": "\"Choose your next words carefully.\""
+        }
+      ],
+      "duration_seconds": 59.3,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "The Cottage Standoff",
+      "segments": [
+        {
+          "start_id": "E007-B0025",
+          "end_id": "E007-B0044"
+        }
+      ],
+      "hook": "At E007-B0026 (00:51.50), Gerald sneers 'You chose that scarred beggar over a life of comfort,' instantly establishing their bitter romantic rivalry.",
+      "cliffhanger": "At E007-B0043 and E007-B0044 (01:28.50), the towering husband traps Gerald in a silent glare while the accompanying woman panics with 'Gerald, don't let him frighten you,' cutting before Gerald flees or retaliates.",
+      "standalone_context": "Gerald arrives at Juliana's rural cottage to demean her reduced social standing, but finds himself cornered when her imposing husband returns from the woods.",
+      "why_it_works": "Gerald's boastful threats to make Juliana's husband disappear backfire instantly when the husband silently looms over him in an unresolved confrontation.",
+      "concerns": "The identity and relationship of the aristocratic woman holding the parasol is not explained in this excerpt.",
+      "resolved_segments": [
+        {
+          "start_id": "E007-B0025",
+          "end_id": "E007-B0044",
+          "episode": 7,
+          "start": "00:50.80",
+          "end": "01:28.50",
+          "start_seconds": 50.8,
+          "end_seconds": 88.5,
+          "duration_seconds": 37.7,
+          "start_text": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard.",
+          "end_text": "\"Gerald, don't let him frighten you.\""
+        }
+      ],
+      "duration_seconds": 37.7,
+      "valid": true,
+      "issues": []
+    }
+  ]
+}

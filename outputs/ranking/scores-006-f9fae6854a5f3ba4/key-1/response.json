@@ -1,0 +1,393 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "x-gemini-service-tier": "standard",
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Sun, 08 Nov 2026 10:20:24 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=208556",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    }
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"assessments\": [\n    {\n      \"candidate_id\": \"W007-C004\",\n      \"hook\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E036-B0065\", \"E036-B0066\"],\n        \"reason\": \"Alexander's mother immediately delivers an urgent, emotional revelation that Rupert and Catherine accused her of poisoning.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E036-B0098\", \"E036-B0100\"],\n        \"reason\": \"A high-stakes impending deadline is established, but the cut ends on spoken realization and a furious glare rather than an active cliffhanger event.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E036-B0066\", \"E036-B0076\", \"E036-B0085\", \"E036-B0093\", \"E036-B0100\"],\n        \"reason\": \"The rapid dialogue clearly unpacks the entire backstory: Juliana saved the mother, got framed as a witch, and faces execution following an enemy wedding.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E036-B0074\", \"E036-B0082\", \"E036-B0085\", \"E036-B0089\", \"E036-B0096\"],\n        \"reason\": \"Each exchange reveals a worse layer of danger—from condemnation to execution, tying it directly to a ticking clock of two days.\"\n      },\n      \"hook_summary\": \"A tearful mother grips Alexander's arms and reveals that enemies framed Juliana for poisoning her.\",\n      \"cliffhanger_question\": \"Can Alexander intervene within two days to stop the wedding and save his wife from execution?\",\n      \"why_it_works\": \"The escalating sequence of devastating revelations efficiently builds a desperate ticking-clock rescue mission.\",\n      \"concerns\": [\n        \"The entire clip is talking heads in a cabin without physical action or visual progression.\",\n        \"The ending is purely expositional dialogue rather than an immediate physical crisis.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W007-C005\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E039-B0038\", \"E039-B0039\", \"E039-B0040\", \"E039-B0041\"],\n        \"reason\": \"Alexander examines his scar in a mirror and delivers a dramatic line about no longer hiding, which is intriguing but slow.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 1,\n        \"evidence_ids\": [\"E039-B0057\", \"E039-B0058\", \"E039-B0059\"],\n        \"reason\": \"The clip ends on a standard boastful vow of revenge while walking, which lacks immediate narrative jeopardy.\"\n      },\n      \"clarity\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E039-B0041\", \"E039-B0048\", \"E039-B0050\", \"E039-B0058\"],\n        \"reason\": \"The viewer gathers that Alexander is a presumed-dead nobleman reclaiming his title and wife, but the specific antagonists and circumstances are vague.\"\n      },\n      \"escalation\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E039-B0045\", \"E039-B0047\", \"E039-B0050\", \"E039-B0054\", \"E039-B0056\"],\n        \"reason\": \"The progression is purely stylistic posturing—dressing up, stepping into snow, receiving a salute, and striding forward.\"\n      },\n      \"hook_summary\": \"Alexander inspects his combat scars in a mirror and declares that his years of hiding are over.\",\n      \"cliffhanger_question\": \"No concrete question remains beyond whether Alexander will successfully attack the chapel and reclaim his home.\",\n      \"why_it_works\": \"The costume transformation and icy march create a classic, polished aristocratic power fantasy.\",\n      \"concerns\": [\n        \"Lacks genuine narrative urgency and feels more like an extended teaser montage than an engaging story beat.\",\n        \"Ends on a generic verbal promise rather than an active point of suspense.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W008-C001\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E036-B0097\", \"E036-B0098\"],\n        \"reason\": \"Alexander delivers a grim line about a marriage in two days, but the true stakes are only mentioned after the three-second mark.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 1,\n        \"evidence_ids\": [\"E036-B0118\", \"E036-B0119\", \"E036-B0120\"],\n        \"reason\": \"The promo concludes on Alexander staring into the distance and declaring that the dead Duke is coming home, offering only a vague promise of future revenge.\"\n      },\n      \"clarity\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E036-B0100\", \"E036-B0104\", \"E036-B0108\", \"E036-B0119\"],\n        \"reason\": \"The basic conflict is understandable—Alexander lost his name and home and his wife Juliana is captive—but the identities of the villains and context are missing.\"\n      },\n      \"escalation\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E036-B0102\", \"E036-B0106\", \"E036-B0111\", \"E036-B0115\"],\n        \"reason\": \"The scene repeats Alexander's anger across several camera angles as he walks to the doorway, restating his determination without advancing the plot.\"\n      },\n      \"hook_summary\": \"Alexander glares murderously while realizing enemies plan to wed in two days.\",\n      \"cliffhanger_question\": \"No immediate cliffhanger is posed beyond whether Alexander will successfully return home before the wedding.\",\n      \"why_it_works\": \"Alexander's intense vocal delivery and physical presence project strong vengeance melodrama.\",\n      \"concerns\": [\n        \"Repetitive dialogue beats stall momentum in the middle.\",\n        \"The ending is just posturing into the snow with no immediate obstacle.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W008-C002\",\n      \"hook\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E041-B0033\", \"E041-B0034\"],\n        \"reason\": \"Juliana appears bruised and in heavy chains, delivering an immediate, defiant challenge to her captors.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 4,\n        \"evidence_ids\": [\"E041-B0047\", \"E041-B0048\", \"E041-B0052\", \"E041-B0053\"],\n        \"reason\": \"A massive detonation blows the chapel doors apart and armed figures breach the rubble just as Juliana looks up in breathtaking hope.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E041-B0034\", \"E041-B0037\", \"E041-B0041\", \"E041-B0048\"],\n        \"reason\": \"The dynamic between the chained heroine and the ambitious couple marrying at the altar to steal a title is instantly clear.\"\n      },\n      \"escalation\": {\n        \"score\": 4,\n        \"evidence_ids\": [\"E041-B0037\", \"E041-B0041\", \"E041-B0045\", \"E041-B0048\", \"E041-B0052\"],\n        \"reason\": \"Tension builds smoothly from verbal defiance to the wedding ceremony commencing, punctuated violently by an explosive raid.\"\n      },\n      \"hook_summary\": \"A bruised and chained woman taunts her captors for needing an entire chapel to feel powerful over her.\",\n      \"cliffhanger_question\": \"Who has violently breached the cathedral doors to rescue Juliana and stop the wedding?\",\n      \"why_it_works\": \"Combines crisp moral stakes with an explosive disruption right at the ceremony's pivotal moment.\",\n      \"concerns\": [\n        \"The identity of the armed figures entering through the smoke remains completely unrevealed.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W009-C001\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E041-B0025\", \"E041-B0026\"],\n        \"reason\": \"Juliana is mocked over audio as she halts in an aisle, establishing tension but lacking the immediate punch of direct dialogue.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 4,\n        \"evidence_ids\": [\"E041-B0048\", \"E041-B0050\", \"E041-B0052\", \"E041-B0053\"],\n        \"reason\": \"The church entrance detonates into fire and debris, cutting away right as armed silhouettes breach the hall and Juliana registers shock.\"\n      },\n      \"clarity\": {\n        \"score\": 4,\n        \"evidence_ids\": [\"E041-B0026\", \"E041-B0030\", \"E041-B0034\", \"E041-B0041\", \"E041-B0048\"],\n        \"reason\": \"The extended opening perfectly explains Juliana's public disgrace and Catherine's usurpation of the Ashburgh title before the explosive interruption.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E041-B0028\", \"E041-B0034\", \"E041-B0041\", \"E041-B0045\", \"E041-B0048\"],\n        \"reason\": \"Moves steadily from public humiliation to altar vows before culminating in violent shock, though the first 15 seconds move somewhat slowly.\"\n      },\n      \"hook_summary\": \"Juliana stands chained in a cathedral aisle while Catherine publicly taunts her from the altar.\",\n      \"cliffhanger_question\": \"Who just blasted open the cathedral entrance to disrupt Catherine and Rupert's ceremony?\",\n      \"why_it_works\": \"Provides rich contextual setup that makes the explosive cathedral breach feel intensely satisfying.\",\n      \"concerns\": [\n        \"The opening taunt drags slightly compared to jumping straight into Juliana's barbed confrontation.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W008-C003\",\n      \"hook\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E042-B0009\", \"E042-B0010\"],\n        \"reason\": \"Rupert frantically orders guards to arrest an imposter within the first seconds, launching straight into high conflict.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E042-B0034\", \"E042-B0035\", \"E042-B0036\", \"E042-B0037\"],\n        \"reason\": \"Alexander rests his hand on his sabre and tells the cowering Rupert they are about to settle what was stolen, cutting right before violence erupts.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E042-B0010\", \"E042-B0017\", \"E042-B0021\", \"E042-B0034\", \"E042-B0037\"],\n        \"reason\": \"The mutiny of the guards and the mother's public declaration clearly define Alexander as the resurrected rightful Duke confronting a usurper.\"\n      },\n      \"escalation\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E042-B0012\", \"E042-B0017\", \"E042-B0026\", \"E042-B0029\", \"E042-B0036\"],\n        \"reason\": \"The dramatic arrest refusal starts strong, but the momentum stalls for over 20 seconds during a sentimental reunion with his mother before ramping up at the finish.\"\n      },\n      \"hook_summary\": \"A nobleman panics at the altar and screams for his guards to arrest an imposter.\",\n      \"cliffhanger_question\": \"Will Alexander execute or arrest Rupert now that he has cornered him at the altar?\",\n      \"why_it_works\": \"Delivers an immensely satisfying public reckoning and identity reveal backed by royal guards.\",\n      \"concerns\": [\n        \"The prolonged weeping between Alexander and his mother dissipates the adrenaline of the initial confrontation.\",\n        \"The final camera shot has a partial boundary indicating a cut during Alexander's concluding beat.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W009-C002\",\n      \"hook\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E042-B0009\", \"E042-B0010\"],\n        \"reason\": \"Rupert immediately rushes down the altar shouting for guards to arrest an imposter.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E042-B0034\", \"E042-B0035\", \"E042-B0036\", \"E042-B0037\"],\n        \"reason\": \"Ends on Alexander gripping his sabre and threatening retribution against the cowering Rupert, right before physical retaliation begins.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E042-B0010\", \"E042-B0017\", \"E042-B0021\", \"E042-B0034\", \"E042-B0037\"],\n        \"reason\": \"The core premise of an assumed-dead Duke returning to reclaim his title from a terrified usurper is made entirely explicit.\"\n      },\n      \"escalation\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E042-B0012\", \"E042-B0017\", \"E042-B0028\", \"E042-B0031\", \"E042-B0036\"],\n        \"reason\": \"The guards' refusal creates electric tension, but the prolonged sentimental reunion in the aisle saps the pacing before the final threat.\"\n      },\n      \"hook_summary\": \"Rupert frantically orders his royal guards to arrest a man he claims is an imposter.\",\n      \"cliffhanger_question\": \"What retribution will Alexander inflict upon Rupert right there at the altar?\",\n      \"why_it_works\": \"The instant mutiny of the guards and validation from the dowager create an authoritative hero vindication.\",\n      \"concerns\": [\n        \"The lengthy dialogue exchange with his mother significantly slows the aggressive tempo established by the opening.\"\n      ]\n    }\n  ]\n}",
+            "thought_signature": "EoFGCv5FAWkUfRNyE3WnfMYZXzY313QlBnz-DnxKg6tSyg77unToupe6fQ5j9VwBUtckXYqbnJRno8IgpH34KIORZBjKpLKtu_EN0ATuY-ny6514G1mHSVu5o8fC9oaVQfZMbX1Hw9KVOYw1NZ4nqFvml3xTTfD1ZHytseRjQdLrWGRmus3kiWO-FlrMtwGv31Ba2o_MqX_5kkZSCRja7sHVoV37zkVEr2jeF9Jc2AfJ-7k8SUFHhyqpDYqgo8ZoaOy-__o_nGW7B_kOS31rcS_-N4XgpEhpuuGBNXhuBD19vETqlkBP1pCEoLE5ua8X2NYKJzPfqaSWAn7dYD5PoHmm4pFLpXFQuojWX6I-E2M2eYsxKiEf0egSDzdaFw43ef32k2S_kv9t6fkP-KrRfLUbTr4ZQsez2uncHAhdPWjThZ9h_5fh7PeCnkQzxKh9qhlGQv5TBwFvVKVWx67ueWYkLttLmavaizHTkqASYdSKrrDuuTB9kNMNZgGNR_MY6UdQjYN9t7EcKzY4C9dnDlrD4VLZyk3avPJUErk94RIU_rOMAoL94YlsJVGW_JypGD6P5U6Pl_JAuO2T832gGS0pSeT191yB-s-ZT-jaxOkQ3JEIeTNg30ed68JmKP2M0fTqDyMeyVzIAJvkVpBSzata3AW0zZBQgmjWaMUGKEnseQRsaa2EDRYeSni3-fzPx52mwrpSnnqcj_6vlm_81SAEezZyUVYmvSurIa903hMdrYlmVhEofJ27I80HpKQcW_SsNNTR8DmotX09SkApCOxrP7IQgd6Sv9SJ9_Ws_srERxfCrEdgiBBa8DR-H-rQbR7yf0UfZbouzGTDsfUbhLixBwkTL5qPGJxnYzZfmdXhHOdDhtSCu8ofpK4-M41F_Ql72cV42X3fHJBxftZZiOpxiIleBfgOB_E7Ux-2U9UBkF3xkgSmw5p7cgnpFGMWvsLf03coX7w6thqej_ojDpVKGjAMPmzhMeGtu9gHwFmSfdc3U5G-rMwPuGboJNEG0lVY092hSgSNTqg1UzZGPiukXwI9IwR7OVrwYhk2N7FJcOg7ZVIwoBZeh3qYpqeqwhK52nQJjGXTnrDYhx2J9-8wjgol4xTLg3BnJjHDEq8DQ9jHHMjwrdc7zsWCbGCpzVwVSTVkKjd6CSf6WEcB8CW5V5uy-qy3Ih7sM770ifGsjKGEsJ11DOhgyRn8QUOlNXsVfxjYgXji86Pglo0qr1BVJ9XvdUeUK_jhFEocqUJHIE0SyrjWUsevRnuPnxT4tOFuog430I5_JxOKBIkZpTcWXvKP5cZqFoRj6TRfLRFumeDIAc-yk2kpGJvbkHfE_9W9TGO1F7FJW-TPN6lmFuIh7FmrPg6Bbn_yJDbQZWgRksgMq4NjXIaf5nGJHrP-M5bZzPI6ifjkEoFHSlIA01tSGZxgtsWEDCVMojtsNPpeg7sVturcnAy1sFWxuvPy4E-QnM04JEPQINX2lw1MLMA7EGbd0TfTAqwkWD0tCGGrNjMLfR1c1TJJEHRaaIIZ3EJS3HFs67JCUbiboVuOEwzqxaagCXoCHEjDtKnZtyHdEXPFZYS4W-5Qysmi7BiGno1aeqZ_kG7szmwZivf1oJBRsxMfPlkIkF_xUtm6QTs4vgeMHWU5ZrjwQkn9s6zksiJ182Btphbd32q2lA_jGo54INtM4rnj2p5jYIw1Qfvt5PuLQa-4u8BHsTuBFTaros802feLfg0OQicaGASHsHZdSohMimsvSabum3h7OGe9el9sfjKieunwcYkuOpx22hwtBCzhhz9Msrqk63EcWPI3P8y52asMJTmQKrky6GRXl86-1SsJs2WE2CAQge1p5gJly3HGq6guSLUJsE_g_tCSUcnJocnfCbgpKGh_gNXg7CwFf1ukKexBrkokTcVLCfPj1bY36Mca5V2-GV_lhqDmx1Fl0C_KraEHUBerLjtxwt91xoG185m9sVZBkvpuIEpv7V5ZQ-728FYmewLW2nsD7BtQ_2GUNZIu0UkKGgvuJolGGCKsuKrV4PtjkzZAE4J2zyhbvOXsCeDEZ2zIwTHftNtHm2mS73PWYDAvcMPvAU53_fxYjm2vtO03pLEZfEw8RWgRZVOpot_DbcUjpKajW-hPRfjqdBz9g5BfawYmBnYKthveFEsFix-4dOLG26kjrAkbANcEfVrG3KDBiaXDE9GJl1aHRaqmr8LbD2qy1uJiQXL3NclXNAkOqb0I-zVkZ6c526jq0WpMRqslH6xf-jz0qafZV6S4Z6u1ixRX-AD0nPW_F2c52DzCM9VFj2z9GaU2B_b082K1D-YOKXEA6HD2jydfiZvVZhm2UYll_7UX8Q7BfmxmUhZDQF5KuXYSJCxp7ITen7EsJ73xjuXTN20UgRgK-uSHvT83P3uwIA4MsZ6djPowHEYk6qyJ_g9i8m-Fhgswpmpi6rp3s0Lnr2kR25LItu6QFtWXF9D7kT6dR7xQN231DQHnb4LE4vLX3MVahNqRocd7X1gpZ7VTkY8LTzU7m7kGhyg-pQS29GuFBfbPBDUEP47FtSqlDl9Dz9r2_uE8x7YENHX7s2xsu3Be7goiVzss98mojz3VFOCNAGonlFxqXun_GhQynS-mY97tx5W8elk7mNJ59YTtRfLswPqyL6H2EmYnpbilVKD2K4kNI0h458a8m2NY9dPmbBSDK9TAdBPULh-UejNkaEX5L6ps7ZODSMQi4njL4LKvN29FsV0i40kNbd_sFlawWf-7p9luTnYEXyRytoxc5MNFcoc_g_bd-LaBCo9bbODgoxkrns6vy5pHCPPar1Qb4kI91CvURtPCFT-WYtjGFSZ3gY9iZKmoWx2rLF-J6T9fXbg6KEkwivGivynw3KFsgL29Ior6crcqKof5Mw2TQKbhPzF6r5TUPHW3Bo4Zr5VERy82Nl5f6AiLs8gLC7EuYB-99HZLqHK7aJ3c7_Z32LtjKDTsPb_6K1kgMONfKRr9d2JuVy_9-P_7lSZlgk6ktC5vX984qEKa4gAAh1jTSmqMtg8WZIyFTG8PmN78fKgrmrPI1qzXuHdI1vduGOa2B8GbDgrNh1PP0--NaAJLgU4b64kLlo60L38yiTCCZjhbYdpPmq-H8-cVErZ5CII9t9V2dsO0dU-27nuxPkDKBFTMJh4uSBvtzDiEWUi_Imr_C5bnwSxXBj3S2oItrTurgyCWzZI14Q7akHGAECxz1GzGWqCUbyy76VF9Q6x8uwgvqujpe3gANOXf4c4l7m-guTH1MYev8OTjDzWAurhBknV06xtVwJ2KwuQoXmWwcaGD0TezYmfF4opzIjGY4dYna23DBqU1qo5-bgMBjHSBfI6gQFkMTpHNLWi2Fkmv8LIrpy73rDf-QaTitMx8juQTTdhRlVoMIKr3DWdHEQU4k8sFqe5wv5sLuN3rmY8BmGsawoapuUyn_Ay7OVSpTTe-1K41DPGxnYh-I48NZQBNcy03NWuZPqmpto1_uba_6MHDszlAsh0zH95ko6IDgSWaP3tr2QNaldQ-nm3cxxv7x9bErX8EfYiHrdqRQjOOdrlk3taTl0Sf1YDR2We5c2ZcyGZOZ7X0yg1zs4vR3OMgKayCyHp6u9jB-NIiQ8tlKVz0pm3MsI2xIoKjNfDe8WTiFlSzShSeFllsOd7g1pFb-kxXBX94plmJTV0fth4FeWYHgQLxMPcHRFBk5y3Q2dmO39005F1lJTnGjljQhZKacHgiu7DFQMEvebfXL0FwREh48bWr63R-Pf4ggBsHA1p1jt3we-TGsY7GXupUPVe4KeNe_1LRfvjJRrvAyGz19iuKGMSSqEnKzB-siAIJX89BxFjXh_kh__-UbiZFCLK0gIovD9aJH4ryvkJQHgCNXMoUOKlEhZ6oPeTCyfMk8X9NouBJYRqzf0odjaY1H9Fknx_5SdHzgcGwORbR5m1QspBbfq6mCJicVbDmXUH5zGpUacaQ35mIwZRYYYEAx_D0Y9DJDaz1Neup3uGyBMt4mO2fKtfgLTigOhLVUZZDBDLRHuGsSOK2CMRGPIClyeAbjLMP_tnR42razJ3by88ibVM-sIwaUFdCV0pYdAWm6aIrbwWT3IEfvlbyiYlSMC_bDCj1tyC38mIQSvfBb-WRrgaAoUxSdG-BkxNyHhaAxUFeiPt5yqSbNfmSzvGEdrnmozxQlv_raa8pBcCZLuhP3MrlyCmcdCPFvY5mQKLusVzZcdoNhInwyRU6gSWUZfMSvw1fYT1wAJgekUyKDD_5T7K7EtgW6PmNaww_7kHAppq9jsdbPwQn0xzlajQ_WM1o_8sa8njsbq6KruFZaiS-Wp9TUaNlQOtPmtf_m0zuuwqDgWz4TeLlYUGl9afn1aw1uuspmKFORVqh5ipSHI3WL3eAJaGYBbcaMMD4IuoJ6fWmFnL9KgKsYrZNEFfbdC9OZVI_c9aVKBjKkGSSXwtk9BPb3-X5kkY1AhkihGiv_eX3Ip2tTHIrWjzN-x2idhKSLxhrQwRZg9AzzFWr0PubYoINI3yXuKOI7LWrhmfkdcDkoTT5ueL0QcXxBFebztH1bibFGbDO3_PIRwtOA2gBbiC5vBT4j487ZM0PLrMs_cIiA3-HPFfxfnr5zsNbleV5MJO7SRAtBTHVr1Ap3c91Cu1faHoF-td7wnL5cp3tlfRltCcMLI2v4SbvYH_a_wOa8U6OCEx0jPStkSHgXCngtq615uNO_SEziCGN82xpiiuK2xGLUOxX_Qk4fGEb7AL_D8lRg1Vm2RyT6Cuefsz0Wq8NOdGxhCJH1DgFGg13EUFSbnC-bh6MuO26sFHIXbzcaupurJWDnbTd0qVqqQQ5w0xWMdos11bvzVQYVXmZ230cKzr7D1XDzAyZw2Ax-lSj3tG8yk0unUm-ySc3oNfBJDwt0IyeO1DgwdpFCycorMpe8o98uM12CF86qSqrjr74KOIAbOg-zzOmVfOnOKIsS7FO3wos3BrVWqtAgUh5qAAG0J0DXiG3BxMGJILM9Ots2Fy8C9aXtKiSN0UgrIw-WIVWBMSGSfTC1U0u57sLMzY-kR5bgYQOgPA6q8aFOdlhpYocWOedFDHTgPVkPGmlW-JDIjGVb2AgUC2IbN-p6mecaOfjJxT-TisBcVrRyLUcgU-lmhO0GxAqIzkrY7NitZPxXdq_AtSW7zqqy7ZWfhTLebvj0Qf13VGtRm6GF6t2UBIkgdsdBWrGZdmZAJ3kn3atav6j4Lc6hZQ7vnVo7-o7U0MxJ3NfgdjOhbz8Yj7vDNSAGf5ab1SCMKrjoGtQCmGJcgJJ5AFWz5mYnIepQ5JeVouS4Qjw_daivMF8rjdFtYOfivpPdxs3tTy-U_0YVj55ZDVfOTBLIxEe9i-Ftbzmbvp8wFXOzkjERornuKLnAcb5awEKlaUAtw1xxRsu_b2UylmqSFnM5rHsC5I160_wbwQXCXZ-Sja4b09UkNQ15uMMe3uSOoKZcQwDtRKXeA_lu3xjcqF8CcKrbWKE5aQqKHThVX-vqwPJRGpWFUhFOV4OhOzDPtzDTDEdaphsFDbz_yoKjMyrwIRKKa6RXKcI2QgdsztLSnWet5-3CuKVCaB0BrVCOp0n7O7s2qJg2aEyg1I1oc1mLPZpYysMWBKTvG2P0anmRQKPzvpNAAWnRxs2pMD3f4IrGFAm6xw5bSZ-wd_xbgdTTB4OCG9FXW1dCgy-Q0BCodmk2skws7NyohH33LDew0_FpOW3FWb28jZXo-6rusFBz7jctD1mVFSkB0PvWH_l51E7vmfi5QOGhYrtzok2KeP2-7IzuHkSSck5gaz_o8lIKhsorCaaq_KR6JJe4fBPzSXngIwQ18_puv9TZydkGhh-ROpeUkgSixawb8eJ0ZBoYcT9z02d6hGQU1EGNO80CVdH69EEMk2O7kY5vRNx30en48z65cZB3MWjWFcCwAVxk3wQU2xoV7nuRyzVlnfTL7SRTxTS_q6Uub7piuVXQx828DiSoJv1ECJyv2aJzYcTXN7O5wjaEUadP-J7_ZDlZofbLpW88cbEYViYQE4Fb8xAxNQSrizune4DbxkVubW_G1WNXccfdtSVLSrZXdj6dDQewp4itgS4vQb0bqmtjxopLfEoq4LHKGRriNgdDTRwO4ZHbgSJrS9DR_srDYC3Vtw2lV0gkkfnXw4bp6EbLOyUS82vd0LYD75MOJoa5_zcatdnrOTI3ZFIvDFiTss3jFuxscn5FPpRnHxi41o0hb44n70hriH8zBOfQIfc4aetUN-gHyiVDJ0UdTgw--2S15W-QA7ExNGhN_daKGgzkyh5wmWV3zi5vdikGMsRHxeIfJDmRjImas5h3XFRYIbz3GuIM31uknbzF937TZDswG9VaOsF1t0ljugzqAgcBk5xpn0LA8cnZY5nob4c-2ROUL63KwGU5eCqZF97ndkhZrtqcetyZKEnIrFanq9PBETdy6TRR3d5LipZNdk23sf4WqJJ6S-wlpCeFaYF-B9s4IyuHfj-RxomzVkovlmdgdBr4M5XtvwmYlfBbR64tWj_ouQhWaGjkKML1XVuww972P2UsBpv9-Ra5vS4vPxgcaR596IPUznscgrSwOhDacVeMjI_icwzbZgsowtLRb4uWMZ-xkere3uyzVNAvzuZIQbyteqs5pVJ3q8Z5Vp0ThcsehCUCydQK9ZgSk2W-LfMJGwTrk_zewBb-SqsAJV1AtWI1iF9JiRQ-XE3T9vc1BqhcOV-fbi5BXenjj2l1TRHLReaGrIbtJxMsVL_usKOr3GvbKfaN4R32SL_IGdgefwWCHyWEddiZYBsabzcJ7DQ2oupH_Eb8z7EXSU49c_Zu-5EU2i_1OGBYN-npUl6PeMspszn-_6G7iWWBJoBgSlh4Ge7u0a54aV1i83epLjMOaOq0bpUrB2043AX9HFz4yx5mvxfwUuKHEhTzDlgQOvBJbmF8CtKWr1Fh5ZvvXWITlO64AZbgnvFmpw78xN8k_yHI4J6TEOt-exybVLx5RTipQ6RWXl5VoNwrtwDJonr_YuvMpgHdSN3nXuGciSOQ4Q2UKllympyMM_QbB9cUi45kLKBv5Zb1O98Bx0OHtiYzFnwIE3mugwGJ1-FXbg3XyHxKswed3lFk2DOmaLuFUPeh6zI40se762NYePk8gAKFKe45Ripfc4nAM9onsPNBwUNtCID_MnraJR6k9WVjdneJXxLa-hKPfdOvy_7l0-XjXHKli5wgzjr5n3ZLMUWfxgLBiaElN1CCeu_MpvchU0ZNi6bN_8COnOCjUeGCLXN_7KavSgrH-ch3f_qlOmpJVAC7p9okvl15bP0IWKW5OTd_BRCjqJcl2LkC9HNYD1EqvxzsfPUq2r8JEO47USqSOVJEnoGXhnhoZg0r95ZxSWC75UP9onGq1bp01pyJB7eVmwm3XIfGevEyuPJf3ND7vumtCSW0jom-9Kejgqo-c0Lo8l-R8orNx8NxXnpVT9Y4ESDaev6StDcdoIZbPfvcKuTLSxD8ETJ6ODx8o6SsCzYMtyixTjbBHYO3gf-wqMu6ufFoK3MSOzupKYCzlN03jhOoqQUT4-nosUlh9ipPT9EgnzoXbmSrayPaqULFfTFKZu9VvcaMby-9t5TsVeByzHDTiMnSzfS4lhufAmSvXeuZ34iIrAd9K0km2MRLkWAmsdMynNZ_itQ24e9mDo5tshas5BOJOzBJZ9vmqUdk_xlI2ERoDTWveiECcQrlTNQmhSVJ3uDCThDoQYGNcKTtbaZiizislEu0IhOmaQqCnFbG-wu4J1vWzdFcSsCsbGsiYu4gGyw8O9mQ0IYtcMRsXH7c8ELbe6IwlqEKorM5yyztXZT7dX6aWx-0kzb2EIlbjSDnULIdeRijl-fVJeu0cvDPdgtUnVBpe-j6g6-ZczAKR8JNYQAHmYmzYMKGymOy5R1sekeuNVBqWg0JzFfMRrV9mILNNH8ZuSB_GBb0Sv0yxlyo2ACKi0bVoBL0MycRJnhg5lS2WB8IemSfkwsqNR2IUFXC-WAiLGCwSe-42tiAqQXyjn4H1uw8U6aYq8g-9S1UaIpwdoSBux4piUYotcDQ4mgx267jf-SniX3Ngszx6FhCruA07yI41ynj1t5Jr4c4rNGJU0eC3gmw2ZdFALPqTW1gt6D_IbbwV1HI2lJLtwuWaJjKuVlqU5zwIEtOT5ZptpDnChhyG6LUOsjfutzsacQIoUwWC8yBK12tsuo92vdSSS89iNM9Z5m8avi79thOKJbmP1W9e2jguOn_O2fPQCZV5o3F5-s_o1p1Ypm8ouO2iDzsBN8PMe858E3NhhogsJCok7G47yU5PPljnJgiEfF3UWsILzeFbYgV3LQ_-XS_216V_xerI8L06xk8tdiASYuEBfho9hdhGlFX0mAtfDRzLvZnu-iw3kCOPqLUQ2cHm2vu-m0fv1MUAgOCktNkl47KQdJvsytCxrpUfl41G0gQa4llgRkSFI24pDhcq-kPLeXbV0C9l3MYVtclLf6gVb9AJt75jAEnm8cbm7lOjNgKmI-jMCNIcpwikrZcGEhnBAyXhSQZAUzSwQWMXXgHll9puU7UUXTqxDqo693x8bcRZkfc83OeTgkOwRoonS6cBtZ_znvKixERiTsL8hmQccGQP9RKoTMDyUXZIcdr7iKHIhUVb_BqCMacoZWpdUvhknneImlWQvLH9CKHizm_uKwTb8HoBfmoSeoYiz47axI9cHJV_ym4jZONtjWF7N5cqFgq75zEmbu3mB71zEaubykrubChMut7EWVbIs3mU32fxjKxqK78ap1kEHs0qOak-_DaNKqcmmu45mYwAfsOwKLKtlufZ3ho8vJo5-z7VJ2T6RpUWEaF8VhVoE6QYcetwri27iok7AqC_eJs_CaaPKTiw8oB3e7NzlVfoXOMph9UJX4Y_9smrUGv3SMbEvvWHiqumqjSptQvNS8NiQNuoa5Ahu6qi_Zj4PiQvoXDgmqQEU1qJ3_Rskc7Y6Fb97gXUuTy79RtrzRjXkZvd8dmv0SijhEi2sUFLfYTZlAWbkbZP0nILG68lTev6Tj4qLGREaayONr6eV5SiZBAOaC3IDTJ_9uo49Lm_AcMFX_GJB0Jrl_4o4BizPMBCDp_IYnTLq8ypOesIGcrS7C4yaDxSlj3RjKWx1TdzFtvBwlcbzTENLvNo4-hlhpybpkTbcpXszBHzpANTkXpO85Lam8PnnKPivqdeIAuxFhVwzLKFIHSwwnYYFCY62UqWaLMm6v1TkZQKbC9JoyJHOEMB8YCyggXB8HWWEv9SH_11uU97bK9NIollNfj62nNJrr0-v7dY0Md7WiNSvDz6ZOzsTymeM0O68SJeX6K7gDGZkcPfYp47R44ZRKjkt6xXCURvipFCDltdxmgc0LJq_afHGJREAh1S5Qsvwk3EEqS-QwI_-iPNogfu9yXH3t69xHYdWb4rxb9XZGnZYrVKrC6Os5ltunaak453-VKMlSdZomr4YQ47MidJYgFwoLRCrqtv8Vpzaol7lsqwoJ1WF4b2XSlo-IWld0ohuaI7R0nbAAZFGqRnZOQPn7l-gzly-KsJ_DERPl8vFEVzIB6KAL32cnYGRqI_zUch3zi2O6ie4qsZGg_hwUELF6kBp5Mce5wwybsRmG2kD5EOqWeYYZwvCkrpS3i1OsB_udyP0OTsJHtNxLQ6ncK8dQ27QO8e07w9f8WvYVD1gFaVYbyXo9MlcbgtR-fSHj3EhnQuWTm5ERRC8nDwgmsMmNT6XYz_woKlvmIfnBFW3nFc4yEKNINw6O7A1pvKZdieOdcVD_pJhZ08wk9VGst7KZpCtFi0wUkb-MVUSv7AdW2FrB1gOq4mm3KOvWqDCNGyzFlDJ15Wd3gBa7jCCIj2yfsYbNQXdgMtCHp0SYM9V7fGQzGAcOP4b-yk-vqGNBjHpXKUUxVgkO-apEKyks9x975bVEya0k4rTMw_0pfxWnJZ6Y4gChOm8C__xoN3SGDXOlR1v8FybDy9zZMDkY6fr0bcbtXct5n9k6YIh2i4_JmrfOLajNFWqzQMhZ8NLxIMNLyANE08LkkHWNadH3WNmj98kuBzwgTogWSYL9dDLCZH7M3lxJ3L6xy4npFKvCCff23OOOQAaxspHEikKQrS5ZiVT6srP-MVIDZ_NFmHunbBz0swg88ClfDRH5W73xkBQLEntIQosLPhe75lvrf1TCXOOoGHOHCdR2k_jU2xPYnWWVapZgIkfbcqrSOk7RLb48r72BdNhlSyxOnf_0bE45ipn5FN4XYHduLX9b1rhPAr1DDOevpgT5qaNS6mCjfoLutoLhEjY3QiMwwn8Rm3Wf8zNrIEjOpEOJpAhw8biMWxDOxgjGkPu1FtZ6G956FrUVVCA722KZPRkymHPKGI-ZOR4QJE93zljJpBK9akyJyIOCvbxMM2A7w2vbksxUui1vqxYygjWz-8qfh332J3bH5QkF3rXzgErIaVlC29ZbzoI8d06X0G4wJgfq8VPW62kmVFOK8rOtZxTWibl9cyLzEOJLHmqjvRJHErvtdVWgtU4dtZi5rdgF5stxnTGnDUnk1cX-gxNddnYdy62GffSayTPIYr5e0pGHxLv9o2APzN4kCggOtmOMLERL3kMGxqdTI8bNw_eM1sTxa3Y4O0hrbD-Uuio59yny3sf3apy7PX0k456Ogw3VEK2aMzI1ehk9_TBmSRxME9v1n-NzhTdiyCRRkbDmJYPEUcjGGziVn9J3_U12jZ9Y2CkUtXYQjxqqmkxwbg47R5aTODKFW-TmDBeic0eiAG815Wz2qppp_K5yTuhwKaBQhU-js2UPvqFw_2IrTRBcM-B0luXBnf88I-2wHAcikSYDkLm9BNe6MzrI7K2cjk9Nj6zhxypZ978N7KL4KFsOfutfi_aCJUoIOAhj3umknixhOAQ_oEU75qs8WPXFsCTdiIwfHpcx1YRZKldQEvnYYN6NhGckDgfmo50jj6iN4zu-6uivuIJne0KdorrG8QXVeIcjx8m8f7dNfwfv8T4p8vuRWnXGiUb2FpNNhDFoTqkPWHSnizsD3sHMsXoRZ7wbrprQ_0IsEyWojWFKxIAvyv3UFVDpu3gvWgwGrBOtr6DnK25OZzDDTnA1MZIWoK4AXQHdvwPaVZPFEA4z5sYpBrW4_O3lfKeLuAXj_AbkRvXB4R3cN4Fo6ad0AQOssbIcdRjKrjVR7FgB56LzXgwFoRPidpzFtHwnBdEFu78FyrJgq3YXEGOt1aDXB4YODVG7cktfhYrAT4047sEfTVY3JzkVl8kirnW8Obw56ZQJDX0chym5VEoBHC2wthjFjc1C9RKzgcO6XUKLCGzm015l0V8w0kGRyNQJdco0Xx7jZWu0daQve-m1rYZxW0FK77w3ICljhxYwgtX8hvL_nCCja-5ocEqiIf0ddNLgvkB6VkDwBjB-MaBFfnvOSt4AntqVtlXbCHsFv03BkZ8mO6rAna3wQcMj4wMN2yUY81WmbtosVuHVzcjG5h_tePJGM883ginJG3s61BkGwU3mhzG4DtaesNDFqZ5d1bJ3tjywM4HEpOvUqI6B3RbH1HAuoU-A3QOu6KlV4A4lMnoYjH09kQw2wlTlXZgTbZYW1NLUefZlUCHWNXgA82yBd-rPshSUTj5PtvIlmqSjakASi8W2U9TJ21H_Vk7KzuBQ9BhPNfI_e6KdIF9XGN8dm1S5akNfGtkbit7UPTcIjfqj7CLzjNY93uFZZT7qL1d0VoOH0wpZAD5CSa5GuTvZ1zabdR_C7s8SomTdDb6udqcjPTwVOY1rjeEmT6Hj71tc6qPLUxLjbrAUX4C1-jmJHM1MdvzroJxpTDko3KjHQx_myW2fO5LqXfjnKW9Ax-rkGusymk5Xd7enI8OmzwrI34eUL4GJqOK-LtOjtEVxiIF4-94BNF6c-qosPwC0yxCtmXp8ZkOo9Jh0uHdJV98F"
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "index": 0
+    }
+  ],
+  "model_version": "gemini-3.8-flash",
+  "response_id": "GUzwaq_dAev8694PlpC2yQ0",
+  "usage_metadata": {
+    "candidates_token_count": 3816,
+    "prompt_token_count": 17592,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 17592
+      }
+    ],
+    "thoughts_token_count": 2645,
+    "total_token_count": 24053
+  },
+  "automatic_function_calling_history": [],
+  "parsed": {
+    "assessments": [
+      {
+        "candidate_id": "W007-C004",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E036-B0065",
+            "E036-B0066"
+          ],
+          "reason": "Alexander's mother immediately delivers an urgent, emotional revelation that Rupert and Catherine accused her of poisoning."
+        },
+        "cliffhanger": {
+          "score": 2,
+          "evidence_ids": [
+            "E036-B0098",
+            "E036-B0100"
+          ],
+          "reason": "A high-stakes impending deadline is established, but the cut ends on spoken realization and a furious glare rather than an active cliffhanger event."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E036-B0066",
+            "E036-B0076",
+            "E036-B0085",
+            "E036-B0093",
+            "E036-B0100"
+          ],
+          "reason": "The rapid dialogue clearly unpacks the entire backstory: Juliana saved the mother, got framed as a witch, and faces execution following an enemy wedding."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E036-B0074",
+            "E036-B0082",
+            "E036-B0085",
+            "E036-B0089",
+            "E036-B0096"
+          ],
+          "reason": "Each exchange reveals a worse layer of danger—from condemnation to execution, tying it directly to a ticking clock of two days."
+        },
+        "hook_summary": "A tearful mother grips Alexander's arms and reveals that enemies framed Juliana for poisoning her.",
+        "cliffhanger_question": "Can Alexander intervene within two days to stop the wedding and save his wife from execution?",
+        "why_it_works": "The escalating sequence of devastating revelations efficiently builds a desperate ticking-clock rescue mission.",
+        "concerns": [
+          "The entire clip is talking heads in a cabin without physical action or visual progression.",
+          "The ending is purely expositional dialogue rather than an immediate physical crisis."
+        ]
+      },
+      {
+        "candidate_id": "W007-C005",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E039-B0038",
+            "E039-B0039",
+            "E039-B0040",
+            "E039-B0041"
+          ],
+          "reason": "Alexander examines his scar in a mirror and delivers a dramatic line about no longer hiding, which is intriguing but slow."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E039-B0057",
+            "E039-B0058",
+            "E039-B0059"
+          ],
+          "reason": "The clip ends on a standard boastful vow of revenge while walking, which lacks immediate narrative jeopardy."
+        },
+        "clarity": {
+          "score": 2,
+          "evidence_ids": [
+            "E039-B0041",
+            "E039-B0048",
+            "E039-B0050",
+            "E039-B0058"
+          ],
+          "reason": "The viewer gathers that Alexander is a presumed-dead nobleman reclaiming his title and wife, but the specific antagonists and circumstances are vague."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E039-B0045",
+            "E039-B0047",
+            "E039-B0050",
+            "E039-B0054",
+            "E039-B0056"
+          ],
+          "reason": "The progression is purely stylistic posturing—dressing up, stepping into snow, receiving a salute, and striding forward."
+        },
+        "hook_summary": "Alexander inspects his combat scars in a mirror and declares that his years of hiding are over.",
+        "cliffhanger_question": "No concrete question remains beyond whether Alexander will successfully attack the chapel and reclaim his home.",
+        "why_it_works": "The costume transformation and icy march create a classic, polished aristocratic power fantasy.",
+        "concerns": [
+          "Lacks genuine narrative urgency and feels more like an extended teaser montage than an engaging story beat.",
+          "Ends on a generic verbal promise rather than an active point of suspense."
+        ]
+      },
+      {
+        "candidate_id": "W008-C001",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E036-B0097",
+            "E036-B0098"
+          ],
+          "reason": "Alexander delivers a grim line about a marriage in two days, but the true stakes are only mentioned after the three-second mark."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E036-B0118",
+            "E036-B0119",
+            "E036-B0120"
+          ],
+          "reason": "The promo concludes on Alexander staring into the distance and declaring that the dead Duke is coming home, offering only a vague promise of future revenge."
+        },
+        "clarity": {
+          "score": 2,
+          "evidence_ids": [
+            "E036-B0100",
+            "E036-B0104",
+            "E036-B0108",
+            "E036-B0119"
+          ],
+          "reason": "The basic conflict is understandable—Alexander lost his name and home and his wife Juliana is captive—but the identities of the villains and context are missing."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E036-B0102",
+            "E036-B0106",
+            "E036-B0111",
+            "E036-B0115"
+          ],
+          "reason": "The scene repeats Alexander's anger across several camera angles as he walks to the doorway, restating his determination without advancing the plot."
+        },
+        "hook_summary": "Alexander glares murderously while realizing enemies plan to wed in two days.",
+        "cliffhanger_question": "No immediate cliffhanger is posed beyond whether Alexander will successfully return home before the wedding.",
+        "why_it_works": "Alexander's intense vocal delivery and physical presence project strong vengeance melodrama.",
+        "concerns": [
+          "Repetitive dialogue beats stall momentum in the middle.",
+          "The ending is just posturing into the snow with no immediate obstacle."
+        ]
+      },
+      {
+        "candidate_id": "W008-C002",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E041-B0033",
+            "E041-B0034"
+          ],
+          "reason": "Juliana appears bruised and in heavy chains, delivering an immediate, defiant challenge to her captors."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E041-B0047",
+            "E041-B0048",
+            "E041-B0052",
+            "E041-B0053"
+          ],
+          "reason": "A massive detonation blows the chapel doors apart and armed figures breach the rubble just as Juliana looks up in breathtaking hope."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E041-B0034",
+            "E041-B0037",
+            "E041-B0041",
+            "E041-B0048"
+          ],
+          "reason": "The dynamic between the chained heroine and the ambitious couple marrying at the altar to steal a title is instantly clear."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E041-B0037",
+            "E041-B0041",
+            "E041-B0045",
+            "E041-B0048",
+            "E041-B0052"
+          ],
+          "reason": "Tension builds smoothly from verbal defiance to the wedding ceremony commencing, punctuated violently by an explosive raid."
+        },
+        "hook_summary": "A bruised and chained woman taunts her captors for needing an entire chapel to feel powerful over her.",
+        "cliffhanger_question": "Who has violently breached the cathedral doors to rescue Juliana and stop the wedding?",
+        "why_it_works": "Combines crisp moral stakes with an explosive disruption right at the ceremony's pivotal moment.",
+        "concerns": [
+          "The identity of the armed figures entering through the smoke remains completely unrevealed."
+        ]
+      },
+      {
+        "candidate_id": "W009-C001",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E041-B0025",
+            "E041-B0026"
+          ],
+          "reason": "Juliana is mocked over audio as she halts in an aisle, establishing tension but lacking the immediate punch of direct dialogue."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E041-B0048",
+            "E041-B0050",
+            "E041-B0052",
+            "E041-B0053"
+          ],
+          "reason": "The church entrance detonates into fire and debris, cutting away right as armed silhouettes breach the hall and Juliana registers shock."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E041-B0026",
+            "E041-B0030",
+            "E041-B0034",
+            "E041-B0041",
+            "E041-B0048"
+          ],
+          "reason": "The extended opening perfectly explains Juliana's public disgrace and Catherine's usurpation of the Ashburgh title before the explosive interruption."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E041-B0028",
+            "E041-B0034",
+            "E041-B0041",
+            "E041-B0045",
+            "E041-B0048"
+          ],
+          "reason": "Moves steadily from public humiliation to altar vows before culminating in violent shock, though the first 15 seconds move somewhat slowly."
+        },
+        "hook_summary": "Juliana stands chained in a cathedral aisle while Catherine publicly taunts her from the altar.",
+        "cliffhanger_question": "Who just blasted open the cathedral entrance to disrupt Catherine and Rupert's ceremony?",
+        "why_it_works": "Provides rich contextual setup that makes the explosive cathedral breach feel intensely satisfying.",
+        "concerns": [
+          "The opening taunt drags slightly compared to jumping straight into Juliana's barbed confrontation."
+        ]
+      },
+      {
+        "candidate_id": "W008-C003",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E042-B0009",
+            "E042-B0010"
+          ],
+          "reason": "Rupert frantically orders guards to arrest an imposter within the first seconds, launching straight into high conflict."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E042-B0034",
+            "E042-B0035",
+            "E042-B0036",
+            "E042-B0037"
+          ],
+          "reason": "Alexander rests his hand on his sabre and tells the cowering Rupert they are about to settle what was stolen, cutting right before violence erupts."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E042-B0010",
+            "E042-B0017",
+            "E042-B0021",
+            "E042-B0034",
+            "E042-B0037"
+          ],
+          "reason": "The mutiny of the guards and the mother's public declaration clearly define Alexander as the resurrected rightful Duke confronting a usurper."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E042-B0012",
+            "E042-B0017",
+            "E042-B0026",
+            "E042-B0029",
+            "E042-B0036"
+          ],
+          "reason": "The dramatic arrest refusal starts strong, but the momentum stalls for over 20 seconds during a sentimental reunion with his mother before ramping up at the finish."
+        },
+        "hook_summary": "A nobleman panics at the altar and screams for his guards to arrest an imposter.",
+        "cliffhanger_question": "Will Alexander execute or arrest Rupert now that he has cornered him at the altar?",
+        "why_it_works": "Delivers an immensely satisfying public reckoning and identity reveal backed by royal guards.",
+        "concerns": [
+          "The prolonged weeping between Alexander and his mother dissipates the adrenaline of the initial confrontation.",
+          "The final camera shot has a partial boundary indicating a cut during Alexander's concluding beat."
+        ]
+      },
+      {
+        "candidate_id": "W009-C002",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E042-B0009",
+            "E042-B0010"
+          ],
+          "reason": "Rupert immediately rushes down the altar shouting for guards to arrest an imposter."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E042-B0034",
+            "E042-B0035",
+            "E042-B0036",
+            "E042-B0037"
+          ],
+          "reason": "Ends on Alexander gripping his sabre and threatening retribution against the cowering Rupert, right before physical retaliation begins."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E042-B0010",
+            "E042-B0017",
+            "E042-B0021",
+            "E042-B0034",
+            "E042-B0037"
+          ],
+          "reason": "The core premise of an assumed-dead Duke returning to reclaim his title from a terrified usurper is made entirely explicit."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E042-B0012",
+            "E042-B0017",
+            "E042-B0028",
+            "E042-B0031",
+            "E042-B0036"
+          ],
+          "reason": "The guards' refusal creates electric tension, but the prolonged sentimental reunion in the aisle saps the pacing before the final threat."
+        },
+        "hook_summary": "Rupert frantically orders his royal guards to arrest a man he claims is an imposter.",
+        "cliffhanger_question": "What retribution will Alexander inflict upon Rupert right there at the altar?",
+        "why_it_works": "The instant mutiny of the guards and validation from the dowager create an authoritative hero vindication.",
+        "concerns": [
+          "The lengthy dialogue exchange with his mother significantly slows the aggressive tempo established by the opening."
+        ]
+      }
+    ]
+  }
+}

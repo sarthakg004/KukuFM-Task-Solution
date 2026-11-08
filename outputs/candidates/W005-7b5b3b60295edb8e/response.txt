@@ -1,0 +1,88 @@
+{
+  "candidates": [
+    {
+      "title": "Arsenic Diagnosis and the Turning Latch",
+      "segments": [
+        {
+          "start_id": "E023-B0039",
+          "end_id": "E023-B0067"
+        }
+      ],
+      "hook": "At E023-B0040 (0.5s into the clip), Lady Juliana looks up with deadly seriousness and states: 'Someone is poisoning her.' This immediately introduces an active assassination plot.",
+      "cliffhanger": "Ends on E023-B0067 as the brass door latch slowly turns and the bedroom door cracks open, leaving Juliana trapped beside the convulsing Duchess with an incomplete antidote.",
+      "standalone_context": "The dialogue directly establishes that a bedridden matriarch is dying of arsenic poisoning, and Juliana is attempting an emergency charcoal remedy when an unknown intruder arrives at the door.",
+      "why_it_works": "An urgent medical mystery turns into a high-stakes stealth thriller the moment footsteps echo and the door begins to open.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "The Disguised Maid's Signet Ring",
+      "segments": [
+        {
+          "start_id": "E026-B0031",
+          "end_id": "E026-B0051"
+        }
+      ],
+      "hook": "At E026-B0031 (0.0s), the Dowager Duchess directly challenges Juliana from her bed: 'Then tell me... why is a girl of such noble spirit working as a common maid?'",
+      "cliffhanger": "Ends on E026-B0051 as the Duchess clamps both hands onto Juliana's hand, frantically demanding where she got the family signet ring before Juliana can answer.",
+      "standalone_context": "The dialogue reveals Juliana is a cast-out noblewoman surviving in servant's attire whose distinctive ring sparks immediate recognition and shock in the ailing Duchess.",
+      "why_it_works": "The clip smoothly builds from an intimate confession of exile to an electrifying heirloom discovery.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "The Ashbourne Crest and the Armed Intrusion",
+      "segments": [
+        {
+          "start_id": "E027-B0001",
+          "end_id": "E027-B0029"
+        }
+      ],
+      "hook": "At E027-B0002 (1.3s in), the Duchess clutches Juliana's hand and demands: 'This ring... Look at me, girl. Who gave this to you?'",
+      "cliffhanger": "Ends on E027-B0029 as the Duchess asks 'What is your husband's name?' right as the bedroom doors burst open to reveal hostile aristocrats and an armed royal guard.",
+      "standalone_context": "Juliana explains her humble soldier husband gave her the ring, only for the Duchess to identify it as the Ashbourne crest worn by her lost noble son, cut short by an armed raid.",
+      "why_it_works": "A massive revelation regarding her husband's secret aristocratic heritage is cut off at the climax by an armed raid.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "Framed for Poisoning the Matriarch",
+      "segments": [
+        {
+          "start_id": "E027-B0065",
+          "end_id": "E027-B0095"
+        }
+      ],
+      "hook": "At E027-B0066 (0.5s in), Juliana holds up a dark glass vial to the entering nobles and firmly proclaims: 'It is an antidote.'",
+      "cliffhanger": "Ends on E027-B0095 as an armed guard twists Juliana around and drags her toward the cells while she stares in horror at the aristocrats framing her for attempted murder.",
+      "standalone_context": "Juliana attempts to warn the family that someone is poisoning the Duchess, but the corrupt nobles deliberately invert her confession to accuse her of administering the poison.",
+      "why_it_works": "A fast-paced confrontation turns an act of mercy into a terrifying legal trap in under forty-five seconds.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "Identity Unmasked Before the Gallows",
+      "segments": [
+        {
+          "start_id": "E028-B0072",
+          "end_id": "E028-B0096"
+        }
+      ],
+      "hook": "At E028-B0073 (0.8s in), Catherine looks up from the captured ledger with a malicious grin and declares: 'Lady Juliana Ashcroft.'",
+      "cliffhanger": "Ends on E028-B0096 as Catherine waves the herbal ledger and promises to send Juliana to the gallows before the magistrate while guards drag Juliana into the corridor.",
+      "standalone_context": "The antagonist exposes the captured maid as a fallen noblewoman married to a penniless veteran, sentencing her to the castle's wet cells under accusation of murder.",
+      "why_it_works": "Condenses a dramatic identity unmasking, personal humiliation, and a sentence of death into a single relentless exchange.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "The Aristocratic Witchcraft Conspiracy",
+      "segments": [
+        {
+          "start_id": "E030-B0030",
+          "end_id": "E030-B0049"
+        }
+      ],
+      "hook": "At E030-B0031 (0.6s in), the Elder Nobleman paces behind his desk and coldly declares: 'We use the law to destroy her.'",
+      "cliffhanger": "Ends on E030-B0049 as the Elder Nobleman gives the order: 'Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.'",
+      "standalone_context": "Three wealthy conspirators scheme in a private study to twist an imprisoned healer's herbal remedies into a capital charge of witchcraft so the legal system will execute her.",
+      "why_it_works": "A chilling villain conspiracy establishes insurmountable legal danger for the imprisoned protagonist before her trial even begins.",
+      "concerns": "Juliana does not appear on screen in this excerpt, though the entire plot centers on manufacturing her death sentence."
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "data": {
+    "assessments": [
+      {
+        "candidate_id": "W002-C003",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E015-B0030",
+            "E015-B0031",
+            "E015-B0032",
+            "E015-B0033"
+          ],
+          "reason": "A hostile thug invades a woman's personal space demanding she get out of the way, met instantly by her defiant refusal."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E015-B0052",
+            "E015-B0053",
+            "E015-B0054",
+            "E015-B0055"
+          ],
+          "reason": "Alexander positions himself to protect Juliana while an armed thug tauntingly challenges him to fight, cutting right as physical violence is imminent."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E015-B0030",
+            "E015-B0037",
+            "E015-B0039",
+            "E015-B0046",
+            "E015-B0051"
+          ],
+          "reason": "The roles of defenseless victim, cruel attackers, and protective protector are immediately obvious without backstory."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E015-B0034",
+            "E015-B0039",
+            "E015-B0042",
+            "E015-B0046",
+            "E015-B0051"
+          ],
+          "reason": "The danger ramps up smoothly from verbal threats to physical assault, destruction of personal keepsakes, and an explosive rescue arrival."
+        },
+        "hook_summary": "A snarling thug demands Juliana step aside, but she stands her ground and flatly refuses.",
+        "cliffhanger_question": "Will Alexander overpower the three armed thugs who are threatening him and Juliana?",
+        "why_it_works": "It delivers classic protector romance tension with a sharp rise from vulnerability to a high-stakes standoff.",
+        "concerns": [
+          "The fight itself does not start, so viewers expecting immediate action might feel teased if not hooked by the dramatic standoff."
+        ]
+      },
+      {
+        "candidate_id": "W003-C003",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E015-B0030",
+            "E015-B0031",
+            "E015-B0032",
+            "E015-B0033"
+          ],
+          "reason": "The opening seconds immediately establish physical confrontation with an aggressive thug challenged by a defiant woman."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E015-B0052",
+            "E015-B0053",
+            "E015-B0054",
+            "E015-B0055"
+          ],
+          "reason": "The cut freezes right as the lead thug raises his club and challenges the veteran to fight."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E015-B0030",
+            "E015-B0037",
+            "E015-B0046",
+            "E015-B0051"
+          ],
+          "reason": "The dynamic between the bullies, the injured heroine, and the arriving rescuer requires zero prior exposition."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E015-B0034",
+            "E015-B0040",
+            "E015-B0042",
+            "E015-B0046",
+            "E015-B0051"
+          ],
+          "reason": "Tension builds cleanly from verbal intimidation to violent shoving, threatened clubbing, and an imposing heroic intervention."
+        },
+        "hook_summary": "A threatening thug corners Juliana and tells her to move, but she defies him with a resolute 'No.'",
+        "cliffhanger_question": "How will Alexander handle the three armed thugs who are daring him to fight?",
+        "why_it_works": "A textbook protective hero sequence that peaks precisely when combat is about to erupt.",
+        "concerns": [
+          "Duplicate of W002-C003, presenting the same promotional footprint."
+        ]
+      },
+      {
+        "candidate_id": "W002-C005",
+        "hook": {
+          "score": 1,
+          "evidence_ids": [
+            "E009-B0068",
+            "E009-B0069",
+            "E009-B0070",
+            "E009-B0071"
+          ],
+          "reason": "A master and servant exchange routine dialogue about a rumor, providing no urgent visual hook or immediate conflict in the first 3 seconds."
+        },
+        "cliffhanger": {
+          "score": 2,
+          "evidence_ids": [
+            "E009-B0087",
+            "E009-B0088",
+            "E009-B0089"
+          ],
+          "reason": "The scene ends on an internal reaction shot of panic over an unseen character, lacking any concrete imminent threat or pending action."
+        },
+        "clarity": {
+          "score": 2,
+          "evidence_ids": [
+            "E009-B0071",
+            "E009-B0075",
+            "E009-B0079",
+            "E009-B0088"
+          ],
+          "reason": "The dialogue relies heavily on unspoken historical context regarding who the late Duke is and why his survival terrifies the nobleman."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E009-B0075",
+            "E009-B0077",
+            "E009-B0079",
+            "E009-B0085",
+            "E009-B0088"
+          ],
+          "reason": "The conversation shifts from dismissal to suppressed panic, but it remains a stationary exposition dump without visual progression."
+        },
+        "hook_summary": "A damp groom enters a quiet study to inform an aloof nobleman of a rumor.",
+        "cliffhanger_question": "Will the nobleman uncover whether the Duke is actually alive?",
+        "why_it_works": "The slow burn hints at an intriguing mistaken-identity or returned-heir plotline for patient viewers.",
+        "concerns": [
+          "Extremely low physical energy and dialogue-heavy exposition are likely to cause rapid scrolling drops."
+        ]
+      },
+      {
+        "candidate_id": "W003-C001",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E011-B0015",
+            "E011-B0016",
+            "E011-B0017",
+            "E011-B0018"
+          ],
+          "reason": "Gerald bursts out with a direct accusation of theft right at second zero, provoking immediate shock and conflict."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E011-B0043",
+            "E011-B0044",
+            "E011-B0045",
+            "E011-B0046",
+            "E011-B0047"
+          ],
+          "reason": "Alexander surprisingly capitulates to the hostile search of his cottage, leaving the immediate outcome and potential setup unresolved."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E011-B0016",
+            "E011-B0024",
+            "E011-B0034",
+            "E011-B0045"
+          ],
+          "reason": "The situation is easily grasped: an antagonist accuses a man of theft and calls authorities to search his residence."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E011-B0024",
+            "E011-B0030",
+            "E011-B0034",
+            "E011-B0040",
+            "E011-B0045"
+          ],
+          "reason": "The confrontation escalates from personal slander to a threat of violence, legal intervention, a doorway block, and an unexpected concession."
+        },
+        "hook_summary": "Gerald points an aggressive finger at Juliana, snarling that her husband stole his gold pocket watch.",
+        "cliffhanger_question": "Will the constable uncover the stolen pocket watch inside the cottage, or does Alexander have a counter-move?",
+        "why_it_works": "A crisp, escalating social confrontation with clear stakes that pivots on a surprising twist when the accused permits the search.",
+        "concerns": [
+          "Viewers lack context on whether Alexander is truly guilty or being framed, which slightly softens the emotional alignment."
+        ]
+      },
+      {
+        "candidate_id": "W003-C004",
+        "hook": {
+          "score": 4,
+          "evidence_ids": [
+            "E016-B0012",
+            "E016-B0013",
+            "E016-B0014"
+          ],
+          "reason": "Opens instantaneously with a raging thug swinging a club, only for Alexander to catch it mid-air barehanded within 2 seconds."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E016-B0039",
+            "E016-B0040",
+            "E016-B0041",
+            "E016-B0042"
+          ],
+          "reason": "Alexander holds the choking gang leader up against the wall and roars 'Who?!', cutting on the apex of interrogation before the identity is revealed."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E016-B0014",
+            "E016-B0027",
+            "E016-B0031",
+            "E016-B0036"
+          ],
+          "reason": "The visual story is self-contained and crystal clear: a powerful man defends a woman and interrogates her attacker."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E016-B0014",
+            "E016-B0020",
+            "E016-B0025",
+            "E016-B0032",
+            "E016-B0035",
+            "E016-B0041"
+          ],
+          "reason": "Shifts dynamically from lightning-fast martial combat to tender concern over Juliana's injuries, then detonates into intense interrogation."
+        },
+        "hook_summary": "Alexander catches a heavy wooden club swung full-force at him with his bare hand.",
+        "cliffhanger_question": "Who hired the thugs to attack Juliana, and will the thug talk before Alexander kills him?",
+        "why_it_works": "Superb kinetic action hook paired with a perfectly timed question cliffhanger that cuts on the climactic demand for truth.",
+        "concerns": [
+          "The partial cut at the final second slightly clips Alexander's physical chokehold motion."
+        ]
+      },
+      {
+        "candidate_id": "W004-C001",
+        "hook": {
+          "score": 4,
+          "evidence_ids": [
+            "E016-B0012",
+            "E016-B0013",
+            "E016-B0014"
+          ],
+          "reason": "Begins with high-octane physical violence where Alexander effortlessly snatches a swinging club out of mid-air."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E016-B0044",
+            "E016-B0047",
+            "E016-B0048",
+            "E016-B0049"
+          ],
+          "reason": "The central mystery of who sent the thugs is fully answered ('Gerald Harrington paid us!'), and the clip ends with thugs limping away into the woods."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E016-B0014",
+            "E016-B0036",
+            "E016-B0044",
+            "E016-B0048"
+          ],
+          "reason": "The scene plays out completely with motive and culprit resolved, requiring minimal background to follow."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E016-B0017",
+            "E016-B0020",
+            "E016-B0035",
+            "E016-B0044",
+            "E016-B0048"
+          ],
+          "reason": "Follows a complete dramatic arc through action, interrogation, and resolution, though tension deflates significantly in the final seconds."
+        },
+        "hook_summary": "A thug roars and swings a weapon, which Alexander intercepts mid-air with his bare hand.",
+        "cliffhanger_question": "No compelling forward question remains as the attacker has confessed Gerald's involvement and fled.",
+        "why_it_works": "Very strong initial visual action hook that keeps interest throughout the brief brawl.",
+        "concerns": [
+          "The cut extends too far, completely resolving the immediate mystery and ending on fleeing henchmen with zero suspense."
+        ]
+      },
+      {
+        "candidate_id": "W003-C005",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E018-B0001",
+            "E018-B0002",
+            "E018-B0003"
+          ],
+          "reason": "Bright orange flames crackle beneath a door with billowing smoke as a sleeping woman awakens coughing, establishing instant peril."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E018-B0023",
+            "E018-B0024",
+            "E018-B0025",
+            "E018-B0026"
+          ],
+          "reason": "Faced with an impassable wall of roaring fire blocking their only door, Alexander declares they must find another way, cutting on life-or-death uncertainty."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E018-B0001",
+            "E018-B0013",
+            "E018-B0018",
+            "E018-B0023"
+          ],
+          "reason": "A house fire and survival rescue is an elemental human emergency that communicates instantly without character backstory."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E018-B0005",
+            "E018-B0009",
+            "E018-B0013",
+            "E018-B0019",
+            "E018-B0023"
+          ],
+          "reason": "The fire spreads continuously, transitioning from smoke under the door to a trapped room, an emergency breach, and a totally blocked escape."
+        },
+        "hook_summary": "Juliana awakens choking on thick smoke as orange flames blaze under her bedroom door.",
+        "cliffhanger_question": "How will Alexander and Juliana escape the bedroom now that wall-high flames completely block their exit?",
+        "why_it_works": "Visually arresting disaster stakes where natural environmental peril creates universal empathy and urgent momentum.",
+        "concerns": [
+          "Pure survival scenario lacks interpersonal antagonist friction, relying strictly on physical disaster."
+        ]
+      },
+      {
+        "candidate_id": "W004-C002",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E018-B0005",
+            "E018-B0006"
+          ],
+          "reason": "Juliana bolts upright in bed seeing fire glow under the door and screams Alexander's name within the first 2 seconds."
+        },
+        "cliffhanger": {
+          "score": 2,
+          "evidence_ids": [
+            "E018-B0027",
+            "E018-B0028",
+            "E018-B0029"
+          ],
+          "reason": "Ends on a mid-action tracking shot of them navigating falling embers rather than on a distinct decision or cliffhanger beat."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E018-B0005",
+            "E018-B0013",
+            "E018-B0018",
+            "E018-B0027"
+          ],
+          "reason": "The premise of two people escaping a burning structure is instantly understandable without previous context."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E018-B0009",
+            "E018-B0013",
+            "E018-B0023",
+            "E018-B0027",
+            "E018-B0028"
+          ],
+          "reason": "The fire intensifies and forces them on the run, but continuing past the blocked exit into a general corridor sprint softens the punch of the crisis."
+        },
+        "hook_summary": "Juliana bolts upright in terror as an ominous fire glow illuminates the base of her bedroom door.",
+        "cliffhanger_question": "Will Juliana and Alexander make it through the collapsing burning hallway alive?",
+        "why_it_works": "High physical stakes and kinetic movement keep the adrenaline high throughout the sequence.",
+        "concerns": [
+          "By running past the blocked-door climax into the hallway, the ending loses the crisp dilemma present in W003-C005."
+        ]
+      }
+    ]
+  },
+  "model_used": "gemini-3.7-flash",
+  "key_name": "GEMINI_API_KEY3",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 3857,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 20361,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 20361
+      }
+    ],
+    "thoughts_token_count": 3540,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 27758,
+    "traffic_type": null
+  },
+  "attempts": [
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY3",
+      "attempt": 1,
+      "status": "success"
+    }
+  ],
+  "output_directory": "outputs/ranking/scores-002-2185f2386611d730/key-1"
+}

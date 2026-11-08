@@ -1,0 +1,44 @@
+{
+  "order": [
+    {
+      "candidate_id": "W001-C001",
+      "posting_rationale": "Establishes the core romantic premise and central characters immediately through an instant physical knockout and a dramatic public marriage proposal."
+    },
+    {
+      "candidate_id": "W003-C004",
+      "posting_rationale": "Shifts to gritty outdoor action with an immediate barehanded weapon catch and escalates into an intense, unanswered interrogation."
+    },
+    {
+      "candidate_id": "W004-C006",
+      "posting_rationale": "Introduces domestic intrigue and suspense, pivoting from physical combat to an urgent medical race interrupted by an unlatched door."
+    },
+    {
+      "candidate_id": "W002-C002",
+      "posting_rationale": "Highlights interpersonal cruelty and emotional stakes through Clarissa's sadistic briar ultimatum, testing Juliana's resolve to protect her husband."
+    },
+    {
+      "candidate_id": "W008-C002",
+      "posting_rationale": "Delivers high-spectacle dramatic tension by detonating the cathedral doors mid-ceremony and leaving the identity of the armed rescuers unresolved."
+    },
+    {
+      "candidate_id": "W005-C003",
+      "posting_rationale": "Deepens the overarching mystery of Alexander's hidden noble identity as his mother recognizes the crest ring, right before hostile nobles burst in."
+    },
+    {
+      "candidate_id": "W003-C005",
+      "posting_rationale": "Introduces environmental peril and survival stakes as a raging bedroom fire blocks the couple's primary escape route."
+    },
+    {
+      "candidate_id": "W006-C006",
+      "posting_rationale": "Sustains psychological and physical danger in a dungeon setting, climaxing on an unblinking standoff as a glowing branding iron reaches Juliana's eye."
+    },
+    {
+      "candidate_id": "W002-C003",
+      "posting_rationale": "Showcases the protector romance dynamic through a tense garden confrontation, cutting just as Alexander steps in to challenge the thugs."
+    },
+    {
+      "candidate_id": "W008-C004",
+      "posting_rationale": "Concludes the lineup with a formal courtroom-style exposure of treason, leaving the fleeing conspirator trapped by a waiting constable."
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "x-gemini-service-tier": "standard",
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Sun, 08 Nov 2026 09:55:37 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=81097",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    }
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\"assessments\": [{\"candidate_id\": \"W002-C003\", \"hook\": {\"score\": 3, \"evidence_ids\": [\"E015-B0030\", \"E015-B0031\", \"E015-B0032\", \"E015-B0033\"], \"reason\": \"A hostile thug invades a woman's personal space demanding she get out of the way, met instantly by her defiant refusal.\"}, \"cliffhanger\": {\"score\": 4, \"evidence_ids\": [\"E015-B0052\", \"E015-B0053\", \"E015-B0054\", \"E015-B0055\"], \"reason\": \"Alexander positions himself to protect Juliana while an armed thug tauntingly challenges him to fight, cutting right as physical violence is imminent.\"}, \"clarity\": {\"score\": 4, \"evidence_ids\": [\"E015-B0030\", \"E015-B0037\", \"E015-B0039\", \"E015-B0046\", \"E015-B0051\"], \"reason\": \"The roles of defenseless victim, cruel attackers, and protective protector are immediately obvious without backstory.\"}, \"escalation\": {\"score\": 4, \"evidence_ids\": [\"E015-B0034\", \"E015-B0039\", \"E015-B0042\", \"E015-B0046\", \"E015-B0051\"], \"reason\": \"The danger ramps up smoothly from verbal threats to physical assault, destruction of personal keepsakes, and an explosive rescue arrival.\"}, \"hook_summary\": \"A snarling thug demands Juliana step aside, but she stands her ground and flatly refuses.\", \"cliffhanger_question\": \"Will Alexander overpower the three armed thugs who are threatening him and Juliana?\", \"why_it_works\": \"It delivers classic protector romance tension with a sharp rise from vulnerability to a high-stakes standoff.\", \"concerns\": [\"The fight itself does not start, so viewers expecting immediate action might feel teased if not hooked by the dramatic standoff.\"]}, {\"candidate_id\": \"W003-C003\", \"hook\": {\"score\": 3, \"evidence_ids\": [\"E015-B0030\", \"E015-B0031\", \"E015-B0032\", \"E015-B0033\"], \"reason\": \"The opening seconds immediately establish physical confrontation with an aggressive thug challenged by a defiant woman.\"}, \"cliffhanger\": {\"score\": 4, \"evidence_ids\": [\"E015-B0052\", \"E015-B0053\", \"E015-B0054\", \"E015-B0055\"], \"reason\": \"The cut freezes right as the lead thug raises his club and challenges the veteran to fight.\"}, \"clarity\": {\"score\": 4, \"evidence_ids\": [\"E015-B0030\", \"E015-B0037\", \"E015-B0046\", \"E015-B0051\"], \"reason\": \"The dynamic between the bullies, the injured heroine, and the arriving rescuer requires zero prior exposition.\"}, \"escalation\": {\"score\": 4, \"evidence_ids\": [\"E015-B0034\", \"E015-B0040\", \"E015-B0042\", \"E015-B0046\", \"E015-B0051\"], \"reason\": \"Tension builds cleanly from verbal intimidation to violent shoving, threatened clubbing, and an imposing heroic intervention.\"}, \"hook_summary\": \"A threatening thug corners Juliana and tells her to move, but she defies him with a resolute 'No.'\", \"cliffhanger_question\": \"How will Alexander handle the three armed thugs who are daring him to fight?\", \"why_it_works\": \"A textbook protective hero sequence that peaks precisely when combat is about to erupt.\", \"concerns\": [\"Duplicate of W002-C003, presenting the same promotional footprint.\"]}, {\"candidate_id\": \"W002-C005\", \"hook\": {\"score\": 1, \"evidence_ids\": [\"E009-B0068\", \"E009-B0069\", \"E009-B0070\", \"E009-B0071\"], \"reason\": \"A master and servant exchange routine dialogue about a rumor, providing no urgent visual hook or immediate conflict in the first 3 seconds.\"}, \"cliffhanger\": {\"score\": 2, \"evidence_ids\": [\"E009-B0087\", \"E009-B0088\", \"E009-B0089\"], \"reason\": \"The scene ends on an internal reaction shot of panic over an unseen character, lacking any concrete imminent threat or pending action.\"}, \"clarity\": {\"score\": 2, \"evidence_ids\": [\"E009-B0071\", \"E009-B0075\", \"E009-B0079\", \"E009-B0088\"], \"reason\": \"The dialogue relies heavily on unspoken historical context regarding who the late Duke is and why his survival terrifies the nobleman.\"}, \"escalation\": {\"score\": 2, \"evidence_ids\": [\"E009-B0075\", \"E009-B0077\", \"E009-B0079\", \"E009-B0085\", \"E009-B0088\"], \"reason\": \"The conversation shifts from dismissal to suppressed panic, but it remains a stationary exposition dump without visual progression.\"}, \"hook_summary\": \"A damp groom enters a quiet study to inform an aloof nobleman of a rumor.\", \"cliffhanger_question\": \"Will the nobleman uncover whether the Duke is actually alive?\", \"why_it_works\": \"The slow burn hints at an intriguing mistaken-identity or returned-heir plotline for patient viewers.\", \"concerns\": [\"Extremely low physical energy and dialogue-heavy exposition are likely to cause rapid scrolling drops.\"]}, {\"candidate_id\": \"W003-C001\", \"hook\": {\"score\": 3, \"evidence_ids\": [\"E011-B0015\", \"E011-B0016\", \"E011-B0017\", \"E011-B0018\"], \"reason\": \"Gerald bursts out with a direct accusation of theft right at second zero, provoking immediate shock and conflict.\"}, \"cliffhanger\": {\"score\": 3, \"evidence_ids\": [\"E011-B0043\", \"E011-B0044\", \"E011-B0045\", \"E011-B0046\", \"E011-B0047\"], \"reason\": \"Alexander surprisingly capitulates to the hostile search of his cottage, leaving the immediate outcome and potential setup unresolved.\"}, \"clarity\": {\"score\": 3, \"evidence_ids\": [\"E011-B0016\", \"E011-B0024\", \"E011-B0034\", \"E011-B0045\"], \"reason\": \"The situation is easily grasped: an antagonist accuses a man of theft and calls authorities to search his residence.\"}, \"escalation\": {\"score\": 3, \"evidence_ids\": [\"E011-B0024\", \"E011-B0030\", \"E011-B0034\", \"E011-B0040\", \"E011-B0045\"], \"reason\": \"The confrontation escalates from personal slander to a threat of violence, legal intervention, a doorway block, and an unexpected concession.\"}, \"hook_summary\": \"Gerald points an aggressive finger at Juliana, snarling that her husband stole his gold pocket watch.\", \"cliffhanger_question\": \"Will the constable uncover the stolen pocket watch inside the cottage, or does Alexander have a counter-move?\", \"why_it_works\": \"A crisp, escalating social confrontation with clear stakes that pivots on a surprising twist when the accused permits the search.\", \"concerns\": [\"Viewers lack context on whether Alexander is truly guilty or being framed, which slightly softens the emotional alignment.\"]}, {\"candidate_id\": \"W003-C004\", \"hook\": {\"score\": 4, \"evidence_ids\": [\"E016-B0012\", \"E016-B0013\", \"E016-B0014\"], \"reason\": \"Opens instantaneously with a raging thug swinging a club, only for Alexander to catch it mid-air barehanded within 2 seconds.\"}, \"cliffhanger\": {\"score\": 4, \"evidence_ids\": [\"E016-B0039\", \"E016-B0040\", \"E016-B0041\", \"E016-B0042\"], \"reason\": \"Alexander holds the choking gang leader up against the wall and roars 'Who?!', cutting on the apex of interrogation before the identity is revealed.\"}, \"clarity\": {\"score\": 3, \"evidence_ids\": [\"E016-B0014\", \"E016-B0027\", \"E016-B0031\", \"E016-B0036\"], \"reason\": \"The visual story is self-contained and crystal clear: a powerful man defends a woman and interrogates her attacker.\"}, \"escalation\": {\"score\": 4, \"evidence_ids\": [\"E016-B0014\", \"E016-B0020\", \"E016-B0025\", \"E016-B0032\", \"E016-B0035\", \"E016-B0041\"], \"reason\": \"Shifts dynamically from lightning-fast martial combat to tender concern over Juliana's injuries, then detonates into intense interrogation.\"}, \"hook_summary\": \"Alexander catches a heavy wooden club swung full-force at him with his bare hand.\", \"cliffhanger_question\": \"Who hired the thugs to attack Juliana, and will the thug talk before Alexander kills him?\", \"why_it_works\": \"Superb kinetic action hook paired with a perfectly timed question cliffhanger that cuts on the climactic demand for truth.\", \"concerns\": [\"The partial cut at the final second slightly clips Alexander's physical chokehold motion.\"]}, {\"candidate_id\": \"W004-C001\", \"hook\": {\"score\": 4, \"evidence_ids\": [\"E016-B0012\", \"E016-B0013\", \"E016-B0014\"], \"reason\": \"Begins with high-octane physical violence where Alexander effortlessly snatches a swinging club out of mid-air.\"}, \"cliffhanger\": {\"score\": 1, \"evidence_ids\": [\"E016-B0044\", \"E016-B0047\", \"E016-B0048\", \"E016-B0049\"], \"reason\": \"The central mystery of who sent the thugs is fully answered ('Gerald Harrington paid us!'), and the clip ends with thugs limping away into the woods.\"}, \"clarity\": {\"score\": 3, \"evidence_ids\": [\"E016-B0014\", \"E016-B0036\", \"E016-B0044\", \"E016-B0048\"], \"reason\": \"The scene plays out completely with motive and culprit resolved, requiring minimal background to follow.\"}, \"escalation\": {\"score\": 3, \"evidence_ids\": [\"E016-B0017\", \"E016-B0020\", \"E016-B0035\", \"E016-B0044\", \"E016-B0048\"], \"reason\": \"Follows a complete dramatic arc through action, interrogation, and resolution, though tension deflates significantly in the final seconds.\"}, \"hook_summary\": \"A thug roars and swings a weapon, which Alexander intercepts mid-air with his bare hand.\", \"cliffhanger_question\": \"No compelling forward question remains as the attacker has confessed Gerald's involvement and fled.\", \"why_it_works\": \"Very strong initial visual action hook that keeps interest throughout the brief brawl.\", \"concerns\": [\"The cut extends too far, completely resolving the immediate mystery and ending on fleeing henchmen with zero suspense.\"]}, {\"candidate_id\": \"W003-C005\", \"hook\": {\"score\": 3, \"evidence_ids\": [\"E018-B0001\", \"E018-B0002\", \"E018-B0003\"], \"reason\": \"Bright orange flames crackle beneath a door with billowing smoke as a sleeping woman awakens coughing, establishing instant peril.\"}, \"cliffhanger\": {\"score\": 3, \"evidence_ids\": [\"E018-B0023\", \"E018-B0024\", \"E018-B0025\", \"E018-B0026\"], \"reason\": \"Faced with an impassable wall of roaring fire blocking their only door, Alexander declares they must find another way, cutting on life-or-death uncertainty.\"}, \"clarity\": {\"score\": 4, \"evidence_ids\": [\"E018-B0001\", \"E018-B0013\", \"E018-B0018\", \"E018-B0023\"], \"reason\": \"A house fire and survival rescue is an elemental human emergency that communicates instantly without character backstory.\"}, \"escalation\": {\"score\": 4, \"evidence_ids\": [\"E018-B0005\", \"E018-B0009\", \"E018-B0013\", \"E018-B0019\", \"E018-B0023\"], \"reason\": \"The fire spreads continuously, transitioning from smoke under the door to a trapped room, an emergency breach, and a totally blocked escape.\"}, \"hook_summary\": \"Juliana awakens choking on thick smoke as orange flames blaze under her bedroom door.\", \"cliffhanger_question\": \"How will Alexander and Juliana escape the bedroom now that wall-high flames completely block their exit?\", \"why_it_works\": \"Visually arresting disaster stakes where natural environmental peril creates universal empathy and urgent momentum.\", \"concerns\": [\"Pure survival scenario lacks interpersonal antagonist friction, relying strictly on physical disaster.\"]}, {\"candidate_id\": \"W004-C002\", \"hook\": {\"score\": 3, \"evidence_ids\": [\"E018-B0005\", \"E018-B0006\"], \"reason\": \"Juliana bolts upright in bed seeing fire glow under the door and screams Alexander's name within the first 2 seconds.\"}, \"cliffhanger\": {\"score\": 2, \"evidence_ids\": [\"E018-B0027\", \"E018-B0028\", \"E018-B0029\"], \"reason\": \"Ends on a mid-action tracking shot of them navigating falling embers rather than on a distinct decision or cliffhanger beat.\"}, \"clarity\": {\"score\": 4, \"evidence_ids\": [\"E018-B0005\", \"E018-B0013\", \"E018-B0018\", \"E018-B0027\"], \"reason\": \"The premise of two people escaping a burning structure is instantly understandable without previous context.\"}, \"escalation\": {\"score\": 3, \"evidence_ids\": [\"E018-B0009\", \"E018-B0013\", \"E018-B0023\", \"E018-B0027\", \"E018-B0028\"], \"reason\": \"The fire intensifies and forces them on the run, but continuing past the blocked exit into a general corridor sprint softens the punch of the crisis.\"}, \"hook_summary\": \"Juliana bolts upright in terror as an ominous fire glow illuminates the base of her bedroom door.\", \"cliffhanger_question\": \"Will Juliana and Alexander make it through the collapsing burning hallway alive?\", \"why_it_works\": \"High physical stakes and kinetic movement keep the adrenaline high throughout the sequence.\", \"concerns\": [\"By running past the blocked-door climax into the hallway, the ending loses the crisp dilemma present in W003-C005.\"]}]}",
+            "thought_signature": "EpVMCpJMAWkUfRPxvF1uugDYA0TwCilWrgBrf75msFcAZHbwGj43XHUe_8_V2sjQZ1xwNk3vPdt5eQTYWhdnVWlVkAMfYx24fBgjCcD1PPwjSt0zshmuYWX6MhVHlP8LsrOHqckoSGvXFYxKmX9geCPkbcGhS-5094CN2CcNVxkDbmzBHupHdxN3vCqKIebiFBny6rHY47dXeagWkHYWR2_FFCEIproy5ppvdcGPcMJ_s53lwS6MAT8hnl6F6HRTsMyP6dM_OeZvtanMobXmzwFC6v0B31ZjKp2gBGt_8ZyPNHmTmyzae7VUfVEMi-rBQnSU2qgmlBQwD0cFJeNiFSoXL3GRou44cmRHvXXU9gmVz_Yibzf4a_1fZcoVIwl0wufXYLof9SG6nLOcCIkpeS0I1rJXR_NYzSRuaPwUh_kU17oDh_GlhGxZehDWvrSwwZr9Wbv2Gi3GlC3oNFEnpCMMUkkzAbpQzSIebI49W5DVRZ3Y8Ljiwv4lbhUkLr7GyOTRiSeFEU0n6t2JTOMI9U3dkVLpPSKdlEm33t5INiXf-5HuyolwA41Y9GQK70Re9bg8LCTS4hqKVM1Nt83n5R6ymMh2mXZNb3NBE5ReQEhXyQR1e2tIRGos8x432iSQ9fA6C6sUxZjWRP7ciZc-YyUutS6_dFDmlPmW-h6NtKx5KglD8r4AG1mtm9NeajyummoFny-jX0J_dW8lIWX8Sv3V-WxK8EBRj1vUt8DO4fy31PdDg24JyZlVtdH74gUgUpqxcv17DeP-mtSFWge-XQJZTZUlAWiCr-CW9kLnQGp6mZigkLxfkHIiEmXnqtg37_KF6hi19W1qPlN4fzhu-AIUz1rH6gPY7pdQbQEylYHyz7IJIOudKxEfhS0e786Y1jOqtJp-geNT4UQO7wTsGPwJusTTMTr7pOQlCH3nY2uayBReoNMcwBH80850ZcZ-0Wz06INIZ53bApO9TDYmUKuFSr0X3A3yp3MIY232r2ce9LYqcrof9BmmSlMRxXUVycMyzDlTKgqJBqmxlM0qjMoGbE232uBw15KiIdVV5xRZO0RAGFHtF76ae06WfbAdi-3dSxSvP7VIDylwRGGrWHmvFrL2NdceqXOXYLiBfhQp3TxxdHDlDIj6HTks8DC5WzZ-JYQSzVOYHiF_0KJrZLdgFv2kldiYbQsx4oOlM3oCvX50Szbr8dQgM6wlMESTx8Vmgs3wP8ouWjMbM5khaQCpyncf0Reje11D51ZJ4jd6D1OFBI2FrnXeMnfcrwwv5KIOpf1gZG2H76NV8E_LNgWTbo5AsLVajZopHIy49_wzkk6CqJsw-jncSZNXTIvYVbH2kRv9InxRI2T2luXW7aQIB5WllPlnSVZP1a-296w5gZ-66JXV-zQQRwxGVtRdrEPeOOH5mgqwlYjrlf6nfPWWHti-vURjHp7sl90H4QiBDpGz4ny3U5g_2QvyRcJ2GSLU-isWTiGS6BFvy-nTU8SpguV5mE7vaoMbtzz5HfvUSD1gtqQF8dhS3UCzmcU38DyhDd0RPxiYFhz-9149FiH0Qe9xJsoStc9v1wYcEesa1zNl2aHRCKk9gDN9Sq_ViVRN0V8aHlCuFvAy8D1kVDj2j2CPmf0kwZ2aJBfr8782rwFhb1TGsSNBO4cPxpF-2U_XK5RbEUZ9vXk6Ydb92jpb_1KlsKCRRDRH6Q6IjiCr0VGG2QGrZYLQxzUwqcnhGKXuVP77sG2V2PL1dPye7Bmk5ByuS-xCptf2Z5YO6V0ekZKzmgRrSYiO8ziRy7RDX9gmzhA5aTdJWzTsHlBkrpd6-49ph7uxz4QgEf97eReMqKxcJrR0r7CeumI8zta41tQUlZNboP8EGWSLcqMJTQgcdfEtdgg8xVHpQ5wqZuTFgxdAr_9pVdJTDM1xSdoUCbn8B4FMbomYLpX6g7--a-EzSgvFQAVJcfb6tNyccIKuzGZKi_MTPM8MxBuOW1bMbLnBvmsn3Ih1C06duiFj0hKzib0tLtHeKquL3XbIyXnihWQRu-uD1Yd9N2nCtyg9RYZAnC6tkUcUVpSkxIJ76ms0hDAw-scdsvcQrpncUlT912WIh2_tIYj_DEYwbGO_8p0K4fynwIza_T62HNW6Fp1Cp5Q137P0eRQ9fvukF_1Bemqi0LmHAxcSjVpylDTAam3o_QDBtfyIgLA49lwBc3KgQU3fqSGaCsM-839mqKQ6NKurrRzyMHj2KJNMD27oVnWhAbBWtimRvn8ma9cRONnPWkHokhfvi55LIt8qIdGpnz1NyGe0cecq-vhg_U-ttKbcqqmLAcNxT9ZmVsh7e-Xx229OT4AfPimoGBIBtysjjmzSyZy8gIPzVij6Mx0RyRtPJK4YPckizrdcbGkCwrIUVKWYz0JTGnGgUnqk_MWaRM-ZONSewXZhq09AbGnGHNcYyNGBUW-TL5SLFukc9To7J8V9Hc_okDFLFZoDRNzydnHijkTwypUoxvz3SoaKhRoNkugyV295Jzx20KIVTB544lpeNak--gD5o1gd0MxMx2D6E8FnicZFB1QY9LsKs4TEtBy5IH3yz_Zv7QYjVEVTXwpohQBzPp4L31Kgo8lciC6S3eZdx3h5Z1l2T-4YUgiqAJH53w343MWjPPaFD0gDGn5TmhoeylWt69COK3eBZo_dgAcacJHIWYH9Rle88uqt0BUc7jLx_zJ9lvhqjdCccz88FgCGrja3SYhV9fQczgc5C9eI6mfOOX6DPS61ncF1_tB0lzAsB8HF97TTmA_rdIBhW3ENf0i4li8k0Tu3BL3nb8y7TBv6fgEACLz__Swjz7PTe74KemWRl9DFbPvBmWKBFzCtbb1D5bQXAKq5Y0OnUS4CuwyZ3UMyzGbLKfzzClO-NykpsTaFR0hF8sB2FBEyFgVqLnLp9t8fpx37QAa4U-XCOJl2gdXQMFugzVf14mguo3VCOnl3mu7UlqHj5mDRt5hAnIKAcbfMOO174msr151KgO1-EAmVoYqiYLK5xykHYMJIoAujMqR5BAHueR0D2lU9MpGZq_AVhhwWAFckdawfoduaX7MX4loOqozK3fCl-58GFHZjQm35f4NKRXntUsSj36f8-fpU-jt83wfk5gjyYmhKwX3wG_E_omfDrpfwu7CE0m8N3t3EnpgyQ4k7YoE1PN-npaiqc8YmiPFIZNAi5DBhKcY_a4UGJAeomxBxtrUvz3-B1BM8WUThO2cp0nx2_uQCVZ-8lUXQoHLTQy5H5_z-HC94S-bQ31THqgN6nKvnV_S8RfkqfUA4X8cJ19Uf8DXcUYi2b4UXP6EWlrAyWcvVeaaAGks_Lv3zjy9U0l5J2IszWdBz_2_meAfwsy9tqO5y-OPWCb4LucxSTHRfL8-oaRlCkwi17nyV1PErRgMG2wR_fyRKmb1E-Us6QVBz_ta-c_ZzCuK9IKg28lrQCSkRdBRCkR2jUetz6sAci1k9-dTqEWdojKbfAa4DemsZrOWXWqSgz1rfkhJNHHRPKIShe2nUQv6-bP9BXmIVfO25fkXQBsx-4JMb0o-uy9DfGzYGdJHXCmOA_vVrYDicu46MWaYsjxX65aWmyjUvxVTgA47kpcbw-wAh-eETmR50K4yLDZ-wjkIeQsdj34ohAMa-keRnFHBIukbxsW50HOYBhya550e-xbBzK1reHcMaH2CIo9jCMC2581JTA1tGvOM095TL-trS62kUZhXVkvIq4SGzUbzwjJ8sRmZ6aUlcY8r7T_7-N_EU5Yl55Je85k35wFaUGOfTYZVeZBgBg4yoEgKmaK0B0RUOxIEpsN0MlG8X9DTW9tGICk1ONTcegQHpFrLfDrqgtOy8DuIy9GrGn0UuImp5BrIFrbqz10THc_qWGTyDsUfMAPTSltfLI5eZ3nnGRYzVKuJPRUt8VqAqh5fd68pRo0xJLXHFCbEHgy6zhdwHgtyuY7n4L9DpNkMcMkM2PsQzxir1MT5bOMeYkbxtSzPkAKNVeNzkIeXA6827Bqly9SKxI-zs0fOiD8jUzLv28ueF4Yr5Ymj8rh2UbPrueJJhYFpYqh-V93kqWN3egKC3yr6fE4XeepP0vA_BeEZojS3GZ_wB4VBXiO84NmOpFb7rCqu_6QfwLYlS4XJLKPZWh1NQyuYU0IBGUke8y6piB2S_tL5YsA3tEkj_yT32d5hpktBvU7r1soF4E9NCxn6rPXLw6FAGTM7YkyqYOenXubLRVzzNI9GKGKP04X7N-tPxU9ess5P5T8EH2X849OxOD8zrff4-8Et9QS8ovsmVruUjJUdxAyZtjwoyCo0fYN8iJMxQLMcjqTbVcCrPztwwTEO_c_oK86GWOMSN0gaPALn6E6-MP1LJUBJjCH2ePfmOJKfOmeVchtYVgHVUVdWA7k6mdbKNabf7Q9aP8AaalBuSRCpjdkLc-T_i3aIl94sPIBAgeF_ksSYYfkz0uFCumlrxGTHp9Xsvla1bjZ8moO6W8YzkzUPvqS-dqGrgqwKFNCJNi7uf__MJYdXFHBgmN1TXOMVjduQM6HafaFf5dnVTuwTbnT1aQcErLgyor8Z42lwr-tr7FXKH3UmuzaxGvIm8ZkZuZM1lp_-UkdfOi6urPjWcZ4bQBrdDsCE8F1Yp1QzV54TyT6JqPhuksf67KxKgcIw1npEuzQCohRjxGTQ2Kw6cVtvrrNIouNYPUiTJE0Glxmau-0P9pEgIpjpyhqW7qwd_ReD9bsVQydv7WRSahTwyM04l14rLMaP1mc_4xhuqnFF2ERoazKArrLUKD0Zc-MJ_qvtfBjtPx2B7XWNUCvJ77z2qXW4uTpJ3vWg7Hyi7e5H3kR1u68lapTiddXkv8Vs3Hto81Iqebh1GcMR_nyO_-td7bUmAhcsxeqNCnR4ijBHaGnG8mI6C-QlwVTU4QMgh8lCR29Q5zng-rZ2sThb-FDik7iaLFFS1OWuz1iJ48hIvyZOJM2zCACCoDOba_J8svqTvdz2xczFp8NUOG7G0QCNaQ3OTVVjHEWpcAN5-XtNHEsOrE11P9uVnUImEPXj3Hhfmt3htjaLQgg2ZmsFTnY9HCZH3XjZAXXdVV8WJx15-tUDRsk8Zqyehxf3GR9CKJnLRnXyq3pFgCpcy3n_7ga2kedyT6Qzy4H00dMkbaIKaLtlo4m-X1kW6GOXwOzKIOj6_8bSeRADgpdu3LbrQjHUSJQWWFkqJLkW5eMvU_ZMXS_qxuWy0Hj6uyavXdCP9etoj8EylIJ2gDymXup33gM7qtrHNb2w5oPn_ur1iF3rVV0RxN4UmWjjImHpu-5SqogRJadRvScr5Py1tx6gwX6zVnRVd9KW_ozSeC9TKR95zEg97tt8NG7VE_u287w3e3uBQyx03ELl9QvTkrYqObIBkCIjxkONBqsDv0Xm9zUA3OWolEisxJdVZTo_abxm2sbWjdpdafMZ4ZdoWmEnN3cDv2ji4VtaPGkJFr8Lv9bsjxI_lCCqAZNao5RjwSASy8ZAQFDfiPtSparHMOGbjAQcHeGIkCuph6MuWTGaBkGcKiDOtsp_FTDfDWi2Ws4OPnv-WzpvVo9dh3NIkonEky3H1rluPy8h6C6g-5ZkhK-lUSYNy6T9PZGnrDRcPgNXOSFiv3UmjZK1nrm0JUQzw81hxt888cwrIrXej9jI4msedpN6Zwxv7oEM797ST8Aowll21ETGFHe2Zoi3b8L3tlhWIQ1Y8exU7O9TW30gG-W1JZORMknFIOSfH3EMfIDtiiXou51Osp8hHY6shqj_m6j2VNTeAaYpIcvTSzpQYOjubgsh0obhb7mnc6u-HlPVw44fY6IIYjpUoEGMou0ZZc1EryJMNYOV5nZNxCGDjsXEe1QgFsOa_cZjukHYwg_oodTNzbBe3Ys5cH4dSfc8iXjZB_V0Ps2LKNY7cSfhY5h2VoYTBPNHQ6DERKAw_l9nR54XLxSA6ePq-WhKsofqTfY4Ok_1PKoR0r1QsJBwn5v4mbOTKnylnPoBeti3kmahzZTAjELMnSbCKkZwHPV6oTYN1W_STNnxmRkJVd0BO7DKOr-gGUBF1tYtPZ5Myu3FWYllEFsHOTDUu7rvFXldr7fL0HSJ-MrsEttjyBeSCSqOHER8vgcw99_LuLQkY99147gBk9vA_Zk6g2WruabFN3sd7LYT-ktfLb74cEcuaXjbvsLJdtT7xT4MlFJt9WWB2hGU6GRO_XNfplLWXVoAndTDSWY4Z1B8cTGQcwhqFs40TYP-4yrx57pZVgbBwtxDk4u0gdEleUl_2fZzHODZC1_YS64nHPWoXmaR3wQ_T-3_SKUPvoeoo07lYHgY6jhCKq4hYWWDRA5ldjh-Kk-217QPFOrbi_snapujcKypgz_wQKRl_WBagbMB5VEuEYGSCf6DE5z1bp8CsFf8BMjTaV8DfEKt9S5l0SAARGCWwdKLNllqotQTILxQTnDkOr_-uqG1jUqlQPSaG1aZ6xLlKDxHYhIbDQ6Z57F8XjJd3FBOIGAIaRbZSnfx8Vrf35L9IxNkjvUVWWTB8Ucqzfbl7-E96oZgLeyReJE68ZkKcr4Dbox1n3LA6zQvSqQF5rRArhxSGdlS0NDz2yFUF1kfIHq4YYf1gq50JIryCjEvgQLQuAOMMhjfuNyB98eQ3x-B1nJay4Hw3PPH8ucYDGQJgqybGyPlrx2DSao13WHke7sNfW14xEkWVIRYv5fMSNiAMFSlnBDpZGrXlQIGo6lnKX8J5f4A5jZCEEVRtnv676FfC0zzGPP0orWdNs6HDApQtgYXhJJB_YHVV6nt_HyLgR93c6Dh8UJ3bau3UU5qrDlD00aDDUfnaom-ixpuGaMpmJ8gezijnBUImHfaLhl7ZdheGInepMDAFE0YVUxXzAuXIGbRHdsTx7nsj4d6RJHgDUKs1rVeq-z7BOqrkQKSNb-ZJVGg7JOmLzpF-o3U642YnjuBe2QFOxiTJ-k1H2crcUY_AEgY6noFP8_Xg4fqjDHXK--bzqoho_8tfmGyy1JggW6d3jVQTxgPQqj-NnRTJSnWjjKtJMW0MC8ZV_BbJiPNzTvQ1S0H7KXXr1op-Z_l7Ze8eJcFb-zgfsQS9BOZwnd2Sd5gmMD-i4JwDhZvSknyE9oIudzuLj6ylIpbQMQTD2vaR3LLDNbt8Z-_txkpdzsdQP2VL2SCw94f_IYFDofO2pCr5wCGZSisz8qMyK5pqvmpec92_m3iqAl1DJ-aoXy0bnn-6qSXHuzRknvuh4jxiVdNiNjG8SV9m34gu-xpWpmijywV2k-74W9HC9_u-amj7LcXNw0feB2KOhwI6RLAvrEe13Jan_5jcFcZ4hPusWCYsbCLST0GjuW1qkC_IfmkpuoMEIfVqaIMv6b9b4ve8l6nrStpN3GtOd1pZRnPAL0Lauk0_Y5apRnYnn6SjiGDix-UF5nWXrLi_IANARuA1l5X8U19aqGqDEVrjG0hDUszLGIjlWaQk5aK7v3qw_pH_8FB4sCu_nlt_Wa8awOpTTG9O4fRMTzzpgTc-LjG1wrn9SZzeCJgmrmq614YxlmLgTQ8OhQOf81kqLp_1syyUNrRUOXiwt97Pa_WCQTcz4BP-sDkiJbknzXVuy4JWmdYKLk88X8DDIdhpLPrdA7bg2EDpTtPjtzWLn7E2PFUWedG8E7VmopzUDfcGsiEClH1hyS1RGib6iauu-06FokNXQq3z4sPAtyELV4he_Pt0W5l1UicCIKaKwmf69so8eLtxvJzGxAq3V6zZsC9LLpz6oVTC2Ftnl8mp5qUAC2ny2-GRhlwHI4WD0N4CRiXHXU9O7hpvXHD4VwA8W_Oaqd7Ruxzu942aD4mkHXUL9lpdgS-0cpNOigXIPRYKvZZZXCeQKIR3T-ByQGT-XQfNfQgLyn-qbguj8f-t4hPaGtn-GS_2A0IlDoMdvQe6RUEmb_4URSvlPRmBiXL9_e3n2q_yRQUcgf3a5OGzlwcTAEEH0ACIRJv3E6aqlUhfR_-7H18g0sFgBCrziWKTNfK78TMAR9IW0bSLGNJ9PrtsiHsDj2I2FrJy9AKCzSILcfMHwZvxuYoY3IJNNnqa99M6tS4jqQi4HCRCM5RMrcLpPQUQxB-dFiXM3nZWWX0mPxxzoczfhTxioSmMb-cGzXLhhk3kMZucN5MOEW03O0KandiGjxfI00Pdb6eGZ_a1TYjO6HLe_9IiC8eu4DzYT04V935v1I5VMM2aXm_ICqf7nRz_2NY2CEfipyY9ZUL8Q2TooQOWwX3up79zmhchW6Ihzld9Yt46UlURoqtFbZUXGGJtSYKf0iqvWVz7u2Pj0pNpgcUuhYyqT9tb_Pua0Y0S-_wltGIMShy_yNRjsULdL5L3U2lFXwG5Bz7C8L_hpek3XeMu33soDyf9kY73RE5UCG440mmYQMT8-vcVRtFYUtRCKfRGDaJJg0J1Z4OAmUHvco9YYJwvRKeTCxw6Hp18SAEPPIHDPZhSt5WufxXXVScDxZxG_JAivbKNEivfdAvjWpNvytKpjtGpS3HBIkia1_b5RI9514sSS_smfYgJ4lkU0aURznJJA4HC4V5aFwutYsKby3Bi05q-Y0TX8GxfbjcL54SxfkcxiIATFmnymzdePDShyp3_z6iZ0cbHcbtSn1syP3e97XXnQRmh1m3hvTJLtZXA8aIHJ27BbYSGSSSvrzmrWEflNstG9u8ptgSrjxGRGxOTExvM3oFbIxhswBu5Qwz_Vq7Suue7QwubACgNF-bTIqeL4dkVrB64cg80-k9f7J72ZrIHey58EUzRSOKbqRKCYW0_rl2W7J_6PdvHYXjPJw-e36WbPeCcGIgG2bP3qotgsonPE5mIM5MGbUO3fgqlFDIRn3H78kHmYwiHt5TME73PV6PR9JRVap-NcJIdz4RFgJeGpFOXGOuQ-Fmhsc5J8n4EfgKFvEcf5XzXWTQNyojFLLggsLexnnYYM0VYESY1P0sNpAi__dgAYKr63tQS-Rhoiuo88-8Ck3NqhH2xKF816Wvg1ktPSFrIQHAlJ0zICqkq8HIoA40ha5B1n-pFoNygEEcWEYz0DDwQW3bC6NHLiL89LOWuHg1kQnEu7zzqdFFcCEAvv33dI1W42eU1_jtQikJyRf9Aj-yOeTPz9UKKpiOADKh18Abwjk91HvQ9kkG14mLnTEbiBlSvD9ecAXqmVAlqFjKwBtFpNA2BLd294HqvMATAjJWgZKiguc4t5TwT1MCag39Oj0n7Je-MotjHKUXjbZWkJwVBBsOAPY4FwLfEeTcsHtV0J_LhdU6jlCYDDt0Mg-rCVSfSaWwrZcSOjqnhYvkl2lFbS5L5tq4QMB8_4LrLueT-A2pV_vYR7kNKZ5KLoGL20O4KZVRzsxjwXTkAIFxnHGFZ3eqwWEKZ_3kAbpZHhq-1ULgVnLvRVZb5QrOlJ2fzC79PjA7UjGb-2HoYY5QUQSbFRslhdZDSY3X83Vj6JNM1TYB7j66odFVFjJvVwtv1pEUm9ccPfPWgloEaYQJ89vduGtxqeOMLRngz1SAobcoQiNW3nvYGGGoFQGKXnpsM1d0PjO0aV7SNiitH8CUEIIleuzC_r2GCvJJ22mRWPwmWo9Lfw0MPwCIyGPyH5B62icXNNjJi2XlPrCMV4crsh6x_f2pJAg1HpmCwfrRNi0teMzn9QGXDbZ1uQxVh41g-c8yOzKa_U1cUpbywFC1_WhteEmmxWxm9mw0GerDn-xCPyAvpkHDtMUHXflwTP0O2cc92vc-fMYoJ3kd0vlEACLQH93rYad0KaHHonBW7SyAPJDLXnBpEUuAk6w52jfhIYw-slnMhzlQ3GkhL8pnPoHZ_2xYzuevq26tUx2WhG9QYFCx6tbfJTECTw2MCudwddjth2o7VsltL_XvZX0ysdzTfilLc4MIAX5CfisWhOkGFTwOJ4_CwtrjR2aZrmQoloyDs9PuZAZUcwhQXYQFsOWFojgWjpeZ0ADS1-ANA839_4dK3TmqEbk3-A8XEwwrsu4suXPQcS5_--UKvtFvVXCpnYfn9I_Tmt9nnAACHbg4VAjMtxmcspW6uPXJ6qOYLmePsBMJr99wUhgQKHzLGAmuobhe3PmkftwDxg3LmFOs_D1CKL6Z90bdWlG2_CoaF_oQrs6BZhIuytSeOo4FeAbL7L9fEhFPcIf1vy5SiLB7Lb_mEZK4fv5-UyN0th-Iv9YtAPTADbc3bH02Cw-3hGVOoBY-f0rBqTzm2HJ-Fr71_kq9yfzbRLbzXd1xBzkSf0vdS2Hkoegn2bx4lL1itFDvAjw0II11_7rdDrD7yNiz3yOc8mKV5ihrgulifTVNtCY5pftBcsTZcpd-CK20kMdTynOivXlvBAAhejjGpreMd8gAYxo5OlrkalZ5TpyJNegxZvZ-0dNU-KFMiKyUEKFEE32_aS5YOZtPSfQZ8YsWjrEKpBVCc1oNkUurnuuvSC0pqdHGzbhCwW-2_nHtdbxLgml2sH9vPYsH1rcyQXmHehFv-ZqbIIhd4DRLzvoLo_0GXBqJoZRejXNKDnX7kptJOg15aAK3poAuUWMiChtInz8t0pbqlwbepC19Uj5FwUvx9Dp6XHDe7hLb9AR3ojnnyOGlleuiulB54LWFTtTgTE5YFe37RRvPg_E8EcpYvf5PrLqG3wdMLT4UAtQrbPq8qgOX-zXUwc149oJCxySi9xGIEd8eeTU0Ti_rwc7d_dWE4HsiNBcRGaVhA26hisgPQFpNNwM9C5_hb3DuItDyhxrL4zv-sU7rvCm3Uq1SBCzGoo_FFux1JTHdNO9JlYiFkIBul_ZU1epJ_4tGpGnIwm21dqMVhuQ0oJ6BZIsOdwG0QPXL_Mjutn8hV-6xqxPedgfktPrdQnXSEPdIFJ6Ns49IlK6zdHjDSZG87OxGtT_lELQMzCa-AAs6Kc7Z3DCZe-1AGagGYD4tTpENOf6_Ziep0g2ZUns7qFb29zooqsXDppqZFOD2oV2iY2GHQSECikeBStntfpCAXwqJrG6_nLhyaCmGa1e9fAvHQUZq7jbqGBQS5JBzSeBsp10SiMwReuPbvwI2DJ8n3TveCoFYPh1etzNFbEejnm9qqV-EBcSgccUgrqMgj5ZIVWxGcvptpnnFJnPqK_XXXxrE7mE6gW0ay6qXI5DwjzxnTp7s0zucprKOQDtUg7N_oEWWPHMKj8cXr8XRMU1AeH8v0AFP0_HqLWp-OrjTGEX53dHiRYlTcTJjmK3osNdh75Et4KSXybFPVlBUaK7cl0JzARHz16xrATkSHoEsEd2Du-la9NmaRqNB3ERqQ5sM1PaInxCf1K7In_BjZJmJ8-m61jgmBLTF2HKQ7BqrGOhl1ZwWF6F-KlyGozfE7EcY8skZYElIShWuM6UNLlyCcZ9-f64RiHdxGyenydIPjUFFH-TxWF7-mNefNlDzigVJeUkhDJPzGIiQjsvNXdKkxstamcrJFZwF0SiykUNsrG1J9KA77IAyy3UleJVFp6e9B_5CC18xa29PvIlVHq0HnNZZtuY2g583y7KfZuw0FxpUOcZXogTz3pYayNa5l-70r4k2oGAcvG1vzoI3zbesnurwfp6Ku7UKBUshXM9qZMTgZEcSdqiTyiU3R_ftPzm5ROjLU1ASTGOqcyruuZWd0XUPg4cI5hWUMtKVH8b4lCCgBcSfaMRpdGwDJwY0luPERWesSocoSE9lwagLtEOQpQgoKOcczIzqzY_dC2OTWBkZaN96BoO_UtURdTEWA313miE87viu0zbAvvuqsm8ECjnuE_n4TFv_qKsJF_vrNGmCncw6-zM_KcsDoMIkaFAbJrmOVFXVJ0TSt4Ng4jdFnNLA0Akv59-ZM2KcORF-Rm-UP6xUrGuUX_qjezMRj7fPUndNYk4IQWMOfksQPae0khCZWi89Moput6W-kFN25lCpyTHVBwYxzbbqN1A2h1Nf1HkxKSBBa_P0GzLChRhr121ymTOu4x7wKWvCPZ-QIxxQhHnc7EeJaKG4-cRgTrxgkrtWJlGsUPnMxblG-kKIaaPVnNtrVahClP1BE82lazjeFyerd5bow9V0229rdSfz2fOQR8hf6L3gQt8fuCckRFJ72fpBMJF3DkSABJtJ0p2sQJ-7pTJn-5UMSGKmIU7a2ankAy5-6cIYbtzJVvk9XakilVHnfZea21pYpmJqdByVuGnvIphEpmeCBoOY3TVXh535mbHVR4OF3rNOsQN8TXnn3_cMQPU5eN20JeVzj4b4n6LZDejzSFiolKfflHkaxRfUinzufbAFVejOAVQhaABSw-aVMbUXj4hWlfTvr3Y3oLDH7CbmPlhaYmfSz99ISS0ZiMdq1iXuPBmXac3tMuDjHiGSfS8k1nycEAr6Y0uyv2-LocwuDtvyf5IHBCndW5LiXOJDbzc4Fa5wRQASjSfcIUxbfoa8r1wqOKoaAzx8hgjIbl58wf0_Kn83WTP7LyhgKIy_MH8luyRQlunTA67iduqAwHfumkxoMD3d5DM6za4UjV5Od0lbIkKPwSYvr2KNrPhlYdbjDxlgIbBUD2cmayYj6wKrTOGM6q-y24-FVNMmOnXBvTg049LdVvoh2DjQwbJqGoHQoy15fL8y7go-UkwpCTrIwmEd5rbFufwbSMhe5fY3wj_cVZGxmkcnCWDogq-yXVK9LXFmXaz36-3EBvkuD4ctTUTHJNsG2JHNwvNVYFIK8e8U4wqjsyKJe0d4i4sKK5GhhodP44viUCKZayJBiS1ciQLTAIB0_rgRuZZBsdD9Bcp4G6FPea4S-5VCVL14Nn0y6cxPBh16XpJ4TL__8yhrNpd1vw9xQRUUvFp_pdE7b3ybpFrgR2EiHq-TSvQg_ELinkfiOHgu5E1IQIRWYU6_tcC8UarR8DTeOgtCimt_5syQ6IFnKiBzcehk8D3-03lsd367nndwnC0T0VnAznZJV-hCaLMjpSvVyqJuNuHw0vuWbK6GmbFFJOFKLaK3xQA01vRBvL4AR19aTD-WK9DpTtFBoy4cWTCFBIxYM90P8Ccw="
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "index": 0
+    }
+  ],
+  "model_version": "gemini-3.8-flash",
+  "response_id": "yUbwapumDuWjz7sP6MGqsQs",
+  "usage_metadata": {
+    "candidates_token_count": 3857,
+    "prompt_token_count": 20361,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 20361
+      }
+    ],
+    "thoughts_token_count": 3540,
+    "total_token_count": 27758
+  },
+  "automatic_function_calling_history": [],
+  "parsed": {
+    "assessments": [
+      {
+        "candidate_id": "W002-C003",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E015-B0030",
+            "E015-B0031",
+            "E015-B0032",
+            "E015-B0033"
+          ],
+          "reason": "A hostile thug invades a woman's personal space demanding she get out of the way, met instantly by her defiant refusal."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E015-B0052",
+            "E015-B0053",
+            "E015-B0054",
+            "E015-B0055"
+          ],
+          "reason": "Alexander positions himself to protect Juliana while an armed thug tauntingly challenges him to fight, cutting right as physical violence is imminent."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E015-B0030",
+            "E015-B0037",
+            "E015-B0039",
+            "E015-B0046",
+            "E015-B0051"
+          ],
+          "reason": "The roles of defenseless victim, cruel attackers, and protective protector are immediately obvious without backstory."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E015-B0034",
+            "E015-B0039",
+            "E015-B0042",
+            "E015-B0046",
+            "E015-B0051"
+          ],
+          "reason": "The danger ramps up smoothly from verbal threats to physical assault, destruction of personal keepsakes, and an explosive rescue arrival."
+        },
+        "hook_summary": "A snarling thug demands Juliana step aside, but she stands her ground and flatly refuses.",
+        "cliffhanger_question": "Will Alexander overpower the three armed thugs who are threatening him and Juliana?",
+        "why_it_works": "It delivers classic protector romance tension with a sharp rise from vulnerability to a high-stakes standoff.",
+        "concerns": [
+          "The fight itself does not start, so viewers expecting immediate action might feel teased if not hooked by the dramatic standoff."
+        ]
+      },
+      {
+        "candidate_id": "W003-C003",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E015-B0030",
+            "E015-B0031",
+            "E015-B0032",
+            "E015-B0033"
+          ],
+          "reason": "The opening seconds immediately establish physical confrontation with an aggressive thug challenged by a defiant woman."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E015-B0052",
+            "E015-B0053",
+            "E015-B0054",
+            "E015-B0055"
+          ],
+          "reason": "The cut freezes right as the lead thug raises his club and challenges the veteran to fight."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E015-B0030",
+            "E015-B0037",
+            "E015-B0046",
+            "E015-B0051"
+          ],
+          "reason": "The dynamic between the bullies, the injured heroine, and the arriving rescuer requires zero prior exposition."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E015-B0034",
+            "E015-B0040",
+            "E015-B0042",
+            "E015-B0046",
+            "E015-B0051"
+          ],
+          "reason": "Tension builds cleanly from verbal intimidation to violent shoving, threatened clubbing, and an imposing heroic intervention."
+        },
+        "hook_summary": "A threatening thug corners Juliana and tells her to move, but she defies him with a resolute 'No.'",
+        "cliffhanger_question": "How will Alexander handle the three armed thugs who are daring him to fight?",
+        "why_it_works": "A textbook protective hero sequence that peaks precisely when combat is about to erupt.",
+        "concerns": [
+          "Duplicate of W002-C003, presenting the same promotional footprint."
+        ]
+      },
+      {
+        "candidate_id": "W002-C005",
+        "hook": {
+          "score": 1,
+          "evidence_ids": [
+            "E009-B0068",
+            "E009-B0069",
+            "E009-B0070",
+            "E009-B0071"
+          ],
+          "reason": "A master and servant exchange routine dialogue about a rumor, providing no urgent visual hook or immediate conflict in the first 3 seconds."
+        },
+        "cliffhanger": {
+          "score": 2,
+          "evidence_ids": [
+            "E009-B0087",
+            "E009-B0088",
+            "E009-B0089"
+          ],
+          "reason": "The scene ends on an internal reaction shot of panic over an unseen character, lacking any concrete imminent threat or pending action."
+        },
+        "clarity": {
+          "score": 2,
+          "evidence_ids": [
+            "E009-B0071",
+            "E009-B0075",
+            "E009-B0079",
+            "E009-B0088"
+          ],
+          "reason": "The dialogue relies heavily on unspoken historical context regarding who the late Duke is and why his survival terrifies the nobleman."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E009-B0075",
+            "E009-B0077",
+            "E009-B0079",
+            "E009-B0085",
+            "E009-B0088"
+          ],
+          "reason": "The conversation shifts from dismissal to suppressed panic, but it remains a stationary exposition dump without visual progression."
+        },
+        "hook_summary": "A damp groom enters a quiet study to inform an aloof nobleman of a rumor.",
+        "cliffhanger_question": "Will the nobleman uncover whether the Duke is actually alive?",
+        "why_it_works": "The slow burn hints at an intriguing mistaken-identity or returned-heir plotline for patient viewers.",
+        "concerns": [
+          "Extremely low physical energy and dialogue-heavy exposition are likely to cause rapid scrolling drops."
+        ]
+      },
+      {
+        "candidate_id": "W003-C001",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E011-B0015",
+            "E011-B0016",
+            "E011-B0017",
+            "E011-B0018"
+          ],
+          "reason": "Gerald bursts out with a direct accusation of theft right at second zero, provoking immediate shock and conflict."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E011-B0043",
+            "E011-B0044",
+            "E011-B0045",
+            "E011-B0046",
+            "E011-B0047"
+          ],
+          "reason": "Alexander surprisingly capitulates to the hostile search of his cottage, leaving the immediate outcome and potential setup unresolved."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E011-B0016",
+            "E011-B0024",
+            "E011-B0034",
+            "E011-B0045"
+          ],
+          "reason": "The situation is easily grasped: an antagonist accuses a man of theft and calls authorities to search his residence."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E011-B0024",
+            "E011-B0030",
+            "E011-B0034",
+            "E011-B0040",
+            "E011-B0045"
+          ],
+          "reason": "The confrontation escalates from personal slander to a threat of violence, legal intervention, a doorway block, and an unexpected concession."
+        },
+        "hook_summary": "Gerald points an aggressive finger at Juliana, snarling that her husband stole his gold pocket watch.",
+        "cliffhanger_question": "Will the constable uncover the stolen pocket watch inside the cottage, or does Alexander have a counter-move?",
+        "why_it_works": "A crisp, escalating social confrontation with clear stakes that pivots on a surprising twist when the accused permits the search.",
+        "concerns": [
+          "Viewers lack context on whether Alexander is truly guilty or being framed, which slightly softens the emotional alignment."
+        ]
+      },
+      {
+        "candidate_id": "W003-C004",
+        "hook": {
+          "score": 4,
+          "evidence_ids": [
+            "E016-B0012",
+            "E016-B0013",
+            "E016-B0014"
+          ],
+          "reason": "Opens instantaneously with a raging thug swinging a club, only for Alexander to catch it mid-air barehanded within 2 seconds."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E016-B0039",
+            "E016-B0040",
+            "E016-B0041",
+            "E016-B0042"
+          ],
+          "reason": "Alexander holds the choking gang leader up against the wall and roars 'Who?!', cutting on the apex of interrogation before the identity is revealed."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E016-B0014",
+            "E016-B0027",
+            "E016-B0031",
+            "E016-B0036"
+          ],
+          "reason": "The visual story is self-contained and crystal clear: a powerful man defends a woman and interrogates her attacker."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E016-B0014",
+            "E016-B0020",
+            "E016-B0025",
+            "E016-B0032",
+            "E016-B0035",
+            "E016-B0041"
+          ],
+          "reason": "Shifts dynamically from lightning-fast martial combat to tender concern over Juliana's injuries, then detonates into intense interrogation."
+        },
+        "hook_summary": "Alexander catches a heavy wooden club swung full-force at him with his bare hand.",
+        "cliffhanger_question": "Who hired the thugs to attack Juliana, and will the thug talk before Alexander kills him?",
+        "why_it_works": "Superb kinetic action hook paired with a perfectly timed question cliffhanger that cuts on the climactic demand for truth.",
+        "concerns": [
+          "The partial cut at the final second slightly clips Alexander's physical chokehold motion."
+        ]
+      },
+      {
+        "candidate_id": "W004-C001",
+        "hook": {
+          "score": 4,
+          "evidence_ids": [
+            "E016-B0012",
+            "E016-B0013",
+            "E016-B0014"
+          ],
+          "reason": "Begins with high-octane physical violence where Alexander effortlessly snatches a swinging club out of mid-air."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E016-B0044",
+            "E016-B0047",
+            "E016-B0048",
+            "E016-B0049"
+          ],
+          "reason": "The central mystery of who sent the thugs is fully answered ('Gerald Harrington paid us!'), and the clip ends with thugs limping away into the woods."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E016-B0014",
+            "E016-B0036",
+            "E016-B0044",
+            "E016-B0048"
+          ],
+          "reason": "The scene plays out completely with motive and culprit resolved, requiring minimal background to follow."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E016-B0017",
+            "E016-B0020",
+            "E016-B0035",
+            "E016-B0044",
+            "E016-B0048"
+          ],
+          "reason": "Follows a complete dramatic arc through action, interrogation, and resolution, though tension deflates significantly in the final seconds."
+        },
+        "hook_summary": "A thug roars and swings a weapon, which Alexander intercepts mid-air with his bare hand.",
+        "cliffhanger_question": "No compelling forward question remains as the attacker has confessed Gerald's involvement and fled.",
+        "why_it_works": "Very strong initial visual action hook that keeps interest throughout the brief brawl.",
+        "concerns": [
+          "The cut extends too far, completely resolving the immediate mystery and ending on fleeing henchmen with zero suspense."
+        ]
+      },
+      {
+        "candidate_id": "W003-C005",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E018-B0001",
+            "E018-B0002",
+            "E018-B0003"
+          ],
+          "reason": "Bright orange flames crackle beneath a door with billowing smoke as a sleeping woman awakens coughing, establishing instant peril."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E018-B0023",
+            "E018-B0024",
+            "E018-B0025",
+            "E018-B0026"
+          ],
+          "reason": "Faced with an impassable wall of roaring fire blocking their only door, Alexander declares they must find another way, cutting on life-or-death uncertainty."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E018-B0001",
+            "E018-B0013",
+            "E018-B0018",
+            "E018-B0023"
+          ],
+          "reason": "A house fire and survival rescue is an elemental human emergency that communicates instantly without character backstory."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E018-B0005",
+            "E018-B0009",
+            "E018-B0013",
+            "E018-B0019",
+            "E018-B0023"
+          ],
+          "reason": "The fire spreads continuously, transitioning from smoke under the door to a trapped room, an emergency breach, and a totally blocked escape."
+        },
+        "hook_summary": "Juliana awakens choking on thick smoke as orange flames blaze under her bedroom door.",
+        "cliffhanger_question": "How will Alexander and Juliana escape the bedroom now that wall-high flames completely block their exit?",
+        "why_it_works": "Visually arresting disaster stakes where natural environmental peril creates universal empathy and urgent momentum.",
+        "concerns": [
+          "Pure survival scenario lacks interpersonal antagonist friction, relying strictly on physical disaster."
+        ]
+      },
+      {
+        "candidate_id": "W004-C002",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E018-B0005",
+            "E018-B0006"
+          ],
+          "reason": "Juliana bolts upright in bed seeing fire glow under the door and screams Alexander's name within the first 2 seconds."
+        },
+        "cliffhanger": {
+          "score": 2,
+          "evidence_ids": [
+            "E018-B0027",
+            "E018-B0028",
+            "E018-B0029"
+          ],
+          "reason": "Ends on a mid-action tracking shot of them navigating falling embers rather than on a distinct decision or cliffhanger beat."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E018-B0005",
+            "E018-B0013",
+            "E018-B0018",
+            "E018-B0027"
+          ],
+          "reason": "The premise of two people escaping a burning structure is instantly understandable without previous context."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E018-B0009",
+            "E018-B0013",
+            "E018-B0023",
+            "E018-B0027",
+            "E018-B0028"
+          ],
+          "reason": "The fire intensifies and forces them on the run, but continuing past the blocked exit into a general corridor sprint softens the punch of the crisis."
+        },
+        "hook_summary": "Juliana bolts upright in terror as an ominous fire glow illuminates the base of her bedroom door.",
+        "cliffhanger_question": "Will Juliana and Alexander make it through the collapsing burning hallway alive?",
+        "why_it_works": "High physical stakes and kinetic movement keep the adrenaline high throughout the sequence.",
+        "concerns": [
+          "By running past the blocked-door climax into the hallway, the ending loses the crisp dilemma present in W003-C005."
+        ]
+      }
+    ]
+  }
+}

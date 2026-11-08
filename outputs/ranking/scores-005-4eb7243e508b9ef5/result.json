@@ -1,0 +1,414 @@
+{
+  "data": {
+    "assessments": [
+      {
+        "candidate_id": "W006-C004",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E029-B0019",
+            "E029-B0020"
+          ],
+          "reason": "Catherine turns through floral remedies while speaking of a dead woman's hand, creating eerie tension but lacking immediate kinetic impact."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E029-B0049",
+            "E029-B0050",
+            "E029-B0051"
+          ],
+          "reason": "The scene resolves into a routine prison transfer as the guard tells Juliana to move along and marches her to an iron cell."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E029-B0022",
+            "E029-B0030",
+            "E029-B0036",
+            "E029-B0048"
+          ],
+          "reason": "The framing of Juliana for witchcraft and Catherine's motive regarding the Duchess and social rank are readily understandable."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E029-B0024",
+            "E029-B0030",
+            "E029-B0036",
+            "E029-B0044"
+          ],
+          "reason": "The dialogue escalates effectively from planting evidence to threats of hanging and defiance regarding Juliana's husband."
+        },
+        "hook_summary": "Catherine flips through an herbarium while musing about strange mixtures written in a dead woman's hand.",
+        "cliffhanger_question": "No concrete question remains beyond whether Juliana will stay locked in her cell.",
+        "why_it_works": "It delivers clean character antagonism and clarifies the high-stakes threat of execution facing Juliana.",
+        "concerns": [
+          "Ending on a guard marching Juliana down a hallway dissipates the dramatic energy built by the confrontation."
+        ]
+      },
+      {
+        "candidate_id": "W006-C005",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E030-B0042",
+            "E030-B0043"
+          ],
+          "reason": "Opens directly on a tight firelit close-up with the blunt, conspiratorial directive to frame someone for witchcraft."
+        },
+        "cliffhanger": {
+          "score": 2,
+          "evidence_ids": [
+            "E030-B0066",
+            "E030-B0067"
+          ],
+          "reason": "The Elder Nobleman delivers a chilling declaration about tomorrow's trial, framing an upcoming event without interrupting immediate action."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E030-B0045",
+            "E030-B0049",
+            "E030-B0057",
+            "E030-B0065"
+          ],
+          "reason": "Every component of the conspiracy—the manufactured charges, buying the jury, drafting the warrant—is articulated with total clarity."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E030-B0045",
+            "E030-B0049",
+            "E030-B0057",
+            "E030-B0065"
+          ],
+          "reason": "The villains methodically resolve potential complications one by one, building a sense of an inescapable legal trap."
+        },
+        "hook_summary": "The Elder Nobleman orders his conspirators to charge their target with capital witchcraft.",
+        "cliffhanger_question": "Will Juliana be convicted and executed when dragged before the magistrate tomorrow?",
+        "why_it_works": "The ruthless efficiency of the villains planning a judicial murder provides immense narrative propulsion.",
+        "concerns": [
+          "The excerpt is entirely static dialogue around a desk with no visual physical conflict."
+        ]
+      },
+      {
+        "candidate_id": "W006-C006",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E032-B0090",
+            "E032-B0091"
+          ],
+          "reason": "Starts in media res with Catherine screaming hysterically and raising a branding poker like a weapon."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E032-B0115",
+            "E032-B0116",
+            "E032-B0117"
+          ],
+          "reason": "Catherine plunges the glowing hot poker toward Juliana's face, freezing millimeters from her open eye right before the cut to black."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E032-B0096",
+            "E032-B0100",
+            "E032-B0103",
+            "E032-B0114"
+          ],
+          "reason": "The physical dynamic of an unhinged noblewoman torturing a chained, defiant prisoner is instantly clear."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E032-B0096",
+            "E032-B0103",
+            "E032-B0109",
+            "E032-B0112"
+          ],
+          "reason": "Juliana's taunts systematically dismantle Catherine's ego, directly causing Catherine's rage to boil over into an attempted blinding."
+        },
+        "hook_summary": "Catherine screams furiously while waving a branding iron over an imprisoned Juliana.",
+        "cliffhanger_question": "Will Catherine burn out Juliana's eye with the searing poker?",
+        "why_it_works": "The psychological reversal between captor and prisoner drives intense momentum straight into a lethal physical cliffhanger.",
+        "concerns": [
+          "The dialogue borders on melodrama before the physical strike occurs."
+        ]
+      },
+      {
+        "candidate_id": "W006-C007",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E034-B0088",
+            "E034-B0089"
+          ],
+          "reason": "A nobleman sneers that the prisoner refuses to repent, establishing trial conflict without immediate visual urgency."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E034-B0113",
+            "E034-B0114",
+            "E034-B0115",
+            "E034-B0116"
+          ],
+          "reason": "The Judge rises solemnly, addresses Juliana, and raises his hand to pronounce the final sentence, stopping right before the verdict."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E034-B0091",
+            "E034-B0100",
+            "E034-B0106",
+            "E034-B0114"
+          ],
+          "reason": "The courtroom stakes, the choice between recanting or being condemned for witchcraft, and the consequences are easily grasped."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E034-B0094",
+            "E034-B0102",
+            "E034-B0106",
+            "E034-B0108",
+            "E034-B0112"
+          ],
+          "reason": "Tension builds smoothly through warnings, Juliana's defiance, Prudence's weeping, and the gavel smash leading to judgment."
+        },
+        "hook_summary": "A smug lord observes that the accused woman still refuses to repent before the court.",
+        "cliffhanger_question": "What judgment will the magistrate pronounce against Lady Juliana?",
+        "why_it_works": "The formal courtroom ceremony creates solemnity and makes Juliana's stubborn integrity feel momentous.",
+        "concerns": [
+          "The opening line is somewhat detached compared to the direct judicial ultimatum that follows."
+        ]
+      },
+      {
+        "candidate_id": "W007-C003",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E034-B0090",
+            "E034-B0091"
+          ],
+          "reason": "The Judge sternly instructs Lady Juliana to renounce her practices to save herself, presenting a serious ultimatum in a formal manner."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E034-B0113",
+            "E034-B0114",
+            "E034-B0115",
+            "E034-B0116"
+          ],
+          "reason": "The Judge stands tall and raises his hand in judgment over Lady Juliana, holding right before pronouncing sentence."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E034-B0091",
+            "E034-B0100",
+            "E034-B0106",
+            "E034-B0114"
+          ],
+          "reason": "The scene immediately establishes the courtroom trial, the witchcraft accusation, and Juliana's unyielding stance."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E034-B0094",
+            "E034-B0102",
+            "E034-B0106",
+            "E034-B0108",
+            "E034-B0112"
+          ],
+          "reason": "A steady progression of warnings culminates in Juliana's defiant speech, triggering a violent gavel strike and immediate sentencing."
+        },
+        "hook_summary": "The magistrate demands that Lady Juliana renounce her healing practices if she wishes to save her life.",
+        "cliffhanger_question": "Will the judge sentence Lady Juliana to death for witchcraft?",
+        "why_it_works": "Cutting directly to the Judge's ultimatum sharpens the narrative stakes faster than starting on the observing lord.",
+        "concerns": [
+          "The cut stops on a formal pronouncement gesture rather than an unexpected turn of events."
+        ]
+      },
+      {
+        "candidate_id": "W006-C008",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E035-B0046",
+            "E035-B0047"
+          ],
+          "reason": "Alexander's scarred fist crushes a map while he bitterly states that his men were slaughtered, delivering a strong emotional and visual hook."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E035-B0070",
+            "E035-B0071",
+            "E035-B0072"
+          ],
+          "reason": "Ends on an expositional reveal followed by a seven-second silent gasp and musical swell, with no active unresolved conflict."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E035-B0047",
+            "E035-B0050",
+            "E035-B0059",
+            "E035-B0070"
+          ],
+          "reason": "The narrative of Alexander's military betrayal, presumed death, and discovery of corruption in Ashwood is easy to follow."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E035-B0050",
+            "E035-B0055",
+            "E035-B0064",
+            "E035-B0070"
+          ],
+          "reason": "The conversation consists almost entirely of expositional Q&A about past events rather than escalating present stakes."
+        },
+        "hook_summary": "Alexander crushes a map in fury as he recounts the slaughter of his soldiers.",
+        "cliffhanger_question": "No concrete question remains beyond learning which specific rulers of Ashwood betrayed Alexander.",
+        "why_it_works": "Alexander's intense performance and scarred appearance establish a compelling backstory of military betrayal.",
+        "concerns": [
+          "The promo relies entirely on dialogue recounting past events and lingers for several seconds on a reaction shot at the end."
+        ]
+      },
+      {
+        "candidate_id": "W007-C001",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E031-B0068",
+            "E031-B0069"
+          ],
+          "reason": "Juliana delivers a defiant line challenging Catherine's power, establishing prisoner defiance with steady vocal delivery."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E031-B0085",
+            "E031-B0086",
+            "E031-B0087"
+          ],
+          "reason": "Catherine thrusts the glowing iron tip directly toward Juliana's face, ending on an extreme macro shot of the ember reflected in her eye."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E031-B0069",
+            "E031-B0075",
+            "E031-B0080",
+            "E031-B0084"
+          ],
+          "reason": "The emotional stakes of destroying Juliana's mother's work and the physical threat of torture in a dungeon are completely transparent."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E031-B0071",
+            "E031-B0075",
+            "E031-B0080",
+            "E031-B0085"
+          ],
+          "reason": "The emotional torture of scorching the botanical book breaks Juliana down, which Catherine immediately escalates into an attempted facial branding."
+        },
+        "hook_summary": "A chained Juliana tells Catherine that true power would not require forcing others to bow.",
+        "cliffhanger_question": "Will Catherine sear the hot branding iron into Juliana's eye?",
+        "why_it_works": "The destruction of the cherished book builds authentic emotional anguish before pivoting to imminent bodily terror.",
+        "concerns": [
+          "The opening lines are dialogue-heavy before the physical violence begins."
+        ]
+      },
+      {
+        "candidate_id": "W007-C002",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E033-B0069",
+            "E033-B0070"
+          ],
+          "reason": "The Lord paces while coldly dictating what the maid saw, establishing an ominous legal frame-up through dialogue."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E033-B0088",
+            "E033-B0091",
+            "E033-B0092"
+          ],
+          "reason": "The Lord delivers a ruthless ultimatum, leaving the maid trapped between committing perjury and risking her brother's life."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E033-B0070",
+            "E033-B0075",
+            "E033-B0077",
+            "E033-B0092"
+          ],
+          "reason": "The dynamic is exceptionally clear: a powerful lord coerces a terrified servant into fabricating witchcraft charges against her benefactor."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E033-B0075",
+            "E033-B0079",
+            "E033-B0083",
+            "E033-B0088",
+            "E033-B0092"
+          ],
+          "reason": "The Lord methodically increases psychological leverage from defining witchcraft to requiring court testimony to threatening her brother."
+        },
+        "hook_summary": "The Lord calmly dictates fabricated details of herbal witchcraft to a sobbing maid.",
+        "cliffhanger_question": "Will the maid commit perjury and condemn Juliana to save her brother Toby?",
+        "why_it_works": "The moral dilemma is agonizing and personal, with every line tightening the trap around an innocent witness.",
+        "concerns": [
+          "The visual setup is quiet and dialogue-heavy, relying entirely on psychological coercion."
+        ]
+      }
+    ]
+  },
+  "model_used": "gemini-3.7-flash",
+  "key_name": "GEMINI_API_KEY7",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 4373,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 19229,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 19229
+      }
+    ],
+    "thoughts_token_count": 6520,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 30122,
+    "traffic_type": null
+  },
+  "attempts": [
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY7",
+      "attempt": 1,
+      "status_code": 503,
+      "reason": "Service temporarily overloaded or unavailable"
+    },
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY7",
+      "attempt": 2,
+      "status": "success"
+    }
+  ],
+  "output_directory": "outputs/ranking/scores-005-4eb7243e508b9ef5/key-1"
+}

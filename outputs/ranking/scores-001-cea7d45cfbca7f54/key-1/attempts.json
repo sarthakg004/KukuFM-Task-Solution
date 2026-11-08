@@ -1,0 +1,8 @@
+[
+  {
+    "model": "gemini-3.7-flash",
+    "key_name": "GEMINI_API_KEY2",
+    "attempt": 1,
+    "status": "success"
+  }
+]

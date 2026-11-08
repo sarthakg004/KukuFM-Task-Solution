@@ -1,0 +1,209 @@
+{
+  "window_id": "W002",
+  "episodes": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "requested_model": "gemini-3.7-flash",
+  "model_used": "gemini-3.7-flash",
+  "key_name": "GEMINI_API_KEY7",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 1605,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 38473,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 38473
+      }
+    ],
+    "thoughts_token_count": 12505,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 52583,
+    "traffic_type": null
+  },
+  "attempts": [
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY7",
+      "attempt": 1,
+      "status_code": 503,
+      "reason": "Service temporarily overloaded or unavailable"
+    },
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY7",
+      "attempt": 2,
+      "status": "success"
+    }
+  ],
+  "output_directory": "outputs/candidates/W002-9a6f5b49e1f6afa0",
+  "candidates": [
+    {
+      "title": "The Planted Theft Accusation",
+      "segments": [
+        {
+          "start_id": "E011-B0062",
+          "end_id": "E011-B0085"
+        }
+      ],
+      "hook": "At E011-B0063 (01:12.10), less than a second into the clip, Juliana furiously shouts: \"You planted this accusation because you cannot bear that I am happy without you!\"",
+      "cliffhanger": "At E011-B0085, the Constable pulls Gerald's gold pocket watch directly from Alexander's coat lining, leaving Gerald laughing in triumph and Alexander framed as a thief.",
+      "standalone_context": "An arrogant wealthy rival named Gerald has brought a constable into Juliana and Alexander's rustic cottage under the pretext of searching for stolen property. Alexander holds back from striking Gerald to protect his wife, only for the search to uncover the allegedly stolen watch inside his own coat.",
+      "why_it_works": "The clip immediately frames the search as a malicious setup, escalates through Gerald's taunts and Alexander's suppressed rage, and delivers a devastating punch when the planted evidence is revealed.",
+      "concerns": "Alexander's internal thoughts are conveyed through voiceover, though his physical restraint and clenched fists communicate the stakes visually as well.",
+      "resolved_segments": [
+        {
+          "start_id": "E011-B0062",
+          "end_id": "E011-B0085",
+          "episode": 11,
+          "start": "01:11.50",
+          "end": "01:52.75",
+          "start_seconds": 71.5,
+          "end_seconds": 112.75,
+          "duration_seconds": 41.25,
+          "start_text": "Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage.",
+          "end_text": "Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame."
+        }
+      ],
+      "duration_seconds": 41.25,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "The Blackthorn Ultimatum",
+      "segments": [
+        {
+          "start_id": "E012-B0031",
+          "end_id": "E012-B0055"
+        }
+      ],
+      "hook": "At E012-B0032 (00:44.00), Clarissa turns to Juliana with a cruel, predatory smile and delivers the chilling line: \"I want to see you crawl, sister.\"",
+      "cliffhanger": "At E012-B0054, Juliana accepts the sadistic challenge and demands, \"Tell me where the garden is,\" leaving unresolved whether she can survive digging barehanded through razor-sharp frozen briars to save Alexander from execution.",
+      "standalone_context": "To spare Alexander from being hanged for theft, Clarissa offers Juliana an ultimatum: crawl barehanded into frozen blackthorn briars with thorns sharp as steel to recover a lost emerald signet ring before the magistrate arrives. Despite Alexander's desperate pleas to stop, Juliana chooses to sacrifice herself.",
+      "why_it_works": "A chilling opening hook leads into an extreme, sadistic dilemma that culminates in Juliana's courageous decision to endure physical agony to save her husband's life.",
+      "concerns": "The prompt action moves to an unseen location mentioned only in dialogue, requiring viewers to accept the premise of the blackthorn garden before seeing it.",
+      "resolved_segments": [
+        {
+          "start_id": "E012-B0031",
+          "end_id": "E012-B0055",
+          "episode": 12,
+          "start": "00:43.70",
+          "end": "01:27.21",
+          "start_seconds": 43.7,
+          "end_seconds": 87.21000000000001,
+          "duration_seconds": 43.51,
+          "start_text": "Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana.",
+          "end_text": "Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance."
+        }
+      ],
+      "duration_seconds": 43.51,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "Defending the Medicinal Garden",
+      "segments": [
+        {
+          "start_id": "E015-B0030",
+          "end_id": "E015-B0055"
+        }
+      ],
+      "hook": "At E015-B0031 (00:44.80), a sneering thug steps into Juliana's face snarling \"Get out of the way!\", and when she refuses, violently shoves her down onto the wet stone path.",
+      "cliffhanger": "At E015-B0053, Alexander steps between the fallen Juliana and the three intruders, prompting the lead thug to raise his club and challenge: \"What? You want to fight us, veteran?\" with a violent clash suspended in midair.",
+      "standalone_context": "Vandals have invaded Juliana's home to tear up her medicinal herbs. When Juliana tries to protect them with her already bandaged hands, she is shoved to the ground and mocked, prompting her husband Alexander to charge out of the shadows to defend her against three armed men.",
+      "why_it_works": "Physical violence starts immediately, raises emotional stakes around Juliana's injured hands, and peaks when her protective husband arrives to face down multiple armed thugs.",
+      "concerns": "Juliana's hands are already bandaged from the events of earlier episodes, which first-time viewers must infer as pre-existing injuries.",
+      "resolved_segments": [
+        {
+          "start_id": "E015-B0030",
+          "end_id": "E015-B0055",
+          "episode": 15,
+          "start": "00:44.20",
+          "end": "01:26.00",
+          "start_seconds": 44.2,
+          "end_seconds": 86.0,
+          "duration_seconds": 41.8,
+          "start_text": "Tight close-up of the Thug with Cap stepping aggressively into Juliana's personal space, snarling with venom.",
+          "end_text": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut."
+        }
+      ],
+      "duration_seconds": 41.8,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "Confronting the Arrogant Suitor",
+      "segments": [
+        {
+          "start_id": "E007-B0025",
+          "end_id": "E007-B0044"
+        }
+      ],
+      "hook": "At E007-B0026 (00:51.50), Gerald sneers disdainfully at Juliana: \"You chose that scarred beggar over a life of comfort.\"",
+      "cliffhanger": "At E007-B0044, after Gerald threatens to make Juliana's husband disappear, the scarred veteran silently steps forward to tower over him, leaving Gerald frozen in wide-eyed terror as his companion urges him not to be frightened.",
+      "standalone_context": "An aristocratic man named Gerald confronts Juliana outside her modest woodland home, mocking her choice to leave comfort for a scarred soldier. When Gerald threatens to make her husband vanish, the imposing husband arrives silently with a load of timber and corners him.",
+      "why_it_works": "A sharp verbal clash over Juliana's rejected aristocratic suitor flips instantly into physical tension when the very man Gerald threatened looms over him.",
+      "concerns": "The cut stops just before Gerald retreats, prioritizing the menacing standoff over showing the villain's immediate departure.",
+      "resolved_segments": [
+        {
+          "start_id": "E007-B0025",
+          "end_id": "E007-B0044",
+          "episode": 7,
+          "start": "00:50.80",
+          "end": "01:28.50",
+          "start_seconds": 50.8,
+          "end_seconds": 88.5,
+          "duration_seconds": 37.7,
+          "start_text": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard.",
+          "end_text": "\"Gerald, don't let him frighten you.\""
+        }
+      ],
+      "duration_seconds": 37.7,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "Rumors of the Duke",
+      "segments": [
+        {
+          "start_id": "E009-B0068",
+          "end_id": "E009-B0089"
+        }
+      ],
+      "hook": "At E009-B0069 (01:26.60), the Blond Nobleman curtly demands \"What is it?\", prompting his nervous groom to announce: \"There is a rumor going around, my Lord.\"",
+      "cliffhanger": "At E009-B0088, the Blond Nobleman is left alone before his roaring fireplace, whispering \"Impossible\" in mounting panic as his eyes widen at the dread that the late Duke may still be alive.",
+      "standalone_context": "In a lavish manor study, a nobleman learns from his servant that a scarred war veteran has been seen who closely resembles the deceased Duke. Despite trying to dismiss the report as tavern gossip, the nobleman is privately terrified that his presumed-dead rival has returned.",
+      "why_it_works": "The scene establishes an ominous shift in the story's scale, connecting Alexander's humble cottage existence to an aristocratic conspiracy of stolen identity.",
+      "concerns": "This scene takes place away from the primary cottage setting and relies entirely on dialogue to reveal the secret identity rather than physical action.",
+      "resolved_segments": [
+        {
+          "start_id": "E009-B0068",
+          "end_id": "E009-B0089",
+          "episode": 9,
+          "start": "01:26.50",
+          "end": "01:55.50",
+          "start_seconds": 86.5,
+          "end_seconds": 115.5,
+          "duration_seconds": 29.0,
+          "start_text": "Medium shot framing the Blond Nobleman in the foreground as The Former Groom halts respectfully behind his chair.",
+          "end_text": "Extreme close-up macro shot of the Blond Nobleman's eye, the flickering fireplace flames dancing across his widening iris as dark dread paralyzes him, holding until the screen cuts to black."
+        }
+      ],
+      "duration_seconds": 29.0,
+      "valid": true,
+      "issues": []
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "window_id": "W004",
+  "episodes": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+  ],
+  "requested_model": "gemini-3.7-flash",
+  "model_used": "gemini-3.7-flash",
+  "key_name": "GEMINI_API_KEY2",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 1948,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 42186,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 42186
+      }
+    ],
+    "thoughts_token_count": 18525,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 62659,
+    "traffic_type": null
+  },
+  "attempts": [
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY2",
+      "attempt": 1,
+      "status": "success"
+    }
+  ],
+  "output_directory": "outputs/candidates/W004-c31470f7592fe58b",
+  "candidates": [
+    {
+      "title": "Garden Ambush and Interrogation",
+      "segments": [
+        {
+          "start_id": "E016-B0012",
+          "end_id": "E016-B0047"
+        }
+      ],
+      "hook": "In E016-B0012 and E016-B0014, an armed thug lunges forward and swings a heavy club at full force, only for Alexander to catch the weapon mid-air in his bare hand with chilling ease.",
+      "cliffhanger": "In E016-B0047, following the thug's desperate confession that Gerald Harrington paid them to destroy the garden, Alexander throws the ringleader aside as the attackers flee, leaving unanswered why Harrington targeted Juliana and how Alexander will retaliate.",
+      "standalone_context": "Alexander defends Juliana against three armed attackers in a trampled garden, effortlessly incapacitating them before choking the leader against a wall to force a confession of who paid them.",
+      "why_it_works": "A burst of effortless physical dominance transitions immediately into a tense interrogation that exposes a personal betrayal.",
+      "concerns": "A new viewer will not know Gerald Harrington's specific history with Juliana without prior context.",
+      "resolved_segments": [
+        {
+          "start_id": "E016-B0012",
+          "end_id": "E016-B0047",
+          "episode": 16,
+          "start": "00:14.30",
+          "end": "00:59.00",
+          "start_seconds": 14.3,
+          "end_seconds": 59.0,
+          "duration_seconds": 44.7,
+          "start_text": "Medium action shot as the Thug with Cap lunges forward with his weapon raised high.",
+          "end_text": "Medium wide shot as Alexander releases the thug, sending him tumbling into the ruined flowerbeds."
+        }
+      ],
+      "duration_seconds": 44.7,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "Trapped in the Inferno",
+      "segments": [
+        {
+          "start_id": "E018-B0005",
+          "end_id": "E018-B0029"
+        }
+      ],
+      "hook": "In E018-B0005 and E018-B0006, Juliana bolts upright in bed seeing bright orange flames licking beneath her bedroom door and screams Alexander's name in terror.",
+      "cliffhanger": "In E018-B0029, with their main doorway engulfed in wall-high flames, Alexander pulls Juliana through collapsing corridors as burning rafters crash down around them, leaving their escape in extreme jeopardy.",
+      "standalone_context": "Juliana awakens trapped inside a burning cottage, prompting Alexander to batter down the bedroom door and guide her through smoke-filled halls where their primary escape route has already been incinerated.",
+      "why_it_works": "Visceral life-or-death danger forces two characters into an immediate race for survival against a rapidly collapsing building.",
+      "concerns": "The excerpt cuts before revealing whether the characters successfully escape the burning building.",
+      "resolved_segments": [
+        {
+          "start_id": "E018-B0005",
+          "end_id": "E018-B0029",
+          "episode": 18,
+          "start": "00:06.00",
+          "end": "00:52.50",
+          "start_seconds": 6.0,
+          "end_seconds": 52.5,
+          "duration_seconds": 46.5,
+          "start_text": "Juliana bolts upright in bed, tossing off the woolen quilt as she sees the orange glow under the door.",
+          "end_text": "Medium tracking shot focusing on Juliana's wide, soot-streaked eyes as they navigate through falling embers."
+        }
+      ],
+      "duration_seconds": 46.5,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "The Usurped Duke",
+      "segments": [
+        {
+          "start_id": "E019-B0027",
+          "end_id": "E019-B0050"
+        }
+      ],
+      "hook": "In E019-B0027 and E019-B0028, a cloaked operative emerges from the foggy forest, bows low in formal deference, and urgently addresses Alexander as 'Your Grace.'",
+      "cliffhanger": "In E019-B0050, when asked what will happen once they have proof, Alexander grimly vows that 'Ashburg will remember who it belongs to,' cutting out before revealing how he will reclaim his birthright.",
+      "standalone_context": "A secret meeting in the woods reveals Alexander is actually a presumed-dead duke whose ancestral estate has been seized by Rupert while his mother is held captive under armed watch.",
+      "why_it_works": "A startling identity reveal establishes high political stakes and sets up a focused quest to overthrow the usurpers.",
+      "concerns": "The scene relies entirely on exposition delivered by an operative rather than kinetic action.",
+      "resolved_segments": [
+        {
+          "start_id": "E019-B0027",
+          "end_id": "E019-B0050",
+          "episode": 19,
+          "start": "00:43.00",
+          "end": "01:28.90",
+          "start_seconds": 43.0,
+          "end_seconds": 88.9,
+          "duration_seconds": 45.9,
+          "start_text": "A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference.",
+          "end_text": "\"Then Ashburg will remember who it belongs to.\""
+        }
+      ],
+      "duration_seconds": 45.9,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "A Wasting of the Lungs",
+      "segments": [
+        {
+          "start_id": "E020-B0007",
+          "end_id": "E020-B0027"
+        }
+      ],
+      "hook": "In E020-B0007 and E020-B0008, Rupert strides across an opulent drawing room adjusting his leather gloves and boldly boasts, 'The estate is practically ours.'",
+      "cliffhanger": "In E020-B0027, Rupert coldly promises that the ailing Dowager Duchess will not survive the winter because he has 'ensured her quiet comfort,' leaving unanswered what lethal means he is using to eliminate her.",
+      "standalone_context": "Inside a lavish manor, Rupert and Catherine plot to seize the ducal title upon Alexander's presumed death and discuss how the lingering Dowager Duchess will soon be dead.",
+      "why_it_works": "Cold aristocratic ambition exposes an active murder plot against an elderly duchess, establishing clear antagonists and high mortal stakes.",
+      "concerns": "The excerpt focuses entirely on the villains' scheming without showing the protagonists.",
+      "resolved_segments": [
+        {
+          "start_id": "E020-B0007",
+          "end_id": "E020-B0027",
+          "episode": 20,
+          "start": "00:09.60",
+          "end": "00:42.40",
+          "start_seconds": 9.6,
+          "end_seconds": 42.4,
+          "duration_seconds": 32.8,
+          "start_text": "Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph.",
+          "end_text": "\"Not through the winter. I've ensured her quiet comfort.\""
+        }
+      ],
+      "duration_seconds": 32.8,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "The Healer's Calling",
+      "segments": [
+        {
+          "start_id": "E021-B0004",
+          "end_id": "E021-B0025"
+        }
+      ],
+      "hook": "In E021-B0004 and E021-B0005, a frantic village girl violently slams open the barn doors, sobbing that her seven-year-old brother Toby is dying.",
+      "cliffhanger": "In E021-B0025, Lady Juliana pulls the girl from her knees, grabs her mother's medicinal ledger, and declares 'We go now,' rushing out into the rain with Toby's survival hanging in the balance.",
+      "standalone_context": "Juliana is sheltering in a bare barn after losing her home, but refuses to let her own misfortune stop her when a village girl reveals her suffocating younger brother was turned away by wealthy physicians.",
+      "why_it_works": "Establishes Juliana's moral strength and herbalist skills through an urgent, emotionally charged plea to save a child's life.",
+      "concerns": "The child's physical distress is described second-hand by his sister rather than seen directly in this scene.",
+      "resolved_segments": [
+        {
+          "start_id": "E021-B0004",
+          "end_id": "E021-B0025",
+          "episode": 21,
+          "start": "00:03.60",
+          "end": "00:40.40",
+          "start_seconds": 3.6,
+          "end_seconds": 40.4,
+          "duration_seconds": 36.8,
+          "start_text": "Wide shot framing the open doorway against the overcast daylight as Prudence, a young village girl in an apron, rushes inside, frantic and weeping.",
+          "end_text": "\"Stand up. Sinking to your knees will not save him. Let me grab my ledger. We go now.\""
+        }
+      ],
+      "duration_seconds": 36.8,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "The Arsenic Antidote",
+      "segments": [
+        {
+          "start_id": "E023-B0039",
+          "end_id": "E023-B0067"
+        }
+      ],
+      "hook": "In E023-B0039 and E023-B0040, Juliana looks squarely at Prudence beside the bed of a dying noblewoman and declares with deadly certainty, 'Someone is poisoning her.'",
+      "cliffhanger": "In E023-B0067, as Juliana frantically crushes antidote ingredients for the spasming Duchess, heavy footsteps approach outside and the brass door lever slowly rotates downward as the bedroom door cracks open.",
+      "standalone_context": "Juliana identifies that a bedridden duchess is being systematically poisoned with arsenic and scrambles to concoct a charcoal counter-agent before an approaching intruder discovers her in the room.",
+      "why_it_works": "A chilling medical revelation accelerates into a high-stakes race against time that collides with an imminent confrontation at the door.",
+      "concerns": "None identified.",
+      "resolved_segments": [
+        {
+          "start_id": "E023-B0039",
+          "end_id": "E023-B0067",
+          "episode": 23,
+          "start": "01:18.50",
+          "end": "02:11.50",
+          "start_seconds": 78.5,
+          "end_seconds": 131.5,
+          "duration_seconds": 53.0,
+          "start_text": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence.",
+          "end_text": "Close-up on the brass door lever as it slowly rotates downward, and the heavy door cracks open inward into the room—cutting to an intense, heart-stopping cliffhanger."
+        }
+      ],
+      "duration_seconds": 53.0,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "A Secret Infiltration Revealed",
+      "segments": [
+        {
+          "start_id": "E025-B0031",
+          "end_id": "E025-B0053"
+        }
+      ],
+      "hook": "In E025-B0031 and E025-B0032, Alexander corners Juliana on a misty woodland path, fiercely demanding to know why she sneaked inside Ashburg Manor.",
+      "cliffhanger": "In E025-B0053, Juliana reveals that the Dowager Duchess is being murdered with arsenic, causing Alexander's scarred hand to clench into a trembling fist of lethal fury.",
+      "standalone_context": "Alexander confronts Juliana about entering Ashburg Manor, only to learn that she examined the dying Dowager Duchess and discovered the woman is being slowly murdered with poison.",
+      "why_it_works": "A tense domestic confrontation pivots into a shocking revelation that triggers Alexander's dangerous protective anger.",
+      "concerns": "The clip cuts on Alexander's visceral reaction before showing what specific action he plans to take.",
+      "resolved_segments": [
+        {
+          "start_id": "E025-B0031",
+          "end_id": "E025-B0053",
+          "episode": 25,
+          "start": "00:46.80",
+          "end": "01:30.20",
+          "start_seconds": 46.8,
+          "end_seconds": 90.2,
+          "duration_seconds": 43.4,
+          "start_text": "Medium two-shot of Alexander leaning down toward her against the dim forest backdrop.",
+          "end_text": "Close-up on Alexander's fist clenching tightly in fury."
+        }
+      ],
+      "duration_seconds": 43.4,
+      "valid": true,
+      "issues": []
+    }
+  ]
+}

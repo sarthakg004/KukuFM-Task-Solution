@@ -1,0 +1,432 @@
+{
+  "sdk_http_response": {
+    "headers": {
+      "x-gemini-service-tier": "standard",
+      "content-type": "application/json; charset=UTF-8",
+      "vary": "Origin, X-Origin, Referer",
+      "content-encoding": "gzip",
+      "date": "Sun, 08 Nov 2026 10:09:46 GMT",
+      "server": "scaffolding on HTTPServer2",
+      "x-xss-protection": "0",
+      "x-frame-options": "SAMEORIGIN",
+      "x-content-type-options": "nosniff",
+      "server-timing": "gfet4t7; dur=175205",
+      "alt-svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "transfer-encoding": "chunked"
+    }
+  },
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "{\n  \"assessments\": [\n    {\n      \"candidate_id\": \"W005-C002\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E026-B0030\", \"E026-B0031\"],\n        \"reason\": \"The Dowager Duchess immediately questions why a noble-spirited girl works as a common maid, delivering an intriguing opening line but within a quiet bedroom dialogue setting.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E026-B0049\", \"E026-B0051\"],\n        \"reason\": \"The Duchess grips Juliana's hand frantically demanding where she got the signet ring, cutting to black on an unresolved, urgent identity inquiry.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E026-B0031\", \"E026-B0033\", \"E026-B0034\", \"E026-B0049\"],\n        \"reason\": \"The dynamic between the bedridden Duchess and the proud, disowned maid is immediately understandable, centering clearly around the recognized signet ring.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E026-B0034\", \"E026-B0037\", \"E026-B0046\", \"E026-B0049\"],\n        \"reason\": \"The scene steadily builds from a calm conversation to shock upon sighting the ring, culminating in physical restraint and frantic demands.\"\n      },\n      \"hook_summary\": \"A bedridden duchess questions why a woman of noble spirit is serving as a common maid.\",\n      \"cliffhanger_question\": \"How will Juliana explain how she obtained the noble signet ring?\",\n      \"why_it_works\": \"The progression hinges on a clear visual reveal of the signet ring that instantly turns a somber bedside conversation into an urgent mystery.\",\n      \"concerns\": [\n        \"The opening seconds are relatively restrained and talk-heavy for a short-form acquisition promo.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W006-C001\",\n      \"hook\": {\n        \"score\": 1,\n        \"evidence_ids\": [\"E026-B0030\", \"E026-B0031\"],\n        \"reason\": \"The first two seconds consist of a static silent shot before the spoken question begins, giving little reason to stop scrolling.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E026-B0049\", \"E026-B0051\"],\n        \"reason\": \"The cut lands right as the Duchess desperately demands the origin of the signet ring while clutching Juliana's hand.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E026-B0031\", \"E026-B0033\", \"E026-B0034\", \"E026-B0049\"],\n        \"reason\": \"Juliana's disgraced background and the Duchess's unexpected recognition of her ring are easily followed without external context.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E026-B0035\", \"E026-B0037\", \"E026-B0044\", \"E026-B0049\"],\n        \"reason\": \"Tension ramps cleanly from the visual sighting of the ring to the elder woman's physical agitation and emotional interrogation.\"\n      },\n      \"hook_summary\": \"A prolonged silent look precedes an elderly duchess questioning a maid about her noble bearing.\",\n      \"cliffhanger_question\": \"What is the Duchess's connection to the ring and what will Juliana reveal?\",\n      \"why_it_works\": \"The discovery of a hidden aristocratic relic effectively pivots a servant drama into a high-stakes identity puzzle.\",\n      \"concerns\": [\n        \"The two-second delay before dialogue starts softens the initial scroll-stopping punch.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W005-C003\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E027-B0001\", \"E027-B0002\"],\n        \"reason\": \"Starts on a tight close-up of trembling hands clutching a ring and a breathless remark, establishing curiosity without explosive conflict.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 4,\n        \"evidence_ids\": [\"E027-B0025\", \"E027-B0026\", \"E027-B0028\"],\n        \"reason\": \"Just as the Duchess asks for the name of the husband carrying her lost son's ring, guards and hostile nobles violently kick the door open.\"\n      },\n      \"clarity\": {\n        \"score\": 4,\n        \"evidence_ids\": [\"E027-B0006\", \"E027-B0012\", \"E027-B0016\", \"E027-B0028\"],\n        \"reason\": \"The dialogue economically conveys that Juliana's husband gave her a crest ring belonging to the Duchess's presumed-lost son, interrupted by arriving antagonists.\"\n      },\n      \"escalation\": {\n        \"score\": 4,\n        \"evidence_ids\": [\"E027-B0006\", \"E027-B0012\", \"E027-B0016\", \"E027-B0025\", \"E027-B0028\"],\n        \"reason\": \"Each exchange deepens the revelation of her husband's true identity until external danger crashes into the room at peak narrative tension.\"\n      },\n      \"hook_summary\": \"An elderly duchess clutches a maid's hand, scrutinizing a worn ring.\",\n      \"cliffhanger_question\": \"Will Juliana identify her husband as the lost heir before the armed intruders take control of the room?\",\n      \"why_it_works\": \"The cut layers a major genealogical discovery with an immediate physical breach, maximizing narrative momentum and personal stakes.\",\n      \"concerns\": [\n        \"The dialogue requires viewers to actively listen through several historical exposition points.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W005-C004\",\n      \"hook\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E027-B0065\", \"E027-B0066\", \"E027-B0068\"],\n        \"reason\": \"Juliana raises a vial declaring it is an antidote, immediately met with an aggressive sneer demanding to know what it treats.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E027-B0090\", \"E027-B0091\", \"E027-B0092\", \"E027-B0095\"],\n        \"reason\": \"Juliana is framed for administering poison and forcibly seized by an armed guard as terror strikes her face.\"\n      },\n      \"clarity\": {\n        \"score\": 4,\n        \"evidence_ids\": [\"E027-B0066\", \"E027-B0077\", \"E027-B0081\", \"E027-B0088\", \"E027-B0091\"],\n        \"reason\": \"The frame-up is crystal clear: Juliana's claim of an antidote is deliberately inverted by hostile nobles into an admission of poisoning.\"\n      },\n      \"escalation\": {\n        \"score\": 4,\n        \"evidence_ids\": [\"E027-B0073\", \"E027-B0081\", \"E027-B0086\", \"E027-B0090\", \"E027-B0093\"],\n        \"reason\": \"The scene tightens like a vice from an initial accusation to weaponized false confession, confiscation of evidence, and sudden physical arrest.\"\n      },\n      \"hook_summary\": \"A maid holds up a mysterious vial and announces she has an antidote.\",\n      \"cliffhanger_question\": \"Can Juliana escape the fabricated charge of poisoning before she is locked away?\",\n      \"why_it_works\": \"A fast, punchy start leads directly into an airtight trap where the protagonist's honest defense is maliciously twisted against her.\",\n      \"concerns\": [\n        \"The ending cut is a standardized capture beat rather than a surprising new revelation.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W006-C002\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E027-B0061\", \"E027-B0062\"],\n        \"reason\": \"A nobleman delivers a threatening line about finding an unauthorized maid by the bed, which establishes tension but lacks sudden visual punch.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E027-B0090\", \"E027-B0091\", \"E027-B0092\", \"E027-B0095\"],\n        \"reason\": \"Ends on the guard roughly dragging Juliana away after the aristocrats construct a false case of poisoning against her.\"\n      },\n      \"clarity\": {\n        \"score\": 4,\n        \"evidence_ids\": [\"E027-B0062\", \"E027-B0066\", \"E027-B0081\", \"E027-B0090\"],\n        \"reason\": \"The premise and rapid framing of the maid for attempted murder are totally transparent and self-contained.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E027-B0063\", \"E027-B0073\", \"E027-B0081\", \"E027-B0086\", \"E027-B0092\"],\n        \"reason\": \"Good progression across the entire scene, although the slower opening monologue slightly dampens the initial drive compared to tighter cuts.\"\n      },\n      \"hook_summary\": \"A nobleman confronts a maid discovered alone in a restricted bedroom with an unauthorized substance.\",\n      \"cliffhanger_question\": \"Will Juliana be executed under the fabricated charge of poisoning the Duchess?\",\n      \"why_it_works\": \"The confrontation provides a full dramatic arc showing how corrupt aristocrats engineer a trap to eliminate an inconvenient witness.\",\n      \"concerns\": [\n        \"The opening ten seconds drag before Juliana's antidote declaration accelerates the scene.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W005-C005\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E028-B0072\", \"E028-B0073\"],\n        \"reason\": \"Catherine smiles wickedly from a book and names Lady Juliana Ashcroft, creating an intriguing identity reveal but lacking dynamic action.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E028-B0090\", \"E028-B0094\", \"E028-B0095\", \"E028-B0096\"],\n        \"reason\": \"Catherine threatens that Juliana's seized book will send her to the gallows as guards drag her away into the south tower cells.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E028-B0073\", \"E028-B0077\", \"E028-B0079\", \"E028-B0087\", \"E028-B0090\"],\n        \"reason\": \"Catherine explicitly spells out Juliana's fallen status and husband before ordering her imprisoned on fabricated charges.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E028-B0077\", \"E028-B0082\", \"E028-B0087\", \"E028-B0090\", \"E028-B0095\"],\n        \"reason\": \"Moves steadily from verbal mockery to physical retaliation, book confiscation, and an explicit death sentence threat.\"\n      },\n      \"hook_summary\": \"A villainous woman recognizes a maid's true noble identity and mocks her fall from grace.\",\n      \"cliffhanger_question\": \"Will Juliana face execution at the gallows after her mother's herbarium is used against her?\",\n      \"why_it_works\": \"The villain's personal animosity and the weaponization of the mother's book give the heroine's imprisonment personal and emotional weight.\",\n      \"concerns\": [\n        \"Relies heavily on extended antagonistic monologue during the middle stretch.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W006-C003\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E028-B0072\", \"E028-B0073\"],\n        \"reason\": \"Opens with Catherine smiling malevolently and declaring Juliana's full noble name, offering identification intrigue without kinetic urgency.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E028-B0090\", \"E028-B0094\", \"E028-B0095\", \"E028-B0096\"],\n        \"reason\": \"Ends on Catherine promising the gallows while holding Juliana's precious book as Juliana is dragged away in terror.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E028-B0073\", \"E028-B0077\", \"E028-B0079\", \"E028-B0087\", \"E028-B0090\"],\n        \"reason\": \"Juliana's past as an exiled noble married to a veteran and the threat of execution by magistrate are outlined cleanly.\"\n      },\n      \"escalation\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E028-B0077\", \"E028-B0082\", \"E028-B0087\", \"E028-B0090\", \"E028-B0095\"],\n        \"reason\": \"Taunting escalation turns into an actionable dungeon order and capital threat over her mother's herbarium.\"\n      },\n      \"hook_summary\": \"A haughty noblewoman discovers the true identity of her maid and gloats over her ruin.\",\n      \"cliffhanger_question\": \"How will Juliana save herself from the gallows with her mother's botanical book taken as evidence?\",\n      \"why_it_works\": \"Vivid villainy and the immediate threat of capital punishment create high emotional investment in Juliana's fate.\",\n      \"concerns\": [\n        \"The extended villain monologue risks feeling formulaic before the physical struggle begins.\"\n      ]\n    },\n    {\n      \"candidate_id\": \"W005-C006\",\n      \"hook\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E030-B0030\", \"E030-B0031\"],\n        \"reason\": \"The line 'We use the law to destroy her' sets up a clear ruthless conspiracy, though visually it is just men conversing in a study.\"\n      },\n      \"cliffhanger\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E030-B0045\", \"E030-B0047\", \"E030-B0049\"],\n        \"reason\": \"The cut ends on an instruction to buy a jury and frame the trial for witchcraft; while high in theoretical stakes, it is purely future planning rather than an ongoing crisis.\"\n      },\n      \"clarity\": {\n        \"score\": 3,\n        \"evidence_ids\": [\"E030-B0031\", \"E030-B0035\", \"E030-B0039\", \"E030-B0043\", \"E030-B0049\"],\n        \"reason\": \"The dialogue plainly details the conspirators' strategy to twist medicinal herbs into capital witchcraft charges.\"\n      },\n      \"escalation\": {\n        \"score\": 2,\n        \"evidence_ids\": [\"E030-B0035\", \"E030-B0039\", \"E030-B0043\", \"E030-B0049\"],\n        \"reason\": \"The pacing remains static throughout, showing characters pacing a desk and laying out hypothetical legal maneuvers without scene-level pressure.\"\n      },\n      \"hook_summary\": \"An elder nobleman declares behind closed doors that they will use the legal system to destroy an enemy.\",\n      \"cliffhanger_question\": \"Will the corrupt nobles successfully execute their plan to have the maid hanged for witchcraft?\",\n      \"why_it_works\": \"The candid depiction of aristocratic corruption and deliberate judicial framing sets a sinister backdrop for the wider story.\",\n      \"concerns\": [\n        \"The footage is entirely composed of static talking heads plotting in an office, lacking visceral physical stakes or direct conflict.\"\n      ]\n    }\n  ]\n}",
+            "thought_signature": "Ep03Cpo3AWkUfRPKTAxuZ9q4r0FXbw8k_5k8BjZ5xFC7GtltiunxIStWj1g3T8fjdQuVLqdHzGMv4EKGKQzI1vVA6njxFkLW5H3DptcdADYrXgsE4FBlU9WCf9fFXbPLjJrlEdkJSyY03SUnaCl6HSKTQzpiEVs55pqjWHOiF15NpVp8RO2tTvj2kQ81wGZz96UMU2isl35No4fjsrptgpKpmxOJBDct_DJaU5pU8is19n1cI8Wm8VLiZ_7TzuIi6M2yH73vv8Skj6Mx7MnkcDlJxc3jW4GJk_cOn7megQF_c3d-4yR_UGHXX0JgMrW4NXlzEwIVjMO5DmBVBGnniiXvZpaMncRHXlyx6HF8aAyPA3E133ac449ipsmh8v4D-ZZKxVG-F402leJnAa3LZO-C1Hmha8Z1jZHHG_bH9Wodx7iHyzh1w6vxqnrvs0WRQmM8n48I8cmzQtyVnL80iZQ2eCt2nr6j_T8lLnFX9WZVrfdQcx6c9DwEeW2kRKNHOufF0XG00xWremoSG7SnWbs2Jh_uoZ6QX0AzlM9utMRERH0gjY97-af07jLpeZm64OmHrJzOPqrrIRvPrFMPdHfJZiTwphJGNwrtf225qlZXYyMCg9x0jFuRxLQUQrPWo3sMLKGmIVwPFj6UfvsJV4ZebnHxWpq8uImBvQhHKSDOXcilcs_mbaK-wNT2EkUeBY4FcuEKfLnhCaRWuSlumh4Vny9x2TCOobQbuJVgVzS391LCSv5SrlyuzQPFn9gL-s8nm0vsJ_fxaSfEGVw0VGeywpli9Znf7nJ3glqPKWKMh67394VhG3k_7TphHdW98kzcUqfo8SpfkxBOpHtDu6JOCqOFe3axAIiQA3OhLpzSmtD9227CJGQRRH2h7bwXR9blbdnaossl9ym-jvgc5V6aygaHs9tERdZighlyBnQRqXjpJVRSzXcud43cdPReUSyKfrXyycRnErd9nR_ow3xZAqcB34Tc8_X2lxLd9q4J8tddmGuEYSRlUl2GqNZXc1A8qKe42k0kwBWX95EVubl3MNUHk1U75XSCihWBO-nvVawCCN3PdH4g3tWzPts9vFTky3G5RD87K9794dOcIxlvRi99DHpgMwDJuwDl9tcRG7Sry3bmMsN4rfZ14EEXCY_xbQVmPi4dT62FMj2JcSqvafU2tfhBF_h0rlwmJRoEn0Pw5DBfaOyPDSFQV8SHHpXBpm4354vO2kjvm8ZwuBuXDDzT7oMuZvQwHwKiVJ03lTTIj0w1j8h5tPSHKJP478xL04cfO0hYKvFIZkP1krriQzkDFrzQO-CJ_0JocQ1lEDWtReqYyK4JNfke7hJ2jw71sAvQ16-0oD53CxdA7f7GuAQcBnjpSBVRwNWssUvE_S8AsnPu1_1BA0UWS_4HcFL7IrZYsnfLSL2xZtDZxaUHyEXGaxTSiyc_QS6DEtOhA28NKkAJVh-lSz01M3I13ETB38OFOWgMesp9FA9qNM7ONsFRDkq8oUjsiGko1zz6P-_qErKmu1geJ2LRrw8PUedeok7ZoOK8aOCEYYdki2WsuRTd3VL-OsjsSYf1KM9pjEJZ-2mwvvd5B6VCWfY9qvT-KGKr1QKKjASPVPLAEy8emejfyDy9AINNq1lKLlc5VxLmBnzJ41skUXTEyZ8dVJS14lApxSf8NpvCAmHdATCDAJ780HJ3NNB240xp2h6WnRwvzGcMGWLIVPVHFRPOncdnTW5Spb93eftgIsK7vUZ2Vl4JKkkUKnErWzvrcL6K0np3NECJolozBg8s1NLSU8rORjj8lmwRMTcWSe-2bnOGRbHPZrXCJuJ_BQn5RlOXvV2ERh4guWT44AsshezH9xOvH0pe328OhqB12--AdW54O_n0Ly0zTUsTRvKDwxNjkMUUxBLAuDcEHzhfCJzds7Rd12X-YSYoWr0bLVRXGXzC2ruedlcavv-Fg0hu1GQY2fKvRaN9yf4z_04fGmq2-I3geHbk4BEFXeTuQZeuxVm0twoUzTFgutSrMpJ4KWLgEWBnOvsDCsrS2nBkt2ZBaL5GiofISVz3KyD5O5gv3n0OPjnvno5Ny2pB1rfZWT5qkMJ7wu4sK27q1nuMp54p2yU7tBhkIiK0f3tWKTocNT2hZO-o9sbc1kkxhW3HjY2ndhTOKNV3-hZkKqxis9TJh-ybNWoJ0xiqhyaL4DNm3C7Mh4Uahdr-j0c0L0IEH6wJtK4qZoZ_WXQVhdvS4j7UIFWkkHZHbk0s9QsFh07fUq60MW-UmlCSve5V9cJ1gFvgVYyhqTXM-UHJCVFoIVhU196D-1vvNfbLZPTqU7Yugp6bhroMdKtLKs0Cs_ZgqHeN24xrZXm0yTIggwlnuIaE7Z_8t86B69I8NyPyxJJhJffWY7yuhGcqcQQrnAkEBuR59N2RVAQLzAZymSLMk3riDkvdRVQauvPVDoPCX91mAbwSU3fz3W2Rz8sIqU595-dIC3xcNwoCtR1ZXU-18K-28vy9JzIQQuz2chcHvvsIJbnDnyOZAStSmYGrEcCZMc30vgLNjSMckUnl_76picfXIbVD1v7tqWj9ErxjNNObH5_r2GxOOR5RX1I8k7I0H0P6pdjk6OVEEUQtuL-s5eZOqzPmk-3besJFEp6rHLK9VacRARoJcbVLWF1H6dMPUaKx4ZXiwy_xNGgQNUGExbmHf4ih_n1CYYgNgFws8h5ieAEn-3KFoghgZ1ENk_-W-fjQenU7NzDKTOnN3JS5IT5VdjyxvVbruyD7SZVIrK7sLIvDMRunCC2WWvq4IY92joiuakyS5uwmpWiwwS536kV_slusDwfrShx209ITyhZfTaeBbmYJ6eWJdGZsH4_ZkMKoxg4n0f1x7aeGSehEShD-10JL_tmNSd2sX4EhM9VTBj-DPeKHonK6BHz-W-pbd3AqdOWe6wU_hrvV-zBfzweisOz2Yz6zH2vq_DS4pO88V9on_9zDV_aU_weyclIMY-u7JJZ4igymPqoDzCpXkpTjm-EVT7G1zKv_MOkLhHVEZHe6Uo8vh83Lb-P01BU37p0N0lCLvn-bRT_qRThqZZ4R9CBwadSN04AmAKckvHQkBZcTHEm8Kbb-askauQH0fvxBzA13-LxV4JuiqbGFkOC6DDN_V7SPerB78QpGvCDh-4iVnWfk62HFE3FbqX3x3269wvqQyj6xM36em6EG-IWHjF9dG-Zuvx8VPIzDh3TcScc2glFVy5QjdYb_RtVQvObsI7fZxSTrM4mtc4_kttFf4SevFmDTLmzrtBFXNOSvegZ3sai7dd6-MR-BWNVnXC7GaS3BbPd0h1kWgnkt-6ph0q9Cn97tL_a5qILnMLxXKZyQtgXaf8goeAG_rpgNiNKUiCbnXuj3UfTFI0BXLetU1nCncr7a6ZxaGrqAkXy1-DEeiOCU_am7CCydi494c_vE_ZRk_HcJBcD6TPrcpZL0tgBs4qdiiOnqVAloIJve0IcjQ7SxbUdM49mtIlqgO0dxEqmpDZzNIH0xOQJCWijxeIoM4K6NKNxLLs84sG-Z5BXhr9JURiWzTtsjlQI7OQiDJAoFf7Wh5tgoN4iHgZ9kBSH4I5KoCOfz3R_pxy9vwFFT19U8TC-BAml22Cadts4P-RgE8tW4xOX01wx9X7sNwBvTWoNAygavDU4szNkllUhhDArQ5y1roqumtCZJTOwl_TFfvtaJXx-_hWU64vz-qH6YKePebDLRteiWFvI8C81gWGhUYYoWIjdfhjwaDnUruDo9d2F-adR03jgaFAwcb7NNGCj8HELDDoycThQAPpsxWp2_mxkfTIrBdmgLCvFQ1DM9mx0IaSsp65aKxk1Dpki9XvL2Gng03YmN1RPwqhlKaVlJ_NaqBMOOfVyuPqB7QsoQBL71hMAbVeSfpCD5_IWBBlPk6U1xDfBltCWfvM2Afm9BKEoAqS803JnbYesI3GKKw91PuE4VAM9zKuzpv2hZWtxB_34XEKu9bHVjOLy1vs3B8bpf09Xw2MNoWndZWlw8OQblWGuKRPTn-J5hHC15xiLxuM9mv9ilU2dLZFyGEDqmF62TBNO37xbTOao2ctsWw-2LPIech_7Ky4i6LfN6cQmFwCJ-Q_lsZq7V_RJBc1LmECJ4bMJ7w2-WrW3fJgXvW55mT9yfWbptHy6fZd_bQHIylCd3jaWFX0unUpzw0lJivMziwV5_DVyg0OIBEhbqmvA8oQO3SeBKksOq8ynIpiN5hI0KrGw35twkAMTpxyyu9YTVXXegNHNawkbfZdjxOihKhZulK72b5uF0JrVhiDtR3vDo4eafuWyLrvWrJW-xTJ3oiM5m6oYgaes_4riuNz2fJaFXpexaPO5KcqgLqNoOcNimFSuPHaXhyZ16hA8RrAgy8Ao6HZKKrdffbJqL8L31SSC32RY0Cm-fUoFJRmLFv7k2OEFvXhnFo7kNY7NXtzVhiWqo4N8Vr9p9mLBR-OxsW8KMXqVnBN3BUbZaD4CebvWKd-GmRHZ51YpEOAE0E10ayI4kvDOuQ2WCHhbB_oBrAZAcz8lUHCqnFHnTTTcmU_Bq9qB9xZFqK9e5GO-QSbpKijfdzcgMHYKAhwn-gGQ0B-ODqUbUozQokTjmgfiEV8MgFf9ZR1M5j3M2Ndn0Pak-3i0Bdybz6Kq3J9ESZfzMJQUyQADEvcZ5l2SI76zIn-Cg-nc3gebALbBGy2MXxTTSr_2n4eYYfVoisFiGfgXn0KAOxxOBG0RVfxqMjxwaaP9iSVd8dIVbptZZTHsQQLli7OZaM61vh0sA-O1MyiMLskZqerbM74OAuM_TaG3oYZFWT_N1S37Y-S-eaHQLp8kvDrnugAQjncCYEJ3qj8OgWGu-ieu16xy7Hb01f2O5RnJMVDI8JHSp9Bq-2XUpMYR7lXcWFh6S9FZFUYgDgFG_6OVZHSAnujFf1jX6TRs34DwYbxGc7dqkr98M4mARiCwekLUx4uLDt4fppDBJ49DC4bo7kZC-Z1ZCuyP_obpiMWMhoNty7tnuHvRQwE0T304QCA-2qJsMzR9TQusRQZrembaF8-zjl-SvDeD-qUXCn_t08FZvf-jCcNWM74ZupO5Ja2qzLXcl-80GLiib1oLtq5cSdgpun3WzvQ9AQ3HL6pXs5sRP7hHBsl3nqA4Yv0GY0d4NQ4UvVJfyiJEsVnHXJBG9usOMiW9dVkLQ_02rqe3zLdQPxwj-fcTG3Ihls9GgautwEyBcSd6BBF0Tg4SzCIlBS_YYKglY2qX7gnY95gwMxd4ujz9LXWdeCId4CqjYkEe_BsWFgnH8Fhl_ap-jG5HSFcvhdlmrb3e1XyV73LuNxvVVSAjcYmn41CRG6-9Fjs3nIKbYzxjJbWCim-9mSJHTHePI83cigRDlYO3mUF-47kWSxRLtbUY-Lms8GwYiLT7GOC27yiFPz0vn9uSUrrnNwrVh2WTQmMkheOjKJQ0CO9MowoaXzNDn3xMG6JyY75JzhiPAkbZxfHE_ZHzFMizSO55LPnUygkkjGQt8WbY9Ky7mtQVQxCPiCGxDKeK2nQFvrX6CZsX1KBXdtFM19KeSJ9ETkAM4LvRZOXJNXdxlK4nHgrKjeVNNaUWFvb6luU0uUmjyL1wYMC0QF1lzYYjvUAYOL9JsWPaaXXqhPXe0fSgY7qnMay8QIfmvK8iimPrwv0ujevdxLJMFIO_Uw0Vmb1mob_9vmH9LwNnSeJxu9ty8fRHzeNldlNvIDshQMXvheZstY4-SursG2k_-9p8lBAn4b2NEGZQb2REWguCp5GNNLHrUho5CMwAdGeGdIfcdlFMiakJpphrRMUDvlwpCW71rTIbP-WRyKqaLKB9UIA9WIzsLg4_OTb5ITQ6APY6putdUQC1NT9P4Mau-CqLD14PUxFBE7n2Rp7ShzsR1ox3NlP0tP9vvAAHVaWcY8_PVv_WmC-YgLLvbkDkhRsV4Q8ktMtyBwAIFaTWVlP0kyICKiPlCC6qHFbAd2rxMQN0t0Cj0OsTA33HqINnw9umxRvIfhOMZXadUiUA5UwQMyKBDX_Ji6YVMPWhWcKXQdVN5nKmzprvJjTvTVHCK_OpjGuSmO_zSuMyzg1gAdZKBrbWhSxBlvDRLL1_SkzjZs1rcHf6gH8MwZxyGv2r6UpfUH9Jwmca_9HReni4I1sJHRlAjQuFNPSZ6ryTzRt5wWwdm7lAXdkpVpetkBDihlf1PbJVsRT30O8imf_MdSwqrp4ZKmRz7ii6pw_5QvqUoDGWY0Q4wArNeBsRKDKylMAEly_8I18boORO7wCnu7mveX9XWJTkG9wUx2jxW5VimyOeXADqcmOa4uiMJebJchFGvmiLSljbePrm_vOA1n0KtLNEswJ96kXw3LWhf-rJoVot6IiB9JjnVS2l295S6vs4ttydimrAsITDVr4wSU99nUlw_p7xBnRnDAj4WVoCnCN1pdMA85P90GcCZ4E3emeCfFkphqujgCz_LqWBIlnF2f2l-pWzYP53E4yQJ4djmNXoRdATCc-SI78CaX7nkwoihTO6evPLL6KHn71VWtcQUEyGl4nXLsTs9wSLdTr_TXmH9IiyKBgX1O9_5FiB16KoPsN1NuYMCDhcQzDD85CO1aR2g7tZN6c511H5_eFS59sb8fnLlRmmTuEFR3WYvljze9s9npoQ84NlaCRn034MDw6_pra748MWOUhPCLtb3j-K11vqWknaJuqCsyfFw7BWWgAtMjC8Pu9R9JE1hz2shwc_IGJ55Eq5eQ0fvA5WqKbplPmDHP-hzBvJeWy7_MCtvnnMKL9192kEE1Fm3VIv8zBQDUn3C3XTpitQnmA0Xr5JfL0Oa3yMET9etiC8cM5J5NjWIzq9f-dsmF6e3VYP7P8SBj1K5hMBRz5BpGEFboI8jMmHXjh4Pe_-_wAtwO3wgBXN8rMmtvkTJb4y0p83xXBvq54ChTx0umBCAYYeyPsApx8O7PVO5ZoB__DcxtTkT_vixkvHo6tezSizyRPZEBxo80ryJSDfad4Zj34M2jZ3arcsxYnwsekwTrkqFXB-f4-1TpY7090swd02CfszD8ktxUbxEwfmfDl9uEA4NIe6ipC6FUckmV41GgbfclUvYrkLPEmoN3eeIqhlFvdAsSauZAb-07xcEPf_KSynxTqqAmm8KnrMXwmeM2Z3BsWepZCQ5QCuvplWdsWf3jLsSn0QBAzSIJgnhZ4JsW3E0wGnDkaEbYtWDL9bBlnv9sanb8IQOpmEicA4tzNn7Ic37JtHwrDpyhNFQJbUL2t9n0TExkxAhwuFBOzs9GyiFIo3YkFG_YnX-aZylDRmzxWqH2JPFUIbYcZMVvknxM6IajOAYriffRs8QI9EwJ7ZTccVMM_-j7VvCOdjYpu1wsg4mI5npoqpkxuenLvFDMLvjA1N930f62RiFr1Bk08re8TD2FKE5A6CeFbW_D1n-YNFx-7AqZ54p4WWvMdxevHUiR-EiEjRktmZ83JBFVjGGDnUu30qLxr9RuLXStM7d7dmFIzJdUWDGqfS71E2fKk9g1t0VFpC0Z65rmG8igEFngg8wbyEFWHlqfcD4tNDXdZxBB54yQJA2OxiKZ5UZHiZpJdpCI2TWd5KzRwGkdnJIHc4V1k6oMZtTHaL31xx4EUdCpiJ9h8ao2pCgqD_gfwfEbAWyFadkrnVV1An98RukUvTpN6kFHXM9qVvtG3FkAwR0rDhRdgSlIht33iMHzGnlgFJyyagDyRBHXTa-_CCJJaX_up719ruyYWY-M3YHfw18sppR9j50fUF1inulffN-qv5MHnK43TnrTQ_6JdtlPwIjbJ495czOz9i2kGHkB3otdeARUqlkkeVWMFqP1TGcsrW0JtRaftAwrkyQKS75UxaWlsNzUzph3K2-SZsnkhVIFJvLd2Of3rUzZJwjrt9UBedUToUbl8ZogPhhJDLz-pp-lQs8_esLKLi5mtFrDPVTPIHDpJNbAVI0t9Bi8RbooGvuXfvRxQk9t-Inb_OjNZn3yBhGKl6hqBBNz2vGz4Z1ILJlzONeKgbVLW8xQx8SzFVoqxtwxsGwNmZaCcJHGUrvbz9iVwqXypGt6ZKJwBRTOtk61AFuiIO22ND_FExgTwTbbtlG-O301ZXfnCbgak2V4g_bZv4o0cCLVW42nJFZbPEL9gMSg7J3cBEm2NvCRAsJmt-9u1xVnrtEcyvIodBk1TNbBsvQcKWyPwtz_yvAHOPOE0xuShGKzwNEWATaCfYxerPJ1gOnXwzaajbgoL5XUYnxzeku1PzMUrO-GaCP2-tdA-3diGUYFyaPGIOW3T8ssPFC40TPDE-3eopF3uJJ3VKoxP-9Q5hsFZn1dywH5QwuTxmQbqVhaij8FmHom3WIPtIck660FNlgVvsjeG5wnYyQjUDcry5TWZtTXufBbW5pE5_UNwYbSBII43h7zygzu-JJZc9WhTIwkamto8Kyb9oMyjxyIzPvQZMPhonzwAoVG_S2Thh079uoKXZH9cvtHqSg6GLwRPFJqXmOvjFoi6gr4afdkSIj-aKienmjMGiKQ4gTL55r_12ITri4UaWyevi_yE6BFjWDozhmYdJQYj0K26LhPJ92yeWuN3PROSMZqKYoaWY_6J_CrrMNhtF1MSdhKfdgEqgjXHt_i4Pth5Z4St-jU5JoyNlh-9wK_IDNenL49Md60KKGv7qWXa6Qn_wg-o_iYMw0thDexxTPtkQtAuqi20tMZNRVxQMZ9gNfpg7mN7u_sQ7pgKDW4BIyl4QEe-4XJ0oAoqMLMVVy6iY2gOgzBjHz8HrSwnF4T3ab2DYfwnlV4BKHRdFL6GmGxL4k9qhehGNTKEw4l9a5gON7hFtUXNb95ECf5H972lbADrw2M2lDQc3O9DM97wFj8ni_lO-FX0V4BSFNRoAYXRdhqR64mhYE9ZH6Ftlm9dIwBlBQi9Z6CYGz0vcrP_Bjj0afXefv3ahtLEgSIFbV4Nr7azcxAlioqxxh_MVMSc22cCpPdtNbHVpG9cHiqRgvh4aS0NFGtyrFcRy34oyZjQfhOI-WiXhsvtd22Oadxk9qJdJgUrcX758XAcizNOauvvzWUnzDs2QP2KJKXZwdVDZNLHGgwP3D5EE4VIrEkxzqDwsZTkG84aRxm-lJJz02UXSpIE5L4TXgFYE_M2Q1RM9GQKbE1HOax40T5EHWO5VzMQTToiwGz4WbwcHVkW8dutrJW2t0d5hZHumfUG-BeVeyERGmbcAeLo_idT-ar63ZLJMozCp8cg8wwRSXEXzExpubqIcylymUe4wnafEIZ_gMUYuIbjNRc0AC3crGihl3_eE3h5RoxzRfJYushIhRNXUqAlf5tUyrE1h_Ri8RWazDQaeab8kUeZQt_OK027k7Nsojm4Tu6g0UpMmN-6jklwj_eue7lcoEiOWnZ38liH8CH2e9cl9KBfvdUF9PYAQqKTGRbg=="
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": "STOP",
+      "index": 0
+    }
+  ],
+  "model_version": "gemini-3.8-flash",
+  "response_id": "vEnwapvTD5T0z7sPmNGhWA",
+  "usage_metadata": {
+    "candidates_token_count": 4255,
+    "prompt_token_count": 19143,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 19143
+      }
+    ],
+    "thoughts_token_count": 2465,
+    "total_token_count": 25863
+  },
+  "automatic_function_calling_history": [],
+  "parsed": {
+    "assessments": [
+      {
+        "candidate_id": "W005-C002",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E026-B0030",
+            "E026-B0031"
+          ],
+          "reason": "The Dowager Duchess immediately questions why a noble-spirited girl works as a common maid, delivering an intriguing opening line but within a quiet bedroom dialogue setting."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E026-B0049",
+            "E026-B0051"
+          ],
+          "reason": "The Duchess grips Juliana's hand frantically demanding where she got the signet ring, cutting to black on an unresolved, urgent identity inquiry."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E026-B0031",
+            "E026-B0033",
+            "E026-B0034",
+            "E026-B0049"
+          ],
+          "reason": "The dynamic between the bedridden Duchess and the proud, disowned maid is immediately understandable, centering clearly around the recognized signet ring."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E026-B0034",
+            "E026-B0037",
+            "E026-B0046",
+            "E026-B0049"
+          ],
+          "reason": "The scene steadily builds from a calm conversation to shock upon sighting the ring, culminating in physical restraint and frantic demands."
+        },
+        "hook_summary": "A bedridden duchess questions why a woman of noble spirit is serving as a common maid.",
+        "cliffhanger_question": "How will Juliana explain how she obtained the noble signet ring?",
+        "why_it_works": "The progression hinges on a clear visual reveal of the signet ring that instantly turns a somber bedside conversation into an urgent mystery.",
+        "concerns": [
+          "The opening seconds are relatively restrained and talk-heavy for a short-form acquisition promo."
+        ]
+      },
+      {
+        "candidate_id": "W006-C001",
+        "hook": {
+          "score": 1,
+          "evidence_ids": [
+            "E026-B0030",
+            "E026-B0031"
+          ],
+          "reason": "The first two seconds consist of a static silent shot before the spoken question begins, giving little reason to stop scrolling."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E026-B0049",
+            "E026-B0051"
+          ],
+          "reason": "The cut lands right as the Duchess desperately demands the origin of the signet ring while clutching Juliana's hand."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E026-B0031",
+            "E026-B0033",
+            "E026-B0034",
+            "E026-B0049"
+          ],
+          "reason": "Juliana's disgraced background and the Duchess's unexpected recognition of her ring are easily followed without external context."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E026-B0035",
+            "E026-B0037",
+            "E026-B0044",
+            "E026-B0049"
+          ],
+          "reason": "Tension ramps cleanly from the visual sighting of the ring to the elder woman's physical agitation and emotional interrogation."
+        },
+        "hook_summary": "A prolonged silent look precedes an elderly duchess questioning a maid about her noble bearing.",
+        "cliffhanger_question": "What is the Duchess's connection to the ring and what will Juliana reveal?",
+        "why_it_works": "The discovery of a hidden aristocratic relic effectively pivots a servant drama into a high-stakes identity puzzle.",
+        "concerns": [
+          "The two-second delay before dialogue starts softens the initial scroll-stopping punch."
+        ]
+      },
+      {
+        "candidate_id": "W005-C003",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E027-B0001",
+            "E027-B0002"
+          ],
+          "reason": "Starts on a tight close-up of trembling hands clutching a ring and a breathless remark, establishing curiosity without explosive conflict."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E027-B0025",
+            "E027-B0026",
+            "E027-B0028"
+          ],
+          "reason": "Just as the Duchess asks for the name of the husband carrying her lost son's ring, guards and hostile nobles violently kick the door open."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E027-B0006",
+            "E027-B0012",
+            "E027-B0016",
+            "E027-B0028"
+          ],
+          "reason": "The dialogue economically conveys that Juliana's husband gave her a crest ring belonging to the Duchess's presumed-lost son, interrupted by arriving antagonists."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E027-B0006",
+            "E027-B0012",
+            "E027-B0016",
+            "E027-B0025",
+            "E027-B0028"
+          ],
+          "reason": "Each exchange deepens the revelation of her husband's true identity until external danger crashes into the room at peak narrative tension."
+        },
+        "hook_summary": "An elderly duchess clutches a maid's hand, scrutinizing a worn ring.",
+        "cliffhanger_question": "Will Juliana identify her husband as the lost heir before the armed intruders take control of the room?",
+        "why_it_works": "The cut layers a major genealogical discovery with an immediate physical breach, maximizing narrative momentum and personal stakes.",
+        "concerns": [
+          "The dialogue requires viewers to actively listen through several historical exposition points."
+        ]
+      },
+      {
+        "candidate_id": "W005-C004",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E027-B0065",
+            "E027-B0066",
+            "E027-B0068"
+          ],
+          "reason": "Juliana raises a vial declaring it is an antidote, immediately met with an aggressive sneer demanding to know what it treats."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E027-B0090",
+            "E027-B0091",
+            "E027-B0092",
+            "E027-B0095"
+          ],
+          "reason": "Juliana is framed for administering poison and forcibly seized by an armed guard as terror strikes her face."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E027-B0066",
+            "E027-B0077",
+            "E027-B0081",
+            "E027-B0088",
+            "E027-B0091"
+          ],
+          "reason": "The frame-up is crystal clear: Juliana's claim of an antidote is deliberately inverted by hostile nobles into an admission of poisoning."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E027-B0073",
+            "E027-B0081",
+            "E027-B0086",
+            "E027-B0090",
+            "E027-B0093"
+          ],
+          "reason": "The scene tightens like a vice from an initial accusation to weaponized false confession, confiscation of evidence, and sudden physical arrest."
+        },
+        "hook_summary": "A maid holds up a mysterious vial and announces she has an antidote.",
+        "cliffhanger_question": "Can Juliana escape the fabricated charge of poisoning before she is locked away?",
+        "why_it_works": "A fast, punchy start leads directly into an airtight trap where the protagonist's honest defense is maliciously twisted against her.",
+        "concerns": [
+          "The ending cut is a standardized capture beat rather than a surprising new revelation."
+        ]
+      },
+      {
+        "candidate_id": "W006-C002",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E027-B0061",
+            "E027-B0062"
+          ],
+          "reason": "A nobleman delivers a threatening line about finding an unauthorized maid by the bed, which establishes tension but lacks sudden visual punch."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E027-B0090",
+            "E027-B0091",
+            "E027-B0092",
+            "E027-B0095"
+          ],
+          "reason": "Ends on the guard roughly dragging Juliana away after the aristocrats construct a false case of poisoning against her."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E027-B0062",
+            "E027-B0066",
+            "E027-B0081",
+            "E027-B0090"
+          ],
+          "reason": "The premise and rapid framing of the maid for attempted murder are totally transparent and self-contained."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E027-B0063",
+            "E027-B0073",
+            "E027-B0081",
+            "E027-B0086",
+            "E027-B0092"
+          ],
+          "reason": "Good progression across the entire scene, although the slower opening monologue slightly dampens the initial drive compared to tighter cuts."
+        },
+        "hook_summary": "A nobleman confronts a maid discovered alone in a restricted bedroom with an unauthorized substance.",
+        "cliffhanger_question": "Will Juliana be executed under the fabricated charge of poisoning the Duchess?",
+        "why_it_works": "The confrontation provides a full dramatic arc showing how corrupt aristocrats engineer a trap to eliminate an inconvenient witness.",
+        "concerns": [
+          "The opening ten seconds drag before Juliana's antidote declaration accelerates the scene."
+        ]
+      },
+      {
+        "candidate_id": "W005-C005",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E028-B0072",
+            "E028-B0073"
+          ],
+          "reason": "Catherine smiles wickedly from a book and names Lady Juliana Ashcroft, creating an intriguing identity reveal but lacking dynamic action."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E028-B0090",
+            "E028-B0094",
+            "E028-B0095",
+            "E028-B0096"
+          ],
+          "reason": "Catherine threatens that Juliana's seized book will send her to the gallows as guards drag her away into the south tower cells."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E028-B0073",
+            "E028-B0077",
+            "E028-B0079",
+            "E028-B0087",
+            "E028-B0090"
+          ],
+          "reason": "Catherine explicitly spells out Juliana's fallen status and husband before ordering her imprisoned on fabricated charges."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E028-B0077",
+            "E028-B0082",
+            "E028-B0087",
+            "E028-B0090",
+            "E028-B0095"
+          ],
+          "reason": "Moves steadily from verbal mockery to physical retaliation, book confiscation, and an explicit death sentence threat."
+        },
+        "hook_summary": "A villainous woman recognizes a maid's true noble identity and mocks her fall from grace.",
+        "cliffhanger_question": "Will Juliana face execution at the gallows after her mother's herbarium is used against her?",
+        "why_it_works": "The villain's personal animosity and the weaponization of the mother's book give the heroine's imprisonment personal and emotional weight.",
+        "concerns": [
+          "Relies heavily on extended antagonistic monologue during the middle stretch."
+        ]
+      },
+      {
+        "candidate_id": "W006-C003",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E028-B0072",
+            "E028-B0073"
+          ],
+          "reason": "Opens with Catherine smiling malevolently and declaring Juliana's full noble name, offering identification intrigue without kinetic urgency."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E028-B0090",
+            "E028-B0094",
+            "E028-B0095",
+            "E028-B0096"
+          ],
+          "reason": "Ends on Catherine promising the gallows while holding Juliana's precious book as Juliana is dragged away in terror."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E028-B0073",
+            "E028-B0077",
+            "E028-B0079",
+            "E028-B0087",
+            "E028-B0090"
+          ],
+          "reason": "Juliana's past as an exiled noble married to a veteran and the threat of execution by magistrate are outlined cleanly."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E028-B0077",
+            "E028-B0082",
+            "E028-B0087",
+            "E028-B0090",
+            "E028-B0095"
+          ],
+          "reason": "Taunting escalation turns into an actionable dungeon order and capital threat over her mother's herbarium."
+        },
+        "hook_summary": "A haughty noblewoman discovers the true identity of her maid and gloats over her ruin.",
+        "cliffhanger_question": "How will Juliana save herself from the gallows with her mother's botanical book taken as evidence?",
+        "why_it_works": "Vivid villainy and the immediate threat of capital punishment create high emotional investment in Juliana's fate.",
+        "concerns": [
+          "The extended villain monologue risks feeling formulaic before the physical struggle begins."
+        ]
+      },
+      {
+        "candidate_id": "W005-C006",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E030-B0030",
+            "E030-B0031"
+          ],
+          "reason": "The line 'We use the law to destroy her' sets up a clear ruthless conspiracy, though visually it is just men conversing in a study."
+        },
+        "cliffhanger": {
+          "score": 2,
+          "evidence_ids": [
+            "E030-B0045",
+            "E030-B0047",
+            "E030-B0049"
+          ],
+          "reason": "The cut ends on an instruction to buy a jury and frame the trial for witchcraft; while high in theoretical stakes, it is purely future planning rather than an ongoing crisis."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E030-B0031",
+            "E030-B0035",
+            "E030-B0039",
+            "E030-B0043",
+            "E030-B0049"
+          ],
+          "reason": "The dialogue plainly details the conspirators' strategy to twist medicinal herbs into capital witchcraft charges."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E030-B0035",
+            "E030-B0039",
+            "E030-B0043",
+            "E030-B0049"
+          ],
+          "reason": "The pacing remains static throughout, showing characters pacing a desk and laying out hypothetical legal maneuvers without scene-level pressure."
+        },
+        "hook_summary": "An elder nobleman declares behind closed doors that they will use the legal system to destroy an enemy.",
+        "cliffhanger_question": "Will the corrupt nobles successfully execute their plan to have the maid hanged for witchcraft?",
+        "why_it_works": "The candid depiction of aristocratic corruption and deliberate judicial framing sets a sinister backdrop for the wider story.",
+        "concerns": [
+          "The footage is entirely composed of static talking heads plotting in an office, lacking visceral physical stakes or direct conflict."
+        ]
+      }
+    ]
+  }
+}

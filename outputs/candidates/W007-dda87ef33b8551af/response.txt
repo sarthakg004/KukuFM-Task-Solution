@@ -1,0 +1,74 @@
+{
+  "candidates": [
+    {
+      "title": "The Burning Ledger",
+      "segments": [
+        {
+          "start_id": "E031-B0068",
+          "end_id": "E031-B0087"
+        }
+      ],
+      "hook": "At E031-B0069 (02:04.20, 0.20s in), Juliana defies her captor with the scathing line, 'If you were truly powerful, Catherine, you wouldn't need me to bow.' This immediately establishes high-status conflict between prisoner and aristocrat.",
+      "cliffhanger": "At E031-B0087 (02:40.00), Catherine swings the glowing iron poker toward Juliana's face, stopping inches away with the ember reflected in Juliana's pupil before cutting to black. The unresolved question is whether Catherine will blind or disfigure Juliana with the scalding brand.",
+      "standalone_context": "Lady Juliana is chained to a subterranean wall while an opulent noblewoman named Catherine torments her with a red-hot iron. Catherine uses the botanical book left by Juliana's deceased mother as psychological leverage before escalating into physical violence.",
+      "why_it_works": "A sharp verbal challenge provokes Catherine into incinerating Juliana's most precious heirloom and culminates in a terrifying physical threat inches from her eye.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "Writing the Testimony",
+      "segments": [
+        {
+          "start_id": "E033-B0069",
+          "end_id": "E033-B0092"
+        }
+      ],
+      "hook": "At E033-B0070 (01:54.00, 0.20s in), the Lord paces and points accusingly, declaring, 'You saw a woman draw a circle of herbs.' This instantly hooks the viewer with a formal legal accusation.",
+      "cliffhanger": "At E033-B0092 (02:36.20), the Lord delivers his final ultimatum after the maid sobs that Juliana saved her brother: 'And now... you will save your brother.' The unresolved question is whether the maid will commit perjury to frame Juliana for witchcraft to protect her brother.",
+      "standalone_context": "A calculating nobleman interrogates a weeping servant maid in his study, systematically twisting her account of Juliana saving her brother with medicinal herbs into manufactured proof of witchcraft, coercing her to testify falsely before a magistrate.",
+      "why_it_works": "The scene builds methodical psychological pressure as an aristocrat perverts an act of medical mercy into a capital crime through extortion.",
+      "concerns": "The specific earlier context that the brother faces imprisonment in the county gaol is implied rather than explicitly stated within this excerpt."
+    },
+    {
+      "title": "The Witchcraft Verdict",
+      "segments": [
+        {
+          "start_id": "E034-B0090",
+          "end_id": "E034-B0116"
+        }
+      ],
+      "hook": "At E034-B0091 (02:22.40, 0.20s in), the Judge holds his hand over the law book and commands, 'Lady Juliana, if you wish to save yourself, renounce these practices.' This immediately establishes life-or-death judicial stakes.",
+      "cliffhanger": "At E034-B0114 to E034-B0116 (03:10.00), the Judge rises, bellows Juliana's name, and raises his hand to pronounce the final sentence as heavy silence descends before fading to black. The unresolved question is whether the Judge will sentence Juliana to death for witchcraft.",
+      "standalone_context": "Lady Juliana stands shackled in the prisoner's dock during a public trial accused of unlawful healing and witchcraft. She is given an opportunity by the magistrate to save her life by renouncing her medical remedies, but proudly chooses conviction over recanting.",
+      "why_it_works": "Juliana's uncompromising moral stand forces the magistrate to gavel down the court and raise his hand to pronounce her ultimate sentence.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "Condemned to Die",
+      "segments": [
+        {
+          "start_id": "E036-B0065",
+          "end_id": "E036-B0100"
+        }
+      ],
+      "hook": "At E036-B0066 (01:45.90, 0.10s in), Alexander's mother clutches his arms and cries out, 'Rupert and Catherine accused her of poisoning me!' This provides an immediate shock reveal of treason and false accusation.",
+      "cliffhanger": "At E036-B0100 (02:43.00), Alexander's realization hardens into lethal fury as he states, 'They are marrying in two days... and killing my wife afterward.' The unresolved question is how Alexander can stop the wedding and save his wife from execution within forty-eight hours.",
+      "standalone_context": "A scarred man named Alexander learns from his mother that the usurpers Rupert and Catherine framed his wife Juliana for poisoning and witchcraft, securing a death sentence that will be carried out immediately after their upcoming wedding in two days.",
+      "why_it_works": "A cascade of alarming discoveries creates an urgent, forty-eight-hour ticking clock for a presumed-dead protagonist to rescue his condemned wife.",
+      "concerns": "None identified."
+    },
+    {
+      "title": "Reclaiming the Ducal House",
+      "segments": [
+        {
+          "start_id": "E039-B0038",
+          "end_id": "E039-B0059"
+        }
+      ],
+      "hook": "At E039-B0040 (01:02.00, 0.80s in), Alexander inspects the combat scar on his freshly groomed face in the mirror and declares, 'Enough hiding. They buried Alexander Ashwin three years ago.' This immediately establishes a high-stakes return from the dead.",
+      "cliffhanger": "At E039-B0058 (01:38.41), Alexander strides forward through the deep snow and makes his resolute vow, 'And I am bringing my wife home,' before the screen cuts to black. The unresolved question is whether Alexander's assault force will secure the chapel in time to disrupt the ceremony and rescue his captive wife.",
+      "standalone_context": "A battle-scarred nobleman who has lived in hiding for three years discards his rugged guise, dons his gold-embroidered ducal regalia, commands his waiting soldiers to secure the chapel, and marches off to reclaim his ancestral title and rescue his wife.",
+      "why_it_works": "An inspiring visual and narrative transformation turns a brooding survivor into an authoritative Duke launching an armed campaign to rescue his wife.",
+      "concerns": "None identified."
+    }
+  ]
+}

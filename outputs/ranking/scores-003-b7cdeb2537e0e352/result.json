@@ -1,0 +1,361 @@
+{
+  "data": {
+    "assessments": [
+      {
+        "candidate_id": "W003-C006",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E019-B0027",
+            "E019-B0028"
+          ],
+          "reason": "A scarred operative appears through the dense fog and bows deferentially, greeting Alexander as 'Your Grace' to establish an intriguing covert dynamic."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E019-B0048",
+            "E019-B0050"
+          ],
+          "reason": "Alexander offers only a broad declaration of future revenge ('Then Ashburg will remember who it belongs to'), leaving no active or imminent crisis unresolved."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E019-B0031",
+            "E019-B0033",
+            "E019-B0043",
+            "E019-B0045"
+          ],
+          "reason": "The informant clearly outlines Rupert's usurpation of the estate, the mother's captivity, and the widespread belief that Alexander is dead."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E019-B0031",
+            "E019-B0037",
+            "E019-B0043",
+            "E019-B0047"
+          ],
+          "reason": "The stakes escalate through new narrative revelations, but the progression remains a static verbal debrief in the forest."
+        },
+        "hook_summary": "A scarred man emerges from the misty woods and bows deferentially to Alexander, addressing him as 'Your Grace'.",
+        "cliffhanger_question": "No immediate question remains beyond whether Alexander will eventually reclaim Ashburg in the future.",
+        "why_it_works": "Sets up the premise of a presumed-dead heir plotting against a domestic usurpation through an atmospheric, moody briefing.",
+        "concerns": [
+          "Lacks a cliffhanger with immediate narrative urgency, closing on a generic vow.",
+          "Visually static with two men simply standing and talking in the fog."
+        ]
+      },
+      {
+        "candidate_id": "W004-C003",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E019-B0027",
+            "E019-B0028"
+          ],
+          "reason": "A scarred follower emerges from the foggy forest to bow and address Alexander as 'Your Grace', creating clear intrigue about his hidden identity."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E019-B0048",
+            "E019-B0050"
+          ],
+          "reason": "Concludes on a rhetorical declaration of future vengeance without an active ticking clock or unresolved physical dilemma."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E019-B0031",
+            "E019-B0033",
+            "E019-B0043",
+            "E019-B0045"
+          ],
+          "reason": "The dialogue plainly conveys that Alexander is presumed dead while rivals usurp his title and hold his mother captive."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E019-B0031",
+            "E019-B0037",
+            "E019-B0043",
+            "E019-B0047"
+          ],
+          "reason": "The dialogue steadily stacks grievances, but the pacing is slow and confined entirely to expositional delivery."
+        },
+        "hook_summary": "A scarred operative steps out of the foggy woods to bow and address Alexander as 'Your Grace'.",
+        "cliffhanger_question": "No concrete dilemma is left unresolved beyond a distant promise of retribution.",
+        "why_it_works": "Provides clear narrative exposition regarding the usurpation and Alexander's covert survival in a single continuous beat.",
+        "concerns": [
+          "Ends on a broad vow rather than an immediate narrative hook.",
+          "The clip ends abruptly on a partial boundary visual cut as Alexander finishes his sentence."
+        ]
+      },
+      {
+        "candidate_id": "W004-C004",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E020-B0007",
+            "E020-B0008"
+          ],
+          "reason": "Rupert adjusts his leather gloves and smugly proclaims that 'The estate is practically ours', establishing a conspiratorial tone early."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E020-B0025",
+            "E020-B0027"
+          ],
+          "reason": "Rupert answers Catherine's question directly by stating the Dowager will not survive the winter, closing the exchange on villainous gloating rather than an open dilemma."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E020-B0008",
+            "E020-B0011",
+            "E020-B0015",
+            "E020-B0021"
+          ],
+          "reason": "The plotters' ambition, their reliance on Alexander's confirmed death, and their quiet murder of the Dowager are fully intelligible."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E020-B0009",
+            "E020-B0015",
+            "E020-B0018",
+            "E020-B0022"
+          ],
+          "reason": "The conversation tightens from succession paperwork to Alexander's official death, culminating in the chilling revelation of the Dowager's poisoning."
+        },
+        "hook_summary": "Rupert steps forward gloating to Catherine that the estate is practically theirs.",
+        "cliffhanger_question": "No immediate question remains because Rupert explicitly answers Catherine's query about how long the Dowager will survive.",
+        "why_it_works": "Exposes the villains' cold-blooded scheme and impending matricide with clear, sharp dialogue.",
+        "concerns": [
+          "The conversation reaches a complete, neat conclusion with no unresolved tension at the cut.",
+          "The opening dialogue begins on a partial boundary mid-sentence."
+        ]
+      },
+      {
+        "candidate_id": "W004-C005",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E021-B0003",
+            "E021-B0004",
+            "E021-B0005"
+          ],
+          "reason": "Barn doors slam open loudly and a sobbing village girl rushes in screaming that her brother Toby is dying, creating immediate high stakes."
+        },
+        "cliffhanger": {
+          "score": 2,
+          "evidence_ids": [
+            "E021-B0022",
+            "E021-B0025"
+          ],
+          "reason": "Juliana resolves the immediate dilemma by declaring 'We go now', leaving open the question of Toby's survival but lowering the immediate tension of the decision."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E021-B0005",
+            "E021-B0010",
+            "E021-B0014",
+            "E021-B0019"
+          ],
+          "reason": "The immediate crisis is completely clear: a poor girl needs urgent medical aid for her suffocating brother after corrupt officials rejected her."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E021-B0010",
+            "E021-B0014",
+            "E021-B0019",
+            "E021-B0025"
+          ],
+          "reason": "The scene moves cleanly from the girl's panic to the systemic neglect of the village, Juliana's lost clinic, and her firm resolve to intervene."
+        },
+        "hook_summary": "A frantic girl bursts into the barn in tears, crying that her young brother Toby is dying.",
+        "cliffhanger_question": "Will Lady Juliana arrive in time with her remedies to save seven-year-old Toby from suffocating?",
+        "why_it_works": "A high-energy, emotionally accessible call to action that defines the protagonist's medical skill and moral compass.",
+        "concerns": [
+          "The cut occurs after Juliana agrees to go, resolving the central debate of the scene before ending.",
+          "Completely detached from the aristocratic conspiracy depicted in other episodes."
+        ]
+      },
+      {
+        "candidate_id": "W004-C006",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E023-B0039",
+            "E023-B0040"
+          ],
+          "reason": "Juliana delivers a blunt, shocking statement within the first three seconds: 'Someone is poisoning her.'"
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E023-B0063",
+            "E023-B0066",
+            "E023-B0067"
+          ],
+          "reason": "The door latch rotates and the heavy chamber door cracks open while Juliana is trapped mid-preparation of an antidote, creating an imminent crisis."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E023-B0040",
+            "E023-B0045",
+            "E023-B0047",
+            "E023-B0057"
+          ],
+          "reason": "A first-time viewer immediately understands that the bedridden woman has been poisoned with arsenic and that Juliana is risking capture to cure her."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E023-B0045",
+            "E023-B0047",
+            "E023-B0053",
+            "E023-B0058",
+            "E023-B0067"
+          ],
+          "reason": "Tension mounts relentlessly from the poison diagnosis to the patient's spasms, the frantic grinding of charcoal, approaching footsteps, and the door opening."
+        },
+        "hook_summary": "Lady Juliana sternly informs Prudence that the Duchess is being poisoned with arsenic.",
+        "cliffhanger_question": "Who is opening the bedroom door, and will Juliana be caught before she can administer the charcoal remedy?",
+        "why_it_works": "Combines a life-or-death medical race with an impending intruder discovery, culminating in an unbearable cliffhanger right as the door opens.",
+        "concerns": [
+          "The broader identity of the Duchess and the specific perpetrator are not detailed within the excerpt."
+        ]
+      },
+      {
+        "candidate_id": "W005-C001",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E023-B0039",
+            "E023-B0040"
+          ],
+          "reason": "Juliana immediately commands attention in the opening seconds by declaring 'Someone is poisoning her.'"
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E023-B0063",
+            "E023-B0066",
+            "E023-B0067"
+          ],
+          "reason": "The door handle turns and the door begins opening into the chamber while Juliana is caught red-handed preparing an antidote, creating an imminent crisis."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E023-B0040",
+            "E023-B0045",
+            "E023-B0047",
+            "E023-B0057"
+          ],
+          "reason": "The immediate stakes are crystal clear: the patient is dying of arsenic, Juliana is preparing charcoal to save her, and an intruder is walking in."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E023-B0045",
+            "E023-B0047",
+            "E023-B0053",
+            "E023-B0058",
+            "E023-B0067"
+          ],
+          "reason": "Every beat ratchets up the pressure, progressing from the poison reveal to physical spasms, hasty medicine compounding, footsteps, and the turning doorknob."
+        },
+        "hook_summary": "Lady Juliana reveals to Prudence that the Duchess is being deliberately poisoned with arsenic.",
+        "cliffhanger_question": "Who is walking through the door, and will Juliana be caught before she can administer the cure?",
+        "why_it_works": "Flawlessly executes a classic ticking-clock trope, blending high-stakes medical treatment with an impending discovery at the cut.",
+        "concerns": [
+          "The wider political context of the manor is left unexplained in this specific excerpt."
+        ]
+      },
+      {
+        "candidate_id": "W004-C007",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E025-B0031",
+            "E025-B0032"
+          ],
+          "reason": "Alexander confronts Juliana in a dim forest, asking why she was inside Ashburg Manor to set up clear conversational tension."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E025-B0051",
+            "E025-B0052",
+            "E025-B0053"
+          ],
+          "reason": "Ends purely on an angry reaction shot of Alexander clenching his scarred fist, offering no immediate choice, ticking clock, or physical peril."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E025-B0032",
+            "E025-B0037",
+            "E025-B0043",
+            "E025-B0049"
+          ],
+          "reason": "The dialogue clearly explains that the Dowager Duchess was dying not from natural causes, but from intentional arsenic poisoning."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E025-B0037",
+            "E025-B0041",
+            "E025-B0045",
+            "E025-B0051"
+          ],
+          "reason": "The exchange steadily builds to the revelation of arsenic poisoning, though it remains a slow-paced walk-and-talk in the woods."
+        },
+        "hook_summary": "In a dim forest, Alexander demands to know why Juliana was inside Ashburg Manor.",
+        "cliffhanger_question": "No active question remains beyond how Alexander will eventually act on the revelation that his mother was poisoned.",
+        "why_it_works": "Connects the medical mystery to Alexander's personal stakes through a direct, solemn revelation.",
+        "concerns": [
+          "Ends on a silent fist clench without any urgent forward momentum.",
+          "The conversation unfolds slowly with little visual variety."
+        ]
+      }
+    ]
+  },
+  "model_used": "gemini-3.7-flash",
+  "key_name": "GEMINI_API_KEY4",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 2942,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 16329,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 16329
+      }
+    ],
+    "thoughts_token_count": 6724,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 25995,
+    "traffic_type": null
+  },
+  "attempts": [
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY4",
+      "attempt": 1,
+      "status": "success"
+    }
+  ],
+  "output_directory": "outputs/ranking/scores-003-b7cdeb2537e0e352/key-1"
+}

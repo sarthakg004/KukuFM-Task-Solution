@@ -1,0 +1,383 @@
+{
+  "data": {
+    "assessments": [
+      {
+        "candidate_id": "W007-C004",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E036-B0065",
+            "E036-B0066"
+          ],
+          "reason": "Alexander's mother immediately delivers an urgent, emotional revelation that Rupert and Catherine accused her of poisoning."
+        },
+        "cliffhanger": {
+          "score": 2,
+          "evidence_ids": [
+            "E036-B0098",
+            "E036-B0100"
+          ],
+          "reason": "A high-stakes impending deadline is established, but the cut ends on spoken realization and a furious glare rather than an active cliffhanger event."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E036-B0066",
+            "E036-B0076",
+            "E036-B0085",
+            "E036-B0093",
+            "E036-B0100"
+          ],
+          "reason": "The rapid dialogue clearly unpacks the entire backstory: Juliana saved the mother, got framed as a witch, and faces execution following an enemy wedding."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E036-B0074",
+            "E036-B0082",
+            "E036-B0085",
+            "E036-B0089",
+            "E036-B0096"
+          ],
+          "reason": "Each exchange reveals a worse layer of danger—from condemnation to execution, tying it directly to a ticking clock of two days."
+        },
+        "hook_summary": "A tearful mother grips Alexander's arms and reveals that enemies framed Juliana for poisoning her.",
+        "cliffhanger_question": "Can Alexander intervene within two days to stop the wedding and save his wife from execution?",
+        "why_it_works": "The escalating sequence of devastating revelations efficiently builds a desperate ticking-clock rescue mission.",
+        "concerns": [
+          "The entire clip is talking heads in a cabin without physical action or visual progression.",
+          "The ending is purely expositional dialogue rather than an immediate physical crisis."
+        ]
+      },
+      {
+        "candidate_id": "W007-C005",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E039-B0038",
+            "E039-B0039",
+            "E039-B0040",
+            "E039-B0041"
+          ],
+          "reason": "Alexander examines his scar in a mirror and delivers a dramatic line about no longer hiding, which is intriguing but slow."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E039-B0057",
+            "E039-B0058",
+            "E039-B0059"
+          ],
+          "reason": "The clip ends on a standard boastful vow of revenge while walking, which lacks immediate narrative jeopardy."
+        },
+        "clarity": {
+          "score": 2,
+          "evidence_ids": [
+            "E039-B0041",
+            "E039-B0048",
+            "E039-B0050",
+            "E039-B0058"
+          ],
+          "reason": "The viewer gathers that Alexander is a presumed-dead nobleman reclaiming his title and wife, but the specific antagonists and circumstances are vague."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E039-B0045",
+            "E039-B0047",
+            "E039-B0050",
+            "E039-B0054",
+            "E039-B0056"
+          ],
+          "reason": "The progression is purely stylistic posturing—dressing up, stepping into snow, receiving a salute, and striding forward."
+        },
+        "hook_summary": "Alexander inspects his combat scars in a mirror and declares that his years of hiding are over.",
+        "cliffhanger_question": "No concrete question remains beyond whether Alexander will successfully attack the chapel and reclaim his home.",
+        "why_it_works": "The costume transformation and icy march create a classic, polished aristocratic power fantasy.",
+        "concerns": [
+          "Lacks genuine narrative urgency and feels more like an extended teaser montage than an engaging story beat.",
+          "Ends on a generic verbal promise rather than an active point of suspense."
+        ]
+      },
+      {
+        "candidate_id": "W008-C001",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E036-B0097",
+            "E036-B0098"
+          ],
+          "reason": "Alexander delivers a grim line about a marriage in two days, but the true stakes are only mentioned after the three-second mark."
+        },
+        "cliffhanger": {
+          "score": 1,
+          "evidence_ids": [
+            "E036-B0118",
+            "E036-B0119",
+            "E036-B0120"
+          ],
+          "reason": "The promo concludes on Alexander staring into the distance and declaring that the dead Duke is coming home, offering only a vague promise of future revenge."
+        },
+        "clarity": {
+          "score": 2,
+          "evidence_ids": [
+            "E036-B0100",
+            "E036-B0104",
+            "E036-B0108",
+            "E036-B0119"
+          ],
+          "reason": "The basic conflict is understandable—Alexander lost his name and home and his wife Juliana is captive—but the identities of the villains and context are missing."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E036-B0102",
+            "E036-B0106",
+            "E036-B0111",
+            "E036-B0115"
+          ],
+          "reason": "The scene repeats Alexander's anger across several camera angles as he walks to the doorway, restating his determination without advancing the plot."
+        },
+        "hook_summary": "Alexander glares murderously while realizing enemies plan to wed in two days.",
+        "cliffhanger_question": "No immediate cliffhanger is posed beyond whether Alexander will successfully return home before the wedding.",
+        "why_it_works": "Alexander's intense vocal delivery and physical presence project strong vengeance melodrama.",
+        "concerns": [
+          "Repetitive dialogue beats stall momentum in the middle.",
+          "The ending is just posturing into the snow with no immediate obstacle."
+        ]
+      },
+      {
+        "candidate_id": "W008-C002",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E041-B0033",
+            "E041-B0034"
+          ],
+          "reason": "Juliana appears bruised and in heavy chains, delivering an immediate, defiant challenge to her captors."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E041-B0047",
+            "E041-B0048",
+            "E041-B0052",
+            "E041-B0053"
+          ],
+          "reason": "A massive detonation blows the chapel doors apart and armed figures breach the rubble just as Juliana looks up in breathtaking hope."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E041-B0034",
+            "E041-B0037",
+            "E041-B0041",
+            "E041-B0048"
+          ],
+          "reason": "The dynamic between the chained heroine and the ambitious couple marrying at the altar to steal a title is instantly clear."
+        },
+        "escalation": {
+          "score": 4,
+          "evidence_ids": [
+            "E041-B0037",
+            "E041-B0041",
+            "E041-B0045",
+            "E041-B0048",
+            "E041-B0052"
+          ],
+          "reason": "Tension builds smoothly from verbal defiance to the wedding ceremony commencing, punctuated violently by an explosive raid."
+        },
+        "hook_summary": "A bruised and chained woman taunts her captors for needing an entire chapel to feel powerful over her.",
+        "cliffhanger_question": "Who has violently breached the cathedral doors to rescue Juliana and stop the wedding?",
+        "why_it_works": "Combines crisp moral stakes with an explosive disruption right at the ceremony's pivotal moment.",
+        "concerns": [
+          "The identity of the armed figures entering through the smoke remains completely unrevealed."
+        ]
+      },
+      {
+        "candidate_id": "W009-C001",
+        "hook": {
+          "score": 2,
+          "evidence_ids": [
+            "E041-B0025",
+            "E041-B0026"
+          ],
+          "reason": "Juliana is mocked over audio as she halts in an aisle, establishing tension but lacking the immediate punch of direct dialogue."
+        },
+        "cliffhanger": {
+          "score": 4,
+          "evidence_ids": [
+            "E041-B0048",
+            "E041-B0050",
+            "E041-B0052",
+            "E041-B0053"
+          ],
+          "reason": "The church entrance detonates into fire and debris, cutting away right as armed silhouettes breach the hall and Juliana registers shock."
+        },
+        "clarity": {
+          "score": 4,
+          "evidence_ids": [
+            "E041-B0026",
+            "E041-B0030",
+            "E041-B0034",
+            "E041-B0041",
+            "E041-B0048"
+          ],
+          "reason": "The extended opening perfectly explains Juliana's public disgrace and Catherine's usurpation of the Ashburgh title before the explosive interruption."
+        },
+        "escalation": {
+          "score": 3,
+          "evidence_ids": [
+            "E041-B0028",
+            "E041-B0034",
+            "E041-B0041",
+            "E041-B0045",
+            "E041-B0048"
+          ],
+          "reason": "Moves steadily from public humiliation to altar vows before culminating in violent shock, though the first 15 seconds move somewhat slowly."
+        },
+        "hook_summary": "Juliana stands chained in a cathedral aisle while Catherine publicly taunts her from the altar.",
+        "cliffhanger_question": "Who just blasted open the cathedral entrance to disrupt Catherine and Rupert's ceremony?",
+        "why_it_works": "Provides rich contextual setup that makes the explosive cathedral breach feel intensely satisfying.",
+        "concerns": [
+          "The opening taunt drags slightly compared to jumping straight into Juliana's barbed confrontation."
+        ]
+      },
+      {
+        "candidate_id": "W008-C003",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E042-B0009",
+            "E042-B0010"
+          ],
+          "reason": "Rupert frantically orders guards to arrest an imposter within the first seconds, launching straight into high conflict."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E042-B0034",
+            "E042-B0035",
+            "E042-B0036",
+            "E042-B0037"
+          ],
+          "reason": "Alexander rests his hand on his sabre and tells the cowering Rupert they are about to settle what was stolen, cutting right before violence erupts."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E042-B0010",
+            "E042-B0017",
+            "E042-B0021",
+            "E042-B0034",
+            "E042-B0037"
+          ],
+          "reason": "The mutiny of the guards and the mother's public declaration clearly define Alexander as the resurrected rightful Duke confronting a usurper."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E042-B0012",
+            "E042-B0017",
+            "E042-B0026",
+            "E042-B0029",
+            "E042-B0036"
+          ],
+          "reason": "The dramatic arrest refusal starts strong, but the momentum stalls for over 20 seconds during a sentimental reunion with his mother before ramping up at the finish."
+        },
+        "hook_summary": "A nobleman panics at the altar and screams for his guards to arrest an imposter.",
+        "cliffhanger_question": "Will Alexander execute or arrest Rupert now that he has cornered him at the altar?",
+        "why_it_works": "Delivers an immensely satisfying public reckoning and identity reveal backed by royal guards.",
+        "concerns": [
+          "The prolonged weeping between Alexander and his mother dissipates the adrenaline of the initial confrontation.",
+          "The final camera shot has a partial boundary indicating a cut during Alexander's concluding beat."
+        ]
+      },
+      {
+        "candidate_id": "W009-C002",
+        "hook": {
+          "score": 3,
+          "evidence_ids": [
+            "E042-B0009",
+            "E042-B0010"
+          ],
+          "reason": "Rupert immediately rushes down the altar shouting for guards to arrest an imposter."
+        },
+        "cliffhanger": {
+          "score": 3,
+          "evidence_ids": [
+            "E042-B0034",
+            "E042-B0035",
+            "E042-B0036",
+            "E042-B0037"
+          ],
+          "reason": "Ends on Alexander gripping his sabre and threatening retribution against the cowering Rupert, right before physical retaliation begins."
+        },
+        "clarity": {
+          "score": 3,
+          "evidence_ids": [
+            "E042-B0010",
+            "E042-B0017",
+            "E042-B0021",
+            "E042-B0034",
+            "E042-B0037"
+          ],
+          "reason": "The core premise of an assumed-dead Duke returning to reclaim his title from a terrified usurper is made entirely explicit."
+        },
+        "escalation": {
+          "score": 2,
+          "evidence_ids": [
+            "E042-B0012",
+            "E042-B0017",
+            "E042-B0028",
+            "E042-B0031",
+            "E042-B0036"
+          ],
+          "reason": "The guards' refusal creates electric tension, but the prolonged sentimental reunion in the aisle saps the pacing before the final threat."
+        },
+        "hook_summary": "Rupert frantically orders his royal guards to arrest a man he claims is an imposter.",
+        "cliffhanger_question": "What retribution will Alexander inflict upon Rupert right there at the altar?",
+        "why_it_works": "The instant mutiny of the guards and validation from the dowager create an authoritative hero vindication.",
+        "concerns": [
+          "The lengthy dialogue exchange with his mother significantly slows the aggressive tempo established by the opening."
+        ]
+      }
+    ]
+  },
+  "model_used": "gemini-3.7-flash",
+  "key_name": "GEMINI_API_KEY1",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 3816,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 17592,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 17592
+      }
+    ],
+    "thoughts_token_count": 2645,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 24053,
+    "traffic_type": null
+  },
+  "attempts": [
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY1",
+      "attempt": 1,
+      "status_code": 503,
+      "reason": "Service temporarily overloaded or unavailable"
+    },
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY1",
+      "attempt": 2,
+      "status": "success"
+    }
+  ],
+  "output_directory": "outputs/ranking/scores-006-f9fae6854a5f3ba4/key-1"
+}

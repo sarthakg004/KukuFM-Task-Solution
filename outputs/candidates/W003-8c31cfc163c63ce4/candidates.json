@@ -1,0 +1,233 @@
+{
+  "window_id": "W003",
+  "episodes": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "requested_model": "gemini-3.7-flash",
+  "model_used": "gemini-3.7-flash",
+  "key_name": "GEMINI_API_KEY1",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 1779,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 38437,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 38437
+      }
+    ],
+    "thoughts_token_count": 13820,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 54036,
+    "traffic_type": null
+  },
+  "attempts": [
+    {
+      "model": "gemini-3.7-flash",
+      "key_name": "GEMINI_API_KEY1",
+      "attempt": 1,
+      "status": "success"
+    }
+  ],
+  "output_directory": "outputs/candidates/W003-8c31cfc163c63ce4",
+  "candidates": [
+    {
+      "title": "The Stolen Watch Accusation",
+      "segments": [
+        {
+          "start_id": "E011-B0015",
+          "end_id": "E011-B0047"
+        }
+      ],
+      "hook": "At E011-B0015 (00:16.80), Gerald points an accusatory finger and immediately snarls, 'Your husband stole my gold pocket watch!' launching the scene into instant conflict within the first second.",
+      "cliffhanger": "At E011-B0047 (00:53.60), Alexander unexpectedly grants permission for the raid ('Search it. Let them.'), leaving Juliana terrified and the audience wondering what the Constable will uncover inside their home.",
+      "standalone_context": "An arrogant wealthy gentleman named Gerald arrives with an armed Constable to accuse Juliana's humble husband Alexander of theft, demanding to search their home over Juliana's fierce protests.",
+      "why_it_works": "A direct criminal accusation instantly hooks the viewer, escalating through intense family defiance until the husband shockingly consents to the search.",
+      "concerns": "The pacing slows slightly during the middle procedural back-and-forth between Juliana and the Constable.",
+      "resolved_segments": [
+        {
+          "start_id": "E011-B0015",
+          "end_id": "E011-B0047",
+          "episode": 11,
+          "start": "00:16.80",
+          "end": "00:53.60",
+          "start_seconds": 16.8,
+          "end_seconds": 53.6,
+          "duration_seconds": 36.8,
+          "start_text": "Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger.",
+          "end_text": "\"Let them.\""
+        }
+      ],
+      "duration_seconds": 36.8,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "Clarissa's Blackthorn Ultimatum",
+      "segments": [
+        {
+          "start_id": "E012-B0031",
+          "end_id": "E012-B0055"
+        }
+      ],
+      "hook": "At E012-B0032 (00:44.00), Clarissa turns directly to Juliana and purrs, 'I want to see you crawl, sister,' delivering a vicious personal threat within the first half-second.",
+      "cliffhanger": "At E012-B0054 (01:24.70), Juliana defies Alexander's desperate pleas and demands, 'Tell me where the garden is,' leaving unresolved whether she can survive retrieving the ring from razor-sharp thorns before her husband is hanged.",
+      "standalone_context": "Clarissa offers her sister Juliana a sadistic deal: retrieve a lost signet ring from frozen, steel-sharp briars with her bare hands, or watch her arrested husband hang from the gallows.",
+      "why_it_works": "The sadistic opening hook establishes horrific personal stakes that peak when Juliana bravely accepts the mutilating trial to save her husband's life.",
+      "concerns": "Viewers do not see the specific theft charge that put Alexander in handcuffs, though Clarissa's ultimatum explains the stakes clearly.",
+      "resolved_segments": [
+        {
+          "start_id": "E012-B0031",
+          "end_id": "E012-B0055",
+          "episode": 12,
+          "start": "00:43.70",
+          "end": "01:27.21",
+          "start_seconds": 43.7,
+          "end_seconds": 87.21000000000001,
+          "duration_seconds": 43.51,
+          "start_text": "Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana.",
+          "end_text": "Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance."
+        }
+      ],
+      "duration_seconds": 43.51,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "Ambush in the Herbal Garden",
+      "segments": [
+        {
+          "start_id": "E015-B0030",
+          "end_id": "E015-B0054"
+        }
+      ],
+      "hook": "At E015-B0031 (00:44.80), an aggressive thug corners Juliana snarling 'Get out of the way!' before violently shoving her down onto the stone path within the opening two seconds.",
+      "cliffhanger": "At E015-B0053 (01:19.00), Alexander steps between the thugs and the fallen Juliana, prompting the lead thug to raise his club and challenge him ('What? You want to fight us, veteran?'), abruptly cutting as physical combat is about to erupt.",
+      "standalone_context": "Violent thugs trample Juliana's medicinal garden and shove her to the ground, prompting her scarred husband Alexander to rush out into the night to confront the armed trespassers.",
+      "why_it_works": "Visceral physical aggression immediately grabs scrolling viewers, escalating into high protective tension that cuts on the verge of a brutal brawl.",
+      "concerns": "The clip cuts right before any combat blows are traded.",
+      "resolved_segments": [
+        {
+          "start_id": "E015-B0030",
+          "end_id": "E015-B0054",
+          "episode": 15,
+          "start": "00:44.20",
+          "end": "01:26.00",
+          "start_seconds": 44.2,
+          "end_seconds": 86.0,
+          "duration_seconds": 41.8,
+          "start_text": "Tight close-up of the Thug with Cap stepping aggressively into Juliana's personal space, snarling with venom.",
+          "end_text": "Close-up of Juliana looking up with wide, anxious eyes, breath hitching in suspense as violence hangs on a knife's edge."
+        }
+      ],
+      "duration_seconds": 41.8,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "Alexander Disarms and Interrogates",
+      "segments": [
+        {
+          "start_id": "E016-B0012",
+          "end_id": "E016-B0042"
+        }
+      ],
+      "hook": "At E016-B0013 (00:14.40), an armed thug charges screaming with a raised weapon, which Alexander intercepts by catching the descending club mid-air with his bare hand.",
+      "cliffhanger": "At E016-B0042 (00:48.80), Alexander hoists the gasping thug off the ground against the wall and roars 'Who?!', cutting out right before the thug reveals who hired them.",
+      "standalone_context": "A trained veteran effortlessly neutralizes three armed thugs who invaded his garden, pinning their leader by the throat to extract the identity of who ordered the attack.",
+      "why_it_works": "Incredible immediate action gives way to an intense interrogation that cuts at the exact climax of an unanswered mystery.",
+      "concerns": "The rapid combat cuts require the viewer to orient quickly to who is attacking whom.",
+      "resolved_segments": [
+        {
+          "start_id": "E016-B0012",
+          "end_id": "E016-B0042",
+          "episode": 16,
+          "start": "00:14.30",
+          "end": "00:49.60",
+          "start_seconds": 14.3,
+          "end_seconds": 49.6,
+          "duration_seconds": 35.3,
+          "start_text": "Medium action shot as the Thug with Cap lunges forward with his weapon raised high.",
+          "end_text": "\"Who?!\""
+        }
+      ],
+      "duration_seconds": 35.3,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "Trapped in the Cottage Inferno",
+      "segments": [
+        {
+          "start_id": "E018-B0001",
+          "end_id": "E018-B0026"
+        }
+      ],
+      "hook": "At E018-B0001 (00:00.00), bright orange flames lick under a bedroom door as smoke pours in, waking Juliana coughing and screaming in terror within three seconds.",
+      "cliffhanger": "At E018-B0025 (00:39.50), Alexander guides Juliana into the hallway only to find the exit completely engulfed in a wall of fire ('We cannot get through!'), cutting as burning beams crash around them.",
+      "standalone_context": "Juliana awakes to find her cottage engulfed in a deadly night fire; Alexander rescues her from the bedroom only to discover their only escape route is blocked by roaring flames.",
+      "why_it_works": "Sensory disaster stakes hook the scrolling audience instantly and build to a life-or-death survival cliffhanger.",
+      "concerns": "Viewers do not learn who set the blaze within this specific excerpt.",
+      "resolved_segments": [
+        {
+          "start_id": "E018-B0001",
+          "end_id": "E018-B0026",
+          "episode": 18,
+          "start": "00:00.00",
+          "end": "00:43.50",
+          "start_seconds": 0.0,
+          "end_seconds": 43.5,
+          "duration_seconds": 43.5,
+          "start_text": "Low-angle shot on the wooden floor as bright orange flames crackle beneath the closed bedroom door, thick smoke billowing through the crevices.",
+          "end_text": "\"Then we go another way.\""
+        }
+      ],
+      "duration_seconds": 43.5,
+      "valid": true,
+      "issues": []
+    },
+    {
+      "title": "The Presumed-Dead Duke",
+      "segments": [
+        {
+          "start_id": "E019-B0027",
+          "end_id": "E019-B0049"
+        }
+      ],
+      "hook": "At E019-B0028 (00:44.30), a shadowy operative emerges from the misty woods, bows low, and addresses the ragged, scarred protagonist as 'Your Grace', delivering an immediate status-reversal shock.",
+      "cliffhanger": "At E019-B0050 (01:25.90), Alexander vows that once they secure proof, 'Ashburg will remember who it belongs to', leaving viewers eager to see how the presumed-dead duke will reclaim his birthright and save his imprisoned mother.",
+      "standalone_context": "Alexander, living in rustic poverty, meets a clandestine informant in the woods who confirms his true identity as a Duke whose title was stolen by Rupert while his mother is held captive.",
+      "why_it_works": "A startling identity reveal hooks the viewer right away, delivering rich exposition on stolen power that culminates in a chilling promise of aristocratic vengeance.",
+      "concerns": "This promo is dialogue-heavy and relies on the viewer appreciating identity-reversal microdrama tropes rather than physical action.",
+      "resolved_segments": [
+        {
+          "start_id": "E019-B0027",
+          "end_id": "E019-B0049",
+          "episode": 19,
+          "start": "00:43.00",
+          "end": "01:29.50",
+          "start_seconds": 43.0,
+          "end_seconds": 89.5,
+          "duration_seconds": 46.5,
+          "start_text": "A bald, scarred man dressed in a dark coat emerges from between the trees, immediately coming to a halt and bowing with clasped hands in formal deference.",
+          "end_text": "Dramatic low-angle push-in on Alexander's commanding silhouette, his combat scar etched sharply against the fog."
+        }
+      ],
+      "duration_seconds": 46.5,
+      "valid": true,
+      "issues": []
+    }
+  ]
+}
