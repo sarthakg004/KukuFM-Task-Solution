@@ -10,7 +10,8 @@ posting the same humiliation or reveal first. Do not invent unseen footage or
 claim that a promo is proven to convert. Give one concise posting_rationale for each
 position, explaining the practical editorial reason to post it there.
 
-The shortlist already contains one preferred cut from each overlap group. Do not
+The shortlist contains only deduplicated representatives. Duplicate alternative
+cuts have not been scored and must not be introduced. Do not
 change segments, invent IDs, add candidates or omit a candidate. Return only JSON
 matching the schema.
 

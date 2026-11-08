@@ -129,17 +129,17 @@ class JudgeTests(unittest.TestCase):
         weak = assessment(self.excerpt, 4)
         weak["candidate_id"] = "B"
         weak["cliffhanger"]["score"] = 0
-        winners, _ = judge._choose_cuts(
-            [[candidate("A")], [candidate("B")]], {"A": strong, "B": weak}
+        winners = judge._score_candidates(
+            [candidate("A"), candidate("B")], {"A": strong, "B": weak}
         )
         self.assertEqual(winners[0]["candidate_id"], "A")
         self.assertFalse(winners[1]["recommended"])
 
-    def test_full_ranking_selects_better_cut_and_retains_all_required_fields(self):
+    def test_full_ranking_excludes_duplicates_and_retains_all_required_fields(self):
         dedup = {
             "model": "source-model",
             "candidates": [candidate("A"), candidate("C", ep=502)],
-            "duplicates": [{"kept_candidate_id": "A", "candidate": candidate("B", start=12)}],
+            "duplicates": [{"kept_candidate_id": "A", "candidate": candidate("B", ep=999, start=12)}],
         }
         original = copy.deepcopy(dedup)
 
@@ -158,22 +158,27 @@ class JudgeTests(unittest.TestCase):
             return {"data": data, "model_used": "mock", "usage": {}, "output_directory": "mock"}
 
         with tempfile.TemporaryDirectory() as directory:
-            judge = PromoJudge(GenerationConfig(), JudgeConfig(batch_size=2), directory)
+            judge = PromoJudge(
+                GenerationConfig(), JudgeConfig(batch_size=2), directory,
+                final_output_dir=Path(directory) / "final",
+            )
             judge.client.complete = MagicMock(side_effect=complete)
             with contextlib.redirect_stdout(io.StringIO()):
                 ranked = judge.rank(dedup, self.episodes, ["TEST_KEY"], request_delay_seconds=0)
 
-            self.assertEqual(judge.client.complete.call_count, 3)
-            self.assertEqual(ranked["summary"]["cuts_judged"], 3)
-            self.assertEqual(ranked["summary"]["alternative_cuts_selected"], 1)
-            self.assertEqual([item["candidate_id"] for item in ranked["candidates"]], ["C", "B"])
+            self.assertEqual(judge.client.complete.call_count, 2)
+            self.assertEqual(ranked["summary"]["cuts_judged"], 2)
+            self.assertEqual(ranked["summary"]["duplicates_excluded"], 1)
+            self.assertEqual([item["candidate_id"] for item in ranked["candidates"]], ["A", "C"])
             self.assertEqual(ranked["candidates"][0]["score_rank"], 2)
             for item in ranked["candidates"]:
                 for field in ("rank", "resolved_segments", "hook", "cliffhanger", "why_it_works", "posting_rationale"):
                     self.assertIn(field, item)
             path = Path(ranked["output_path"])
+            self.assertEqual(path.name, "Final_Ranked_promos.json")
             self.assertTrue(path.exists())
-            self.assertIn("Episode 502", path.with_suffix(".md").read_text())
+            self.assertTrue(Path(ranked["csv_output_path"]).exists())
+            self.assertIn("Episode 502", (Path(directory) / "Final_Ranked_promos.md").read_text())
             self.assertEqual(dedup, original)
 
     @patch("scripts.promo_generator.genai.Client")

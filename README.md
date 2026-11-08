@@ -15,8 +15,9 @@ explanation and posting rationale.
    Code resolves their IDs to timestamps and checks duration and boundaries.
 3. **Deduplication:** rules group matching footage by episode, timestamps and segment
    order. All alternative cuts are retained.
-4. **Ranking:** a separate judge scores the actual excerpts, chooses the strongest
-   cut in each group, and compares the leading shortlist for posting order.
+4. **Ranking:** a separate judge scores only the deduplicated representatives
+   and compares the leading shortlist for posting order. Duplicate alternatives
+   are kept for reference and never sent to the judge.
 
 The tool selects footage and cut points. An editor reviews the final shortlist.
 
@@ -31,13 +32,15 @@ scripts/                   Python implementation
   request_budget.py        Persistent daily request budgets
   deduplication.py          Timestamp-based duplicate rules
   promo_judge.py           Evidence-based scores and ranking
+  export_results.py        JSON and CSV export from saved results
 prompts/                   All model prompts
   candidate_prompt.txt
   judge_prompt.txt
   posting_prompt.txt
 tests/                     Automated checks with synthetic fixtures
 docs/                      Solution PDF and HTML
-outputs/                   Local results; excluded from Git
+outputs/                   Raw results and caches; excluded from Git
+output/                    Final JSON and CSV; excluded from Git
 ```
 
 ## Setup and run
@@ -65,7 +68,7 @@ notebook. Keys from `.env` and the environment share the existing budget and rot
 
 ## Configuration
 
-The first notebook cell contains all hyperparameters: paths, model list, episodes
+Each section has its own settings cell immediately above its execution cell: paths, model list, episodes
 per window, stride, candidate ceiling, thinking level, token budget, retries, delays,
 daily request cap, deduplication threshold and judge weights.
 
@@ -74,21 +77,38 @@ candidates and medium thinking**. Ranking weights are hook 30%, cliffhanger 30%,
 clarity 25% and escalation 15%; these are editable assumptions.
 
 Successful API responses are cached. Rerun to resume after interruption. To rank
-saved candidates directly, set `JUDGE_INPUT_PATH` and run configuration,
-preprocessing and Section 6. Changing prompts or model settings can require new calls.
+saved candidates directly, set `JUDGE_INPUT_PATH` and run the parser section
+and the ranking settings/execution cells in Section 4. Changing prompts or model settings can require new calls.
 
 ## Results
 
 The full 50-episode pack produced **51 technically valid candidates**, grouped into
-**35 promo groups** with 16 alternative cuts retained. The judge ranked all 35
-groups, flagged 8 below the configured core-quality threshold, and selected a
-stronger alternative cut in 2 groups.
+**35 promo groups** with 16 duplicate alternatives retained for reference.
+The current judge processes only those 35 representatives: 5 scoring batches
+at the default batch size of 8, followed by up to one shortlist comparison.
+Earlier ranking files are preserved; rerun the ranking section for the updated
+representative-only ranking.
 
 | Folder | Contents |
 |---|---|
 | `outputs/candidates/` | Raw model responses, attempts and validated candidates |
 | `outputs/deduplicated/` | Representatives and all alternative cuts |
-| `outputs/ranking/` | Raw judge responses and ranked JSON/Markdown reports |
+| `outputs/ranking/` | Raw judge responses and readable ranking reports |
+| `output/` | `Final_Ranked_promos.json` and `Final_Ranked_promos.csv` |
+
+The completed ranking is saved as `output/Final_Ranked_promos.json` and
+`output/Final_Ranked_promos.csv`. Each successful rerun replaces these final files;
+raw judge responses remain cached. CSV rows follow rank and segment playback order.
+Each row includes the episode, timestamps, hook, cliffhanger, explanation, posting
+rationale, recommendation flag, criterion scores/reasons and total score. Criterion
+scores use 0–4; the weighted total uses 0–100. Multi-segment promos repeat the promo
+fields on each ordered segment row.
+
+Export an existing ranking without calling the judge:
+
+```bash
+python -m scripts.export_results outputs/ranking/Final_Ranked_promos.json --output-dir output
+```
 
 The final ranking includes every segment's episode and start/end timestamps,
 hook, cliffhanger, explanation, scores, evidence and posting rationale.

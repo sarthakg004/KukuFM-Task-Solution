@@ -1,7 +1,6 @@
-"""Score promo footage, choose alternative cuts, and produce a posting order."""
+"""Score deduplicated promo excerpts and produce a posting order."""
 
 import copy
-import hashlib
 import json
 import math
 import time
@@ -11,7 +10,8 @@ from pathlib import Path
 from pydantic import Field
 
 from .preprocessing import Episode
-from .promo_generator import GenerationConfig, GeminiJSONClient, OutputModel, save_json
+from .export_results import RankingExporter
+from .promo_generator import GenerationConfig, GeminiJSONClient, OutputModel
 
 
 CRITERIA = ("hook", "cliffhanger", "clarity", "escalation")
@@ -137,7 +137,7 @@ class PromoExcerptBuilder:
 
 
 class PromoJudge:
-    """Judge all cuts, select group winners and compare the leading shortlist."""
+    """Score deduplicated representatives and compare the leading shortlist."""
 
     def __init__(
         self,
@@ -145,10 +145,12 @@ class PromoJudge:
         judge_config: JudgeConfig,
         output_dir: str | Path = "outputs/ranking",
         budget_path: str | Path = "outputs/request_usage.json",
+        final_output_dir: str | Path = "output",
     ):
         self.config = judge_config
         self.client = GeminiJSONClient(api_config, output_dir, budget_path)
         self.output_dir = Path(output_dir)
+        self.exporter = RankingExporter(final_output_dir)
 
     def rank(
         self,
@@ -161,19 +163,18 @@ class PromoJudge:
         if not 0 <= request_delay_seconds <= 60:
             raise ValueError("request_delay_seconds must be between 0 and 60")
 
-        groups = self._groups(deduplicated)
-        if not groups:
+        candidates = self._candidates(deduplicated)
+        if not candidates:
             raise ValueError("No valid candidates to judge")
 
         builder = PromoExcerptBuilder(episodes)
-        candidates = [candidate for group in groups for candidate in group]
         excerpts = {candidate["candidate_id"]: builder.build(candidate) for candidate in candidates}
         assessments, calls = self._score_batches(
-            groups, excerpts, key_names, request_delay_seconds, force
+            candidates, excerpts, key_names, request_delay_seconds, force
         )
-        winners, alternatives = self._choose_cuts(groups, assessments)
+        scored = self._score_candidates(candidates, assessments)
         posting_choices = []
-        shortlist = [winner for winner in winners if winner["recommended"]]
+        shortlist = [candidate for candidate in scored if candidate["recommended"]]
         shortlist = shortlist[:self.config.top_compare_count]
 
         if len(shortlist) > 1:
@@ -181,7 +182,7 @@ class PromoJudge:
             posting_choices, metadata = self._compare_shortlist(shortlist, excerpts, key_names, force)
             calls.append(metadata)
 
-        ranked = self._assemble_ranking(winners, posting_choices)
+        ranked = self._assemble_ranking(scored, posting_choices)
         result = {
             "source_model": deduplicated["model"],
             "judge_model": self.client.config.model,
@@ -191,13 +192,11 @@ class PromoJudge:
                 "cuts_judged": len(candidates),
                 "groups_ranked": len(ranked),
                 "recommended": sum(item["recommended"] for item in ranked),
-                "alternative_cuts_selected": sum(
-                    winner["candidate_id"] != winner["group_id"] for winner in ranked
-                ),
+                "duplicates_excluded": len(deduplicated.get("duplicates", [])),
             },
             "ranking_method": "Core-quality gate, weighted rubric, then editorial order within top shortlist",
             "candidates": ranked,
-            "alternative_assessments": alternatives,
+            "ranking_scope": "Deduplicated representatives only",
             "judge_calls": calls,
             "limitations": [
                 "LLM editorial judgments, not measured advertising performance.",
@@ -206,48 +205,32 @@ class PromoJudge:
                 "Human review is required before posting.",
             ],
         }
-        signature = json.dumps(result, sort_keys=True)
-        digest = hashlib.sha256(signature.encode()).hexdigest()[:16]
-        path = self.output_dir / f"ranked-{digest}.json"
         self.output_dir.mkdir(parents=True, exist_ok=True)
-        save_json(path, result)
-        self._save_markdown(result, path.with_suffix(".md"))
-        result["output_path"] = str(path)
+        paths = self.exporter.export(result)
+        self._save_markdown(result, self.output_dir / "Final_Ranked_promos.md")
+        result["output_path"] = str(paths["json"])
+        result["csv_output_path"] = str(paths["csv"])
         return result
 
     @staticmethod
-    def _groups(deduplicated: dict) -> list[list[dict]]:
-        groups = {
-            candidate["candidate_id"]: [copy.deepcopy(candidate)]
-            for candidate in deduplicated["candidates"]
-        }
-        for duplicate in deduplicated["duplicates"]:
-            groups[duplicate["kept_candidate_id"]].append(copy.deepcopy(duplicate["candidate"]))
-
-        identifiers = [candidate["candidate_id"] for group in groups.values() for candidate in group]
+    def _candidates(deduplicated: dict) -> list[dict]:
+        # Duplicate alternatives are retained in the dedup report for reference,
+        # but are never added to the judge input.
+        candidates = copy.deepcopy(deduplicated["candidates"])
+        identifiers = [candidate["candidate_id"] for candidate in candidates]
         if len(identifiers) != len(set(identifiers)):
-            raise ValueError("Duplicate candidate IDs in deduplicated report")
-        return list(groups.values())
+            raise ValueError("Duplicate candidate IDs in deduplicated representatives")
+        return candidates
 
-    def _batches(self, groups: list[list[dict]]) -> list[list[dict]]:
-        batches = []
-        current = []
-        for group in groups:
-            if len(group) > self.config.batch_size:
-                raise ValueError("A duplicate group exceeds judge batch_size; increase it")
-            if current and len(current) + len(group) > self.config.batch_size:
-                batches.append(current)
-                current = []
-            current.extend(group)
-        if current:
-            batches.append(current)
-        return batches
+    def _batches(self, candidates: list[dict]) -> list[list[dict]]:
+        size = self.config.batch_size
+        return [candidates[start:start + size] for start in range(0, len(candidates), size)]
 
-    def _score_batches(self, groups, excerpts, key_names, delay, force):
+    def _score_batches(self, candidates, excerpts, key_names, delay, force):
         template = (PROMPT_DIR / "judge_prompt.txt").read_text()
         assessments = {}
         calls = []
-        batches = self._batches(groups)
+        batches = self._batches(candidates)
 
         for index, batch in enumerate(batches):
             if index:
@@ -304,30 +287,20 @@ class PromoJudge:
         )
         return round(100 * weighted / (4 * total_weight), 2)
 
-    def _choose_cuts(self, groups, assessments):
-        winners = []
-        alternatives = []
-        for group in groups:
-            scored = []
-            for candidate in group:
-                assessment = assessments[candidate["candidate_id"]]
-                item = {
-                    **candidate,
-                    "group_id": group[0]["candidate_id"],
-                    "assessment": assessment,
-                    "score": self._score(assessment),
-                    "recommended": all(
-                        assessment[name]["score"] >= self.config.minimum_core_score
-                        for name in ("hook", "cliffhanger", "clarity")
-                    ),
-                }
-                scored.append(item)
-            scored.sort(key=self._sort_key)
-            winners.append(scored[0])
-            alternatives.extend(scored[1:])
-
-        winners.sort(key=self._sort_key)
-        return winners, alternatives
+    def _score_candidates(self, candidates, assessments):
+        scored = []
+        for candidate in candidates:
+            assessment = assessments[candidate["candidate_id"]]
+            scored.append({
+                **candidate,
+                "assessment": assessment,
+                "score": self._score(assessment),
+                "recommended": all(
+                    assessment[name]["score"] >= self.config.minimum_core_score
+                    for name in ("hook", "cliffhanger", "clarity")
+                ),
+            })
+        return sorted(scored, key=self._sort_key)
 
     @staticmethod
     def _sort_key(item):
@@ -363,12 +336,12 @@ class PromoJudge:
         metadata = {key: value for key, value in reply.items() if key != "data"}
         return reply["data"]["order"], metadata
 
-    def _assemble_ranking(self, winners, choices):
-        lookup = {item["candidate_id"]: item for item in winners}
+    def _assemble_ranking(self, candidates, choices):
+        lookup = {item["candidate_id"]: item for item in candidates}
         selected_ids = [item["candidate_id"] for item in choices]
         reasons = {item["candidate_id"]: item["posting_rationale"] for item in choices}
-        score_ranks = {item["candidate_id"]: index for index, item in enumerate(winners, 1)}
-        order = selected_ids + [item["candidate_id"] for item in winners if item["candidate_id"] not in selected_ids]
+        score_ranks = {item["candidate_id"]: index for index, item in enumerate(candidates, 1)}
+        order = selected_ids + [item["candidate_id"] for item in candidates if item["candidate_id"] not in selected_ids]
         result = []
 
         for rank, candidate_id in enumerate(order, 1):
@@ -426,6 +399,8 @@ def display_ranked_promos(result: dict, limit: int = 5) -> None:
     """Show the required assignment fields and the judge's posting rationale."""
     print("Summary:", result["summary"])
     print("Saved to:", result["output_path"])
+    if result.get("csv_output_path"):
+        print("CSV:", result["csv_output_path"])
 
     for candidate in result["candidates"][:limit]:
         print(f"\n#{candidate['rank']} {candidate['title']} | {candidate['score']}/100")
