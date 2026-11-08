@@ -4,7 +4,7 @@ Find and rank 20–60-second promos from timestamped microdrama screenplays.
 Each result includes the episode, ordered segment timestamps, hook, cliffhanger,
 explanation and posting rationale.
 
-[Solution document](docs/solution.pdf) · [Designed HTML version](docs/solution.html)
+[Solution document](docs/solution.pdf)
 
 ## Workflow
 
@@ -38,7 +38,7 @@ prompts/                   All model prompts
   judge_prompt.txt
   posting_prompt.txt
 tests/                     Automated checks with synthetic fixtures
-docs/                      Solution PDF and HTML
+docs/                      Solution PDF
 outputs/                   Raw results and caches; excluded from Git
 output/                    Final JSON and CSV; excluded from Git
 ```
