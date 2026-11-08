@@ -108,17 +108,3 @@ editorial judgments, not measured advertising performance.
 Daily budgets persist across restarts. The supplied keys use separate projects;
 keys within one Google Cloud project share quota. The local ledger cannot see
 requests made earlier or outside this pipeline. API errors may still interrupt a run.
-
-## Solution document and AI use
-
-The finished two-page [solution PDF](docs/solution.pdf) and
-[HTML version](docs/solution.html) explain the pipeline, show an illustrative
-example, and document results and limitations. PDF-generation utilities are not
-part of this repository.
-
-Codex assisted planning, implementation, debugging and documentation. Gemini proposed
-and judged promos. An early output-budget setting caused truncated JSON; finish-status
-checks now reject incomplete responses.
-
-The screenplay pack, `.env` and outputs are excluded from Git. Notebook outputs are
-cleared before sharing. Confidential outputs are provided separately to the reviewers.
