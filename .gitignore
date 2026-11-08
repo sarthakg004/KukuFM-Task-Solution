@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+.ipynb_checkpoints/
+# Kuku's input pack is confidential, and outputs quote it: share via a private link, never a public repo/Space
+I Married a Broken Soldier. He was a Duke/
+outputs/
+Kuku — AI Generalist Assignment.pdf
+
